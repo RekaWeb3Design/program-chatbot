@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tisza Program – Kérdezz!</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-left">
+      <h1 class="logo">Tisza Program <span class="logo-accent">Chatbot</span></h1>
+    </div>
+    <div class="header-right">
+      <div class="mobile-tabs">
+        <button class="tab-btn active" data-tab="chat">Kérdezz</button>
+        <button class="tab-btn" data-tab="doc">Program szövege</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="split-container">
+    <!-- BAL: Chat panel -->
+    <div class="panel chat-panel active-tab" id="chatPanel" data-tab="chat">
+      <div class="chat-messages" id="chatMessages">
+        <div class="bot-message welcome-message">
+          <div class="bot-avatar">T</div>
+          <div class="message-content">
+            <p>Üdvözöllek! Kérdezz bármit a Tisza Párt 2026-os választási programjáról, és a dokumentum alapján válaszolok.</p>
+          </div>
+        </div>
+        <div class="quick-questions" id="quickQuestions">
+          <p class="quick-label">Gyakori kérdések:</p>
+          <button class="quick-btn" data-q="Mi a terv az egészségüggyel?">Mi a terv az egészségüggyel?</button>
+          <button class="quick-btn" data-q="Milyen adócsökkentéseket ígér?">Milyen adócsökkentéseket ígér?</button>
+          <button class="quick-btn" data-q="Vasútfejlesztési tervek?">Vasútfejlesztési tervek?</button>
+          <button class="quick-btn" data-q="Lakhatási program?">Lakhatási program?</button>
+          <button class="quick-btn" data-q="Nyugdíjemelés részletei?">Nyugdíjemelés részletei?</button>
+          <button class="quick-btn" data-q="Bevándorláspolitika?">Bevándorláspolitika?</button>
+        </div>
+      </div>
+      <div class="chat-input-area">
+        <div class="input-wrapper">
+          <textarea id="userInput" placeholder="Kérdezz a programról..." rows="1"></textarea>
+          <button id="sendBtn" title="Küldés">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 2L11 13"></path>
+              <path d="M22 2L15 22L11 13L2 9L22 2Z"></path>
+            </svg>
+          </button>
+        </div>
+        <div class="rate-limit-info" id="rateLimitInfo"></div>
+      </div>
+    </div>
+
+    <!-- ELVÁLASZTÓ -->
+    <div class="divider" id="divider">
+      <div class="divider-handle"></div>
+    </div>
+
+    <!-- JOBB: Dokumentum panel -->
+    <div class="panel doc-panel" id="docPanel" data-tab="doc">
+      <div class="doc-sidebar" id="docSidebar">
+        <div class="toc-header">Tartalomjegyzék</div>
+        <nav class="doc-toc" id="docToc"></nav>
+      </div>
+      <div class="doc-content" id="docContent">
+        <div class="doc-loading">Dokumentum betöltése...</div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <div class="footer-flag">
+      <span class="flag-red"></span>
+      <span class="flag-white"></span>
+      <span class="flag-green"></span>
+    </div>
+    <p class="footer-disclaimer">Ez egy független állampolgári kezdeményezés. Nem a Tisza Párt készítette és nem finanszírozza. Forrás: magyartisza.hu/program</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

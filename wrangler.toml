@@ -1,0 +1,7 @@
+name = "tisza-chatbot"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "public"
+
+[vars]
+# OPENAI_API_KEY-t NE IDE írjuk, hanem:
+# wrangler secret put OPENAI_API_KEY
