@@ -5,8 +5,6 @@ let conversationHistory = [];
 let quickQuestionsVisible = true;
 let lastActiveChunkId = null;
 let lastSentChunks = [];
-let documentLoaded = false;
-let chunksLoaded = false;
 
 // ========== INIT ==========
 async function initApp() {
@@ -15,6 +13,7 @@ async function initApp() {
 
   await loadChunks();
   await loadDocument();
+  initIntersectionObserver();
   await loadToc();
   initDivider();
   initInput();
@@ -31,11 +30,9 @@ if (document.readyState === 'loading') {
 
 // ========== DATA LOADING ==========
 async function loadChunks() {
-  if (chunksLoaded) return;
   try {
     const res = await fetch('/data/chunks.json');
     CHUNKS = await res.json();
-    chunksLoaded = true;
     console.log(`Loaded ${CHUNKS.length} chunks`);
   } catch (e) {
     console.warn('chunks.json not found - run npm run process first');
@@ -43,44 +40,17 @@ async function loadChunks() {
   }
 }
 
-function docContentHasText(docContent) {
-  if (!docContent) return false;
-  const inner = docContent.querySelector('.doc-inner');
-  return !!(inner && inner.textContent.trim().length > 0);
-}
-
 async function loadDocument() {
-  if (documentLoaded) return;
-
-  const docContent = document.getElementById('docContent');
-  if (!docContent) return;
-
-  if (docContentHasText(docContent)) {
-    documentLoaded = true;
-    initIntersectionObserver();
-    return;
-  }
-
-  documentLoaded = true;
-
+  const el = document.getElementById('docContent');
+  if (!el) return;
   try {
-    // Load body content from JSON (avoids Cloudflare Pages pretty URL issues with .html files)
     const res = await fetch('/data/document-content.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    if (docContentHasText(docContent)) {
-      initIntersectionObserver();
-      return;
-    }
-    console.log(`Document loaded: ${data.html.length} chars`);
-    docContent.innerHTML = `<div class="doc-inner">${data.html}</div>`;
-    initIntersectionObserver();
+    const { html } = await res.json();
+    el.innerHTML = `<div class="doc-inner">${html}</div>`;
   } catch (e) {
     console.error('Document load error:', e);
-    documentLoaded = false;
-    if (!docContentHasText(docContent)) {
-      docContent.innerHTML = '<div class="doc-loading">A dokumentum nem elérhető. Futtasd: <code>npm run process</code></div>';
-    }
+    el.innerHTML = '<div class="doc-loading">A dokumentum nem elérhető. Futtasd: <code>npm run process</code></div>';
   }
 }
 
