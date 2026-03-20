@@ -42,12 +42,17 @@ async function loadChunks() {
 
 async function loadDocument() {
   const el = document.getElementById('docContent');
-  if (!el) return;
+  if (!el) { console.error('docContent element not found!'); return; }
   try {
+    console.log('Fetching document-content.json...');
     const res = await fetch('/data/document-content.json');
+    console.log('Fetch status:', res.status, res.statusText);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const { html } = await res.json();
+    console.log('Document HTML length:', html.length);
     el.innerHTML = `<div class="doc-inner">${html}</div>`;
+    console.log('docContent children:', el.children.length, 'offsetHeight:', el.offsetHeight);
+    console.log('doc-panel offsetHeight:', el.parentElement.offsetHeight);
   } catch (e) {
     console.error('Document load error:', e);
     el.innerHTML = '<div class="doc-loading">A dokumentum nem elérhető. Futtasd: <code>npm run process</code></div>';

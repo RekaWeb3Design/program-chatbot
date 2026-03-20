@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="243 oldal. Te csak kérdezz. – Tisza Párt program chatbot">
+  <title>Most vagy soha.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --green: #006B3C;
+      --green-bright: #00A651;
+      --green-dim: #0A4D2C;
+      --navy: #1A3A5C;
+      --red: #CE2939;
+      --bg: #0B1610;
+      --text: #F0EDE8;
+      --text-dim: rgba(240,237,232,0.5);
+      --text-mid: rgba(240,237,232,0.7);
+      --serif: 'EB Garamond', Georgia, serif;
+      --sans: 'Outfit', system-ui, sans-serif;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      font-family: var(--sans);
+      background: var(--bg);
+      color: var(--text);
+      overflow-x: hidden;
+    }
+
+    /* ══════ GRAIN OVERLAY ══════ */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    /* ══════ TRICOLOR TOP BAR ══════ */
+    .tricolor {
+      height: 4px;
+      display: flex;
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+    }
+    .tricolor span { flex: 1; }
+    .tricolor .tc-red { background: var(--red); }
+    .tricolor .tc-white { background: #fff; }
+    .tricolor .tc-green { background: var(--green-bright); }
+
+    /* ══════ THREE.JS CANVAS ══════ */
+    #beams-canvas {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: -1;
+      pointer-events: none;
+    }
+
+    .beams-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      pointer-events: none;
+      background: linear-gradient(
+        to bottom,
+        rgba(11,22,16,0.3) 0%,
+        rgba(11,22,16,0.05) 35%,
+        rgba(11,22,16,0.05) 65%,
+        rgba(11,22,16,0.5) 100%
+      );
+    }
+
+    /* ══════ HERO ══════ */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 80px 24px 60px;
+      position: relative;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .hero-eyebrow {
+      font-family: var(--sans);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--green-bright);
+      margin-bottom: 40px;
+    }
+
+    .hero-eyebrow::before,
+    .hero-eyebrow::after {
+      content: '';
+      display: inline-block;
+      width: 40px;
+      height: 1px;
+      background: var(--green-dim);
+      vertical-align: middle;
+      margin: 0 16px;
+    }
+
+    .hero-headline {
+      margin-bottom: 12px;
+      position: relative;
+    }
+
+    .hero-headline .line-most {
+      display: block;
+      font-family: var(--serif);
+      font-size: clamp(72px, 14vw, 160px);
+      font-weight: 800;
+      line-height: 0.9;
+      letter-spacing: -3px;
+      color: #fff;
+      text-transform: uppercase;
+      text-shadow: 0 0 80px rgba(255,255,255,0.08);
+      position: relative;
+    }
+
+    /* Hand-drawn circle around MOST */
+    .handwritten-circle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 130%;
+      height: 200%;
+      pointer-events: none;
+      z-index: 1;
+      overflow: visible;
+    }
+
+    .handwritten-circle path {
+      fill: none;
+      stroke: rgba(255,255,255,0.7);
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      will-change: stroke-dashoffset;
+    }
+
+    .hero-headline .line-vagysoha {
+      display: block;
+      font-family: var(--serif);
+      font-size: clamp(36px, 7vw, 80px);
+      font-weight: 400;
+      font-style: italic;
+      line-height: 1.1;
+      letter-spacing: 1px;
+      color: rgba(240,237,232,0.3);
+      text-decoration: line-through;
+      text-decoration-color: rgba(206,41,57,0.5);
+      text-decoration-thickness: 2px;
+      margin-top: 4px;
+    }
+
+    .hero-sub {
+      font-family: var(--sans);
+      font-size: clamp(18px, 3vw, 26px);
+      font-weight: 300;
+      color: var(--text-mid);
+      letter-spacing: 1px;
+      margin-top: 32px;
+      margin-bottom: 48px;
+    }
+
+    .hero-sub strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .hero-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 18px 40px;
+      font-family: var(--sans);
+      font-size: 17px;
+      font-weight: 600;
+      color: #fff;
+      background: var(--green);
+      border: none;
+      border-radius: 60px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: 0 4px 20px rgba(0,107,60,0.3), 0 0 60px rgba(0,107,60,0.1);
+    }
+
+    .hero-cta:hover {
+      background: var(--green-bright);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 32px rgba(0,166,81,0.35), 0 0 80px rgba(0,166,81,0.15);
+    }
+
+    .hero-cta:active { transform: translateY(0); }
+    .hero-cta svg { transition: transform 0.25s ease; }
+    .hero-cta:hover svg { transform: translateX(4px); }
+
+    .scroll-hint {
+      position: absolute;
+      bottom: 32px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      color: var(--text-dim);
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      z-index: 1;
+      animation: float 2.5s ease-in-out infinite;
+    }
+
+    .scroll-hint svg { opacity: 0.4; }
+
+    @keyframes float {
+      0%, 100% { transform: translateX(-50%) translateY(0); }
+      50% { transform: translateX(-50%) translateY(8px); }
+    }
+
+    /* ══════ STORY ══════ */
+    .story {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 80px 24px 100px;
+      position: relative;
+    }
+
+    .story::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 1px;
+      height: 80px;
+      background: linear-gradient(to bottom, transparent, var(--green-dim));
+    }
+
+    .story-label {
+      font-family: var(--sans);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--green-bright);
+      margin-bottom: 40px;
+      padding-top: 40px;
+    }
+
+    .story p {
+      font-family: var(--serif);
+      font-size: clamp(19px, 2.5vw, 22px);
+      line-height: 1.8;
+      color: var(--text-mid);
+      margin-bottom: 28px;
+      font-feature-settings: 'onum' 1, 'liga' 1;
+    }
+
+    .story p.highlight {
+      color: var(--text);
+      font-size: clamp(22px, 3vw, 26px);
+      font-weight: 500;
+      line-height: 1.6;
+      padding-left: 24px;
+      border-left: 3px solid var(--green);
+      margin: 40px 0;
+    }
+
+    .story p.emotional {
+      color: var(--text);
+      font-style: italic;
+    }
+
+    .story p.closing {
+      color: var(--text);
+      font-weight: 600;
+      font-size: clamp(21px, 2.8vw, 24px);
+    }
+
+    /* ══════ CTA SECTION ══════ */
+    .cta-section {
+      text-align: center;
+      padding: 60px 24px 100px;
+      position: relative;
+    }
+
+    .cta-section::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60px;
+      height: 3px;
+      background: var(--green);
+      border-radius: 2px;
+    }
+
+    .cta-section h2 {
+      font-family: var(--serif);
+      font-size: clamp(32px, 6vw, 52px);
+      font-weight: 700;
+      line-height: 1.15;
+      margin-bottom: 20px;
+      letter-spacing: -1px;
+    }
+
+    .cta-section .cta-sub {
+      font-size: 17px;
+      color: var(--text-dim);
+      margin-bottom: 40px;
+      font-weight: 300;
+    }
+
+    .cta-bottom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 20px 48px;
+      font-family: var(--sans);
+      font-size: 18px;
+      font-weight: 600;
+      color: #fff;
+      background: var(--green);
+      border: none;
+      border-radius: 60px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: 0 4px 24px rgba(0,107,60,0.3), 0 0 80px rgba(0,107,60,0.08);
+    }
+
+    .cta-bottom:hover {
+      background: var(--green-bright);
+      transform: translateY(-2px) scale(1.02);
+      box-shadow: 0 8px 40px rgba(0,166,81,0.35), 0 0 100px rgba(0,166,81,0.12);
+    }
+
+    .cta-bottom:active { transform: translateY(0) scale(1); }
+    .cta-bottom svg { transition: transform 0.25s ease; }
+    .cta-bottom:hover svg { transform: translateX(5px); }
+
+    /* ══════ FOOTER ══════ */
+    .landing-footer {
+      text-align: center;
+      padding: 40px 24px;
+      border-top: 1px solid rgba(255,255,255,0.05);
+    }
+
+    .landing-footer p {
+      font-size: 13px;
+      color: var(--text-dim);
+      font-weight: 400;
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    .footer-flag {
+      display: inline-flex;
+      height: 12px;
+      border-radius: 2px;
+      overflow: hidden;
+      margin-bottom: 16px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+    }
+
+    .footer-flag span { width: 16px; height: 100%; }
+    .ff-red { background: var(--red); }
+    .ff-white { background: #fff; }
+    .ff-green { background: var(--green-bright); }
+
+    /* ══════ REVEAL ANIMATION ══════ */
+    .reveal {
+      opacity: 0;
+      transform: translateY(30px);
+      transition: opacity 0.8s ease, transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Staggered hero elements */
+    .hero-eyebrow { animation: fadeUp 0.8s 0.3s ease both; }
+    .hero-headline .line-most { animation: fadeUp 0.9s 0.5s ease both; }
+    .hero-headline .line-vagysoha { animation: fadeUp 0.9s 0.7s ease both; }
+    .hero-sub { animation: fadeUp 0.8s 0.9s ease both; }
+    .hero-cta { animation: fadeUp 0.8s 1.1s ease both; }
+    .scroll-hint { animation: fadeUp 0.8s 1.5s ease both, float 2.5s 2.5s ease-in-out infinite; }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(28px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ══════ RESPONSIVE ══════ */
+    @media (max-width: 640px) {
+      .hero { padding: 100px 20px 60px; }
+      .hero-headline .line-most { letter-spacing: -2px; }
+      .hero-eyebrow::before, .hero-eyebrow::after { width: 20px; margin: 0 10px; }
+      .hero-cta, .cta-bottom { padding: 16px 32px; font-size: 16px; }
+      .story { padding: 60px 20px 80px; }
+      .story p { font-size: 18px; line-height: 1.75; }
+      .story p.highlight { font-size: 20px; }
+      .cta-section { padding: 48px 20px 80px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="tricolor" aria-hidden="true">
+    <span class="tc-red"></span>
+    <span class="tc-white"></span>
+    <span class="tc-green"></span>
+  </div>
+
+  <!-- Three.js Beams Background -->
+  <canvas id="beams-canvas"></canvas>
+  <div class="beams-overlay"></div>
+
+  <!-- ══════ HERO ══════ -->
+  <section class="hero">
+    <div class="hero-content">
+      <p class="hero-eyebrow">Tisza Program 2026</p>
+      <h1 class="hero-headline">
+        <span class="line-most">
+          MOST
+          <svg class="handwritten-circle" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path id="circle-path"
+              d="M 320 30
+                 C 420 100, 360 170, 200 180
+                 C 80 180, 20 160, 20 100
+                 C 20 40, 100 20, 200 20
+                 C 300 20, 350 60, 340 60"
+            />
+          </svg>
+        </span>
+        <span class="line-vagysoha">vagy soha</span>
+      </h1>
+      <p class="hero-sub"><strong>243 oldal.</strong> Te csak kérdezz.</p>
+      <a href="./index.html" class="hero-cta">
+        Kérdezz a programról
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </a>
+    </div>
+    <div class="scroll-hint">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </div>
+  </section>
+
+  <!-- ══════ STORY ══════ -->
+  <section class="story">
+    <p class="story-label reveal">Miért készült ez?</p>
+
+    <p class="reveal">Amikor megláttam, hogy közel 243 oldalas a program, az első reakcióm az volt: <em>mikor lesz időm végigolvasni?</em></p>
+
+    <p class="highlight reveal">De jó lenne, ha rákérdezhetném arra, ami engem érdekel.</p>
+
+    <p class="reveal">Így jött az ötlet. Használtam én, és abban bízom, hogy azoknak, akiknek nem volt ideje vagy kedve – most így egy könnyebb úton megteszik.</p>
+
+    <p class="emotional reveal">Ezt az appot az édesapámnak „címzem", aki elvakultan a mostani rendszer mellett áll – anélkül, hogy valójában tájékozódna arról, milyen alternatívát kínál az ellenzék.</p>
+
+    <p class="reveal">Ez az app nem meggyőzni akar senkit. Nem egyik vagy másik oldalra állítani. Hanem gyorsabb és egyszerűbb utat adni arra, hogy információt szerezzünk a mai rohanó világban.</p>
+
+    <p class="highlight reveal">A Tisza Párt programja kész. Nem kell minden szavát elolvasni. Elég, ha azt csipegeti ki az ember, ami számára fontos.</p>
+
+    <p class="reveal">Azért is fontos, hogy mindenki elolvassa – hogy edukáltan szavazhasson. És aztán azért, hogy tudjuk: mi az, amit számon kérhetünk majd a Tiszától, ha kormányra kerül. Mert nem engedhetjük, hogy a felelősséget félredobják.</p>
+
+    <p class="closing reveal">Én egyértelműen letettem a voksom. Egy jobb Magyarországra és a változásra szavazok. Hátha mások is követnek – ne miattam, mindenki maga miatt és a jövőért. Hogy a gyerekeink ne szívják meg azt, hogy mi nem álltunk ki.</p>
+  </section>
+
+  <!-- ══════ CTA ══════ -->
+  <section class="cta-section">
+    <div class="reveal">
+      <h2>Kezdd el kérdezni.</h2>
+      <p class="cta-sub">243 oldal, egy kérdésre leegyszerűsítve.</p>
+      <a href="./index.html" class="cta-bottom">
+        Kérdezz a programról
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- ══════ FOOTER ══════ -->
+  <footer class="landing-footer">
+    <div class="footer-flag" aria-label="Magyar zászló">
+      <span class="ff-red"></span>
+      <span class="ff-white"></span>
+      <span class="ff-green"></span>
+    </div>
+    <p>Független állampolgári kezdeményezés · Nem a Tisza Párt készítette és nem finanszírozza · Semmilyen kapcsolatban nem áll a párttal · Forrás: magyartisza.hu/program</p>
+  </footer>
+
+  <!-- Three.js from CDN -->
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+    }
+  }
+  </script>
+
+  <script type="module">
+    import * as THREE from 'three';
+
+    // ══════════════════════════════════════════════
+    // ETHEREAL BEAMS — Three.js vanilla
+    // ══════════════════════════════════════════════
+
+    const canvas = document.getElementById('beams-canvas');
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias: false, alpha: false });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.setClearColor(0x0B1610, 1);
+
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0x0B1610);
+
+    const camera = new THREE.PerspectiveCamera(30, window.innerWidth / window.innerHeight, 0.1, 100);
+    camera.position.set(0, 0, 20);
+
+    // ── Noise GLSL ──
+    const noiseGLSL = `
+      vec4 permute(vec4 x){return mod(((x*34.0)+1.0)*x,289.0);}
+      vec4 taylorInvSqrt(vec4 r){return 1.79284291400159-0.85373472095314*r;}
+      vec3 fade(vec3 t){return t*t*t*(t*(t*6.0-15.0)+10.0);}
+      float cnoise(vec3 P){
+        vec3 Pi0=floor(P);vec3 Pi1=Pi0+vec3(1.0);
+        Pi0=mod(Pi0,289.0);Pi1=mod(Pi1,289.0);
+        vec3 Pf0=fract(P);vec3 Pf1=Pf0-vec3(1.0);
+        vec4 ix=vec4(Pi0.x,Pi1.x,Pi0.x,Pi1.x);
+        vec4 iy=vec4(Pi0.yy,Pi1.yy);
+        vec4 iz0=Pi0.zzzz;vec4 iz1=Pi1.zzzz;
+        vec4 ixy=permute(permute(ix)+iy);
+        vec4 ixy0=permute(ixy+iz0);vec4 ixy1=permute(ixy+iz1);
+        vec4 gx0=ixy0/7.0;vec4 gy0=fract(floor(gx0)/7.0)-0.5;
+        gx0=fract(gx0);vec4 gz0=vec4(0.5)-abs(gx0)-abs(gy0);
+        vec4 sz0=step(gz0,vec4(0.0));
+        gx0-=sz0*(step(0.0,gx0)-0.5);gy0-=sz0*(step(0.0,gy0)-0.5);
+        vec4 gx1=ixy1/7.0;vec4 gy1=fract(floor(gx1)/7.0)-0.5;
+        gx1=fract(gx1);vec4 gz1=vec4(0.5)-abs(gx1)-abs(gy1);
+        vec4 sz1=step(gz1,vec4(0.0));
+        gx1-=sz1*(step(0.0,gx1)-0.5);gy1-=sz1*(step(0.0,gy1)-0.5);
+        vec3 g000=vec3(gx0.x,gy0.x,gz0.x);vec3 g100=vec3(gx0.y,gy0.y,gz0.y);
+        vec3 g010=vec3(gx0.z,gy0.z,gz0.z);vec3 g110=vec3(gx0.w,gy0.w,gz0.w);
+        vec3 g001=vec3(gx1.x,gy1.x,gz1.x);vec3 g101=vec3(gx1.y,gy1.y,gz1.y);
+        vec3 g011=vec3(gx1.z,gy1.z,gz1.z);vec3 g111=vec3(gx1.w,gy1.w,gz1.w);
+        vec4 norm0=taylorInvSqrt(vec4(dot(g000,g000),dot(g010,g010),dot(g100,g100),dot(g110,g110)));
+        g000*=norm0.x;g010*=norm0.y;g100*=norm0.z;g110*=norm0.w;
+        vec4 norm1=taylorInvSqrt(vec4(dot(g001,g001),dot(g011,g011),dot(g101,g101),dot(g111,g111)));
+        g001*=norm1.x;g011*=norm1.y;g101*=norm1.z;g111*=norm1.w;
+        float n000=dot(g000,Pf0);float n100=dot(g100,vec3(Pf1.x,Pf0.yz));
+        float n010=dot(g010,vec3(Pf0.x,Pf1.y,Pf0.z));float n110=dot(g110,vec3(Pf1.xy,Pf0.z));
+        float n001=dot(g001,vec3(Pf0.xy,Pf1.z));float n101=dot(g101,vec3(Pf1.x,Pf0.y,Pf1.z));
+        float n011=dot(g011,vec3(Pf0.x,Pf1.yz));float n111=dot(g111,Pf1);
+        vec3 fade_xyz=fade(Pf0);
+        vec4 n_z=mix(vec4(n000,n100,n010,n110),vec4(n001,n101,n011,n111),fade_xyz.z);
+        vec2 n_yz=mix(n_z.xy,n_z.zw,fade_xyz.y);
+        return 2.2*mix(n_yz.x,n_yz.y,fade_xyz.x);
+      }
+      float random(vec2 st){return fract(sin(dot(st,vec2(12.9898,78.233)))*43758.5453);}
+      float noise2d(vec2 st){
+        vec2 i=floor(st);vec2 f=fract(st);
+        float a=random(i);float b=random(i+vec2(1,0));
+        float c=random(i+vec2(0,1));float d=random(i+vec2(1,1));
+        vec2 u=f*f*(3.0-2.0*f);
+        return mix(a,b,u.x)+(c-a)*u.y*(1.0-u.x)+(d-b)*u.x*u.y;
+      }
+    `;
+
+    // ── Shader material ──
+    const beamMaterial = new THREE.ShaderMaterial({
+      uniforms: {
+        time: { value: 0 },
+        uSpeed: { value: 2.5 },
+        uScale: { value: 0.15 },
+        uNoiseIntensity: { value: 2.0 },
+        lightDir: { value: new THREE.Vector3(0, 0.3, 1).normalize() },
+        lightColor: { value: new THREE.Color(0x006B3C) },
+        ambientColor: { value: new THREE.Color(0x0B1610) },
+      },
+      vertexShader: `
+        uniform float time;
+        uniform float uSpeed;
+        uniform float uScale;
+        varying vec3 vNormal;
+        varying vec3 vPos;
+        varying vec2 vUv;
+        ${noiseGLSL}
+        float getDisp(vec3 p) {
+          vec3 np = vec3(p.x*0.0, p.y - uv.y, p.z + time * uSpeed * 3.0) * uScale;
+          return cnoise(np);
+        }
+        vec3 getPos(vec3 p) {
+          vec3 np = p;
+          np.z += getDisp(p);
+          return np;
+        }
+        vec3 calcNormal(vec3 p) {
+          vec3 cur = getPos(p);
+          vec3 nx = getPos(p + vec3(0.01,0,0));
+          vec3 ny = getPos(p + vec3(0,-0.01,0));
+          return normalize(cross(normalize(ny-cur), normalize(nx-cur)));
+        }
+        void main() {
+          vUv = uv;
+          vec3 pos = position;
+          pos.z += getDisp(pos);
+          vNormal = calcNormal(position);
+          vPos = pos;
+          gl_Position = projectionMatrix * modelViewMatrix * vec4(pos, 1.0);
+        }
+      `,
+      fragmentShader: `
+        uniform vec3 lightDir;
+        uniform vec3 lightColor;
+        uniform vec3 ambientColor;
+        uniform float uNoiseIntensity;
+        varying vec3 vNormal;
+        varying vec3 vPos;
+        varying vec2 vUv;
+        ${noiseGLSL}
+        void main() {
+          float diff = max(dot(vNormal, lightDir), 0.0);
+          vec3 col = ambientColor + lightColor * diff * 1.2;
+          col += lightColor * pow(diff, 8.0) * 0.5;
+          float n = noise2d(gl_FragCoord.xy);
+          col -= n / 15.0 * uNoiseIntensity;
+          gl_FragColor = vec4(col, 1.0);
+        }
+      `,
+    });
+
+    // ── Build beam geometry ──
+    const beamCount = 15;
+    const beamWidth = 2.5;
+    const beamHeight = 18;
+    const segH = 80;
+    const totalW = beamCount * beamWidth;
+    const baseX = -totalW / 2;
+
+    const verts = [];
+    const uvs = [];
+    const indices = [];
+    let vi = 0;
+
+    for (let i = 0; i < beamCount; i++) {
+      const xOff = baseX + i * beamWidth;
+      const uvXOff = Math.random() * 300;
+      const uvYOff = Math.random() * 300;
+      for (let j = 0; j <= segH; j++) {
+        const y = beamHeight * (j / segH - 0.5);
+        verts.push(xOff, y, 0, xOff + beamWidth, y, 0);
+        const uvY = j / segH;
+        uvs.push(uvXOff, uvY + uvYOff, uvXOff + 1, uvY + uvYOff);
+        if (j < segH) {
+          indices.push(vi, vi+1, vi+2, vi+2, vi+1, vi+3);
+        }
+        vi += 2;
+      }
+    }
+
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.Float32BufferAttribute(verts, 3));
+    geo.setAttribute('uv', new THREE.Float32BufferAttribute(uvs, 2));
+    geo.setIndex(indices);
+    geo.computeVertexNormals();
+
+    const mesh = new THREE.Mesh(geo, beamMaterial);
+    mesh.rotation.z = 43 * Math.PI / 180; // diagonal rotation
+
+    scene.add(mesh);
+
+    // ── Lights ──
+    const dirLight = new THREE.DirectionalLight(0x006B3C, 1);
+    dirLight.position.set(0, 3, 10);
+    scene.add(dirLight);
+    scene.add(new THREE.AmbientLight(0x111111, 1));
+
+    // ── Resize ──
+    function onResize() {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    }
+    window.addEventListener('resize', onResize);
+
+    // ── Render loop ──
+    const clock = new THREE.Clock();
+    function animate() {
+      requestAnimationFrame(animate);
+      beamMaterial.uniforms.time.value += clock.getDelta() * 0.1;
+      renderer.render(scene, camera);
+    }
+    animate();
+
+    // ══════════════════════════════════════════════
+    // HANDWRITTEN CIRCLE — measure real path length
+    // ══════════════════════════════════════════════
+    const circlePath = document.getElementById('circle-path');
+    if (circlePath) {
+      const len = circlePath.getTotalLength();
+      circlePath.style.strokeDasharray = len;
+      circlePath.style.strokeDashoffset = len;
+      // Trigger draw after short delay
+      requestAnimationFrame(() => {
+        circlePath.style.transition = 'stroke-dashoffset 2.5s cubic-bezier(0.43, 0.13, 0.23, 0.96) 0.8s';
+        circlePath.style.strokeDashoffset = '0';
+      });
+    }
+
+    // ── Scroll reveal ──
+    const reveals = document.querySelectorAll('.reveal');
+    const revealObs = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          revealObs.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
+    reveals.forEach(el => revealObs.observe(el));
+  </script>
+
+</body>
+</html>
