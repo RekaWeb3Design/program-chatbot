@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/process_doc.js)",
+      "Bash(curl -L -o /tmp/tisza_program.pdf \"https://cdn.tisza.work/A%20m%C5%B1k%C3%B6d%C5%91%20%C3%A9s%20embers%C3%A9ges%20Magyarorsz%C3%A1g%20alapjai.pdf\")",
+      "Bash(cygpath:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(npm install:*)",
+      "Bash(npx wrangler:*)",
+      "Bash(curl -s http://127.0.0.1:8788/)",
+      "Bash(curl -s http://127.0.0.1:8788/data/chunks.json)",
+      "Bash(node:*)",
+      "Bash(curl -sL http://127.0.0.1:8788/data/document)",
+      "Bash(curl -s http://127.0.0.1:8788/data/document-content.json)",
+      "Bash(npm run:*)",
+      "Bash(gh repo:*)",
+      "Bash(git clone:*)",
+      "WebSearch",
+      "Bash(git add:*)"
+    ]
+  }
+}

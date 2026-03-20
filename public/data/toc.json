@@ -1,8 +1,236 @@
 [
   {
     "level": 1,
-    "title": "IDE ILLESZD BE A TISZA PÁRT 2026-OS PROGRAMJÁNAK TELJES SZÖVEGÉT",
+    "title": "A MŰKÖDŐ ÉS EMBERSÉGES MAGYARORSZÁG ALAPJAI",
     "id": "toc-h1-0",
     "num": ""
+  },
+  {
+    "level": 1,
+    "title": "Alapvető értékeink",
+    "id": "toc-h1-63",
+    "num": ""
+  },
+  {
+    "level": 1,
+    "title": "Magyarország helyzete",
+    "id": "toc-h1-71",
+    "num": ""
+  },
+  {
+    "level": 1,
+    "title": "Magyarország jövőképe",
+    "id": "toc-h1-109",
+    "num": ""
+  },
+  {
+    "level": 1,
+    "title": "Problémák és vállalásaink",
+    "id": "toc-h1-131",
+    "num": ""
+  },
+  {
+    "level": 1,
+    "title": "1. GAZDAG ÉS SIKERES ORSZÁG – FEJLŐDÉS ÉS NÖVEKEDÉS",
+    "id": "toc-1",
+    "num": "1"
+  },
+  {
+    "level": 2,
+    "title": "1.1. Ganz Ábrahám Gazdaságfejlesztési Program",
+    "id": "toc-1-1",
+    "parentNum": "1"
+  },
+  {
+    "level": 2,
+    "title": "1.2. Adócsökkentés+",
+    "id": "toc-1-2",
+    "parentNum": "1"
+  },
+  {
+    "level": 2,
+    "title": "1.3. Stabil költségvetés",
+    "id": "toc-1-3",
+    "parentNum": "1"
+  },
+  {
+    "level": 2,
+    "title": "1.4. Rezsicsökkentés+",
+    "id": "toc-1-4",
+    "parentNum": "1"
+  },
+  {
+    "level": 2,
+    "title": "1.5. Infrastruktúrafejlesztés",
+    "id": "toc-1-5",
+    "parentNum": "1"
+  },
+  {
+    "level": 2,
+    "title": "1.6. Wekerle Sándor Bérlakásépítési és Otthonfejlesztési Program",
+    "id": "toc-1-6",
+    "parentNum": "1"
+  },
+  {
+    "level": 1,
+    "title": "2. BÉKÉS ÉS RENDEZETT ORSZÁG – BIZTONSÁG ÉS STABILITÁS",
+    "id": "toc-2",
+    "num": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.1. Biztonságos Magyarország, erős határok",
+    "id": "toc-2-1",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.2. Rend és közbiztonság",
+    "id": "toc-2-2",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.3. Zéró tolerancia az illegális bevándorlással szemben",
+    "id": "toc-2-3",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.4. Szuverén nemzet",
+    "id": "toc-2-4",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.5. Demográfiai fordulat, összetartó nemzet, hazatérő magyarok",
+    "id": "toc-2-5",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.6. Tisztességes Magyarország",
+    "id": "toc-2-6",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.7. Bibó István Program",
+    "id": "toc-2-7",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.8. Működő állam, erős önkormányzatok",
+    "id": "toc-2-8",
+    "parentNum": "2"
+  },
+  {
+    "level": 2,
+    "title": "2.9. Erős közösségek",
+    "id": "toc-2-9",
+    "parentNum": "2"
+  },
+  {
+    "level": 1,
+    "title": "3. SZABAD ÉS BOLDOG ORSZÁG – TÁRSADALMI JÓLÉT ÉS JÓLLÉT",
+    "id": "toc-3",
+    "num": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.1. Hugonnai Vilma Egészségügyi Program",
+    "id": "toc-3-1",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.2. Nyugdíjemelés+",
+    "id": "toc-3-2",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.3. Brunszvik Teréz Gyermekvédelmi Program",
+    "id": "toc-3-3",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.4. 100% Család Program",
+    "id": "toc-3-4",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.5. Okos nemzet, világszínvonalú tudás",
+    "id": "toc-3-5",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.6. Akadálymentes Magyarország",
+    "id": "toc-3-6",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.7. Egyenlő esély a nőknek a munkában és a magánéletben",
+    "id": "toc-3-7",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.8. Roma esélyegyenlőség",
+    "id": "toc-3-8",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.9. Hajós Alfréd Program",
+    "id": "toc-3-9",
+    "parentNum": "3"
+  },
+  {
+    "level": 2,
+    "title": "3.10. Szabad kultúra, támogatott művészet",
+    "id": "toc-3-10",
+    "parentNum": "3"
+  },
+  {
+    "level": 1,
+    "title": "4. TISZTA ÉS HALADÓ ORSZÁG – FENNTARTHATÓSÁG ÉS JÖVŐÁLLÓSÁG",
+    "id": "toc-4",
+    "num": "4"
+  },
+  {
+    "level": 2,
+    "title": "4.1. Zöld Magyarország",
+    "id": "toc-4-1",
+    "parentNum": "4"
+  },
+  {
+    "level": 2,
+    "title": "4.2. Erős hazai agrár- és élelmiszeripar",
+    "id": "toc-4-2",
+    "parentNum": "4"
+  },
+  {
+    "level": 2,
+    "title": "4.3. Xantus János Állatvédelmi Program",
+    "id": "toc-4-3",
+    "parentNum": "4"
+  },
+  {
+    "level": 2,
+    "title": "4.4. Szent István Vidékfejlesztési Program",
+    "id": "toc-4-4",
+    "parentNum": "4"
+  },
+  {
+    "level": 2,
+    "title": "4.5. Felkészülés a jövőre",
+    "id": "toc-4-5",
+    "parentNum": "4"
   }
 ]

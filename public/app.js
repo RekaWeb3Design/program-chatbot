@@ -3,9 +3,15 @@ let CHUNKS = [];
 let TOC = [];
 let conversationHistory = [];
 let quickQuestionsVisible = true;
+let lastActiveChunkId = null;
+let lastSentChunks = [];
+let initialized = false;
+let documentLoaded = false;
 
 // ========== INIT ==========
 document.addEventListener('DOMContentLoaded', async () => {
+  if (initialized) return;
+  initialized = true;
   await loadChunks();
   await loadDocument();
   await loadToc();
@@ -29,16 +35,19 @@ async function loadChunks() {
 }
 
 async function loadDocument() {
+  if (documentLoaded) return;
+  documentLoaded = true;
   const docContent = document.getElementById('docContent');
   try {
-    const res = await fetch('/data/document.html');
-    const html = await res.text();
-    // Extract body content from full HTML
-    const bodyMatch = html.match(/<body[^>]*>([\s\S]*)<\/body>/i);
-    const inner = bodyMatch ? bodyMatch[1] : html;
-    docContent.innerHTML = `<div class="doc-inner">${inner}</div>`;
+    // Load body content from JSON (avoids Cloudflare Pages pretty URL issues with .html files)
+    const res = await fetch('/data/document-content.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    console.log(`Document loaded: ${data.html.length} chars`);
+    docContent.innerHTML = `<div class="doc-inner">${data.html}</div>`;
     initIntersectionObserver();
   } catch (e) {
+    console.error('Document load error:', e);
     docContent.innerHTML = '<div class="doc-loading">A dokumentum nem elérhető. Futtasd: <code>npm run process</code></div>';
   }
 }
@@ -50,7 +59,7 @@ async function loadToc() {
     TOC = await res.json();
     renderToc(tocEl);
   } catch (e) {
-    tocEl.innerHTML = '<div style="padding:16px;color:#999;font-size:12px">TOC nem elérhető</div>';
+    tocEl.innerHTML = '<div style="padding:16px;color:#999;font-size:13px">TOC nem elérhető</div>';
   }
 }
 
@@ -71,7 +80,6 @@ function renderToc(container) {
       link.addEventListener('click', (e) => {
         e.preventDefault();
         scrollDocTo(entry.id);
-        // Toggle collapse
         currentGroup.classList.toggle('collapsed');
       });
       currentGroup.appendChild(link);
@@ -94,9 +102,17 @@ function renderToc(container) {
 function scrollDocTo(id) {
   const docContent = document.getElementById('docContent');
   const target = docContent.querySelector(`#${CSS.escape(id)}`);
-  if (target) {
-    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  }
+  if (!target) return;
+
+  // Calculate offset within the scrollable container
+  const containerRect = docContent.getBoundingClientRect();
+  const targetRect = target.getBoundingClientRect();
+  const scrollTop = docContent.scrollTop + (targetRect.top - containerRect.top) - 20;
+
+  docContent.scrollTo({
+    top: scrollTop,
+    behavior: 'smooth'
+  });
 }
 
 // ========== INTERSECTION OBSERVER (active TOC) ==========
@@ -110,19 +126,83 @@ function initIntersectionObserver() {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           const id = entry.target.id;
+          // Clear all active states
           document.querySelectorAll('.toc-item').forEach(el => el.classList.remove('active'));
+          // Set active on matching TOC item
           const tocItem = document.querySelector(`.toc-item[data-toc-id="${id}"]`);
-          if (tocItem) tocItem.classList.add('active');
+          if (tocItem) {
+            tocItem.classList.add('active');
+            // Scroll TOC sidebar to keep active item visible
+            tocItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+          }
         }
       });
     },
-    { root: docContent, rootMargin: '-10% 0px -80% 0px', threshold: 0 }
+    { root: docContent, rootMargin: '0px 0px -75% 0px', threshold: 0 }
   );
 
   headers.forEach(h => observer.observe(h));
 }
 
 // ========== TF-IDF SEARCH ==========
+
+// Simple Hungarian suffix removal for better matching
+const HU_SUFFIXES = [
+  // Case suffixes (longest first)
+  'ekkel', 'okkal', 'ökkel', 'ákkal',
+  'éssel', 'ással', 'onként', 'enként', 'önként',
+  'ekkel', 'oknak', 'eknek', 'öknek',
+  'okból', 'ekből', 'ökből', 'ából', 'éből',
+  'okba', 'ekbe', 'ökbe', 'ába', 'ébe',
+  'okon', 'eken', 'ökön', 'ákon', 'éken',
+  'okra', 'ekre', 'ökre', 'ára', 'ére',
+  'októl', 'ektől', 'öktől',
+  'okért', 'ekért', 'ökért',
+  'gyal', 'gyel', 'ggyal', 'ggyen', 'ggyel',
+  'ával', 'ével', 'jával', 'jével',
+  'nak', 'nek', 'ban', 'ben', 'ból', 'ből',
+  'hoz', 'hez', 'höz', 'ról', 'ről', 'tól', 'től',
+  'val', 'vel', 'ért', 'kor',
+  'ból', 'ből', 'ból', 'nál', 'nél',
+  'ba', 'be', 'ra', 're', 'on', 'en', 'ön',
+  'ul', 'ül', 'ig', 'ká', 'ké',
+  // Verb/adj suffixes
+  'ási', 'ési', 'ási', 'ési',
+  'unk', 'ünk', 'tok', 'tek', 'tök',
+  'nak', 'nek', 'ják', 'jék',
+  // Plural & possessive
+  'okat', 'eket', 'öket', 'akat', 'jait', 'jeit',
+  'ait', 'eit', 'jai', 'jei',
+  'ai', 'ei', 'ok', 'ek', 'ök', 'ak',
+  'ja', 'je', 'uk', 'ük',
+  // Adjective
+  'abb', 'ebb', 'obb',
+  'ság', 'ség',
+  'tás', 'tés',
+  // Common endings
+  'nak', 'nek', 'hoz', 'hez', 'höz',
+  'ot', 'et', 'öt', 'at', 'ét',
+  'át', 'ét',
+  'an', 'en', 'ön',
+  't', 'k',
+];
+
+function stemHu(word) {
+  if (word.length < 4) return word;
+  for (const suffix of HU_SUFFIXES) {
+    if (word.length > suffix.length + 2 && word.endsWith(suffix)) {
+      return word.slice(0, -suffix.length);
+    }
+  }
+  return word;
+}
+
+function commonPrefixLen(a, b) {
+  let i = 0;
+  while (i < a.length && i < b.length && a[i] === b[i]) i++;
+  return i;
+}
+
 function tokenize(text) {
   return text
     .toLowerCase()
@@ -137,6 +217,10 @@ function getRelevantChunks(query, topK = 6) {
   const queryTokens = tokenize(query);
   if (queryTokens.length === 0) return CHUNKS.slice(0, topK);
 
+  // Stem query tokens
+  const queryStemsMap = {};
+  queryTokens.forEach(qt => { queryStemsMap[qt] = stemHu(qt); });
+
   // Build document frequency
   const df = {};
   CHUNKS.forEach(chunk => {
@@ -146,23 +230,44 @@ function getRelevantChunks(query, topK = 6) {
 
   const N = CHUNKS.length;
 
-  // Score each chunk
   const scored = CHUNKS.map(chunk => {
     const chunkTokens = tokenize(chunk.text + ' ' + chunk.section + ' ' + (chunk.keywords || []).join(' '));
+    const sectionTokens = new Set(tokenize(chunk.section));
     const tf = {};
     chunkTokens.forEach(t => { tf[t] = (tf[t] || 0) + 1; });
 
+    // Also build stem-based tf
+    const stemTf = {};
+    chunkTokens.forEach(t => {
+      const s = stemHu(t);
+      stemTf[s] = (stemTf[s] || 0) + 1;
+    });
+    const sectionStems = new Set([...sectionTokens].map(stemHu));
+
     let score = 0;
     queryTokens.forEach(qt => {
+      const qStem = queryStemsMap[qt];
+
+      // Exact match
       if (tf[qt]) {
         const tfVal = tf[qt] / chunkTokens.length;
         const idfVal = Math.log(N / (1 + (df[qt] || 0)));
         score += tfVal * idfVal;
       }
-      // Partial matching bonus
+
+      // Stem match (e.g. egészségüggyel -> egészségüg matches egészségügyi -> egészségügy)
+      if (qStem.length >= 4 && stemTf[qStem] && !tf[qt]) {
+        score += 0.8 * (stemTf[qStem] / chunkTokens.length) * Math.log(N / (1 + (df[qt] || 1)));
+      }
+
+      // Common prefix match (min 5 chars shared prefix)
       Object.keys(tf).forEach(ct => {
-        if (ct !== qt && (ct.startsWith(qt) || qt.startsWith(ct))) {
-          score += 0.3 * (tf[ct] / chunkTokens.length) * Math.log(N / (1 + (df[ct] || 0)));
+        if (ct === qt) return;
+        const prefixLen = commonPrefixLen(qt, ct);
+        const minLen = Math.min(qt.length, ct.length);
+        if (prefixLen >= 5 && prefixLen >= minLen * 0.6) {
+          const boost = 0.4 * (prefixLen / minLen);
+          score += boost * (tf[ct] / chunkTokens.length) * Math.log(N / (1 + (df[ct] || 0)));
         }
       });
     });
@@ -170,11 +275,32 @@ function getRelevantChunks(query, topK = 6) {
     // Keyword bonus
     if (chunk.keywords) {
       queryTokens.forEach(qt => {
-        if (chunk.keywords.some(kw => kw.includes(qt) || qt.includes(kw))) {
+        const qStem = queryStemsMap[qt];
+        if (chunk.keywords.some(kw => {
+          if (kw.includes(qt) || qt.includes(kw)) return true;
+          const kwStem = stemHu(kw);
+          if (qStem.length >= 4 && (kwStem.startsWith(qStem) || qStem.startsWith(kwStem))) return true;
+          return commonPrefixLen(qt, kw) >= 5;
+        })) {
           score *= 1.3;
         }
       });
     }
+
+    // Section name bonus: boost chunks whose section matches query stems
+    queryTokens.forEach(qt => {
+      const qStem = queryStemsMap[qt];
+      if (sectionTokens.has(qt) || (qStem.length >= 4 && sectionStems.has(qStem))) {
+        score *= 1.5;
+      }
+      // Also check prefix match against section tokens
+      for (const st of sectionTokens) {
+        if (commonPrefixLen(qt, st) >= 6) {
+          score *= 1.4;
+          break;
+        }
+      }
+    });
 
     return { chunk, score };
   });
@@ -191,13 +317,11 @@ function initInput() {
   const input = document.getElementById('userInput');
   const sendBtn = document.getElementById('sendBtn');
 
-  // Auto-resize textarea
   input.addEventListener('input', () => {
     input.style.height = 'auto';
     input.style.height = Math.min(input.scrollHeight, 120) + 'px';
   });
 
-  // Enter to send (Shift+Enter for newline)
   input.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault();
@@ -213,37 +337,31 @@ async function sendMessage(customQuery) {
   const query = customQuery || input.value.trim();
   if (!query) return;
 
-  // Rate limit check
   if (!checkRateLimit()) {
     showRateLimitWarning();
     return;
   }
 
-  // Hide quick questions
   if (quickQuestionsVisible) {
     const qq = document.getElementById('quickQuestions');
     if (qq) qq.style.display = 'none';
     quickQuestionsVisible = false;
   }
 
-  // Clear input
   input.value = '';
   input.style.height = 'auto';
 
-  // Add user message
   addMessage('user', query);
 
-  // Record rate limit
   recordQuestion();
   updateRateLimitDisplay();
 
-  // Get relevant chunks
+  // Get relevant chunks and store them for fallback
   const relevantChunks = getRelevantChunks(query, 6);
+  lastSentChunks = relevantChunks;
 
-  // Show typing indicator
   const typingEl = addTypingIndicator();
 
-  // Disable input
   const sendBtn = document.getElementById('sendBtn');
   sendBtn.disabled = true;
 
@@ -263,27 +381,36 @@ async function sendMessage(customQuery) {
     });
 
     const data = await response.json();
-
-    // Remove typing indicator
     typingEl.remove();
 
     if (data.error) {
       addMessage('bot', 'Hiba történt: ' + data.error);
     } else {
-      addMessage('bot', data.answer, data.chunkRefs);
+      // Determine chunk refs: use API refs, or fallback to TF-IDF top chunks
+      let chunkRefs = data.chunkRefs || [];
+      const hasInlineRefs = /\[chunk-\d+\]/.test(data.answer);
 
-      // Update conversation history
+      if (chunkRefs.length === 0 && !hasInlineRefs && relevantChunks.length > 0) {
+        // Fallback: append top TF-IDF chunk refs to the answer
+        const fallbackChunks = relevantChunks.slice(0, 2);
+        chunkRefs = fallbackChunks.map(c => c.id);
+        const refTags = fallbackChunks.map(c => `[${c.id}]`).join('');
+        data.answer = data.answer.trimEnd() + '\n' + refTags;
+      }
+
+      addMessage('bot', data.answer, chunkRefs);
+
       conversationHistory.push({ role: 'user', content: query });
       conversationHistory.push({ role: 'assistant', content: data.answer });
 
-      // Keep max 6 messages in history
       if (conversationHistory.length > 12) {
         conversationHistory = conversationHistory.slice(-12);
       }
 
-      // Auto-scroll to first chunk ref
-      if (data.chunkRefs && data.chunkRefs.length > 0) {
-        setTimeout(() => scrollToChunk(data.chunkRefs[0]), 500);
+      // Auto-scroll to first chunk ref with 600ms delay
+      if (chunkRefs.length > 0) {
+        lastActiveChunkId = chunkRefs[0];
+        setTimeout(() => scrollToChunk(chunkRefs[0]), 600);
       }
     }
   } catch (err) {
@@ -325,6 +452,7 @@ function addMessage(role, content, chunkRefs) {
     msgDiv.querySelectorAll('.chunk-ref').forEach(el => {
       el.addEventListener('click', () => {
         const chunkId = el.dataset.chunk;
+        lastActiveChunkId = chunkId;
         scrollToChunk(chunkId);
         // On mobile, switch to doc tab
         if (window.innerWidth <= 768) {
@@ -336,7 +464,6 @@ function addMessage(role, content, chunkRefs) {
 }
 
 function formatBotMessage(text) {
-  // Escape HTML first
   let html = escapeHtml(text);
 
   // Replace [chunk-XXX] with clickable pills
@@ -344,7 +471,6 @@ function formatBotMessage(text) {
     const chunkId = `chunk-${num}`;
     const chunk = CHUNKS.find(c => c.id === chunkId);
     const label = chunk ? chunk.section : `Forrás ${num}`;
-    // Truncate long section names
     const shortLabel = label.length > 30 ? label.substring(0, 28) + '...' : label;
     return `<span class="chunk-ref" data-chunk="${chunkId}" title="${escapeHtml(label)}">&#x1F4C4; ${escapeHtml(shortLabel)}</span>`;
   });
@@ -384,9 +510,17 @@ function scrollToChunk(chunkId) {
   const el = docContent.querySelector(`#${CSS.escape(chunkId)}`);
   if (!el) return;
 
-  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  // Calculate offset within the scrollable container
+  const containerRect = docContent.getBoundingClientRect();
+  const targetRect = el.getBoundingClientRect();
+  const scrollTop = docContent.scrollTop + (targetRect.top - containerRect.top) - (containerRect.height / 3);
 
-  // Highlight animation
+  docContent.scrollTo({
+    top: scrollTop,
+    behavior: 'smooth'
+  });
+
+  // Highlight animation – 2 seconds
   el.classList.add('chunk-highlight');
   setTimeout(() => el.classList.add('fade'), 100);
   setTimeout(() => {
@@ -429,7 +563,6 @@ function initDivider() {
     }
   });
 
-  // Touch support
   divider.addEventListener('touchstart', (e) => {
     isDragging = true;
     divider.classList.add('active');
@@ -471,6 +604,11 @@ function switchTab(tab) {
 
   document.querySelectorAll('.panel').forEach(p => p.classList.remove('active-tab'));
   document.querySelector(`.panel[data-tab="${tab}"]`).classList.add('active-tab');
+
+  // When switching to doc tab and there's an active chunk, scroll to it
+  if (tab === 'doc' && lastActiveChunkId) {
+    setTimeout(() => scrollToChunk(lastActiveChunkId), 300);
+  }
 }
 
 // ========== QUICK QUESTIONS ==========

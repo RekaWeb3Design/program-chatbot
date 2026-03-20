@@ -249,9 +249,13 @@ function processDocument() {
       }
       currentH1 = title;
       currentSection = title;
+      // Display name overrides
+      const displayTitle = title === 'Magyarország nem működik'
+        ? 'Magyarország helyzete'
+        : title;
       const tocId = currentH1Num ? `toc-${currentH1Num}` : `toc-h1-${i}`;
-      tocEntries.push({ level: 1, title, id: tocId, num: currentH1Num });
-      htmlParts.push(`    <h1 id="${tocId}">${escapeHtml(title)}</h1>`);
+      tocEntries.push({ level: 1, title: displayTitle, id: tocId, num: currentH1Num });
+      htmlParts.push(`    <h1 id="${tocId}">${escapeHtml(displayTitle)}</h1>`);
       continue;
     }
 
@@ -345,6 +349,15 @@ function processDocument() {
   // Also write to public/data/ for the frontend
   fs.writeFileSync(PUBLIC_CHUNKS_PATH, chunksJson, 'utf-8');
   fs.writeFileSync(PUBLIC_DOCUMENT_PATH, documentHtml, 'utf-8');
+
+  // Write body-only content as JSON (avoids Cloudflare Pages pretty URL issues with .html)
+  const bodyStartIdx = documentHtml.indexOf('<div class="doc-title">');
+  const bodyEndIdx = documentHtml.indexOf('\n</body>');
+  const bodyContent = bodyStartIdx >= 0 && bodyEndIdx >= 0
+    ? documentHtml.substring(bodyStartIdx, bodyEndIdx)
+    : documentHtml;
+  const contentJsonPath = path.join(__dirname, '..', 'public', 'data', 'document-content.json');
+  fs.writeFileSync(contentJsonPath, JSON.stringify({ html: bodyContent }), 'utf-8');
 
   // Write TOC data as JSON
   const tocPath = path.join(__dirname, '..', 'public', 'data', 'toc.json');

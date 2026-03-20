@@ -1,11 +1,2591 @@
-# IDE ILLESZD BE A TISZA PÁRT 2026-OS PROGRAMJÁNAK TELJES SZÖVEGÉT
+# A MŰKÖDŐ ÉS EMBERSÉGES MAGYARORSZÁG ALAPJAI
 
-Ez egy placeholder fájl. Cseréld ki a teljes program szövegére markdown formátumban.
+2026
 
-A feldolgozó script (process_doc.js) a következő formátumot várja:
+„Lépésről lépésre, tégláról téglára visszavesszük a hazánkat, és építünk közösen egy békés, emberséges, európai és élhető Magyarországot."
 
-- # FŐCÍM → h1 fejléc
-- ## Alcím → h2 fejléc
-- » szöveg → bullet point
-- Normál bekezdés → p tag
-- Oldalszám formátum: szám a sor elején, majd nagybetűs cím (pl. "123  FEJEZET CÍM")
+
+TALPRA, MAGYAROK! „Felelős ministériumot Buda-Pesten” követelték a márciusi ifjak 12 pontjukban. Mi sem érhetjük be kevesebbel: az országnak és az országért felelős kormány alakítását ajánljuk Magyarországnak, minden magyar embernek. Ezzel tartozunk az őseinknek, és ezzel tartozunk a gyermekeinknek és unokáinknak is. A több mint ezeréves magyar történelem talán legnagyobb lehetőségét hozta el az elmúlt három és fél évtized: korábban soha nem látott módon együtt álltak a csillagok: a demokrácia, a függetlenség, a nyugati szövetséghez tartozás, a gazdasági fejlődés és a társadalmi jólét esélyei. Ma azonban azzal kell szembenéznünk, hogy ezeket a lehetőségeket az elmúlt évtizedek politikai elitje nemhogy kihasználatlanul hagyta, de felelőtlenségével és önzésével eljátszotta. Ez hiba és bűn. Az áprilisi választáson az utolsó esély áll előttünk, hogy a hibákat közösen kijavítsuk, az ellopott jövőnket pedig visszavegyük a nemzet egésze számára. A bűnöket ki kell vizsgálni, és mielőbb meg kell kezdődnie a szigorúan törvényes felelősségre vonásnak: nem lehetünk örökké következmények nélküli ország. Nem lophatja el tőlünk senki sem még egyszer a demokráciát és a közvagyont. Se az egyiket, se a másikat, se a kettőt együtt. Közösen véget vetünk az Orbán–Gyurcsány-korszaknak, a felelőtlenségre és a köztörvényes bűnökre épülő hatalomgyakorlás korának. Magyarországon mindenki tudja, bárki láthatja, hova jutottunk az utóbbi két évtizedben. Hétköznapi tapasztalat a széteső egészségügy, amit a benne dolgozók hősies munkája tart még úgy-ahogy egyben. Ugyanez a helyzet a közoktatással, az egyetemekkel, a vasúttal és a szociális ellátórendszerrel. A gazdaság évek óta egy helyben áll, egyetlen dinamikusan növekvő ágazata van: az infláció.  Alacsonyak a bérek, napi probléma az élelmiszer- és a gyógyszervásárlás, a rezsi és a hiteltörlesztések kifizetése. Ez a kiszolgáltatottság, a megrendült biztonságérzet a mai magyar valóság, amit mindenki lát, aki nem páncélozott autóban járja az országot. Aki teheti, már máshol él vagy arra készül, hogy biztosabb megélhetésre leljen, pedig ők is szeretik a hazájukat és a családjukat. Mégis kivándorlóország lettünk, amely sokaknak nem kínál perspektívát, csak szomorúságot. Eközben azok, akik elrabolják a magyar társadalomtól az anyagi biztonságot és a jövő formálásának esélyét, nem elégszenek meg még ezzel sem: az együvé tartozás érzését is elveszik. A hatalomgyakorlás ma arra épül, hogy megosztja az országot, magyart magyar ellen fordít, határokon innen és túl. Ez a megosztottság felemészti az erőnket. Ahogyan értékes energiákat rabol el tőlünk az is, hogy a távozó magyar kormány az ország nyugati szövetségeseivel szemben politikai háborút visel és veszélyes függésbe sodorja Magyarországot a keleti önkény uralmakkal, amelyeknek a kívánságait lesi, és feltétel nélkül teljesíti. De ennek most vége van. 2026. április 12. a változás napja lesz. Két évvel ezelőtt a magyar emberek a kezükbe vették a sorsukat. A
+
+
+gazdaság válsága, a széteső közszolgáltatások, az ellopott közvagyon, a hatalom döbbenetes erkölcstelensége láttán kimondták: Elég volt! A TISZA ennek a társadalmi mozgalomnak a szolgálatát vállalta, hogy a hosszú tűrés időszaka után a megfontolt de határozott változás vegye végre kezdetét. Senkinek sem kell félnie a demokráciát, az igazságosságot és a szabadságot követelő, határozott de a béke és a törvényesség útját járó mozgalomtól. Nem kell félteni tőlünk az országot: nagyon fogunk vigyázni a hazára, hiszen a miénk. Mindenkié, akárkire szavaz, bárhol él, bármilyen a származása vagy az anyagi helyzete. A hazát csak az szolgálhatja, aki mindenkit szolgál. Visszavesszük a nemzet, az egész társadalom számára Magyarországot, és rendezzük végre közös dolgainkat. Az egész ország kormányát fogjuk megalakítani április 12-e után, amely minden magyart szolgál, baloldalit és jobboldalit, konzervatívot, liberálist és szociáldemokratát. Partnerségben maradunk az emberekkel, hallgatni fogunk a véleményükre, hiszen őket kell szolgálnunk. Az új kormány azzal foglalkozik majd az első perctől fogva, amivel megbízták, amit elvárnak tőle és ami hasznos az egész országnak. Azonnal nekifogunk az egészségügy, az oktatás, a szociális rendszer, a gyermekvédelem, a közösségi közlekedés rendbetételének. Hazahozzuk az uniós pénzeket, hogy ismét lehetőségekhez jussanak a magyar vállalkozások, és az európai felzárkózás mindenki számára elérhetővé váljon. Lépéseket teszünk a gazdaság beindítására, véget vetünk a stagnálás, az egy helyben toporgás éveinek. Megkezdjük a vagyonvis�szaszerzést, az ellopott közjavakat ismét a társadalom szolgálatába állítjuk. Haladéktalanul újjáépítjük a jogállamot, az önkény helyett a közérdeket állítjuk a középpontba. A hatalommal való visszaélés és az államilag szervezett lopás felelőseit nem védi majd többé a politikai hatalom. Az igazságszolgáltatásnak egyetlen célja lesz: el kell végeznie törvényes feladatát. Helyreállítjuk Magyarország nemzetközi tekintélyét, nyugati szövetségi rendszerét: partnerségen alapuló tiszteletet teremtünk és szövetségeket építve erősítjük Magyarország szuverenitását. Nem a nagyhatalmak előtti hajbókolás, hanem a megfontoltan kialakított, szilárdan képviselt nemzeti érdek lesz az új kormány külpolitikájának az alapja. Április 12-én egyszer és mindenkorra véget vetünk az elszalasztott lehetőségek korszakának, a hanyatlásnak, az önkénynek és a közjavak szétlopásának. Az egész ország, az egész nemzet kormányát alakítjuk meg, a szabadság szülte rend demokráciáját hozzuk létre, az ország felemelkedését és a társadalom minden tagjának előrelépését fogjuk szolgálni. Politikánk alapja, hogy mindannyian szeretjük a hazánkat és mindannyian magyarok vagyunk. Újra megragadjuk a demokrácia, a függetlenség, az Európához való tartozás, a gazdasági fejlődés és a társadalmi jólét esélyét. Ez a felelős kormányzás célja, a felelős kormány iránytűje, a TISZA választási programja. Magyar Péter
+
+
+Rendszerváltás békésen, felelősséggel Pótolnunk kell mindazt, amit a rendszerváltás óta eltelt több mint 35 évben a magyar politikai elit elmulasztott. Előbb az egymást váltó jobb- és baloldali kormányok látványos csatáinak színfalai mögött megkötött háttéralkuk, majd pedig az elmúlt 16 év egyeduralma és önzése tette tönkre az országot. Eljött az idő, hogy végre közösen felépítsük a működő és emberséges Magyarországot. Ma Magyarországon nem működik az állam. A kormány cserben hagyta saját polgárait, elárulta a külhoni magyarokat, és kiárusította az országot azért, hogy egy néhány ezer fős elit határtalan gazdagodását biztosítsa. Ennek egyszer és mindenkorra véget kell vetni. Küldetésünk az új, működő, igazságos, emberséges és sikeres Magyarország felépítése, ahol minden magyar békében, biztonságban, jólétben, élhető környezetben, szabadon élhet, és ahol mindenkinek van beleszólása az ország jelenébe és jövőjébe. Célunk a valódi rendszerváltás végrehajtása – békésen, felelősséggel. Békés rendszerváltásra készülünk. Olyan átalakulásra, amely társadalmi szövetségkötésen alapul: a dolgozókkal, a vállalkozókkal, a fiatalokkal, az idősekkel, a különböző egyházak híveivel, a különböző nemzetiségekhez és kisebbségekhez tartozókkal, a vidéken és városban élőkkel egyaránt. A béke nem a változás hiányát jelenti, hanem azt, hogy a változás kiszámítható és igazságos. Közösen vállaljuk az átalakulással járó nehézségeket, és közösen élvezzük annak gyümölcseit. A jelenlegi kormány a változatlanságban hisz. Több mint egy évtizede azzal kampányol, hogy „Folytatjuk!”. Nem véletlen, hogy a leköszönő hatalomnak nincs programja, nem tesz vállalásokat az ország jövőjére vonatkozóan: a leírtak könnyen számonkérhetők lennének rajtuk. Mi teljesen más módon állunk a kormányzáshoz. Tudjuk, hogy változásra van szükség. Világosan, közérthetően bemutatjuk, hogy hogyan látjuk hazánk helyzetét, milyen jövőt képzelünk el, milyen problémákat azonosítunk, amelyek nehezítik a jövőkép elérését, és hogy milyen vállalásokat teszünk, amelyeket megvalósítunk kormányra kerülésünk után.
+
+
+A működő és emberséges Magyarország alapjait több mint ezer szakértő és számos szakmai szervezet bevonásával dolgoztuk ki, és a mindennapi élet legfontosabb kérdéseire adunk benne válaszokat. A békés rendszerváltás kézzelfogható eredményeit az emberek közvetlenül fogják érezni:
+» Megőrizzük a békét, és biztonságos, bevándorlóktól mentes ország maradunk.
+» Jó minőségű, mindenki számára hozzáférhető, ingyenes állami egészségügyet hozunk létre. Csökkentjük a várólistákat és az orvos- és ápolóhiányt.
+» Beindul a gazdaság, mert hazahozzuk az uniós forrásokat, és helyreállítjuk a befektetői bizalmat. A TISZA kormányra lépésével évente és fejenként 450 ezer forinttal több pénz jut majd a magyar embereknek ahhoz képest, mint ha a jelenlegi kormány maradna hatalmon.
+» Gondtalan fejlődést biztosítunk a gyermekeknek, megtartjuk és kibővítjük a jelenlegi családtámogatási rendszert.
+» A csökkenő adók és az alacsonyabb infláció mindenkinek érezhető könnyebbséget fognak jelenteni a mindennapokban. Több pénz marad a családoknál, növekednek a bérek és a szociális juttatások. Nem csak csökkentjük az adókat, de igazságosabb is lesz az adórendszer, és a tisztes megélhetéshez elegendő lesz a megemelt és értékálló nyugdíj.
+» Korszerűbb, megbízhatóbb, gyorsabb és tisztább lesz a busz- és a vonatközlekedés, a közutak minősége érezhetően javulni fog.
+» Az oktatás nemzetstratégiai jelentőségű ágazat lesz, az iskola a gyermekek igényeire lesz szabva, az együttműködés szeretetére nevel majd. A pedagógusokat megbecsüljük, óraterhelésüket csökkentjük, partnernek tekintjük őket.
+» Végre senkinek nem kell attól félnie, hogy a véleménye, hovatartozása miatt hátrány éri az életben, mert helyreállítjuk a jogállamot és a valódi demokráciát.
+
+
+Út a működő és emberséges Magyarországig Az elmúlt években gyakran hallottuk: „repülőrajtot vesz az ország, fantasztikus évünk lesz”. Gyors felemelkedést, látványos sikereket, azonnali eredményeket ígértek nekünk. De amit kaptunk, az valójában helyben járás volt – sőt visszalépés. Egy ország ugyanis nem repülőgép. A legtöbb ország inkább olyan, mint egy hatalmas teherhajó: nehézkesen indul, lassan áll meg, és csak idővel képes új irányt venni. Ez a tehetetlenség azonban nálunk nem csak a méretből fakad. Magyarország tehetetlenségének nagy része tanult tehetetlenség. Olyasmi, amit évtizedek alatt építettek belénk – a szocialista rendszer alatt, majd a rendszerváltás utáni elhibázott kormányzások során, és különösen az elmúlt 16 évben. Mi másképp látjuk Magyarországot. Számunkra hazánk nem irányíthatatlan monstrum, hanem gyors mozgású, korszerű, modern vitorlás. Olyan hajó, amely, ha végre jó kezekbe kerül – motivált kapitánnyal, elszánt legénységgel az élén és sokszínű, elkötelezett csapattal a háta mögött –, villámsebesen képes száguldani, és bármilyen versenyben előkelő helyen tud végezni. De minden verseny előtt hosszú a felkészülés és hosszú a győzelemhez vezető út is. Nem szeretnénk senkit hamis vágyálmokba ringatni. Ne várja senki, hogy a választás másnapján megszűnnek a kórházi várólisták, hogy háromszázzal fognak robogni a vonatok, és hogy azonnal mindenkinek kétszeresére nő a fizetése. De azt ígérhetjük, hogy már az első napokban érezhetővé válik a fordulat. A választások másnapján fellélegezhet mindenki, aki szabad, biztonságos, európai, korrupciómentes, stabil morális alapokon álló, fejlődő és élhető országra vágyik. Olyan intézkedéseket hozunk, amelyek világossá teszik: új korszak kezdődik.
+
+
+Az első intézkedések azonnal érezhető változást hoznak.
+» Leállítjuk a további károkozást, felfüggesztjük a hátrányos szerződéseket, beszerzéseket.
+» Zéró toleranciát hirdetünk a korrupció minden formájával szemben.
+» Feltárjuk az elrejtett valóságot, és bemutatjuk azt a közvélemény számára: a gazdaság, az egészségügy és az oktatás valós állapotát, a titkos kormányhatározatokat, hazai és nemzetközi szerződéseket, hitelfelvételeket, eltitkolt megállapodásokat.
+» Nemzetbiztonsági átvilágítást követően nyilvánosságra hozzuk a 2010 és 2026 közötti kormányülések összefoglalóit.
+» Nyilvánosságra hozzuk a Magyar Nemzeti Bank Matolcsy György elnöksége alatti vagyonkezeléséhez kapcsolódó teljes iratanyagot.
+» Felállítjuk a Nemzeti Vagyonvisszaszerzési és Védelmi Hivatalt, és teljes erővel elkezdjük az elmúlt 20 év korrupciós ügyeinek, gazdasági és politikai visszaéléseinek a feltárását.
+» Helyreállítjuk a fékek és ellensúlyok rendszerét. Újraalkotjuk az állam jogszerű működését garantáló intézmények rendszerét.
+» Hazahozzuk a befagyasztott uniós forrásokat, és elkezdjük beindítani a gazdaságot.
+» Elindítjuk az adócsökkentési, a nyugdíjemelési és a szociális támogatások megemelésére vonatkozó programunkat.
+» Elkészítjük az állami vagyonkatasztert, feltárjuk és nyilvánossá tesszük a tényleges magyar államvagyont.
+» Évente minimum 500 milliárd forinttal emeljük az egészségügyre fordított állami kiadásokat. Ösztöndíjprogramokat indítunk a hiányszakmákban.
+» Radikálisan átalakítjuk a Klebelsberg Központ működését és hatáskörét, visszaadjuk a tanárok megbecsülését, és az iskolaigazgatók érdemi munkáltatói és gazdálkodói jogosítványokat kapnak.
+» Az oktatási miniszter, az egészségügyi miniszter, az igazságügyi miniszter és a pénzügyminiszter vétójogot kap a kormányzati döntéshozatali mechanizmusban.
+» Felderítjük az elmúlt évtizedek gyermekvédelemmel kapcsolatos bűncselekményeit független, parlamenti felhatalmazású vizsgálóbizottsággal és szakértők bevonásával.
+» Helyreállítjuk a nemzetközi kapcsolatrendszerünket hagyományos szövetségeseinkkel (Visegrádi Négyek, Európai Unió, NATO).
+» Leállítjuk az Európai Unióból való kisodródásunk folyamatát, a közösség megbecsült, azt véleményével konstruktívan formáló, iránymutató tagjává válunk.
+» Jelentést készítünk a nem szövetségesi külföldi befolyás mértékéről nemzetbiztonsági és nemzetgazdasági tekintetben.
+» Csatlakozunk az Európai Ügyészséghez.
+» Helyreállítjuk a demokratikus jogállami működést.
+
+
+» Megszüntetjük a politikai propagandát, visszaállítjuk a közmédia szabadságát és pártpolitikától való függetlenségét. A kormányalakítást követően azonnal felfüggesztjük a közmédia hírsugárzását, és csak azután indítjuk újra, miután megteremtettük a független, objektív hírszolgáltatás feltételeit.
+» Megszüntetjük a politikai befolyást az állami intézményekben és cégekben.
+» Visszaadjuk az önkormányzatok elvett hatásköreit és intézményeit, biztosítjuk a fenntartáshoz szükséges forrásokat.
+» Megnyitjuk az ügynökaktákat.
+» Elindítjuk a nemzeti megbékélés programját.
+» Megalkotjuk a működő és emberséges Magyarország költségvetését. A működő és emberséges Magyarország alapjaiban részletesen bemutatjuk az összes vállalásunkat. Az eredményeket hónapról hónapra, évről évre átfogóan ismertetjük. A program végrehajtásával hazánk a régió éllovasává válik, ahol jó megszületni, élni, családot alapítani, gyermeket nevelni és méltóságban megöregedni. Ez lesz a működő és emberséges Magyarország. Hogyan lesz minderre pénz? Vállalásaink megvalósítása sokba kerül, de a működő és emberséges Magyarországot jól működő gazdaság, hatékonyság és folyamatos gyarapodás jellemzi majd, amely képes kitermelni a szükséges kiadásokat. Az első időszakban egyszerre fogjuk sikeresen beindítani a gazdaságot és elindítani az adócsökkentési, nyugdíjemelési és szociáliskiadás-növelési programunkat, illetve az ágazati béremeléseket. Magyarország elfogadott költségvetése 2026-ban valamivel kevesebb mint 43,8 ezer milliárd forint, a GDP-je pedig várhatóan 90-92 ezer milliárd forint körül alakulhat, a gazdaság teljesítményétől függően. Joggal merül fel a kérdés: ki lehet ebből mindezt fizetni? A válasz röviden: igen.
+
+
+Természetesen ez nem lesz egyszerű feladat. Senkinek ne legyen kétsége afelől, hogy a jelenlegi kormány mindent el fog követni azért, hogy az utolsó pillanatig folytassa a közpénzek szemérmetlen eltulajdonítását. Ma még nem tudjuk, hogy milyen titkos hitelmegállapodásokkal és szerződésekkel fogunk szembesülni kormányzásunk első napjaiban. De egyet biztosan tudunk: ha egy egész ország úgy dönt, hogy valamire szeretne pénzt áldozni, annak meg lehet találni a forrását. És ha a politika célja nem a lopás, hanem az ország fejlesztése tisztességes módszerekkel, felelős gazdálkodással, akkor nagy dolgokat lehet elérni. A korrupció felszámolásával, a propaganda megszüntetésével, az indokolatlan állami presztízsberuházások és túlárazott közbeszerzések leállításával évente akár több ezer milliárd forintot lehet megtakarítani. A befektetői bizalom helyreállásával csökkenni fognak az államadósság kamatterhei, ami az első időszakban 150-200 milliárd forint kiadáscsökkenést jelent, néhány év után ez a csökkenés meghaladhatja az évi 1000 milliárdos összeget is évente. A bevételi oldalon számítunk a nekünk járó, de a jelenlegi kormány korrupt működése miatt befagyasztott 8000 milliárd forintnyi uniós forrásra. A következő uniós költségvetési ciklus pénzeinek sikeres lehívása 2028–29-től évente mintegy 2000 milliárd forinttal járul hozzá hazánk növekedéséhez. A bevételi oldalt fogja gyarapítani a milliárdosok vagyonadója több száz milliárd forint értékben, valamint az ellopott közvagyon visszaszerzéséből és hasznosításából befolyt összegek, szintén száz- vagy akár ezermilliárdos értékben. A gazdasági növekedés beindulásával pedig tovább nő a gazdálkodási mozgásterünk, hogy megvalósíthassuk A működő és emberséges Magyarország alapjaiban foglalt célkitűzéseket. Minden 1 százalékpontnyi GDP növekedés hozzávetőlegesen 400-450 milliárd forinttal növeli az állam bevételeit. 3-4%-os növekedésnél már ez is évi 1200-1800 milliárd forint többletbevételt jelent. A fenti tényezők összesen hozzávetőlegesen a GDP 3,5-4,5%-ával, 3400-4300 milliárd forinttal növelik évente a TISZA-kormány mozgásterét. Ez minden egyes állampolgár számára 450 ezer forinttal több pénz – évente. A működő és emberséges Magyarország megvalósítása nem pénzkérdés, hanem politikai akarat kérdése. 2026. április 12-én arra kérünk felhatalmazást, hogy LÉPÉSRŐL LÉPÉSRE, TÉGLÁRÓL TÉGLÁRA visszavegyük a hazánkat, végrehajtsuk a valódi rendszerváltást, és építsünk közösen egy békés, igazságos, működő és emberséges Magyarországot.
+
+
+# Alapvető értékeink
+
+Béke, biztonság és stabilitás A béke oldalán állunk, elutasítjuk a háborút és az erőszak minden formáját. Hiszünk abban, hogy a társadalmi jólét alapja a nyugalom, a fizikai és gazdasági biztonság, valamint a kiszámítható intézményi működés. Stabilitás nélkül nincs tervezhető jövő. Tudás és egészség A jól működő, mindenki számára elérhető oktatási és egészségügyi rendszer a társadalom közös erőforrása. A tudás és az egészség nem luxus, hanem a lehető legjobb befektetés a jövőbe. Hazaszeretet és hagyománytisztelet A hazaszeretet nem kizár, hanem összeköt. Erősíti a közös értékeket, a történelmi emlékezetet és a kollektív elköteleződést a közjó iránt. A hagyományok tisztelete a közös jövő építésének alapja – nem a megosztás eszköze. A közös értékeink, a nemzeti és európai hagyományaink tiszteletére épített haza minden polgár otthona. Teljesítmény és tisztességes verseny A teljesítmény azt jelenti, hogy a legjobb tudásunk szerint, átlátható és felelős módon, az erőforrásaink hatékony felhasználásával érjük el céljainkat. A tisztességes verseny biztosítja, hogy mindezt olyan környezetben tegyük, ahol az esélyek egyenlőek. Társadalmi összetartozás és szolidaritás A felelős, minden tagjáért kiálló társadalomban hiszünk. A szolidaritás a stabilitás alapja. A közösség ereje abban rejlik, hogy tagjai számíthatnak egymásra. Nemzeti szuverenitás A szuverenitás azt jelenti, hogy az ország külső befolyástól mentesen határozhat a saját jelenéről és jövőjéről. Egy valóban független nemzet esetében a legfőbb döntések joga és felelőssége a nemzeti intézmények kezében van, a nép felhatalmazásával és érdekei szerint. Átláthatóság és elszámoltathatóság A közbizalom alapja az átlátható, számonkérhető, felelős döntéshozatal. Az állami és önkormányzati döntéseknek világosnak, követhetőnek és indokoltnak kell lenniük. A jó és a rossz döntések következményei egyértelműek és azokat minden esetben érvényesítjük – magunkon is.
+
+
+Méltányosság és igazságosság Mindenki szükségletei és lehetőségei szerint részesüljön a közjavakból! Nem az önkényes, politikai alapon történő újraelosztásban, hanem az igazságos hozzáférés biztosításában hiszünk. Az elmúlt évek rendszerszintű társadalmi igazságtalanságainak felszámolásához méltányosságra van szükség. Esélyteremtés és esélyegyenlőség Az egyenlő hozzáférés biztosítja azt, hogy minden magyarnak ugyanannyi esélye legyen a boldog élethez. Alapvető fontosságú számunkra, hogy a származása, lakóhelye, kora, politikai nézetei, anyagi, egészségi vagy társadalmi helyzete senki elől  ne zárja el a felemelkedés útját. Fenntarthatóság és hosszú távú szemlélet A jövő generációk jólétét figyelembe vevő kormányzásra van szükség, amely politikai ciklusokon átívelően képes a társadalmi, gazdasági és környezeti egyensúlyt, a fenntarthatóságot és a területi felzárkóztatást biztosítani. Elkötelezettek vagyunk amellett, hogy a döntések kutatásokon és hatásvizsgálatokon alapuljanak. Felelősségmegosztás és részvételiség Hiszünk a közösségek erejében. A hatékony, igazságos és méltányos döntéshozatal ott van a legjobb helyen, ahol a problémák felmerülnek. Fontos számunkra, hogy a döntések az érintettek bevonásával, hozzájuk a lehető legközelebb szülessenek, és mindenki vállalja a felelősséget a döntéseiért. Elfogadás, tisztelet és szabadság Minden ember egyenlő. Az elfogadás annak elismerése, hogy minden embernek helye és értéke van a közösségben. A tisztelet azt jelenti, hogy mások méltóságát és jogait minden körülmények között figyelembe vesszük. A szabadság pedig biztosítja, hogy mindenki önmaga lehessen, felelősen élve a döntési lehetőségeivel.
+
+
+# Magyarország nem működik
+
+A világ drámai sebességgel változik körülöttünk A 21. században a világ olyan sebességgel változik, amire korábban nem volt példa. „Összesűrített évszázadban” élünk: tíz év alatt annyi változás történik, mint korábban száz év alatt. Ebben a felgyorsult korszakban a tudás, a kreativitás, a technológiai felkészültség és a gyors alkalmazkodás minden eddiginél nagyobb értéket képvisel. A gazdaság szerkezete alapjaiban alakul át: szakmák tűnnek el, újak születnek, sokszor olyan gyorsan, hogy a ma iskolapadban ülő fiatalok jelentős része olyan munkát fog végezni, ami ma még nem is létezik. A világ demográfiai térképe átrajzolódik. A fejlett országokban – köztük Magyarországon – súlyosan elöregedő társadalmakat látunk. Ma minden ötödik magyar 65 év feletti, 2050-re arányuk elérheti a 30%-ot. Ezzel szemben Afrikában még mindig tart a népességrobbanás: 2050re a kontinens lakossága megduplázódik, elérve a 2,5 milliárd főt. A klímaváltozással együtt ez komoly migrációs nyomást helyezhet Európára, ami könnyen kezelhetetlenné válhat, ha nem sikerül megoldást találni helyben, Afrikában. A nemzetközi erőviszonyok átrendeződnek, és egyelőre Európa inkább vesztese, mint nyertese ennek a változásnak. Ha az Európai Unió nem vált sebességet, kieshet a világ meghatározó hatalmi központjai közül, és a döntések Washingtonban, Moszkvában, Pekingben és Delhiben születnek majd – nem nálunk. A világ gazdasági súlypontja gyorsan tolódik keletre, legalábbis a következő években. Kína GDP-je vásárlóerő-paritáson már meghaladja az Unióét, India pedig 2030-ra a harmadik legnagyobb gazdaság lehet. A demográfia ugyanakkor Kína ellen dolgozik, az ottani társadalom is rohamosan öregszik. A technológiailag meghatározó és lényegesen alacsonyabb átlagéletkorú USA vezető szerepe stabil. A technológia példátlan ütemben fejlődik. A mesterséges intelligencia 2030-ra akár 15,7 billió dollárral növelheti a világgazdaságot, miközben Magyarországon a munkahelyek közel 30%-át érintheti az automatizáció. A kvantum-számítástechnika milliószoros teljesítménye új lehetőségeket és kockázatokat hordoz az iparban, az egészségügyben és a kiberbiztonságban. A génszerkesztés, a nanorobotok és az anyagtudományok fejlődése pedig olyan dolgok létrehozását teszik lehetővé, amelyek korábban a sci-fi birodalmába tartoztak. De a technológia nem csak pozitív változásokat hoz, káros hatásai már most is érzékelhetők. A közösségi médiát működtető algoritmusok rabul ejtik az embert, a mesterséges intelligencia korlátlan használata leszoktat a gondolkodásról, a hamisított videók és álhírek pedig felismerhetetlenné teszik a határt az igazság és a hazugság között. A klímaváltozás itt van: a 2022-es, történelmi aszály ezermilliárdos kárt okozott a magyar mezőgazdaságnak, és azóta is egyre forróbbak a nyarak. A világban párhuzamosan több háborús konfliktus is zajlik, többek között az orosz–ukrán háború, közvetlenül a szomszédunkban. A geopolitikai helyzet rég nem volt ennyire feszült, mint napjainkban.
+
+
+Ezek a folyamatok összefonódnak és erősítik egymást. Egy ország, amely nem jól reagál, könnyen a 21. század vesztese lehet. Hazánk súlyos válságban van A rendszerváltás történelmi esélyt adott Magyarországnak, hogy európai, szabad és fejlődő pályára álljon. Ezzel a lehetőséggel azonban az elmúlt évtizedekben nem tudtunk élni. Az elmúlt 16 év kétharmados kormányzása soha nem látott mélységbe taszította hazánkat, súlyos gazdasági, társadalmi, biztonsági, környezeti, politikai és morális válságot hozott létre. A gazdasági válság nem csupán a statisztikákban, hanem a mindennapokban is jelen van. Évek óta nincs gazdasági növekedés, a megélhetés napról napra nehezebb. A népesség rohamosan fogy, a társadalom szövete szétesőben van. A közszolgáltatások nem működnek megfelelően, nem csökkentik, hanem növelik az egyenlőtlenségeket. Magyarországon megrendült a mindennapi biztonság érzete. A szomszédunkban háború dúl, és az állam nem képes kiszámítható védelmet nyújtani a polgárainak sem gazdasági, sem szociális, sem intézményi értelemben. Környezetünk pusztul, egymást érik a rendkívül szennyező akkumulátoripari beruházások megfelelő hatósági kontroll nélkül. Levegőnk, vizeink szennyezettek, az éghajlatváltozás, a vízgazdálkodási problémák, a termőföldek pusztulása és a természeti erőforrások felelőtlen kiaknázása közvetlenül veszélyezteti az ország jövőjét. E négy súlyos válság legfőbb okozója a politikai és morális válság. Az elmúlt 16 év országot szétrabló kormányai a független intézményeket sorra meggyengítették vagy politikai ellenőrzés alá vonták. A jelenlegi kormányzás nem a társadalom egészét, hanem egy politikai elit és az azzal összenőtt oligarchák érdekeit szolgálja. Az egész, szisztematikusan felépített politikai rendszer végső célja pedig nem más, mint a politikai hatalom megtartása. Az állam jelenleg nem szolgál, hanem uralkodik. Ennek üzenete egyértelmű: nem az értékek, hanem az erő, az ügyeskedés és a lojalitás számít. Mára nyilvánvalóvá vált: Magyarországon az állam nem működik. A válságtényezők egymást erősítve ördögi kört alkotnak. A kitörés feltétele, hogy világosan megértsük e válságok természetét, és szembenézzünk azok valódi okaival.
+
+
+A hazánkat sújtó válság elemei VÁLSÁG Az Európai Unió legszegényebb országa lettünk. Magyarországon az egy főre jutó fogyasztásra költött összeg az uniós átlagnak mindössze 73%-a. Kevesebbet tudnak költeni a magyar emberek, mint a románok, a szlovákok vagy a bolgárok. A felnőtt magyarok fele kevesebb mint 300 ezer forintot kap kézhez havonta. Mi vagyunk az Unió második legkevesebbet fogyasztó országa, és minden fontosabb gazdasági mutatóban az utolsók között vagyunk. Az infláció a pénzünk felét felemésztette. Ami 2010-ben 100 forintba került, az ma közel 200-ba. A pénzünk a vásárlóértékének felét elvesztette 2010 óta. A lakások ára háromszorosára emelkedett. Az alapvető élelmiszerek esetében a drágulás még drámaibb volt. A tejföl ára például tizenötszörösére emelkedett! Repülőrajt helyett évek óta egy helyben áll a gazdaság. Az ország gazdasága 2022 óta stagnál, nem fejlődik. Miközben az árak rohamosan emelkedtek, a megélhetés egyre nehezebbé vált, a kormány rendre elvétette 3-4 százalékos, optimista növekedési céljait. A hibás természetesen mindig más volt: a háború, Brüsszel, az ellenzék – de soha nem a szinte teljhatalommal kormányzó hatalom. A hazai kkv-k helyett a multikat támogatja az állam. A hangzatos propaganda ellenére a legtöbb támogatás nem a hazai kkv-knak, hanem néhány multinak jut, akik erre nem szorulnak rá, hazánkat sokszor összeszerelő üzemként kezelik, jellemzően alacsony hozzáadott értékű munkákat és környezetszennyező tevékenységeket hoznak ide. A nehéz helyzetben lévő hazai kkv-kat a kormány sorra lehetetleníti el, és hagyja, hogy kormányközeli cégek azokat olcsón felvásárolják vagy csődbe menjenek.
+
+
+Hazánk népessége rohamosan fogy és öregszik. Soha olyan ütemben nem fogyott a népesség, mint a magát családbarátnak hazudó kormány 16 éve alatt: évente 40-50 ezer fővel vagyunk kevesebben, a lakosság száma már kevesebb mint 9,5 millió fő. A kilátástalanság, a megélhetési problémák és a nyomasztó közhangulat miatt több mint 740 ezer magyar él külföldön, és minden tizedik magyar gyermek kint születik. A közszolgáltatások minősége katasztrofális. Az oktatás, az egészségügy, a közlekedés és a többi közszolgáltatás az összeomlás szélén áll, környezetünk állapota folyamatosan romlik. Tízezrek halnak meg évente a szennyezett levegő és a rossz egészségügy miatt. A fiataloknak, különösen vidéken, alig van esélyük a felemelkedésre. Az iskolai eredmények leginkább a szülők iskolázottságától függenek: Magyarországon, aki szegény családba születik, az szegényként is hal meg. A tehetséges fiatalok gyakran nem kapnak esélyt a felemelkedésre, aki pedig teheti, elhagyja az országot. Soha ennyi fiatal nem akart még külföldre költözni. A társadalom végletesen megosztott. A kormány gyűlöletkeltő politikája a hatalom megtartása érdekében folyamatos ellenségképeket gyártva odáig süllyedt, hogy magyart a magyar ellen uszít, az időseket a fiatalok ellen, a jobboldaliakat a baloldaliak ellen, városiakat a vidékiek ellen, szétrombolva ezzel egész családokat és közösségeket, a társadalom szövetét.
+
+
+A szomszédunkban évek óta háború dúl. Az orosz–ukrán háború 2022 óta közvetlen biztonsági kockázat Magyarország számára. Az ország évek óta rendkívüli jogrendben él, ami példátlan az Unióban. A kormány a válságot belpolitikai célokra használja, nem a társadalmi ellenállóképesség erősítésére. Szuverenitásunk meggyengült. A hintapolitika gyengítette Magyarország súlyát az Unióban és a NATO-ban. Hazánk nemzeti szuverenitása veszélybe került, energiafüggőségünk magas, önellátóképességünk számos területen hiányos. Nincs jogbiztonság. Folyamatosan és kiszámíthatatlanul változó jogszabályok és állami döntések jellemzik a rendszert. Az önkényes jogalkotás és a gyenge jogérvényesítés miatt az állampolgárok és vállalkozások kiszolgáltatottá váltak, nincs meg az a jogbiztonság, amelyre a jövőt lehetne alapozni. A közbiztonság romlik. 2021 óta 154 ezerről 230 ezer fölé nőtt a regisztrált bűnesetek száma. A megélhetési gondok fokozódásával párhuzamosan nő a vagyon elleni bűncselekmények száma. Több száz településen nincs állandó rendőri jelenlét, a rendőrség túlterhelt és létszámhiánnyal küzd.
+
+
+Magyarország súlyosan vízhiányos ország, miközben vízigényes és mérgező gyárakat telepítenek ide. Magyarország különösen kiszolgáltatott: felszíni vizeink 97%-a külföldről érkezik, miközben a lehulló csapadék több mint 80%-a elfolyik az országból. Az Alföld területének közel 40%-át elsivatagosodás fenyegeti. Ennek ellenére vízhiányos régiókba telepítenek akkumulátor gyárakat, ahol egyetlen nagy üzem napi 30–40 ezer köbméter vizet igényel. A levegő- és vízszennyezés tömegek egészségét veszélyezteti. A légszennyezés miatt Magyarországon évente mintegy 13 ezer ember hal meg idő előtt, ez az egyik legrosszabb arány az Európai Unióban. A nagyvárosokban a szállópor-koncentráció rendszeresen meghaladja az uniós határértékeket, miközben több ivóvízbázis nitrát- és arzénszennyezett, tartós egészségügyi kockázatot okozva. A termőföld és az élővilág pusztulása az élelmiszerbiztonságot veszélyezteti. A magyar termőtalaj több mint fele közepes vagy rossz állapotú, szervesanyag-tartalma folyamatosan csökken. Az elmúlt 50 évben a beporzó rovarok állománya 30–40%-kal esett vissza, ami egyes térségekben 10–20%-kal alacsonyabb mezőgazdasági hozamokhoz vezetett. A hulladékgazdálkodás válsága tovább terheli a környezetet. Magyarországon a települési hulladék kevesebb mint 35%-át hasznosítják újra. Az illegális hulladéklerakók száma több ezerre tehető, a veszélyes és ipari hulladék kezelése sok esetben átláthatatlan.
+
+
+POLITIKAI VÁLSÁG A teljes régi politikai elit hitelét vesztette. A rendszerváltás utáni politikai osztály elveszítette társadalmi legitimitását. Egyre többen érzik úgy, hogy a politika, benne a kormány hatalomban tartásában kulcsszerepet játszó óellenzékkel, önérdekkövető, zárt világ, amely nem a közjót, hanem a hatalom érdekeit szolgálja. A demokratikus jogállamot felszámolták. A fékek és ellensúlyok rendszere megszűnt. A független szervezetek élére is pártkatonák kerültek, akik a párt utasítását hajtják végre. A hatalmi ágak egyensúlya megbomlott, a független intézmények politikai befolyás alá kerültek, a jogszabályokat kiszámíthatatlanul, egyéni érdekekre szabva módosítgatják. Szövetségi kapcsolataink meggyengültek. Az Unióval való folyamatos konfliktus és a kormány hintapolitikája következtében Magyarország perifériára szorult. Az ország egyre kevésbé számít megbízható partnernek Nyugaton, sodródik ki az Unióból és a NATO-ból, miközben kiszolgáltatott és lenézett Keleten. Az állam nem szolgáltat, hanem uralkodik. A nagy méretű, de alacsony hatékonyságú állam nem szolgáltat, hanem parancsol. A központi források elosztása ideológiai alapon történik. A társadalmi egyeztetés formálissá vált. A hatóságok szakmaisága elenyészett vagy nem veszik figyelembe, a politikai lojalitás az egyetlen döntési szempont.
+
+
+Hazánk az Európai Unió legkorruptabb országa. A korrupció ma nem kivétel, hanem főszabály lett, amely megbénítja a versenyt, torzítja a gazdaságot, és aláássa a közbizalmat. A kormány miatt Magyarország mostanra az Európai Unió legkorruptabb tagállamává vált, ahol a miniszterelnök családja és baráti köre ezermilliárdokkal gazdagodott saját népe kárára. Az állami propaganda éjjel-nappal hazudik. A közpénzszázmilliárdokból fizetett propaganda félrevezeti a polgárok jelentős részét. A valóságot eltorzítja, elhallgatja, megmásítja. A mi pénzünkből tartanak minket félelemben, szorongásban és fosztanak meg a szabad, objektív döntés lehetőségétől. Az intézményekbe vetett bizalom megszűnt. A százmilliárdokat jogtalanul szerző, nyilvánvaló bűnösöket nem üldözik, de a rendszert kritizálókat ellehetetlenítik. Elítélt embercsempészeket, gazdasági bűnözőket engednek szabadon, külföldi kémeket engednek be intézményeinkbe. Az állam saját állampolgárait figyeli meg, mint a szocialista időkben. Az állam a béke helyett az erőszakot támogatja. A háborús agresszor Oroszország támogatása, a propagandamédiában százmilliárdokért folytatott gyűlöletkeltés, a pedofil vagy azokat támogató bűnözők felmentése, a gyermekvédelmi intézményekben éveken át elkövetett sorozatos bűncselekmények elhallgatása mind azt mutatják, hogy az állam nem elutasítja, hanem elnézi és támogatja az erőszakot.
+
+
+A nem működő állam a számok tükrében Ennyi honfitársunknak jelent problémát, hogy télen meleget teremtsen magának, mert energiaszegénységben él. 1 MILLIÓ Ennyi gyermek él szegénységben és társadalmi kirekesztettségben. 400 EZER Tízből kilenc ember úgy érzi, nem él jó anyagi körülmények között. 9/10 Ennyi honfitársunk él szegénységben. 3 MILLIÓ Ennyi nyugdíjas él a létminimum alatt. 800 EZER 2025-ben ennyivel fizettek többet a hazai kkv-k a villamos energiáért, mint az európai átlag. 63% 50 főállású gyermekpszichiáter jut 1,8 millió gyermekre. 50/1,8 MILLIÓ Ennyi magyar lesz öngyilkos évente. Ez az Unióban a 3. legrosszabb érték. 1600 Ennyi magyar dolgozik külföldön az itthoni alacsony bérek és a jövőkép hiánya miatt. 740 EZER Ennyiből vagy kevesebből él a nagykorú magyarok fele havonta. < 300 EZER FT
+
+
+Hazánk ma katasztrofális állapotban van Ennyi hazánknak megítélt uniós fejlesztési forrás nem érkezik meg Magyarországra a kormányzat korrupt működése miatt. 8 EZER MRD FT A 44%-os uniós átlaggal szemben a 65 év feletti magyarok 72%-a szenved két vagy több krónikus betegségben. 72% Ennyivel élnek kevesebbet a magyarok (76,5 év) mint az uniós átlag (81,3 év). 5 ÉV Ennyi ember hal meg évente a szennyezett levegő miatt. 13 EZER 37,5 EZER Ennyi magyar hal meg évente a kivéreztetett egészségügyi rendszer miatt Ennyivel keres többet egy átlagos uniós közszolgálati dolgozó, mint egy magyar. 3x Egy magyar vállalat ötször több időt kénytelen adóügyi adminisztrációval tölteni, mint egy észt vállalat. Az észt vállalatok másfélszer termelékenyebbek, mint a magyarok. 5x Ma minden 10. gyermek születik külföldön. MINDEN 10. Visszafogott becslések szerint ennyit lopott el a magyar emberek által befizetett közpénzből az elmúlt 16 év velejéig korrupt rendszere. 20 EZER MRD
+
+
+A nem működő állam a számok tükrében Ennyi volt a kumulált infláció 2010 óta. Ez azt jelenti, hogy a pénzünk vásárlóértékének a felét elveszítette ez idő alatt. 99% Ennyivel lenne magasabb a nyugdíja mindenkinek, ha a kormány nem változtatta volna meg a nyugdíjszámítás szabályait, amikor államosította a magánnyugdíjpénztárakat. 70% Az átlagnyugdíj értéke 2010-ben még az átlagbér 75%-át érte, ma már alig több mint a felét. 75% VS. 53% A lakásárak 2010 óta megháromszorozódtak, ami az Unión belül az egyik legmagasabb érték. 3x Ennyire magyar él külföldön az itthoni alacsony bérek és a jövőkép hiánya miatt. 740 EZER Ennyi fővel csökkent 2010 óta hazánk népessége. Ma kevesebb mint 9,5 millió fő él Magyarországon. 0,5 MILLIÓ
+
+
+2010-ben még csak 176, ma már több mint ezer háziorvosi praxis betöltetlen. 900 ezer magyarnak nincs saját háziorvosa. 176 vs. 1010 Ennyivel nőtt 2010 óta az államadósságunk nominális értéken, 22 ezer milliárd forintról 66 ezer milliárd forintra. 44 EZER MRD FT A vasúti járműveink, mozdonyaink átlagos életkora 10 évvel nőtt 2010 óta. 25-30 ÉV VS. 40-50 ÉV Közel négyszeresére nőtt 2010 óta az államadósság után évente fizetendő kamatok nagysága. 1136 MRD FT VS. 4200 MRD FT A vasútvonalainkon az ideiglenes vagy tartós sebességkorlátozások alá eső pályák hossza 2010 óta megduplázódott. 25% VS. 50% Ennyi kórházi ágyat szüntetett meg a kormány 2010 óta. 10 EZER 2010 óta számos területen drámaian romlott a helyzet
+
+
+# Magyarország jövőképe
+
+Működő és emberséges Magyarországot építünk A hazánkat sújtó, összetett válságból csak egy módon tudunk kijutni: ha szövetségre lépünk egymással. Közösen, minden magyar bevonásával meg kell haladnunk az elmúlt évtizedek megosztottságát, és együtt kell megszüntetnünk a válság legfőbb okát: a jelenlegi állampártok és a kormány uralmát. Célunk, hogy Magyarország Kelet-Közép-Európa éllovasává váljon. Olyan országgá, amelyről mindenkinek a saját, önálló karakter, a sikeres gazdaság, a stabilitás, a rendezettség, a tisztaság, a szabálykövetés, a magabiztosság és a demokrácia jut eszébe. Mi ilyen jövőt építünk: egy működő és emberséges Magyarországot. Olyan országot építünk, ahol a bérek tisztességesek, a nyugdíjak méltó megélhetést biztosítanak, az állam nem uralkodik, hanem szolgál; ahol a bürokrácia nem gátja, hanem támogatója az emberek boldogulásának. Célunk, hogy Magyarország gazdag és sikeres ország legyen, ahol a fejlődés és a növekedés mindenki számára elérhető. Békés és rendezett ország megteremtésén dolgozunk, amely biztonságot, stabilitást és kiszámíthatóságot ad az emberek mindennapi életéhez. A működő és emberséges Magyarország számunkra azt is jelenti, hogy ra támaszkodva biztosítja gyermekeink jövőjét. Végül, de nem utolsó sorban szabad és boldog ország felépítésén dolgozunk, ahol a társadalmi jólét és a személyes szabadság kéz a kézben jár, és mindenki méltó életet élhet. A működő és emberséges Magyarországnak ez a négy alapvető pillére megkérdőjelezhetetlen. Minden energiánkkal ezek megvalósításán fogunk dolgozni, minden vállalásunk és intézkedésünk e négy pillér köré fog szerveződni, és ezek adják majd közös jövőnk biztos alapját.
+
+
+FENNTARTHATÓSÁG ÉS JÖVŐÁLLÓSÁG „Tiszta és haladó ország.” TÁRSADALMI JÓLÉT ÉS JÓLLÉT „Szabad és boldog ország.” ÉS STABILITÁS „Békés és rendezett ország.” FEJLŐDÉS ÉS NÖVEKEDÉS „Gazdag és sikeres ország.”
+
+
+A működő és emberséges Magyarországon a bérek és nyugdíjak fedezik a tisztességes megélhetés költségeit, a milliárdosok kivételével mindenki kevesebb adót fizet, és évről évre úgy érezzük, hogy jobban élünk. A működő és emberséges Magyarországon tudásalapú, versenyképes gazdaság működik. Az egy főre eső nemzeti össztermék és fogyasztás tekintetében európai sereghajtókból a kelet-közép-európai régió élmezőnyébe kerülünk. A működő és emberséges Magyarországon gazdaságunk a jelenleginél lényegesen magasabb termelékenységű, hatékony és magas hozzáadott értékű. Tudásalapú gazdaságunk a nemzetközi értékláncokban fontos, megkerülhetetlen szereplő. A fejlesztéspolitika tudatosan célzott és innovatív, hazai értékláncokat épít. Oktatási, képzési és finanszírozási rendszereink ehhez igazodnak. Összeszerelő üzemek és környezetromboló akkumulátorgyárak helyett az emberekbe és a tudásba fektetünk, nem vendégmunkásokkal benépesített gyárakat, hanem magyarokat foglalkoztató innovációs és fejlesztőközpontokat, szolgáltatásokat építünk. A működő és emberséges Magyarországon a magyar vállalkozások sikeresek, képesek fejlődni, növekedni, és nemzetközileg is képesek terjeszkedni. Az állami szerep nem a piac helyett, hanem a piac mellett érvényesül, arányos és indokolt beavatkozásokkal, csak ott és akkor, ahol és amikor az valóban szükséges. A működő és emberséges Magyarországon beruházásbarát, kiszámítható és átlátható gazdasági környezet épül, ahol a verseny tisztaságát és a korrupciómentességet független intézmények garantálják. Az állami szolgáltatások digitalizációja és a mesterséges intelligencia használata széles körben elterjed, és az emberi jólét szolgálatába áll. A működő és emberséges Magyarországon rugalmas, de szociálisan védett munkaerőpiac működik. Az állam kiemelkedő minőségű közszolgáltatásokkal segíti a munkaképesség megőrzését és fejlesztését, miközben támogatja a munkaadókat a számukra fontos emberi erőforrások megtartásában. A működő és emberséges Magyarországon a közvagyon érinthetetlen, a magántulajdon szent. A közbeszerzések átláthatóak és igazságosak. A gazdaságpolitikánk kiszámítható és átlátható. A működő és emberséges Magyarország sikeres, elismert ország lesz.
+
+
+A működő és emberséges Magyarországot a magyar emberek testi, lelki és gazdasági jóléte és jólléte jellemzi. A demográfiai fordulatot nem jelszavakkal, hanem egy élhető, megtartó ország felépítésével érjük el. A fizikai, szociális és mentális jóllét nem kiváltság, hanem alapvető érték. A gyermekek tisztelete és védelme alapvető adottság. Minden gyermek megérdemli, hogy szerető családban nőhessen fel, legyen az kétszülős vagy egyszülős család. A működő és emberséges Magyarország a tudást kiemelt értéknek tekinti. A tudás a gazdasági versenyképesség és felemelkedés, a méltó életfeltételek és a demokratikus működés záloga. A 21. század kihívásaira felkészítő oktatási rendszerünk kiművelt emberfők sokaságát fogja kitermelni, akik nem mellékszereplői, hanem alakítói lesznek a jövőnek. A működő és emberséges Magyarországon a demokrácia élő gyakorlat, nem csupán alkotmányos forma. A kormányzás alapja a valódi részvételiség, a cselekvő együttműködés és a tisztességes jogegyenlőség. A döntések hatásvizsgálatokra alapozva, hosszú távú szemléletben születnek, rendszer- és megoldásorientáltak, nem rögtönzöttek. Természetes az egyenlő bánásmód és a diszkrimináció tilalma – nemcsak szóban, hanem a gyakorlatban is. A demokratikus alapelveket és normákat nem csupán elfogadjuk, hanem aktívan érvényesítjük a közpolitikai döntéshozatalban és a mindennapokban egyaránt. A működő és emberséges Magyarország a közösségek országa lesz. A döntések ott születnek, ahol az emberek élnek: helyben. A kormány dolga, hogy kereteket, szabályokat és lehetőségeket teremtsen ehhez. A közösségi önrendelkezés nem kiváltság, hanem természetes alapelv. A működő és emberséges Magyarországon az állam szolgáltat, nem uralkodik. Az állam nem kiváltságos keveseknek, hanem minden polgárnak átlátható, elérhető, igazságos és hatékony közszolgáltatásokat nyújt. Az esélyek kiegyenlítésére, az egyenlő hozzáférésre és a közteherviselés méltányosságára törekszünk, miközben ösztönözzük az egyéni felelősségvállalást a döntéseinkért. A közszolgáltatások rendszere az állampolgárokat nem adminisztratív akadályokkal terheli, hanem emberi, egyszerű és elérhető szolgáltatásokkal segíti. A működő és emberséges Magyarországon a társadalom tagjai újra bíznak egymásban és az intézményekben. A kulturális változás és szemléletformálás nem erőszakos átnevelés, hanem fokozatos, következetes, hosszú távú folyamat, amelyet stabil, kiszámítható és elszámoltatható kormányzás támogat. A jövő Magyarországán mindenki egyenlő a törvények és a hatóságok előtt. A működő és emberséges Magyarország a nemzet minden tagjának valódi otthona. Támogatjuk a hazatérni vágyók visszailleszkedését, a diaszpórában élők identitásának megőrzését, a külhoni magyarok szülőföldjükön való boldogulását. A nemzet egysége nem politikai szólam, hanem közös felelősség és cselekvés.
+
+
+A működő és emberséges Magyarország újra biztonságos hely lesz. A működő és emberséges Magyarország nem kompország lesz, nem dörgölőzik ide-oda háborús bűnösökhöz, autokrata rezsimek teljhatalmú uraihoz, pillanatnyi politikai vagy anyagi hasznot remélve. Magyarország a saját útját járja, nem elárulja saját szövetségeseit, hanem egyesíti velük az erejét. Hazánk a jövőben újra hasznos, hiteles, megbecsült, aktív és konstruktív tagja lesz az Európai Uniónak és a NATO-nak. Határozottan, az erőszak minden formáját elutasítva kiállunk a béke és az együttműködés mellett. Hazahozzuk az uniós pénzeket, kiállunk a magyar érdekekért, barátokat és nem ellenségeket keresünk Európában. Magyarországon a jövőben sem lesz sorkatonaság, nem küldünk magyar katonákat sem az orosz–ukrán, sem más háborúba. A jövőben Magyarország ismét jó viszonyt ápol majd minden közvetlen szomszédjával, és erősíti a Visegrádi Négyek hagyományos együttműködését, a polgárai érdekében politizál hagyományos európai, észak-atlanti szövetségi rendszereiben és a nagyvilágban. Külső biztonságunk és szuverenitásunk fontos garanciája az alapvető önellátó képesség és a stratégiai autonómia. Olyan Magyarországot építünk, amely a jelenleginél sokkal kevésbé függ a külső tényezőktől az energiaellátás, az ivóvízellátás, az élelmiszer-ellátás, az alapvető közszolgáltatások és a kritikus infrastruktúrák terén. A működő és emberséges Magyarországon senkinek nem kell tartania az illegális bevándorlástól. A határkerítés továbbra is állni fog, sőt további védelmi intézkedésekkel erősítjük az ország és az Unió határainak védelmét, és nem engedünk Nyugat-Európából illegális bevándorlókat áttelepíteni hazánkba. A működő és emberséges Magyarországon a rendvédelmi és bűnüldöző szervek, valamint az igazságszolgáltatás politikai befolyástól mentesen garantálják a belső biztonságunkat, felderítik és elkapják a valódi bűnösöket, az állampolgárokat pedig nem megfigyelik és fenyegetik, hanem megvédik, segítik és kiszolgálják. Egyre több honfitársunk számára lesz garantált a tisztességes megélhetéshez szükséges anyagi biztonság és stabilitás. Gazdasági fejlődést és növekedést, társadalmi jólétet és jóllétet csak stabil, kiszámítható jogi és intézményi környezetben lehet megvalósítani. A jövő Magyarországán nem egyedi gazdasági és politikai érdekekre szabott, rendeleti kormányzás zajlik, hanem ismét kiszámítható, tervezhető, a szakmai és társadalmi közösségek bevonására építő, mégis hatékony és gyors jogalkotás és jogalkalmazás folyik. Ez biztosítja majd azt a társadalmi nyugalmat, amelyhez valódi jogorvoslati rendszer kapcsolódik.
+
+
+A működő és emberséges Magyarországon kellőképpen erős lesz a fékek és ellensúlyok rendszere. A legfontosabb közintézményekben nem dominálhat egyetlen politikai párt klientúrája, azokat politikamentessé, de legalábbis politikailag sokszínűvé kell tenni. Mindenkire egyformán érvényes szabályok és folyamatok mentén, személyektől független módon működő, politikai befolyástól mentes, stabil intézmények működnek. A működő és emberséges Magyarországon nem lesz közpénzmilliárdokból fenntartott, a valóságot torzítottan bemutató, hazug propaganda. A közmédia hiteles, pártoktól független tájékoztatást fog nyújtani az állampolgároknak, és minden politikai nézet képviselői szabadon elmondhatják benne a véleményüket. A megújult közmédiának fontos szerepe lesz a lakosság élethosszig tartó tanulásának támogatásában, szociális érzékenységünk és egymás iránti nyitottságunk erősítésében, a kultúra és a művészetek népszerűsítésében, valamint a társadalmi megbékélésben. szempont A működő és emberséges Magyarország tiszta, egészséges, élhető és a jövő kihívásaira felkészült lesz. A működő és emberséges Magyarországon a környezetünk, a levegő és a víz tiszta, nem mérgezi gyermekeinket. A környezetkárosítókat, a szemetelőket, a természetet rombolókat szigorú szankciók sújtják, mert gyermekeink, unokáink egészségét és jövőjét veszélyeztetik. Az ország a természeti erőforrásaival, a vízzel, a talajjal, az erdőkkel, az ásványkincsekkel bölcsen és megújulást támogató módon gazdálkodik. A működő és emberséges Magyarországon a nemzeti alkalmazkodóképesség kulcsa az ökológiai egyensúly, a gazdasági igazságosság és a közösségi együttélés harmóniája. Környezet- és agrárpolitikánk a biodiverzitás megőrzésére, az egészséges tájak és vízkészletek fenntartására, valamint a magas hozzáadott értékű, környezetbarát, klímareziliens mezőgazdaságra és állattartásra épül. A hulladékból új érték születik: a környezettudatos vállalkozások és közösségek részesülnek a fenntartható gazdálkodás hasznából. A működő és emberséges  Magyarországon komolyan vesszük a vidékfejlesztést. Nem lesznek leszakadó térségek, kiüresedő falvak, magukra hagyott idősek. Az ágazatok sajátosságait figyelembe vevő, területalapú tervezés és szemlélet áthatja a teljes magyar államigazgatást. Az önkormányzatok érdemi kompetenciákat kapnak a helyi közszolgáltatások, a fejlesztéspolitika, a környezetvédelem és a településkép alakítására.
+
+
+Az energiafelhasználás közel karbonsemleges lesz, Magyarország kiveszi a részét a klímaváltozás elleni küzdelemből. Az energiahatékonyság szemlélete át fogja hatni mind az építészetet, mind az ipart, mivel a legtisztább és legolcsóbb energia az el nem fogyasztott energia. A működő és emberséges  Magyarországon a forradalmian új, innovatív technológiák, mint a mesterséges intelligencia, a robotika, a tiszta energia, a nanotechnológia, az anyagtudományok nem veszélyt, hanem lehetőséget jelentenek. Magyarország élvonalbeli tudományos, kutatás-fejlesztési, innovációs és képzési rendszerei révén nemcsak felkészült lesz ezekre a kihívásokra, hanem aktív alakítójává válik a következő évtizedek technológiai és társadalmi forradalmának. A jövő Magyarországa működő és emberséges ország lesz.
+
+# Problémák és vállalásaink
+
+Újszerű válaszokat kell adnunk az előttünk álló kihívásokra Magyarország előtt ma hatalmas kettős kihívás áll. Egy erkölcsi, gazdasági és politikai válságban lévő, kifosztott országot kell újjáépítenünk és új, emberséges, demokratikus és fejlődő pályára állítanunk. Ma nemcsak egy új ország építése a feladatunk, hanem az is, hogy utat találjunk egy alapvetően átalakuló világban, ahol nem támaszkodhatunk kipróbált megoldások egyszerű átemelésére. Ehhez érdemi útkeresésre van szükség: 1. A globális gazdasági átrendeződések és visszatérő válságok korában új növekedési modell alapjait kell lefektetnünk, amely a kiszolgáltatottság helyett a magyar családok anyagi biztonságára épít. Olyan dinamikus és fenntartható gazdaságpolitikát hirdetünk, amely a  bérek tisztességes emelésén és a társadalmi leszakadás felszámolásán keresztül nemcsak statisztikai mutatókat javít, hanem a hétköznapok szintjén is érezhető jólétet és stabilitást garantál minden honfitársunk számára. 2. Az átalakuló világrendben és technológiai környezetben újra kell gondolnunk Magyarország helyét és szerepét Európában és a világban, új nemzetstratégiai irányokra van szükség. 3. Stabilizálni kell a demokratikus intézményrendszert, hogy a szabadság, a biztonság és a folytonosság alapjait megerősítsük. 4. Ösztönöznünk, támogatnunk és infrastrukturálisan fenntarthatóvá kell tennünk egy társadalmi, kulturális újjászületési folyamatot, ahol a cselekvő részvételiség, a társadalmi szövetség újra pozitív hittel és értelemmel tölti meg a közös történetünket. 5. Érdemi innovációra van szükség a kormányzás és a politika területén, hogy a demokratikus értékek és működés újra összhangba kerüljenek a cselekvőképes hatékonysággal. Ezek nem kizárólag magyar kihívások. Jelenleg egy, az 1990-es világ-
+
+
+rend átalakulásához fogható újrarendeződés zajlik. Ahogy 1990-ben a kétpólusú, hidegháborús világrendből kialakult az egypólusú globális világrend, amelynek az USA biztosította a stabilitását, úgy most kialakulóban van a versengő makrorégiók világa, ahol geopolitikai értelemben „birodalmi” logikák válnak uralkodóvá. A kormánypárti „konnektivitás” külpolitikája, az ide-oda dörgölőzés és hintapolitika diplomáciai stratégiája Magyarország számára a kialakuló új világrendben már középtávon is öngyilkos stratégia. Az új világban csak az lehet életképes megoldás, ha hazánk valamelyik makrorégió szerves és stabil részévé válik. Mi egyértelműen Európa mellett tes�szük le a voksunkat, mivel Magyarország geopolitikai elhelyezkedéséből adódóan csak Európa és Oroszország között választhatunk. Zárjuk le a Kelet–Nyugat kompország vitáját, és csatlakozzunk végleg a Nyugathoz! Ugyanakkor Európa komoly nehézségekkel, válsággal néz szembe a makrorégiók versenyében, pedig Magyarországnak – az új világrendben főként – elemi érdeke, hogy Európa erős és versenyképes legyen. Ennek érdekében konstruktívan kritikusnak kell lennünk, és demokratikus, de hatékony, az ideológiai csapdahelyzeteken túlmutató újításokat kell képviselnünk és támogatnunk. A képviseleti demokrácia és a jóléti állam globális szinten válságban van. A képviseleti demokráciáról azonban nem lemondanunk kell, ahogy az illiberális demokrácia felfogás tartja, hanem a valódi megújulást segítő, felhajtó erőként kell felhasználnunk azt. Az életidegen és erkölcstelen, hatalmi öncélokat szolgáló, idejétmúlt ideológiai köntösbe bújtatott képviselet helyett a politikától a társadalom ma már pragmatikus, demokratikus értékekbe ágyazott, minőségi kormányzást és KÖZszolgálatot vár el. A működő és emberséges Magyarország alapjainak elképzeléseit ez a megközelítésmód vezérli. Magyarország a nyugati kultúrkörön belül elsőként van olyan innovációs kényszerhelyzetben, amikor nem csupán a demokratikus visszarendeződés, hanem az új világhoz hatékonyan igazodó demokratikus megújulás a kihívás. Mindez új politikai identitást, szerepértelmezést jelent, amely valódi megújulást von maga után. A képviseletiség válsága miatt felértékelődik a társadalom aktív részvételének szerepe és jelentősége, különösen helyi szinten. Bár Magyarországon a regnáló hatalom leépítette és megpróbálta elfojtani, mégis egy élettel teli, cselekvő részvételiség hulláma bontakozott ki. Ez a megújulás, a fenntartható változás motorja és letéteményese lehet, de előttünk áll a fontos társadalmi kihívás, hogy a részvételiség jelentősége és kivirágzása ne rekedjen meg a választási küzdelem csapdájában, hanem a 2026. évi választások, azaz az új rendszerváltás utáni Magyarország szerves alapját tudja képezni. Ehhez létfontosságú, hogy az aktív részvétel működési, kulturális, infrastrukturális és politikai feltételeit tudatosan támogassuk és alakítsuk. A működő és emberséges Magyarország alapjainak szakpolitikai fejezeteiben azt mutatjuk be, hogyan fogjuk mindezt megvalósítani.
+
+
+# 1. GAZDAG ÉS SIKERES ORSZÁG – FEJLŐDÉS ÉS NÖVEKEDÉS
+
+
+## 1.1. Ganz Ábrahám Gazdaságfejlesztési Program
+
+Program Magasabb bérek, gyorsan fejlődő hazai kis- és középvállalatok
+» Hazahozzuk az uniós forrásokat, és a magyar vállalatok versenyképességet fokozó programokra fordítjuk azokat.
+» Adókedvezményekkel, célzott pályázatokkal, vissza nem térítendő támogatásokkal segítjük a hazai kkv-k fejlődését és külföldi piacra lépését.
+» Megfelezzük a vállalkozások adminisztrációs terheit.
+» Zebrák helyett unikornisokat! Korrupt közbeszerzések helyett tisztességes versenyt és startupbarát környezetet teremtünk.
+» Négy év alatt legalább másfélszeresére emeljük az innovációra fordított forrásokat.
+» Jelentősen csökkentjük a vállalkozások által fizetendő rezsiköltségeket.
+» Visszaadjuk az IFA-támogatásokat az önkormányzatoknak, átláthatóvá és kiszámíthatóvá tesszük a rendszert.
+» 2026. június 1-től felfüggesztjük az Európán kívüli vendégmunkások behozatalát, a munkaerőpiacról kiszorult magyarokat segítjük a munkához jutásban és a magasabb bérek elérésében.
+
+
+Bevezető Magyarország jelenleg az Európai Unió legszegényebb országa. A mindennapi megélhetés egyre nehezebb, a fizetések nem tartanak lépést az árakkal, a boltokban soha nem látott drágaság fogadja az embereket. A gazdaság évek óta toporog, miközben az elmúlt másfél évtized a kihagyott lehetőségekről szólt. A környező országok sorra elhúztak mellettünk, mi pedig a régió sereghajtója lettünk. A jelenlegi kormány a környezetszennyező multikat támogatja, miközben a magyar kis- és középvállalkozásokat egyre nehezebb helyzetbe hozza. A TISZA újraindítja a gazdaságot. Vállaljuk, hogy Magyarország sereghajtóból a régió éllovasa lesz. Olyan országot építünk, ahol a gazdaság nem a kiváltságosoknak, hanem mindenkinek dolgozik. Ahol nem a kapcsolatok, hanem a teljesítmény számít, és ahol a növekedés a tudásból, a munkából és az innovációból fakad. Vállaljuk, hogy tisztességes, kiszámítható gazdasági környezetet teremtünk, ahol minden vállalkozásnak valódi esélye van a sikerre. Nem a multik lesznek a kedvezményezettek, hanem a magyar kis- és középvállalkozások kapnak érdemi támogatást a fejlődéshez – mert egy erős ország alapja az erős hazai gazdaság. Gazdaságfejlesztés – Problémák A kormány gazdaságpolitikája kudarcot vallott, az átpolitizált, korrupcióval terhelt és kiszámíthatatlan környezet akadályozza a gazdaság fejlődését.
+» Hazánk az Európai Unió legszegényebb országa lett, minden lényeges gazdasági és versenyképességi mutatóban jelentősen visszacsúsztunk.
+» Az elmúlt 15 év a kihagyott lehetőségek korszaka volt: miközben a régió országai sorra lehagytak minket, Magyarország az uniós ezermilliárdok ellenére leszakadt.
+» 2004 és 2024 között az átlagos gazdasági növekedésünk 1,7% volt. Ez a leglassabb az Európai Unióhoz 2004 óta csatlakozott 13 ország közül.
+
+
+Éves átlagos gazdasági növekedés a 2004 után az Európai Unióhoz csatlakozott országokban (reál GDP-növekedés, %), 2004–2024 (forrás: Eurostat) Málta Lengyelország Románia Szlovákia Litvánia Bulgária Ciprus Szlovénia Csehország Lettország Észtország Horvátország
+» Az utóbbi 3 évben a magyar gazdaság stagnált.
+» A leszakadás legfőbb oka a mérhetetlenül elharapódzó korrupció és a korábbi, olcsó munkaerőre és a nagyvállalati, eseti adókedvezményekre építő növekedési modell teljes kifulladása.
+» Magyarország versenyképessége az elmúlt években romlott, a nyugat-európai gazdaságokhoz történő felzárkózás megállt, az ország a közepes fejlettség csapdájában ragadt.
+» A hazai vállalatok versenyképességét számos tényező rontja, többek között az Európában legmagasabbak közé tartozó vállalati energiadíjak és a szintén Európa-rekorder forgalmiadó-terhek.
+» Az állami támogatások szétosztását torzítja a korrupció, ami rontja a versenyt, gyengíti a beruházási kedvet és bizalmat, valamint az innovációt.
+» A vállalkozások működési környezete kiszámíthatatlan, a szabályok egyik napról a másikra változnak.
+» Teljes szektorokat sajátítottak ki kormányközeli cégek, ellehetetlenítve sok nagyvállalatot és a hazai kkv-k széles körét.
+
+
+Évtizedek óta téves stratégiát követ a kormány, aminek eredményeként a gazdaság termelékenysége stagnál.
+» A kormány az elmúlt másfél évtizedben folytatta a korábbi kormányok által elkezdett, teljesen hibás gazdaságpolitikát: a magyar kkv-k helyett néhány nagy, többnyire külföldi (és sokszor környezetszennyező) megaberuházást támogat.
+» A külföldi nagyvállalatok gyakran szigetszerűen működnek, kibocsátásukban a hazai hozzáadott érték alacsony, a magyar kkv-k beszállítói szerepe gyenge.
+» Az autó- és akkumulátoripar dominanciája miatt a gazdaság nem kellően diverzifikált, és a külső sokkokra, gazdasági ciklusokra rendkívül érzékeny.
+» Erős a gazdaság energiapiaci és geopolitikai kitettsége – különösen az orosz forrásoktól való függés, ami rendszerszintű kockázatot jelent.
+» Az elmúlt években a gazdaság duális szerkezete alig változott, a hazai kkv-k termelékenysége továbbra is jelentősen elmarad a nagyvállalatokétól.
+» A hazai élelmiszeripar kibocsátása alacsony feldolgozottságú, exportja többnyire nem márkázott termékekre épül.
+» A kiskereskedelmi forgalom 2025. évi 3% alatti növekedése elmarad a reáljövedelem emelkedésétől, melynek elsődleges oka a kiszámíthatatlan szabályozási környezet és a fogyasztói bizalmatlanság.
+» A kis- és középvállalatok digitalizációs képességei alacsonyak, a mesterséges intelligencia felhasználása kezdetleges.
+» A védelmi fejlesztések hazai gazdasági hasznosulása elmarad a lehetőségektől; a kapcsolódó ipari láncokba kevés hazai szereplő képes bekapcsolódni.
+» A gazdaság termelékenysége az elmúlt időszakban alig nőtt, miközben a körülöttünk lévő országok érdemben tudtak fejlődni.
+
+
+A termelékenység növekedése a régió országaiban (%, 2010=100), 2010–2024 (forrás: Eurostat) Románia Lengyelország Bulgária Litvánia Lettország Szlovákia Észtország Horvátország Szlovénia Csehország
+» A feldolgozóipar termelékenysége lényegében stagnált, itt még szembetűnőbb az elmaradásunk. A munkaerő termelékenysége a feldolgozóiparban (2010=100%), 2010–2023 (forrás: Eurostat, GKI) 90% 100% 110% 120% 130% 140% 150% 160% 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 Európai Unió Csehország Lengyelország Szlovákia
+
+
+» Mindez annak ellenére történt, hogy a költségvetésből közel háromszor annyit költünk GDP-arányosan a vállalatok támogatására, mint az Unió átlaga, ennek azonban legnagyobb haszonélvezői az elmúlt másfél évtizedben a külföldi nagyberuházók és a kormányközeli nagyvállalatok voltak.
+» Az alacsony termelékenységgel szorosan összefügg, hogy a magyar bérek a legalacsonyabbak közé tartoznak az Unióban. Átlagos bérek Európában (EUR), 2023 (forrás: Eurostat) -   € 25 000 € 50 000 € 75 000 € 100 000 € Luxemburg Dánia Írország Belgium Ausztria Németország Finnország Svédország Franciaország EU27 Szlovénia Olaszország Spanyolorszá Málta Litvánia Ciprus Észtország Csehország Portugália Lettország Horvátország Szlovákia Lengyelorszá Románia Görögország Bulgária
+» A gazdaságfejlesztést jelenleg világos, hosszú távú stratégiai fókusz helyett ötletszerű, esetleges szemlélet uralja.
+» Kutatásra és fejlesztésre mindössze a GDP 1,3%-át költjük, a szabadalmi és iparjogvédelmi aktivitás alacsony, a találmányok piaci hasznosítása gyenge.
+
+
+A beruházások sokéves mélyponton vannak, a korrupció és az egyedi nagyberuházások túlzó támogatása súlyos pazarláshoz vezet, és torzítja a piaci versenyt.
+» A beruházások 30%-kal zuhantak be a korábbi évekhez képest.
+» A kiszámíthatatlan gazdasági és jogszabályi környezet visszafogja a külföldi vállalatok magyarországi beruházásait, amit az állam a külföldiek számára elérhető adókedvezmények és egyedi támogatások szerteágazó – és a hazai kkv-kra kifejezetten káros – rendszerével igyekszik kompenzálni.
+» A beáramló működő tőke továbbra is az alacsony hozzáadott értékű, összeszerelő jellegű iparágakra koncentrálódik, az utóbbi években erős ázsiai dominanciával.
+» Az állami beruházások kizárólagos, központosított kezelése és a támogatások megítélése nem hatékony, a korrupció óriási, a beruházások jelentősen túl vannak árazva.
+» Az országos jogszabályok felülírása lehetőséget ad a környezetvédelmi és örökségvédelmi előírások durva, folyamatos megszegésére.
+» A betelepülő cégek jelentős része  károsítja a környezetet, szennyezi vizeinket és a levegőnket, vendégmunkásokat foglalkoztat, és nem segíti a hazai kis- és középvállalkozások fejlődését, bekapcsolódását a beszállítói láncokba. A turizmus a gazdaság egyik meghatározó ágazata, de irányítása nem megfelelő.
+» A turizmus a magyar GDP több mint 10%-át adja, mégsincs önálló, megfelelő súlyú kormányzati képviselete. Az intézményrendszer gyakori átszervezése megszakította a szakmai folyamatosságot, a stratégiai tervezés újra és újra elölről indult.
+» A turisztikai támogatások jelentős része átláthatatlanul került felhasználásra: rengeteg pénz folyt el túlárazott tanulmányokra, kampányokra, valamint alacsony kihasználtságú és hozzáadott értékű beruházásokra. A korrupció erősen áthatja a szektort.
+» A turisztikai szektorban működő vállalatokat túlzott elvonások terhelik.
+» A fejlesztések gyakran figyelmen kívül hagyták a fenntarthatóságot, a természeti és kulturális értékek védelmét, valamint a helyi lakosság életminőségét, ami túlterheltséget okozott egyes térségekben.
+» Erősödött a turizmus területi és időbeli koncentrációja, miközben számos térség kimaradt a fejlődésből.
+» Súlyos munkaerőhiány alakult ki az elavult képzési rendszer, az egyes térségekre jellemző szezonalitás, a csökkenő oktatási kapacitások és a kiszámíthatatlan bérezés miatt.
+» A Nemzeti Turisztikai Adatszolgáltató Központ rendszere (NTAK) jelenlegi formájában nem döntéstámogató segítség, hanem adminisztratív teher a vállalkozások számára.
+
+
+A bővülő foglalkoztatás ellenére még mindig vannak számottevő munkaerő-tartalékok a magyar gazdaságban.
+» Az Unión belül nálunk az ötödik legalacsonyabb a diplomások aránya (29%, míg az Unióban 43%), miközben nálunk a legmagasabb a diplomás bérprémium.
+» A másik probléma a mobilitás hiánya: nem ott van munkalehetőség, ahol a munkanélküliek élnek, és az alacsony mobilitás, a magas lakhatási költségek miatt ráadásul ezt nehéz áthidalni.
+» Korlátozott az atipikus foglalkoztatási formák (részmunkaidő, távmunka, home office) elérhetősége, ami különösen a nők, az idősek és a megváltozott munkaképességűek alacsonyabb foglalkoztatásában mutatkozik meg.
+» Továbbra is nagyon alacsony a romák, különösen a roma nők foglalkoztatása.
+» Magyarországon a 16 és 24 év közöttiek, valamint a nyugdíj előtt álló, tapasztalt munkavállalók foglalkoztatása jelentősen elmarad az élenjáró uniós országokétól.
+» A jelenleg inaktív rétegek munkaerőpiacra vonzásával akár 400 ezer fővel is növelhető lenne az aktív keresők száma, ami nemzetgazdasági szinten jelentős bővülést eredményezne. A közfoglalkoztatás ma sokak számára tartós foglalkoztatási csapdává vált: rendkívül alacsony jövedelmet biztosít, miközben csak korlátozottan segíti az elsődleges munkaerőpiacra való visszatérést.
+» A közfoglalkoztatási bér jelenleg a minimálbér mintegy 50%-a. Ez sokak számára az egyetlen bevételi forrás, és nem biztosít megfelelő megélhetést.
+» Jelenleg átlagosan 65–70 ezer fő dolgozik közmunkában, többségük alacsony iskolai végzettségű, más munkát emiatt nehezen talál.
+» A résztvevők jelentős része nem lép tovább a versenyszférába, hanem hosszabb időre a közmunka rendszerében marad, gyakran kiszolgáltatva a munkát adó helyi politikusoknak.
+» A jelenlegi képzések gyakran nem piacképes, keresett készségekre fókuszálnak, ezért nem segítik a jobban fizető állásokba történő elhelyezkedést.
+» A közmunka főként hátrányos helyzetű térségekben domináns, ahol kevés az alternatív álláslehetőség. Leépült az érdekegyeztetés, gyengült a munkavállalói jogvédelem.
+» Az elmúlt években meggyengült az érdekegyeztetés rendszere, a munkahelyi párbeszéd sok esetben formálissá vált vagy megszűnt.
+» A szakszervezetek szervezettsége alacsony, kevés munkahelyen tudnak érdemi érdekképviseletet ellátni.
+
+
+» A versenyszférában visszaesett a kollektív szerződések szerepe, így sok dolgozó egyéni alkukra kényszerül.
+» Több ágazatban (pl. rendvédelem, honvédelem, egészségügy, közoktatás) korlátozottak a kollektív jogok, ami egyenlőtlen érdekérvényesítést eredményez. A szabályozás nem követi a munka világának átalakulását.
+» A kollektív megállapodások szűk tartalmúak, jellemzően csak bérekről szólnak, nem a munkavállalói jólétről.
+» A hibrid és otthoni munkavégzés elterjedt, de jogi keretei bizonytalanok.
+» A fiatalabb generációk elvárásai (rugalmasság, kiszámíthatóság, munka–magánélet egyensúly) nem jelennek meg kellő súllyal a munkajogban.
+» A közszféra és az állami vállalatok nem eléggé versenyképes munkaadók, különösen a fiatalok körében. A külgazdaság egy szűk, kormányközeli elit támogatásáról szól, a kkv-k háttérbe szorultak, és adminisztratív akadályok fékezik az exportot.
+» A külkereskedelmünk döntő része továbbra is a Nyugathoz köt minket, mégis ezekkel a partnerekkel romlott meg leginkább a viszonyunk.
+» Titkos szerződések, gazdasági kiszolgáltatottság, politikai befolyásoltság jellemzik a külgazdasági szektort, ami nemzetközi elszigetelődést okoz.
+» A hazai kkv-k nem kapnak érdemi támogatást a külföldi piacra lépésükhöz. A kriptovaluták és a blokklánc-technológiák hazai piaca bizonytalanná vált a jelenlegi kormány szabályozási döntései miatt.
+» A kriptoeszközök szabályozása több százezer magyar állampolgárt érint, mégsem előzte meg a teljes átalakítást érdemi társadalmi egyeztetés vagy hatásvizsgálat.
+» A 2025-ben bevezetett magyar előírások az uniós MiCA-rendeleten túlmutatnak, és több nemzetközi szolgáltató kivonulását eredményezték a lakossági piacról.
+» A kötelező „kapuőr” rendszer mesterséges belépési korlátot teremt, szűkíti a versenyt, és drágább, lassabb szolgáltatásokhoz vezet.
+» A szabályozás büntetőjogi fenyegetést is tartalmaz, akár magánszemélyekkel szemben, aránytalan jogbizonytalanságot okozva.
+» A megkettőzött felügyeleti rendszer és a túlzott központosítás növeli a kockázatát annak, hogy a felhasználók ellenőrizetlen, szürke csatornák felé forduljanak.
+
+
+Gazdaságfejlesztés – Vállalásaink Hazahozzuk az uniós forrásokat, tisztességes versenyfeltételeket teremtünk, fordulatot hajtunk végre a gazdaságfejlesztési politikában, és újraindítjuk a gazdaságot.
+» Hazahozzuk és hatékonyan felhasználjuk a jelenleg befagyasztott uniós forrásokat.
+» A következő uniós tervezési ciklus forrásainak felhasználását profes�szionálisan előkészítjük és letárgyaljuk.
+» Tisztességes, kiszámítható piaci környezetet teremtünk, ahol minden vállalkozásnak lesz esélye a sikerre, visszaszerezzük a gazdasági szereplők bizalmát.
+» A kapcsolatok helyett a teljesítmény fog számítani, az ország teljesítményét a versenytársakéhoz mérjük.
+» Az uniós forrásokat az infrastruktúra és a vállalkozások működési környezetének javítására fordítjuk. Országos bérlakásprogramot és közlekedési fejlesztéseket indítunk a munkaerő-mobilitás segítésére, egészségügyi fejlesztéseket a munkaerő minőségének javításáért. Továbbá ezer milliárd forint értékben lakossági és vállalati energiahatékonysági programot indítunk. Javítjuk a vállalkozások üzleti környezetét, komplex intézkedéssorozattal növeljük a gazdaság termelékenységét és a hazai kkv-szektor hatékonyságát.
+» Célzottan támogatjuk a hazai kis- és középvállalkozásokat: a digitalizációt, az automatizálást, a mesterséges intelligenca alkalmazását, a beszállítói felzárkóztatást.
+» A támogatáspolitika középpontjában a magyar kis- és középvállalkozások, illetve a jövő iparágai lesznek.
+» A piacképes tudás, a munkaerőpiac igényeit tükröző, korszerű oktatás és az innováció lesznek a növekedés alapjai.
+» Megerősítjük a jogbiztonságot, zéró toleranciát alkalmazunk a korrupcióval szemben.
+» Megerősítjük a versenyfelügyelet függetlenségét, és átalakítjuk a közbeszerzési rendszert, hogy erősödjön a piaci verseny.
+» Fegyelmezett, kiszámítható költségvetési politikát valósítunk meg, ennek következtében az alacsony infláció leszorítja a banki kamatokat, és a vállalati hitelezésen keresztül növeli a beruházásokat.
+
+
+A gazdaságfejlesztés céljaival összhangba hozzuk az oktatást és a képzést.
+» A 21. századi oktatási rendszer kialakításával elérjük, hogy ne morzsolódjon le minden 10. gyermek középfokú végzettség nélkül a közoktatásból, és hogy a diplomások arányát legalább az Európai Unió átlagára emeljük.
+» Versenyképes oktatási rendszert építünk, ami a piacon hasznosítható készségeket és kompetenciákat fejleszt, és lehetővé teszi az élethos�szig tartó tanulást.
+» Erősítjük a nyelvtudást, a természettudományos és műszaki képzést; bővítjük az ipari doktori helyeket és a vállalat–egyetem átjárást.
+» Gyors, munka mellett elvégezhető, rövid képzéseket indítunk (digitális alapismeretek, adatkezelés, mesterséges intelligencia), célzott felnőttképzési támogatással.
+» Javítjuk az életminőséget (közlekedés, lakhatás, gyermekellátás), hogy többen vállaljanak munkát, és hogy itthon maradjanak a tehetségek.
+» Beindítjuk a kereskedelmet, új típusú partnerség kialakításával a piaci szereplők és politikai döntéshozók között.
+» A piaci szereplők és a gazdaság (kereskedelem) politikai döntéshozói között új típusú partnerséget alakítunk ki, amelynek keretében a szakpolitikák, ágazati stratégiák közös kidolgozása és egyeztetése megtörténik.
+» Erősítjük a hazai kiskereskedelem versenyképességét, biztosítjuk a tiszta piaci viszonyokon alapuló ágazaton belüli versenysemlegességet. Erősítjük a hazai innovációs tevékenységet, támogatjuk a digitalizációt.
+» A hazai kockázati tőkepiac élénkítésével támogatjuk a kezdő magyar vállalkozások (start upok) fejlődését.
+» Megújult intézményrendszeren keresztül hosszú futamidejű, kiszámítható kamatozású hiteleket és állami hitelgaranciát adunk a fejlődő kis- és középvállalkozásoknak, de kizárólag megfelelő feltételek és a szükséges önrész vagy társfinanszírozás mellett. A pályázatokat átláthatóan, korrupciómentesen bonyolítjuk le, gyors, szakaszos elbírálással.
+» Beszállítói felzárkóztató programot indítunk minőségbiztosítási rendszerek fejlesztése, nemzetközi tanúsítványok megszerzése, mérnöki és gyártási tudás fejlesztése érdekében. Cél, hogy minél több magyar cég lépjen feljebb a nagyvállalati beszállítói láncokban.
+» Kísérleti tereket hozunk létre önvezető rendszerek, egészségipari fejlesztések, élelmiszeripari technológiák számára, és ezek köré erős, szakmailag irányított vállalkozói közösségeket szervezünk.
+» Egyszerűsítjük vállalkozások, különösen a kkv-k adóügyi adminisztrációját. A jelenlegi közel 300 óráról az Unió átlagára, évi maximum 150 órára csökkentjük az ezzel töltendő időt a vállalkozások számára.
+
+
+A jövő iparágaira és szolgáltatásaira fókuszálunk.
+» Elindítjuk a sikeres szabadalmak programját: erősítjük a kutatóhely– cég együttműködéseket, támogatjuk a jogvédelmet és a piacra lépést; bevezetjük a fejlesztés előtti kipróbálásra szóló állami beszerzést.
+» Nemzetközi mintára Nemzeti Innovációs Hálózatot hozunk létre régiós központokkal, politikától független döntési mechanizmusokkal és nyitott pályázatokkal.
+» Célunk, hogy 2030-ra a K+F kiadás elérje a GDP 2%-át, majd közelítsen a 3%-ához; ehhez egyszerű, átlátható adókedvezményeket és gyorsabb egyetemi technológiaátadást biztosítunk. K+F támogatást csak akkor folyósítunk, ha annak hasznából a hazai szereplők profitálnak, például a munkavállalók képzésén keresztül.
+» Segítjük a digitális és automatizálási ugrást a gyárakban: vállalatirányítási rendszerek bevezetését, a robotizációt, a mesterséges intelligencia alkalmazását és az adatvezérelt működést, 2-3 éves, eredményhez kötött támogatásokkal.
+» Minden fontos ügyet elektronikusan is intézhetővé teszünk a kkv-k számára. Kiemelten támogatjuk a kkv-k fejlődését és hatékonyságuk növekedését.
+» Támogatjuk az innovatív, feltörekvő iparágakat és szolgáltatásokat: az energiatárolást és elektrifikációt, az egészség- és élettudományokat, a bioalapú gazdaságot, az élelmiszeripari modernizációt, a beágyazott szoftvereket és vezérlőrendszereket, a robotikát, az idősek igényeire épülő gazdaságot (silver economy), a turizmust, az üzleti szolgáltatásokat, a kreatív ipart, a mesterséges intelligenciát, az űripart, valamint a védelmi iparhoz kapcsolódó, békés célra is használható technológiákat.
+» Az állami megrendeléseket úgy alakítjuk, hogy hazai fejlesztések kipróbálására is legyen tér, és a jó megoldások gyorsabban kapjanak piacot. Helyreállítjuk a befektetői bizalmat, növekvő pályára állítjuk a beruházásokat.
+» Módosítjuk az építési és közbeszerzési szabályokat, hogy csak alapos szakmai előkészítés után, konkrétan meghatározott, reális méretű feladatra lehessen – valódi árversenyt biztosító – közbeszerzéseket kiírni, felesleges és versenyt torzító specifikációk nélkül.
+» Egységes árfigyelő- és monitoringrendszert vezetünk be a közbeszerzésekre.
+» Objektív, átlátható keretrendszert alakítunk ki a kiemelt beruházásokhoz.
+» A zöldmezős beruházások mellett nagyobb teret engedünk a barnamezős beruházások támogatásának, a lepusztult, elhagyott területek rekultivációja érdekében.
+
+
+» Szakítunk azzal a gyakorlattal, hogy az állam csak keleti befektetőket próbál hazánkba csábítani: ismét a világ minden tájáról várjuk a befektetőket.
+» A külföldi beruházások esetében megköveteljük a hazai munkaerő foglalkoztatását, és a hazai beszállítók minél szélesebb körű bevonását.
+» A jövőben jellemzően olyan külföldi beruházások részesülhetnek majd támogatásban, amelyek fejlett technológiát, kutatás-fejlesztést vagy magas hozzáadott értéket előállító tevékenységet hoznak az országba.
+» Az összeszerelő üzemek és a környezetet terhelő technológiák támogatását visszafogjuk. A turizmust kulcsfontosságá ágazatként kezeljük, átlátható, szolgáltatásorientált módon fejlesztjük, és támogatjuk a szektorban dolgozó kkv-kat.
+» Egységes turisztikai tervet és országmarketing stratégiát készítünk a teljes turisztikai szektor bevonásával. Lépésről lépésre csökkentjük a turisztikai vállalkozások terheit.
+» Visszaadjuk az IFA-támogatásokat az önkormányzatoknak, átláthatóvá és kiszámíthatóvá tesszük a rendszert, hogy a turizmusból származó bevételekből minden helyben lakó számára értéket lehessen teremteni.
+» Megújítjuk az NTAK-rendszert: legalább 30%-kal csökkentjük az adminisztrációs terheket, és valós idejű döntéstámogató adatokat biztosítunk a cégek számára.
+» Új képzési és életpályamodellt indítunk: modern felső- és középfokú képzésekkel, rövid ciklusú átképzésekkel, duális képzéssel és versenyképes bérezéssel.
+» A turisztikai támogatások 100%-át nyilvános, kereshető adatbázisban tesszük elérhetővé, kötelező előzetes szakmai értékeléssel és utólagos ellenőrzéssel.
+» Bevezetjük a térségi turizmusirányítást: a fejlesztési források legalább 50%-áról helyi szinten születik döntés. Versenyképes magyar turisztikai portfóliót alakítunk ki hungarikumokra, gasztronómiára és fesztiválokra építve, célpiac-specifikus nemzetközi marketinggel. Hatékonyabbá tesszük a fogyasztók védelmét, és véget vetünk annak, hogy a tisztességtelen vállalkozások következmények nélkül károsítsák meg a magyar vásárlókat.
+» Megerősítjük a fogyasztóvédelmet: a Fogyasztóvédelmi Főigazgatóságot a kormányhivataloktól független, önálló hatósággá alakítjuk, megfelelő létszámmal, költségvetéssel és világos teljesítménycélokkal. A hatóság munkáját átlátható módon, nyilvános jelentésekkel és mérhető eredményekkel tesszük számonkérhetővé.
+» Hatékonyabbá tesszük a fogyasztók védelmét, a jogsértéseknek valódi ára lesz, a tisztességes piaci szereplők pedig versenyelőnybe kerülnek.
+
+
+» Rendet teszünk az online kereskedelemben: szigorúbb ellenőrzésekkel és egyértelmű szabályokkal lépünk fel az internetes csalások, a hamis webáruházak, a megtévesztő kedvezmények és a hamis értékelések ellen. Kötelezzük az online piactereket arra, hogy csak azonosított, ellenőrizhető kereskedők működhessenek a felületeiken, és felelősséget vállaljanak a jogsértő tartalmak gyors eltávolításáért.
+» Kötelező, gyors ügyfélszolgálati válaszadást vezetünk be, egyértelmű határidőkkel: minden panaszt igazolható módon át kell venni, rövid határidőn belül érdemben meg kell válaszolni, és a fogyasztók számára követhetővé kell tenni az ügyintézés állapotát. A közműszolgáltatók ügyfélszolgálati tevékenységét szigorúan ellenőrizzük.
+» Gyorsabb és egyszerűbb jogorvoslatot biztosítunk, különösen a kisebb értékű viták esetén. Megerősítjük a békéltető eljárásokat, egyszerűsítjük az online ügyindítást, és kötelező együttműködésre kényszerítjük azokat a vállalkozásokat, amelyek eddig kibújtak a felelősség alól. A jogorvoslat nem lehet lassú és drágább, mint maga a kár.
+» Megvédjük a vásárlók pénzét és idejét: súlyos vagy ismétlődő hibák esetén kötelező jóvátételt és automatikus kompenzációt vezetünk be. Ha egy vállalkozás bizonyítottan hibázik, a fogyasztónak ne kelljen újra és újra harcolnia a jogos igényéért.
+» Erősítjük a fogyasztói tudatosságot, hogy mindenki tisztában legyen a jogaival online és offline egyaránt. Célzott tájékoztató programokat indítunk az internetes vásárlások, az előfizetések, a pénzügyi és digitális szolgáltatások kockázatairól, és könnyen elérhető, közérthető információkat biztosítunk minden korosztály számára. Megvédjük a munkahelyeket, és a munkaerőpiacról kiszorult magyarokat segítjük a munkához jutásban.
+» 2026. június 1-től további intézkedésig megtiltjuk az Unión kívüli, nem magyar vendégmunkások tömeges behozatalát. Nem engedjük, hogy külföldi vendégmunkások vegyék el a magyar dolgozók munkahelyét, és leszorítsák a béreket.
+» Szabályozással és pénzügyi ösztönzőkkel támogatjuk a részmunkaidős és a rugalmas foglalkoztatási formák, valamint a távmunka elterjedését, továbbá a megváltozott munkaképességűek foglalkoztatását, a gondoskodó munkahelyek kialakítását.
+» Aktív munkaerőpiaci eszközök (képzések, átképzések, munkaerőpiaci szolgáltatások) és átfogó felzárkóztató programok segítségével ösztönözzük az alacsony képzettségű és hátrányos helyzetű társadalmi csoportok munkavállalását.
+» Adókedvezményeket biztosítunk azon munkahelyeknek, amelyek támogatják munkavállalóik ingázását. A  hátrányos helyzetű térségekben a nagy munkaadók munkarendjéhez igazítjuk a tömegközlekedést.
+
+
+» Ösztönözzük a külföldön élő magyar munkavállalók hazaköltözését és magyarországi munkavállalását, illetve segítjük őket hazai vállalkozás indításában. Célzott hazatérési programot indítunk a hiányszakmákban dolgozók számára: adó- és járulékkedvezményekkel ösztönözzük a külföldről hazatérők foglalkoztatását, különösen a magyar kkv-knál, ezzel csökkentve a munkaerőhiányt és erősítve a hazai gazdaságot. A közfoglalkoztatást megtartjuk mint szociális és munkaerőpiaci védőhálót, és úgy fejlesztjük tovább, hogy onnan legyen valódi esély elhelyezkedni a munkaerőpiacon.
+» A közfoglalkoztatási jövedelmeket fokozatosan megemeljük, a közmunka díjazásakor ösztönözzük a munkaerőpiaci felkészülést segítő, hatékony képzési programokban való részvételt annak érdekében, hogy minél könnyebb legyen jobban fizető állást találni, és elhelyezkedni a munkaerőpiacon.
+» A közfoglalkoztatás elsődleges célja az elsődleges munkaerőpiacra történő visszavezetés lesz.
+» A közfoglalkoztatás ideje alatt hatékony és gyakorlatorientált képzéseket biztosítunk olyan ágazatokban, ahol igazolt munkaerőhiány áll fenn.
+» Ösztönözzük a versenyszféra munkáltatóit a közfoglalkoztatásból kilépők alkalmazására átmeneti bér- vagy járulékkedvezményekkel.
+» A közfoglalkoztatási program eredményességét elsősorban a képzéseket elvégzők és a versenyszférában elhelyezkedők aránya alapján értékeljük, nem pusztán a résztvevők létszáma szerint. Megerősítjük a szakszervezeteket és a kollektív jogvédelmet.
+» Újjáépítjük a valódi érdekegyeztetést a kormány, a munkáltatók és a szakszervezetek között.
+» Megerősítjük a szakszervezetek jogait, hogy érdemben tudják képviselni a munkavállalókat.
+» Lehetővé tesszük, hogy minél több munkahelyen szülessenek kollektív megállapodások, a dolgozók tényleges bevonásával.
+» Biztosítjuk, hogy a közszolgálatban dolgozók is partnerként tárgyalhassanak munkakörülményeikről, előmenetelükről és az esélyegyenlőségről.
+
+
+Modern, emberközpontú munkaügyi környezetet teremtünk.
+» Korszerűsítjük a munkajogi szabályozást, hogy alkalmazkodjon a mai munkaformákhoz és élethelyzetekhez.
+» Világos és rugalmas kereteket adunk a hibrid és otthoni munkavégzésnek, a munkavállalók biztonságát szem előtt tartva.
+» Biztosítjuk, hogy a munkaügyi központokban sehol se legyen 200-nál, nehezen elhelyezhető álláskeresők esetében 100-nál magasabb az ügyfél–ügyintéző arány.
+» Automatizálással és állami adatbázisok összekapcsolásával csökkentjük a munkaügyi központok ügyintézőinek felesleges adminisztrációs terheit.
+» Ösztönözzük, hogy a kollektív megállapodások ne csak bérekről, hanem képzésről, munkakörülményekről és a munka–magánélet egyensúlyáról is szóljanak.
+» A közszférában és az állami vállalatoknál példát mutatunk modern munkaszervezéssel, hogy vonzó, kiszámítható munkahelyek jöjjenek létre.
+» Felülvizsgáljuk a munka törvénykönyvét, erősítjük a munkavállalók érdekérvényesítési lehetőségeit. Támogatjuk a hazai kkv-k külföldi piacra lépését és terjeszkedését.
+» Célzottan támogatjuk a kkv-k exportpiacra történő kilépését a piackutatás, a helyi partnerkeresés kapcsán.
+» Az oligarchákra szabott pályázatokat, titkos szerződéseket megszüntetjük, és valódi exportösztönző és beruházási programokat indítunk átlátható, versenyalapú módon, különösen a kkv-szektor K+F kapacitásainak bővítése érdekében.
+» Az exporttámogatási pályázatok elbírálását egyszerűsítjük és gyorsítjuk.
+» Tudatos országmárka-építést, pozicionálást és marketinget folytatunk, valamint támogatjuk a hazai szereplők közös piacra lépését, érdekérvényesítését és disztribúciós csatornáinak kiépítését.
+» Megerősítjük hagyományos, nyugatorientált külgazdasági kapcsolatainkat, és új piaci lehetőségeket kutatunk fel Kelet-Közép-Európában, a Balkánon, Törökországban és Ázsiában.
+
+
+Kiszámítható, európai normákhoz igazodó és Magyarországon.
+» A szabályozást összhangba hozzuk az Európai Unió kriptoeszközök piacáról szóló rendeletével (MiCA – Markets in Crypto-Assets Regulation), amely közvetlenül alkalmazandó uniós jog, és nem ír elő külön kapuőr vagy validáló szolgáltatót. Megszüntetjük az indokolatlan, uniós kötelezettségen túli, versenykorlátozó nemzeti megoldásokat.
+» Világos és közérthető szabályokat alkotunk: egyértelműen rögzítjük, mi legális, mi engedélyköteles, és milyen feltételekkel lehet kriptós szolgáltatást nyújtani vagy igénybe venni, hogy a felhasználók és a vállalkozások jogbiztonságban működhessenek.
+» Megakadályozzuk a piaci koncentrációt és a kivonulást: olyan környezetet teremtünk, amelyben a legális, szabályosan működő nemzetközi és hazai szolgáltatók számára is érdemes Magyarországon jelen lenni, a felhasználók pedig nem kényszerülnek ellenőrizetlen, szürke csatornákra.
+» A blokklánc-technológiát józanul és célzottan kezeljük: nem ösztönözzük a felelőtlen spekulációt, viszont támogatjuk azokat az alkalmazásokat, amelyeknek mérhető gazdasági haszna van (például pénzügyi elszámolások gyorsítása, digitális nyilvántartások, átláthatóbb adminisztráció).
+
+
+## 1.2. Adócsökkentés+
+
+Alacsonyabb adók, igazságos közteherviselés
+» 15 százalékról 9 százalékra csökkentjük a minimálbér adóját.
+» A mediánbér alatt kereső 2,2 millió munkavállalónak csökkentjük az szja terhelését.
+» A TISZA semmilyen munkabért terhelő adót nem emel meg.
+» Egymilliárd forint feletti vagyonokra bevezetjük az 1%-os vagyonadót.
+» A vényköteles gyógyszerek áfáját 0%-ra csökkentjük.
+» A tűzifa és az egészséges élelmiszerek áfáját 5%-ra mérsékeljük.
+» Újra széles körben elérhetővé tesszük a kedvezményes kata adózás Bevezető Ma Magyarországon az adórendszer jelenleg nem igazságos, a regnáló kormány az adóemelés kormánya: 2010 óta 60 féle adót emelt meg. A dolgozó magyar emberek, a kisvállalkozók sokat adóznak, többet, mint más országokban, miközben a szupergazdagok és a nagy multinacionális cégek jóval kevesebbet. Aki munkából él, azt büntetik, aki hatalmas vagyont halmozott fel, azt támogatják. Ennek a következményeit mindenki érzi. A munkavállalók kevesebbet visznek haza, a kisvállalkozók nehezebben maradnak talpon, miközben egy szűk elit folyamatosan gazdagodik. A TISZA az adócsökkentés kormánya lesz. Az átlagosnál kisebb jövedelműek kevesebbet fognak adózni, mert a munka nem bűn, hanem érték. Bevezetjük a milliárdosok vagyonadóját, hogy ők is igazságosan járuljanak hozzá a közteherviseléshez. Adópolitikánk a dolgozó emberek oldalán áll majd. Egyszerűbb, átláthatóbb és kiszámíthatóbb rendszert teremtünk, ahol nem változtatjuk egyik napról a másikra az adózási szabályokat. Olyan országot építünk, ahol a vállalkozók bízhatnak a szorgalmas munka eredményében, mert az növekedést jelent, a munka pedig megbecsültséget és biztos megélhetést ad.
+
+
+Adópolitika – Problémák A jelenlegi kormány az adóemelés kormánya.
+» A jelenlegi kormány 2010 óta mintegy 60 féle adót vezetett be, emelt vagy változtatott meg úgy, hogy több adót kelljen fizetniük a magyaroknak.
+» A jelenlegi kormány megadóztatta a minimálbért, Európa-rekorder 27 százalékra emelte az áfát, majd ezzel és a szintén bevezetett kiskereskedelmi adóval rekordszintű inflációt okozott.
+» A jelenlegi kormány lényegében megszüntette a kedvezményes katát, amivel sok százezer kisvállalkozó életét lehetetlenítette el.
+» A jelenlegi kormány másfél évtizede emeli a terheket: ma Magyar országon szinte minden munkavállaló túl sok adót fizet. Az adórendszer bonyolult, és az adózás szabályai kiszámíthatatlanul változnak.
+» A régión belül Magyarország adórendszere a legbonyolultabb.
+» Az adók mintegy fele nagyon kis bevételt hoz, amely nem éri el a GDP 0,1 %-át.
+» A GDP legalább 0,1%-át kitevő adók számának tekintetében az Európai Unióban a hatodik helyet foglaljuk el, a régióban pedig az elsőt, mintegy 30 ilyen adónemmel.
+» Az adóügyi ügyintézés bonyolult, egy vállalkozónak évi közel 300 órát kell ezzel foglalkoznia. Ez az Unióban ennek a fele, a balti államokban a harmada. Az adórendszer nem igazságos, az alacsony jövedelműeket jobban terheli.
+» Az adórendszer nem igazságos, a munkavállalókra aránytalanul nagy terhet rak. A magyar munkavállalók általában is többet adóznak, mint más országokban, és az alacsony jövedelműeket ezek a terhek még a magas jövedelműeknél is jobban sújtják.
+» A legkisebb vállalkozásoknak nincs igazán egyszerű, könnyen kezelhető adózási lehetőségük, mióta a kormány radikálisan leszűkítette a katát. Az adórendszer nem támogatja a gazdaság fejlődését.
+» A helyi iparűzési adó jobban sújtja azokat a cégeket, amelyeknél magas a bérek költségeken belüli aránya (kedvezve ezzel az összeszerelőüzemeknek).
+» A társaságiadó-kedvezmények rendszere bonyolult, igazságtalan, és könnyen visszaélésekhez vezet.
+
+
+» A legnagyobb társaságiadó-kedvezményeket éppen azok a multicégek kapják, amelyek erre nincsenek rászorulva.
+» A vállalatok működését, az üzleti tervezést és a befektetői kedvet vis�szafogja, hogy az (adó)szabályok gyakran és akár visszamenőleg is változnak, szakmai előkészítés nélkül, és kerülnek elfogadásra. Adópolitika – Vállalásaink Igazságosabb és szolidárisabb adórendszert valósítunk meg. Kevesebb adót kell fizetni a dolgozóknak, több felelősséget kell vállalni a szupergazdagoknak.
+» 15 százalékról 9 százalékra csökkentjük a minimálbér adóját. Adójóváírás révén a minimálbért keresők személyi jövedelemadója jelentősen csökken így. Ez havonta 20 ezer forinttal, évente 240 ezer forinttal több pénzt jelent minden minimálbért keresőnek.
+» A mediánbér alatt keresők (jelenleg évi 625 ezer forint havi bruttó jövedelemig) szintén kevesebb adót fizetnek majd: – 420 ezres fizetésnél havi 15 ezer forint megtakarítás, – 500 ezres fizetésnél havi 10 ezer forint, – 625 ezres fizetésnél havi 5 ezer forint marad pluszban.
+» A mediánbér felett keresőknek marad a 15%-os szja.
+» A TISZA semmilyen munkabért terhelő adót nem emel.
+» Az igazságosabb közteherviselés jegyében az 1 milliárd forint feletti vagyonnal rendelkezőknek az 1 milliárd feletti vagyonrészre évi 1%-os vagyonadót vezetünk be. Minden szupergazdagnak hozzá kell járulnia a jobb minőségű közszolgáltatásokhoz, ezt követeli meg a társadalmi igazságosság. Csökkentjük az áfát.
+» A vényköteles gyógyszerek áfáját 0%-ra csökkentjük.
+» A tűzifa és az egészséges élelmiszerek áfáját 5%-ra mérsékeljük. Egyszerűbb és versenyképesebb adózási környezetet teremtünk.
+» Kiszámíthatóan, tervezetten változtatjuk az adójogszabályokat, kerüljük az év közbeni adómódosításokat.
+» Széles körben újra elérhetővé tesszük a katát.
+» A helyi iparűzési adó és a társasági adó adóalapjának harmonizálásával elérjük, hogy a kkv-k és a magas hozzáadott értéket előállító, munkaerőigényes cégek kevesebb adót fizessenek.
+» Átalakítjuk a taokedvezmények szövevényes, átpolitizált rendszerét.
+» Fokozatosan egyszerűsítjük az adórendszert, csökkentjük az adók számát.
+
+
+## 1.3. Stabil költségvetés
+
+Eladósodás helyett uniós milliárdok
+» 2030-ra teljesítjük a maastricht-i kritériumokat: 3% alatti költségvetési hiány, GDP-arányosan csökkenő államadósság, alacsony infláció és kamatok.
+» Felelős költségvetési tervezést és számonkérhető végrehajtást vezetünk be.
+» Erősítjük a befektetői bizalmat és százmilliárdokkal csökkentjük az államadósság után fizetendő kamatokat.
+» Előkészítjük az euró bevezetését, és belátható céldátummal megvalósítjuk azt. Bevezető Ma mindenki érzi a bőrén, hogy a gazdaság rossz irányba megy. A kormány gazdaságpolitikája kudarcot vallott: nem tudnak felelősen tervezni, nem tudnak gazdálkodni, a közpénzek jelentős részét felemészti a hatalmas korrupció. Ennek árát a magyar családok fizetik meg a boltban, a számlákon, ez okozza az alacsony béreket és az állandó megélhetési válságot. Miközben egyre nehezebb kijönni a fizetésből hónapról hónapra, addig a korrupció miatt nem érkeznek a magyar embereknek és cégeknek járó uniós ezermilliárdok, amelyekből jobb egészségügyet, működő vasutat és versenyképes gazdaságot lehetne építeni. A TISZA hazahozza a Magyarországnak jogosan járó uniós pénzeket. Vállaljuk, hogy a költségvetés újra takarékos, átlátható és kiszámítható lesz, hogy a jövő ne szorongást, hanem fejlődést jelentsen. Vállaljuk, hogy lebontjuk a korrupciót és véget vetünk a pazarlásnak. Az állam újra megbízható partnere lesz a vállalkozóknak, a munkavállalóknak és a befektetőknek. Kiszámítható gazdaságot és tervezhető jövőt teremtünk – mert egy ország csak akkor lehet erős, ha az emberek bízhatnak a holn-apban.
+
+
+Költségvetési gazdálkodás – Problémák A kormány gazdaságpolitikája kudarcot vallott, a gazdaság évek óta stagnál, a költségvetés nagyon rossz állapotban van.
+» Hazánk gazdasága 2022 óta lényegében nem fejlődött, annak ellenére stagnál, hogy a kormány mindig betervezte az évi 3-4%-os növekedést A kormány GDP-várakozásai és a tényadatok (%), 2022–2025 (forrás: KSH, Nemzetgazdasági Minisztérium) -2,00% 0,00% 2,00% 4,00% 6,00% 2022 2023 2024 2025 Várakozás Tény
+» Miközben a GDP nem tud nőni, a beruházások zuhannak, a költségvetési hiány évről-évre nagyobb a tervezettnél, és emelkedik az állam adósság.
+
+
+A pénzünk 2010 óta a vásárlóértékének több mint felét elveszítette.
+» 2010-ben 270 forint volt egy euró, ma 385. Az euróhoz képest 43%-kal gyengült a fizetőeszközünk. A forint árfolyamának óriási kilengései tervezhetetlenné teszik a magyar vállalatok működését.
+» Az infláció még ennél is drámaibb volt: 2010 óta lényegében megduplázódtak az árak.
+» Egyes termékkörök esetében, pl. az élelmiszereknél az infláció még ennél is nagyobb volt, 2010 óta az árak közel kettő és félszeresére emelkedtek ebben a kategóriában.
+» Nem véletlen, hogy az emberek lényegesen nagyobb pénzromlást érzékelnek a hivatalos KSH-adatoknál – hiszen ezt tapasztalják a boltokban. Az infláció alakulása Magyarországon (%), 2010–2025 (forrás: Eurostat, KSH) 91,3 43,6 Európai Unió 38,1 Euróövezet 60,3 Szlovákia 53,9 Ausztria 81,3 Románia 63,4 Lengyelország 40,4 Szlovénia Horvátország
+
+
+A fogyasztói árak változása egyes termékeknél (%), 2010–2025 (forrás: Eurostat, KSH) Termék megnevezése Ár (2010) Ár (2024) Infláció (%) Fűszerpaprika, csemege (1 kg-ra számítva) 376 Ft 9 030 Ft 2302% Egészségügyi papír (3 rétegű, 8 darabos) 77 Ft 1 530 Ft 1887% Tejföl (20% zsírtartalom, kg) 124 Ft 1 930 Ft 1456% Akácméz (kg) 682 Ft 5 820 Ft 753% Csemegekukorica konzerv (kg) 238 Ft 1 970 Ft 728% Gyümölcslekvár (min. 50%, kg) 379 Ft 2 680 Ft 607% Mosogatószer (szintetikus folyékony, liter) 306 Ft 1 600 Ft 423% Ceruzaelem (tartós, LR6-1,5V, 4 darabos) 272 Ft 1 310 Ft 382% Karikagyűrű (14 karátos arany, g) 9 130 Ft 41 770 Ft 358% Pontyszelet vagy filé (kg) 964 Ft 4 320 Ft 348% Hamburger (db) 382 Ft 1 700 Ft 345% Frottírtörülköző (70x140 cm, db) 1 120 Ft 4 900 Ft 338% Állatkerti belépőjegy (1 gyermek, vasárnap) 847 Ft 3 120 Ft 268% Kenyér, fehér (kg) 244 Ft 881 Ft 261% Multiplex mozijegy (szombat este, db) 740 Ft 2 670 Ft 261% Adott évekre nyersen kiszámított átlagárak, melyek nem szűrik ki a reprezentánsok megfigyelésében és megfigyelhetőségében bekövetkező időbeli változásokat (pl.: min ségi változás, összeíróhely-váltás, reprezentánsmódosítás (KSH). A magyar állam súlyosan eladósodott.
+» Mivel az uniós források jelentős részét a kormányzati korrupció miatt befagyasztották, a gazdaság nem nő, de a féktelen gazdagodáshoz szokott oligarchákat pénzelni kell, ezért a kormány adósságba taszítja az országot.
+» Az államadósság összege nagyjából megháromszorozódott 2010 óta (22 ezer milliárdról 66 ezer milliárd forint fölé emelkedett).
+» 2025-ben 5740 milliárd forinttal nőtt az államadósság. Összehasonlításképpen: a költségvetés éves bevétele szja-ból 4900 milliárd, áfából, a legmagasabb adóbevételt jelentő adónemből pedig 8220 milliárd forint.
+» Csak az államadósság kamatára évente nagyjából 4200 milliárd forintot fizetünk ki, ez a teljes gazdasági teljesítményünk kb. 5%-a. Ez annyi, mintha évente minden magyarnak 440 ezer forintot kellene kifizetnie a kamatra. Ez a pénz hiányzik az oktatásból, az egészségügyből, a vasútfejlesztésből.
+
+
+A bruttó államadósság alakulása (mrd Ft), (forrás: Államadósságkezelő Központ, MNB) 20 000 40 000 60 000 80 000 2005.01.01 2010.01.01 2015.01.01 2020.01.01 2025.01.01
+» A költségvetés hiányát a kormány rendszeresen alultervezi, ami rontja a költségvetési gazdálkodás hitelességét . A költségvetési hiány terv- és tényadatai (mrd Ft), (forrás: PM, NGM) 2000 4000 6000 2020 2021 2022 2023 2024 2025 Terv (mrd Ft) Tény (mrd Ft) Tervezési hiba, túlköltés (mrd Ft)
+
+
+A korrupció költsége hatalmas terhet jelent a gazdaságnak és a költségvetésnek.
+» A korrupció teljes társadalmi költsége eléri a GDP 4-8% százalékát.
+» A korrupció közvetlen költsége megjelenik a közbeszerzések túlárazásában, ami önmagában évente több ezer milliárd forint kárt okoz.
+» A korrupció közvetett költségei abból adódnak, hogy nem ott fejleszt az állam, ahol erre leginkább szükség lenne, valamint abból, hogy a magángazdaságban is torzítja a versenyt a NER-es cégek közbeszerzéseken kialakított erőfölénye. Mindezek pedig súlyos hatékonyságveszteséggel járnak az egész gazdaság számára. A költségvetés átláthatatlan és torz szerkezetű, egyes területekre az uniós átlagnál jóval többet, másokra lényegesen kevesebbet költünk.
+» A költségvetési tervezés jelenlegi gyakorlata elhibázott, másfél évvel előre próbál tervezni, mindig sikertelenül. A költségvetés szándékosan átláthatatlan, rosszul strukturált, hogy ne lehessen látni, hol folyik el a pénz. Állami kiadások fő kategóriák szerint a GDP arányában (%), 2023 (forrás: Eurostat-COFOG) Általános Védelem Közrend Gazdasági ügyek Környezetvédelem Lakásügyek Szabadidő és kultúra Oktatás Szociális védelem EU 27
+» Három területen lényegesen többet költünk az uniós átlagnál, de ez nem azt jelenti, hogy ezek jól működnének. Ennek az az oka, hogy ezeken a területeken a legtöbb a politikai célú presztízsberuházás és a korrupcióval terhelt költés.
+» A kormány az Unió átlagánál közel kétszer többet költ az állam működtetésére. Az állam láthatóan nem működik jól, de akkor mi magyarázza ezt a magas költést? Elsősorban az, hogy itt jelennek meg az állam kamatkiadásai, amelyek a növekvő államadósság és annak kiugró kamatszintje miatt Magyarországon nagyon magasak.
+
+
+» Magyarország az uniós átlagnál lényegesen többet költ gazdasági ügyekre. Ennek elsősorban az az oka, hogy a magyar állam rengeteg támogatást ad olyan multinacionális cégek számára, amelyek erre egyáltalán nem szorulnak rá. Számos környezetszennyező akkumulátoripari beruházás több százmilliárdos állami támogatásban részesült, egy-egy, sokszor külföldi vendégmunkások által betöltött munkahely megteremtésére ötven-százötven millió forintot fordít az állam.
+» A szabadidő, kultúra és vallásügyek témában is az átlagnál lényegesen többet költ a magyar állam, ennek ellenére sem a sport, sem a vallásügy, sem a kulturális területek nincsenek jó állapotban, a valóban érdemi munkát végző szereplők gyakran forráshiánytól szenvednek. A felesleges presztízsberuházások, a korrupció, az átláthatatlan, a politikai lojalitást jutalmazó pénzosztások mellett ezt a költségvetési tételt elsősorban az állami propagandakiadások torzítják el.
+» Szociális kiadásokra lényegesen kevesebbet költünk, mint a fejlett országok döntő többsége. Az Európai Unióban nálunk a harmadik legalacsonyabb a nyugdíjköltések és a szociális védelmi kiadások szintje, és messze az átlag alatt költünk gyermekvédelemre.
+» Az egészségügyben sereghajtók vagyunk, a régióban a legkevesebbet költünk rá, ami érezhető társadalmi és gazdasági hátrányt okoz hazánknak. Rövidebb ideig élünk, kevesebb évet töltünk egészségben, ami jelentősen csökkenti a gazdasági teljesítményt is. Állami kiadások a GDP arányában, régiós összehasonlítás (%), 2023 (forrás: Eurostat-COFOG) EU 27 Csehország Horvátország Ausztria Lengyelország Románia Szlovénia Szlovákia Szociális védelem Oktatás Szabadidő, kultúra és vallásügyek Lakásügyek és településfejlesztési ügyek Környezetvédelem Gazdasági ügyek Közrend és közbiztonság Védelem Általános közszolgáltatások
+
+
+A befektetők nem bíznak Magyarországban, drága minden külföldi áru, és magasak a kamatok.
+» A hiteltelen gazdaságpolitika, a gyakran változó jogszabályok és az elhatalmasodott korrupció miatt a befektetők óvatosak Magyarország kapcsán, ezért drágábban kapunk hitelt. Ez gyengíti a forintot és növeli a kamatokat.
+» A forint árfolyama könnyen kileng; ha romlik a bizalom, az üzemanyag, az élelmiszer és minden import drágul.
+» A gazdaság növekedéséhez és a forint stabilitásához fegyelmezett költségvetés, alacsony hiány és kiszámítható gazdasági és pénzügyi döntések szükségesek — ezeket most nem teljesítjük. Költségvetési gazdálkodás – Vállalásaink Hazahozzuk a jelenlegi kormány korrupciója miatt befagyasztott uniós pénzeket.
+» 32,2 milliárd euró (12 400 milliárd forint) állt Magyarország rendelkezésére a 2021-27-es uniós költségvetési ciklusban. Ebből a jelenlegi kormány miatt az Európai Unió befagyasztott mintegy 20 milliárd euró, azaz 8000 ezer milliárd forint támogatást. Ebből a hatalmas összegből a jelenlegi kormány miatt már végleg elveszett több, mint 2,5 milliárd euró (1 000 milliárd forint), és ha a jelenlegi kormányon múlna, a többi is örökre elveszne hazánk számára.
+» Vállaljuk, hogy hazahozzuk a Magyarországnak járó, de egyelőre befagyasztott uniós forrásokat, amelyeket a kormány évek óta nem tud és nem akar hazahozni.
+» Az uniós forrásokat az egészségügy, a közlekedés, a gazdaság és az oktatás fejlesztésére, valamint a magyar vállalatok támogatására fordítjuk. Kiszámítható, vállalkozásbarát szabályozást és jogbiztonságot biztosítunk.
+» Helyreállítjuk a jogállami működést, megszüntetjük a visszamenőleges hatályú jogalkotást.
+» A pénzügyi és adózási szabályok módosításakor érdemi egyeztetéseket vezetünk be az érintettekkel, és kellő felkészülési időt biztosítunk számukra. A döntésekre valós hatástanulmányok alapján kerül sor, amelyeket nyilvánosságra hozunk a társadalmi konzultáció során.
+» Javítjuk a szabályozás és a jogalkotás minőségét. Tartózkodunk az ún. salátatörvények használatától a jogalkotásban.
+» Olyan országot építünk, ahol a gazdasági siker nem a politikai döntésektől, hanem a teljesítménytől függ.
+
+
+Javítjuk az állami működés hatékonyságát.
+» Átvilágítjuk a teljes költségvetési kiadási oldalt, megismerjük a titkosított szerződéseket, és leltárt készítünk az ország gazdasági állapotáról. Ez alapján elkészítjük a 2026-os év módosított költségvetését, mert az elfogadott verzió már 2026 előtt összeomlott.
+» A közbeszerzések nagyobb átláthatósága érdekében továbbfejlesztjük az Elektronikus Közbeszerzési Rendszert, valamint biztosítjuk az a közbeszerzési dokumentumok, az ajánlattevők adatai és a végleges szerződések nyilvános, könnyű elérhetőségét.
+» A verseny érdekében támogatjuk a kisebb vállalatok, hazai kkv-k részvételét, és kerüljük a közbeszerzési kiírásokban a nem reális, kizáró jellegű követelményeket.
+» A korrupció visszaszorítása céljából megszigorítjuk az összeférhetetlenségi szabályokat.
+» Újratárgyaljuk, majd felmondjuk vagy kedvezőbb feltételekkel újrakötjük az országnak kedvezőtlen, hosszú távú, sok esetben titkosított szerződéseket.
+» Kedvezőbb feltételek mellett refinanszírozzuk a magas kamatozású hiteleket. Helyreállítjuk a költségvetés hitelességét és az egyensúlyt.
+» Reális, konzervatív makrogazdasági előrejelzésekre alapozva tervezzük meg a költségvetést.
+» Visszaállítjuk az őszi költségvetés-tervezés bevált menetrendjét, amikor a bázisév makrogazdasági és költségvetési folyamatairól már elegendő információ áll rendelkezésre.
+» A végrehajtás átláthatóságának erősítése érdekében a jövőben ismét csak az Országgyűlés dönthet a költségvetés jelentős módosításáról.
+» Anticiklikus költségvetési politikát alkalmazunk, megfelelő tartalékokkal a váratlan kiadásokra.
+» Rögzítjük és betartjuk az Unió új adósság- és hiányszabályait a nettó elsődleges kiadások növekedési ütemére és a minimális hiány- és adósságráta-csökkentésre vonatkozóan.
+» Kiszámítható költségvetési politikával fokozatosan javítjuk az adósság kockázati besorolását, és mérsékeljük a kamatkiadásokat.
+
+
+Erősítjük a befektetői bizalmat és a forint stabilitását.
+» Átlátható tervezéssel, rendszeres évközi jelentésekkel és elemzői konzultációkkal támogatjuk a befektetőket a költségvetési kockázatok felmérésében.
+» Közzétesszük az adósságkezelési stratégiát, és rendszeresen publikáljuk a kulcsindikátorok alakulását.
+» Adó- és versenypolitikával támogatjuk a monetáris politikát az árstabilitás elérésében.
+» A kitűzött célokat teljesítő, fegyelmezett költségvetési politikával és az adósság kedvezőbb kockázati minősítésével támogatjuk a forintárfolyam kiszámítható alakulását. Előkészítjük az euró bevezetését, és belátható céldátummal megvalósítjuk azt.
+» Szakmai és társadalmi egyeztetést indítunk az euró bevezetéséről.
+» Kitűzünk egy belátható, megvalósítható céldátumot.
+» Felvázoljuk és a korrupció visszaszorításával, a gazdaság beindításával és tartható költségvetéssel megvalósítjuk a csatlakozáshoz szükséges feltételeket (3% alatti költségvetési hiány, csökkenő államadósság, tartósan alacsony infláció és kamat, stabil forintárfolyam) teljesítő középtávú makrogazdasági pályát.
+
+
+## 1.4. Rezsicsökkentés+
+
+Alacsony rezsi, tiszta energia
+» Megtartjuk és szociális alapon kiterjesztjük a rezsicsökkentést.
+» Az időjárás függvényében szükség szerint megemeljük a rezsicsökkentett gáz- és áramfogyasztási limitet.
+» A tűzifa áfáját 5%-ra csökkentjük, a szociális tűzifakeretet megduplázzuk, és elérhetővé tesszük az 5000 fő feletti településeknek is.
+» Megfizethető és versenyképes energiát biztosítunk a magyar vállalkozásoknak, a verseny növelésével és a rendszerhasználati díjak csökkentésével.
+» A magyar otthonok legalább 25%-át 10 éven belül magasabb energiahatékonyságúvá tesszük.
+» 2035-ig megszüntetjük az orosz energiafüggőséget, diverzifikáljuk a hazai energiaellátást.
+» 2040-ig megduplázzuk a megújuló energia arányát a hazai energiaellátásban, és fejlesztjük az energiatároló-kapacitásokat. Bevezető Ma Magyarországon egymillió ember fázik télen, mert nem tudja megfizetni a fűtést. Eközben a magyar vállalkozók Európa legmagasabb energiaárait fizetik, óriási versenyhátrányban próbálnak dolgozni. Az ország energiaellátásának jelentős része egy háborúban álló államtól függ – ez nemcsak drága, hanem veszélyes is. Az elhibázott energiapolitika miatt a gazdaság sebezhetővé vált, a családok kiszolgáltatottak lettek, az ország jövője bizonytalanná vált. A TISZA vállalja, hogy a biztonságos, tiszta és megfizethető energia kormánya lesz. Vállaljuk, hogy megőrizzük és szociális alapon kiterjesztjük a rezsicsökkentést, és olyan országot építünk, ahol senki nem fázik télen. Vállaljuk, hogy a vállalkozások kiszámítható, versenyképes áron jutnak energiához, és Magyarország energiaellátását nem veszélyezteti többé kiszolgáltatottság és felelőtlenség.
+
+
+Energiapolitika – Problémák Magyarország energiafogyasztása nő, miközben a megújuló energia aránya elmarad az uniós átlagtól.
+» Magyarország 2024-ben 45 ezer gigawattóra villamos energiát használt fel. A felhasználás a dekarbonizáció, az elektromobilitás terjedése és a széles körű elektrifikáció miatt gyorsan fog nőni.
+» Az érvényes Nemzeti Energia- és Klímaterv előrejelzései szerint 2030ra 53 ezer, 2040-re 72 ezer gigawattórára nő a fogyasztás.
+» A megtermelt villamos energia 42%-át nukleáris energiából, 19%-át földgázból és mintegy 24%-át napenergiából állítjuk elő.
+» A megújulók aránya együtt mindössze 30%, ami jóval az uniós átlag (50%) alatt van. Magyarországon egymillió ember él energiaszegénységben, miközben rendkívül pazarlóan bánunk az energiával.
+» Magyarországon több mint egymillió embernek jelent problémát otthonának fűtése, az energiaköltség fedezése.
+» Az elmaradt energiahatékonysági beruházások miatt az épületek fűtési energiájának a fele kárba vész. A magyar vállalkozók fizetik Európában a legmagasabb energiadíjakat.
+» A vállalkozók által fizetendő áramdíj a legmagasabb az Unióban.
+» A magyar vállalkozók által fizetett földgázár a harmadik legdrágább az Unióban.
+» Magyarországon a villamosenergia végfelhasználói árának 30-45%-a nem maga az energia, hanem a rendszerhasználati díj (benne az átviteli díj, a rendszerirányítási díj, a kiegyenlítő energia díja és egyéb szabályozási elemek).
+» A magas profit politikailag beágyazott cégeknél csapódik le, ők gazdagodnak a kisvállalkozók kárára.
+» A magas energiaár jelentős mértékben felelős az ország versenyképtelenségéért és a boltokban tapasztalható magas árakért.
+
+
+Nem lakossági fogyasztók villamosenergia-árai (EUR/MWh), 2025 1. félév (forrás: Eurostat) Norvégia Finnország Svédország Luxemburg Málta Franciaország Montenegró Spanyolország Észtország Portugália Belgium Dánia Hollandia Ausztria Litvánia Szlovénia Bosznia Európai Unió Németország Törökország Litvánia Bulgária Írország Görögország Albánia Szerbia Csehország Olaszország Szlovákia Észak-Macedónia Ciprus Lengyelország Románia Horvátország Elmaradt beruházások miatt sérülékeny az energiaellátás.
+» Magyarország energiaellátása sérülékeny: mintegy 60%-ban a nemzetközi partnerektől függ. Ha a paksi orosz függést is figyelembe ves�szük, akkor a függés mértéke 80%.
+» A kiszámíthatatlan finanszírozás és a piactorzító állami beavatkozások miatt nem épült alaperőmű Magyarországon az elmúlt 15 évben, sok ezer milliárd forint fejlesztés hiányzik.
+» Az infrastruktúra elavult: a villamosenergia-hálózat kapacitása korlátozott, a földgázhálózat kihasználatlan. Nem tudjuk teljesíteni a klímapolitikai célokat.
+» Az energiahatékonysági beruházások elégtelen szintje miatt Magyarország várhatóan nem fogja tudni teljesíteni a vállalt, végső energiafogyasztásra vonatkozó céljait.
+» A villamosenergia-termelés jelentős része karbonintenzív a nem napos órákban.
+» A PAKS II. projekt építkezése lassan, sok problémával terhelten halad, a sikeres, tervezett határidőre és költségkereten belüli befejezésre a jelenlegi körülmények között nincs esély.
+» A szélenergiát szinte egyáltalán nem hasznosítjuk, és nem használjuk ki kellőképpen a geotermikus energiát sem. A szélenergia részaránya a villamosenergia-termelésből mindössze 1,7%.
+
+
+Energiapolitika – Vállalásaink Megtartjuk és kibővítjük a rezsicsökkentést, és olcsó energiát biztosítunk a magánszemélyeknek.
+» Megtartjuk és szociális alapon kiterjesztjük a rezsicsökkentést.
+» A tűzifa áfáját 5%-ra csökkentjük.
+» A szociális tűzifakeretet megduplázzuk, és elérhetővé tesszük azt az 5000 fő feletti településeken is. Nem történhet meg többé, hogy több száz honfitársunk megfagy telente.
+» A verseny növelésén keresztül elérjük, hogy Magyarországon minden vállalat versenyképes áron juthasson hozzá az energiához. Megfizethető és versenyképes energiát biztosítunk a magyar vállalkozásoknak.
+» Felülvizsgáljuk és csökkentjük a hálózati és rendszerhasználati díjakat, különös tekintettel a MAVIR által alkalmazott villamosenergia-rendszerhasználati elemekre, hogy azok arányban álljanak a tényleges költségekkel, és ne indokolatlanul terheljék a termelő és szolgáltató vállalkozásokat. A cél az, hogy a hálózathasználat ne versenyhátrányt, hanem kiszámítható szolgáltatást jelentsen.
+» Valódi piaci versenyt teremtünk az energiaellátásban, megszüntetve a torz ösztönzőket és a mesterségesen fenntartott piaci koncentrációt. Biztosítjuk, hogy a vállalkozások több beszállító közül választhassanak átlátható feltételek mellett, és hogy a piaci árak valóban tükrözzék a beszerzési és termelési költségeket.
+» Egyszerűbb, átláthatóbb és olcsóbb ellátási láncokat alakítunk ki, és szigorúan ellenőrizzük azokat. Fellépünk azokkal a gyakorlatokkal szemben, ahol a vállalkozások nem az energiáért, hanem a rendszer bonyolultságáért és az indokolatlanul közbeiktatott szereplők profitjáért fizetnek.
+» Hosszú távú, kiszámítható energiaár-környezetet teremtünk a hazai vállalkozásoknak, többéves szerződésekkel, aggregált beszerzési lehetőségek és ipari fogyasztók számára elérhető rugalmas tarifák ösztönzésével, hogy a cégek tervezni tudjanak, beruházzanak és versenyképesek legyenek itthon és az exportpiacaikon is. Támogatjuk az energiahatékonysági beruházásokat.
+» A hazahozott uniós forrásokból mintegy 1000 milliárd forintot fordítunk lakossági és vállalati energiakorszerűsítési és -hatékonysági programokra.
+» A célunk évente 100 ezer lakás energetikai korszerűsítése: Családi Energetikai Programot indítunk, ezáltal a magyar otthonok legalább 25%-a 10 éven belül magasabb energiahatékonyságú lesz, minimális energiaköltséggel lesz üzemeltethető.
+» Többféle választható megoldást kínálva (szigetelés, fűtéskorszerűsítés, napelemek, hőszivattyús rendszerek, okos megoldások) támogatjuk az energiahatékonysági és korszerűsítési fejlesztéseket, mivel
+
+
+a legtisztább és legolcsóbb energia az el nem fogyasztott energia. A támogatás mértékét az elérendő energiamegtakarítás szintjéhez igazítjuk. A pályázatokat egyszerűvé, gyorssá tesszük.
+» Rugalmas tarifarendszerrel támogatjuk a fogyasztókat abban, hogy mindenki ki tudja használni az olcsó, napenergia alapú termelés előnyeit.
+» Csökkentjük a fosszilis energia felhasználását, mert így tisztul a levegőnk, egészségesebb lesz a környezetünk, csökken az ország függősége az orosz importtól, valamint csökken a CO2-kibocsátás.
+» Felszámoljuk a több mint egymillió embert érintő energiaszegénységet a támogatások célzottabb és hatékonyabb alkalmazásával. Fejlesztjük és korszerűsítjük  a távhőszolgáltatást, hogy kevesebb legyen az energiaveszteség és kiszámíthatóbb legyen az ellátás. Megduplázzuk a tiszta energiát, és megszüntetjük az orosz energiafüggőséget.
+» 2035-ig megszüntetjük az orosz energiafüggőséget, diverzifikáljuk a hazai energiaellátást.
+» 2040-ig megduplázzuk a megújuló energia arányát a hazai energiaellátásban.
+» Teret engedünk a szélenergia és a geotermikus energia használatának, mert ezzel egyszerre fokozzuk az energiabiztonságot és csökkentjük a környezet terhelését.
+» Eltöröljük az új szélerőművek telepítését akadályozó, felesleges korlátozásokat.
+» A fenntartható geotermikusenergia-hasznosítás érdekében megköveteljük a vízvisszasajtolást, és többlépcsős vízhasznosítási rendszereket építünk ki. Átlátható nukleárisenergia-stratégiát alakítunk ki, és ellenálló hálózatot építünk.
+» Elkötelezettek vagyunk amellett, hogy Magyarország növekvő villamosenergia-felhasználását biztonságos atomerőmű építésével biztosítsa.
+» Teljes körűen felülvizsgáljuk a PAKS II. projektet. Felülvizsgáljuk a projekt finanszírozását, és megvizsgáljuk, hogyan emelkedett a beruházás költsége 10 év alatt a duplájára.
+» Megvizsgáljuk a nukleáris fűtőelemek nem orosz, hanem pl. francia vagy amerikai forrásból történő beszerzésének a lehetőségét, illetve az új, kisebb és kedvezőbb árú, moduláris reaktorok építésének lehetőségét.
+» Fenntartható, rugalmas és ellenállóképes energiahálózati villamosenergia- és földgáz-infrastruktúrát teremtünk, mely garantálja az ellátásbiztonságot.
+
+
+## 1.5. Infrastruktúrafejlesztés
+
+Modern vasút, gyorsabb és megfizethetőbb közlekedés, épülő ország
+» 10 éven belül megfelezzük a vasúti kocsik és mozdonyok átlagéletkorát a mostani 40-50 évről.
+» A vasúti fővonalakon elérjük az autópályával versenyképes, legalább 100 km/h állomástól állomásig mért átlagsebességet, amely 160–200 km/h-ra alkalmas pályák fejlesztését jelenti.
+» Országos villamosítási programot indítunk a vasúti szektorban, 50%-ra növeljük a villamosított pályák hosszát.
+» Országos kátyúmentesítési és átfogó közútfejlesztési programot indítunk, megduplázzuk a közutak fenntartására és felújítására fordított kiadásokat.
+» Megépítjük az ország közepén áthaladó, az M1-est Kecskeméttel összekötő M200–M8-as gyorsforgalmi utakat, és megkezdjük az ország déli gyorsforgalmiút-körgyűrűjének, az M9-esnek a megvalósítását.
+» Kimelten kezeljük a települési elkerülő utak fejlesztését.
+» Budapesten megépítjük a Galvani-hidat és a Soroksári-Duna-hidat, kötöttpályás közlekedéssel. Szegeden új Tisza-hidat építünk vasúti és tram-train kapcsolattal.
+» A 35 évre szóló koncessziós szerződést felülvizsgáljuk, csökkentjük az útdíjakat.
+» Az építésügy és a közlekedésfejlesztés területén felszámoljuk a rendszerszintű korrupciót, és megteremtjük a közbeszerzések valódi átláthatóságát.
+
+
+Bevezető Ma Magyarországon közlekedni sokak számára mindennapos
+
+stressz és bizonytalanság. A vonatok soha nem késtek ennyit, a buszjáratok ritkák, az utak sok helyen tragikus állapotúak. Ami Európa számos országában alapvető, kiszámítható szolgáltatás, az itthon gyakran bizonytalan élmény: eljutni időben iskolába, munkába, orvoshoz vagy haza a családhoz. A közlekedés nem luxus, hanem alapvető közszolgáltatás. Egy működő országban az emberek biztosak lehetnek abban, hogy ha elindulnak időben, akkor a tervezett időben meg is érkeznek. A tömegközlekedés ma komoly kihívásokkal küzd. A vasút évek óta leépül, a regnáló kormány leállította a szükséges fejlesztéseket. A járművek koszosak, megbízhatatlanok, a mosdó gyakran nem működik. Az utak állapota sok helyen életveszélyes, a közlekedés kiszámíthatatlan, és ezt nap mint nap az emberek fizetik meg idejükkel, bosszankodással, sokszor sajnos balesetekkel. A problémák nem egyik napról a másikra keletkeztek, és nem is egyetlen ágazatban jelentkeznek. Az elmúlt években elmaradtak az állagmegóvó fejlesztések, miközben a közlekedési rendszer egészére nem készült hosszú távú, ciklusokon átívelő nemzeti terv. Komoly versenyhátrányt okoz hazánknak, hogy a hazai útdíjak kifejezetten magasak a magánszemélyeknek, és a fuvarozóknak a régióban egyenesen a legmagasabbak. A közlekedésnek újra működnie kell, és megfizethetőnek kell lennie. Vállaljuk, hogy a működő és emberséges Magyarországon minden magyar ember biztonságosan, gyorsan és megbízhatóan eljut oda, ahová szeretne. A közlekedés fejlesztése nem műszaki kérdés, hanem életminőségi, gazdasági és klímapolitikai ügy. Ahhoz, hogy a céljaink megvalósulhassanak, tiszta, versenyképes és hatékony hazai építőiparra van szükség. Megtisztítjuk az ágazatot a korrupciótól, és olyan környezetet teremtünk, ahol reális áron, jó minőségben és hosszú távon fenntartható módon épülhet az ország.
+
+
+Közlekedés – Problémák A közlekedési ágazat rendszerszintű válságban van. Minden területen elmarad az igényektől, ami sok bosszúságot okoz az utazóknak, és jelentős gazdasági hátrányt jelent az országnak.
+» Magyarország kiemelkedően sokat, a GDP 3,9%-át költi a közlekedés fejlesztésére, ennek ellenére a közlekedés minden területen problémákkal küzd.
+» A fejlesztések aránytalanok: méregdrágán, korrupcióval terhelten épült gyorsforgalmi úthálózatunk európai szintű, miközben a vasúti hálózat, a főutak és alsóbbrendű utak, valamint a közösségi közlekedés számos eleme elmarad az elvárható szinttől.
+» A vasúti közlekedés rendszeresen leáll, a vonatok késnek, kigyulladnak, kisiklanak. Az utastájékoztatás rossz, a kormány még a saját vasutasait is cserben hagyta.
+» A kormány az összes fontos vasútfejlesztést leállította, 15 év alatt még azt sem tudta megvalósítani, hogy használható és tiszta illemhelyek legyenek a vasútnál.
+» Az elmúlt évek nemtörődöm kormányzása miatt nemcsak a vasút, de a buszok, az utak és a repülőtér színvonala is messze elmarad az elvárható szinttől.
+» A nagyobb városok környékét kivéve a helyközi autóbusz-közlekedés jelentősen ritkult.
+» Több lépésben megszűnt a városi helyi tömegközlekedés állami normatívája, ami a helyi járatok ritkítását, néhol teljes megszüntetését eredményezte.
+» Magyarországon a közlekedéssel töltött idő jelentősen nőtt az elmúlt évtizedekben; míg 2009/2010-ben az átlagos napi időtartam kevesebb volt (kb. 60-66 perc), 2024/2025-re ez már 21 perccel emelkedett az előző időszakhoz képest (tehát jóval 80 perc fölé), elsősorban a gépkocsival történő utazás miatt. A vasúti közlekedés állapota tragikus, a hálózat és a járműpark lemaradt az uniós szinttől.
+» A vasúti közlekedés legnagyobb problémája a megbízhatóság hiánya.
+» A vasúthálózat az elmúlt években drasztikusan leromlott. Több száz kilométernyi vidéki vasúti mellékvonalat zártak be, mára már csupán 5900 km áll a személyforgalom rendelkezésére, és ennek is az 50%-án állandó vagy ideiglenes forgalomkorlátozások vannak a pályák műszaki állapota vagy egyéb okok miatt.
+» Kevés a nagy kapacitású, kétvágányú pálya (hazai arány: 15%, uniós átlag: 42%) és a villamosított vonal (hazai arány: 31%, uniós átlag: 46%).
+» Alacsony a kiépítési sebesség: általában maximum 120 km/óra; az uniós forrásból fejlesztett vonalakon tíz év alatt sem sikerült teljes körűen
+
+
+bevezetni a támogatás feltételeként előírt 160 km/órát. Ahol működik is a rendszer, csak a járművek egy kis része alkalmas erre a sebességre, a vonatok többségét továbbra is 40-60 éves, lassabb villanymozdonyok húzzák.
+» A pályahibák miatt bevezetett ideiglenes sebességkorlátozások, a biztosítóberendezések és felsővezetékek elavultsága rendszeres késéseket okoznak. Ezek az üzemeltetési hiányosságok közvetlenül rontják az utasélményt és a vasút versenyképességét.
+» A járműpark jelentős része elavult: a mellékvonalakra, dízeles fővonalakra 1984 óta nem érkezett nagy mennyiségben új jármű. A járműpark átlagéletkora 40-50 év, miközben 20-30 éves kor körül már szükséges lenne lecserélni a járműveket.
+» Az utasok nap mint nap azzal szembesülnek, hogy a járművek tisztasága, megbízhatósága, akadálymentessége és komfortja nem felel meg a 21. századi elvárásoknak. Az új jármű nem önmagában cél, hanem azért fontos, mert tisztább, ritkábban hibásodik meg, gyorsabb, akadálymentes, fűthető–hűthető, és működő mosdóval rendelkezik.
+» A vasúti közlekedés túlzottan Budapest-központú, miközben a magyar vasúti utazások döntő többsége a budapesti agglomerációban és a nagyvárosok elővárosi térségeiben zajlik. Ezeken a területeken hiányzik az a városias jellegű elővárosi szolgáltatás, amely Európa számos országában alapvető: sűrű menetrend, kiszámítható esti és hétvégi közlekedés, versenyképes menetidő. A HÉV-vonalakra a kormány hibájából nem valósultak meg a beígért fejlesztések, továbbra is matuzsálemi korú szerelvények közlekednek. Az országos közúthálózat állapota romlik, a forgalomszervezés és a koncessziós rendszer súlyos problémákat okoz.
+» Az országos közúthálózat leromlott állapotú, csupa kátyú, közlekedésre sok helyen alkalmatlan, balesetveszélyes.
+» A két- és háromszámjegyű közútjaink különösen elhanyagoltak.
+» Ezt mutatja is az uniós átlagánál jelentősen rosszabb közlekedési baleseti és halálozási statisztika.
+
+
+Egymilliárd járműkilométerre eső halálos balesetek száma (fő), 2024 (forrás: Európai Bizottság, KTI) Litvánia Lettország Horvátország Csehország Lengyelország Portugália Olaszország EU27 Franciaország Hollandia Észtország Ausztria Spanyolország Finnország Németország Szlovénia Szlovákia Írország Dánia Svédország
+» A közutak fenntartására mindössze a GDP 0,18%-át fordítjuk, szemben a visegrádi országok 0,26%-ával. Az alacsony költés garantálja a gyors minőségromlást.
+» Az M0 autóút forgalma nagyon jelentős; a tranzitforgalom legnagyobb része Budapest agglomerációs forgalmával keveredve halad át az országon. A tranzit kamionforgalom jelentős terhet ró a lakott területekre, különösen a fővárosi agglomerációban.
+» Két évtizede várat magára a fontosabb hidak felújítása, sok helyen életveszélyessé váltak az átkelők. A Liszt Ferenc Nemzetközi Repülőtér kapacitása és szolgáltatásai nem tartanak lépést az utasforgalom növekedésével.
+» A mai napig nincs kötöttpályás közlekedési mód a reptérre, amellyel a közúti balesetek és dugók okozta késéseket el lehetne kerülni. Ez nemcsak kényelmi, hanem gazdasági probléma is.
+» A reptér állandóan zsúfolt, nem tart lépést a növekvő utasforgalommal.
+» A reptérhez kapcsolódó fejlesztési tervek gyakran változnak, nem egységesek.
+» A reptér kapacitásproblémái, a leromlott, elavult szolgáltatások akadályozzák a gazdaságfejlesztési, ezen belül is különösen a turizmusfejlesztési tervek megvalósulását.
+
+
+A magyar útdíjak magasak – a fuvarozóknak a régióban itt kell a legtöbbet fizetniük.
+» A magyar állam 2022-ben 35 évre koncesszióba adta az országos gyorsforgalmi úthálózat tervezésével, építésével, fejlesztésével, felújításával, karbantartásával és üzemeltetésével kapcsolatos jogokat az MKIF Zrt.-nek.
+» A magyar autópályák építése és üzemeltetése európai összevetésben kimagaslóan drága, a koncessziós szerződés túl hosszú, mindez rendkívül hátrányos az adófizetők szempontjából.
+» A magyar útdíjrendszer ma nem a versenyképességet szolgálja, hanem rejtett adóként terheli a gazdaságot. A magas útdíjak különösen a hazai fuvarozókat sújtják, növelik az exportköltségeket, és végső soron beépülnek az árakba, növelve az inflációt.
+» Az útdíj nem csak az utak fenntartását finanszírozza, hanem általános költségvetési bevételi eszközzé vált. A díjszint elszakadt a tényleges útfenntartási költségektől, különösen a nehézgépjárművek esetében.
+» A fuvarozók által fizetett kilométerdíjak a régióban kiemelkedően magasak, miközben Szlovákiában, Romániában vagy Lengyelországban alacsonyabb tranzit- és rendszerhasználati költségekkel lehet közlekedni. Ez versenyhátrányba hozza a magyar logisztikai cégeket.
+» A díjrendszer összetett és átláthatatlan, több, egymásra rakódó díjelemmel (rendszerhasználat, ellenőrzés, bírságkezelés, koncessziós költségek), amelyek közül nem mind indokolható közvetlen szolgáltatással.
+» A koncessziós konstrukció garantált bevételt és profitot épít be a rendszerbe, amit részben az útdíjakon keresztül fizettetnek meg a használókkal. Ez strukturálisan felfelé nyomja a díjakat, függetlenül a gazdasági környezettől.
+» Nincs célzott kedvezményrendszer a hazai fuvarozók számára, így ugyanazokat a magas díjakat fizetik, mint a tranzitforgalom. Magyarországon ma túl bonyolult, drága és kiszámíthatatlan az átalakított, veterán és hobbiautók legális üzemeltetése, miközben ez a probléma több százezer autóst érint.
+» Magyarországon több százezer, a gyári állapottól eltérő (átalakított, felújított, veterán vagy egyedi) személygépkocsi közlekedik, mégis az engedélyezési és műszaki vizsgáztatási rendszer alapvetően nincs felkészülve ezek kezelésére. Az átalakítás fogalma jogilag túl tág, ezért sok – akár kisebb – módosítás is előzetes hatósági engedélyhez kötött. Az eljárások többlépcsősek, lassúak és nem egységesek: ugyanazt az autót különböző vizsgaállomásokon eltérően bírálhatják el, ami jogbizonytalanságot és kiszámíthatatlanságot okoz.
+» Hiányzik a „biztosan legális tuning” átlátható útja: míg más európai országokban sok alkatrész előre minősített, addig Magyarországon szinte minden egyedi elbírálás alá esik. Ez drágítja az autós hobbit, visszafogja a legális építéseket, és sokakat féllegális megoldások felé terel, ami sem a közlekedésbiztonságnak, sem az államnak nem érdeke.
+
+
+Közlekedés – Vállalásaink A vasút fejlesztését 15–20 évre szóló, nemzeti konszenzuson alapuló programként kezeljük.
+» 15–20 évre szóló, ciklusokon átívelő Nemzeti Vasútfejlesztési Tervet alkotunk, amely széles társadalmi és szakmai támogatással, kötelező végrehajtási ütemtervvel és felelősökkel valósul meg.
+» A magyar vasút modernizációját nemzeti üggyé emeljük közlekedési, gazdasági, logisztikai, klímapolitikai és védelmi okokból a cseh, lengyel és osztrák minták alapján.
+» A vasútfejlesztéshez stabil hazai költségvetési forrást rendelünk, és ezt célzottan kombináljuk uniós forrásokkal és a NATO-vállalások miatt a növekvő védelmi kiadásokkal.
+» Kiemelten kezeljük a vasúti pályahibák miatti lassújelek felszámolását, valamint a biztosítóberendezési és felsővezeték-hibák megszüntetését a pontosság és megbízhatóság helyreállítása érdekében.
+» A MÁV és a GySEV pályaműködtetését minőség- és teljesítményalapú finanszírozásra állítjuk át, amely ösztönzi a jó pályaminőség fenntartását és csökkenti a késéseket.
+» Nemzeti infrastruktúrafejlesztési alapot hozunk létre, amely a hazai prioritások mentén kombinálja a hazai és uniós forrásokat, a Budapesti Agglomerációs Vasúti Stratégia, a nyugat- és kelet-magyarországi, valamint a Bécs- és Erdély-irányú nagysebességű stratégiák alapján.
+» A vasútfejlesztéseknél kiemelt figyelmet fordítunk azokra a területekre, ahol az utasok háromnegyede utazik: Budapest agglomerációjára, valamint a nagyvárosi térségekre. Átfogó elővárosi közlekedésfejlesztést indítunk Budapest központi régiójában, valamint Szeged, Miskolc, Győr, Debrecen–Nyíregyháza és Pécs térségében.
+» Városias elővárosi szolgáltatást vezetünk be, amely versenyképes menetidőt, csúcsidőben legfeljebb 30 perces, azon kívül legfeljebb 60 perces követést, esti és hétvégi közlekedést biztosít.
+» Elvégezzük a budapesti HÉV-hálózat teljes körű felújítását és járműcseréjét, és HÉV-jellegű rendszereket alakítunk ki a nagyvárosok térségében.
+» Vizsgáljuk és bevezetjük az innovatív megoldásokat, így a tram-train rendszereket, különösen Debrecen és Miskolc térségében.
+» A fő távolsági vasútvonalakon célként rögzítjük az autópályával versenyképes, legalább 100 km/h állomástól állomásig mért átlagsebességet, amely 160–200 km/h-ra alkalmas pályák fejlesztését jelenti.
+» Egész napos, óránkénti InterCity-közlekedést biztosítunk korszerű járművekkel a Budapest–Győr, Budapest–Szeged, Budapest–Debrecen– Nyíregyháza, Budapest–Miskolc, Budapest–Pécs és Budapest–Balaton vonalakon.
+» Országos programot indítunk a pályaudvarok és állomások rendbetételére, biztosítva a tiszta peronokat, aluljárókat, működő lifteket, illemhelyeket és alapvető utasbarát szolgáltatásokat Budapesten és vidéken egyaránt.
+
+
+» A magyar tömegközlekedést 21. századi szolgáltatássá alakítjuk egységes alkalmazással, digitális jegyvásárlással és valós idejű utastájékoztatással.
+» Fejlesztjük a vasúti áruszállítást a tranzit kamionforgalom csökkentése és a lakott térségek védelme érdekében.
+» Megújítjuk a járműparkot, hogy az utasok számára tiszta, megbízható, gyors, akadálymentes, működő illemhellyel bíró, fűtött-hűtött járműveket biztosítsunk.
+» Folytatjuk az InterCity-hálózat járműállományának megújítását, a hazai és nemzetközi pályafejlesztésekhez illeszkedő járművekkel.
+» Országos villamosítási programot indítunk a vasúti szektorban, 50%-ra növeljük a villamosított pályák hosszát.
+» A nem villamosított vonalakon fokozatosan áttérünk a dízelről részben akkumulátoros villamos vontatásra.
+» Növeljük a kétvágányú vonalak számát és a nagy sebességgel használható szakaszok hosszát, a legforgalmasabb szakaszokkal kezdve.
+» A korábban szárnyvonalakat lezáró döntéseket felülvizsgáljuk. Ahol menetidőben és szolgáltatásban versenyképesnek ítéljük, ott újranyitjuk a vonalakat.
+» Állami eszközökkel segítjük új ipari vágányok létesítését és a meglévők használatát, a kamionforgalom egy jelentős részének a vasútra terelését.
+» Az utasok és a logisztikai partnerek jobb kiszolgálása érdekében fejlesztjük a szomszédos országok vasúti szolgáltatóival való regionális együttműködést.
+» Azonnali programot indítunk a késéseket és forgalmi zavarokat leginkább kiváltó, szűk átbocsátóképességű szakaszok, állomások bővítése érdekében.
+» A regionális és elővárosi forgalmat kizárólag akadálymentes motorvonatokra és autóbuszokra építjük, és csak ilyen járműveket szerzünk be.
+» Folytatjuk a nagysebességű vasút előkészítését a Bécs–Prága–Varsó irányokba, valamint Erdély felé, az európai hálózathoz való kapcsolódás érdekében.
+» Nem eladjuk a pályaudvarokat, hanem megtartjuk és felújítjuk azokat.
+
+
+Kiszámítható, a társadalmi mobilitást segítő szolgáltatási szinteket biztosítunk a közlekedésben.
+» Megteremtjük a fővonali InterCity hálózaton legalább Budapest és a 100 ezer főnél nagyobb lakosságú városok viszonylatában a 100 km/h állomástól-állomásig átlagsebességet.
+» Minden megyei jogú város és Budapest viszonylatában – esetenként a buszközlekedéssel együttesen – legalább óránkénti közlekedést biztosítunk.
+» Minden megyei jogú városból a 100 km-en belül található többi hasonló városba legalább kétóránként közvetlen járatokat biztosítunk.
+» Minden 500 fő fölötti településen a települést érintő járatok számát a legfőbb forgalmi irányban legalább napi 5 járatra emeljük. Az 500 fő alatti települések esetén a ritka szolgáltatás helyett az igényvezérelt, akár kisebb járművel történő kiszolgálás lehetőségét megvizsgáljuk és biztosítjuk.
+» Budapest és Debrecen mellett a többi város helyi közlekedését is integráljuk a MÁV-Volán bérletrendszerével (országbérlet), és az összes helyközi buszon megteremjük a bankkártyás fizetés lehetőségét.
+» Egységes menetrendi rendszert hozunk létre a tömegközlekedésben: a buszok, a vonatok, a hajók és a nagyvárosok helyi közlekedése ös�szehangolt rendszert fog alkotni.
+» Megvalósítjuk a Nemzeti Kerékpáros Stratégia céljait és irányelveit. Átlátható, hosszú távú közúthálózat-fejlesztést valósítunk meg.
+» Uniós forrásokra támaszkodó, valódi szakmai alapú úthálózati fejlesztési tervet készítünk 30 éves időtávra.
+» Országos kátyúmentesítési és átfogó közútfejlesztési programot indítunk, a mellékutakra koncentrálva. A két- és háromjegyű közutak fejlesztését, karbantartását és üzemeltetését prioritássá tesszük. A visegrádi országok szintjére növeljük az útfelújítási és üzemeltetési forrásokat, valamint az üzemeltetési létszámokat.
+» Folytatjuk az M0-ás körgyűrű nyugati szakaszának előkészítését és 2030-ig megkezdjük a beruházás kivitelezését legalább a 10-es és 11es út közötti szakaszon.
+» Megépítjük az ország közepén áthaladó, az M1-est Kecskeméttel ös�szekötő M200–M8-as gyorsforgalmi utakat, és megkezdjük az ország déli gyorsforgalmiút-körgyűrűjének, az M9-esnek a megvalósítását.
+» Prioritássá tesszük és felgyorsítjuk a települési elkerülő utak építését.
+» Bekötjük Zalaegerszeget az országos gyorsforgalmiút-hálózatba, és befejezzük az M49-es építését Románia felé.
+» A közlekedésbiztonág fejlesztését kiemelten kezeljük. A halálos és súlyos baleseteket okozó útszakaszokat célzottan rendbe tesszük, baleseti adatok alapján azonnali beavatkozásokat hajtunk végre (forgalomlassítás, biztonságosabb csomópontok, jobb felfestések és megvilágítás), különös tekintettel a települési főutakra és az agglomerációs átmenő szakaszokra.
+
+
+» A leggyakoribb veszélyforrásokat következetesen visszaszorítjuk (gyorshajtás, ittas vagy drogos vezetés, mobiltelefon-használat).
+» Azonnali országos hídfelújítási programot indítunk.
+» Budapesten megépítjük a Galvani-hidat és a Soroksári-Duna-hidat, kötöttpályás közlekedéssel.
+» Szegeden új Tisza-hidat építünk, vasúti és tram-train kapcsolattal. Rendezett, 15 éves repülőtér-fejlesztési programot hajtunk végre.
+» A Liszt Ferenc Nemzetközi Repülőtérhez kapcsolódóan legalább 15 éves tervezési ciklust nyitunk, amelyben sor kerül a kapacitások fejlesztésére, a BUD Cargo City további bővítésére, a gyorsforgalmi út korszerűsítésére, valamint új vasúti kapcsolat kiépítésére a repülőtér, Budapest belvárosa és az ország többi része között.
+» Kezeljük a légiforgalom növekedése miatt fokozódó zaj- és forgalmi terhelés káros hatásait, hogy megőrizzük a környéken lakók életminőségét. Csökkentjük az útdíjakat.
+» Újratárgyaljuk az útdíjrendszerhez kapcsolódó koncessziós szerződést és feltételrendszert, szükség esetén felbontjuk és kedvezőbb feltételekkel újrakötjük azt, hogy a közérdek elsőbbséget élvezzen a garantált profitmaximalizálással szemben. Bevezetjük a profitplafont és a díjcsökkentést automatikusan lehetővé tevő mechanizmusokat.
+» Olyan rendszert alakítunk ki, amely az utak fenntartását szolgálja, nem pedig a gazdaság versenyképességét rontja. Az útdíj nem lehet rejtett adó.
+» Felülvizsgáljuk és csökkentjük az útdíjak díjelemeit, különösen a nehézgépjárművek esetében, és azokat a tényleges útfenntartási és üzemeltetési költségekhez igazítjuk. Célunk, hogy a magyar fuvarozók díjterhei érdemben közelítsenek a régiós átlaghoz.
+» Célzott kedvezményrendszert vezetünk be a hazai fuvarozók számára, EU-kompatibilis módon, a gyakori használat és a belföldi gazdasági hozzájárulás figyelembevételével. A magyar vállalkozások nem kerülhetnek hátrányba a tranzitforgalommal szemben.
+» Egyszerűbb, átláthatóbb útdíjrendszert alakítunk ki, ahol világosan elkülönül, hogy a befizetett díj mire szolgál. A használók pontosan látni fogják, mit fizetnek meg, és miért.
+» Az útdíjpolitikát a gazdaság versenyképességének szolgálatába állítjuk, nem a bevételmaximalizálás eszközeként használjuk. Célunk, hogy az alacsonyabb logisztikai költségek révén csökkenjenek az árak, bővüljön az export, és erősödjön a magyar vállalkozások piaci pozíciója.
+» P+R parkolókat hozunk létre, a parkolási rendszert egységesítjük, a bevételt teljes egészében az önkormányzatok részére juttatjuk el.
+» Fokozatosan kivezetjük az utcaképet romboló és sorozatos visszaélésekre lehetőséget adó parkolási automatákat.
+
+
+Megkönnnyítjük az autósok életét, támogatjuk az elektromobilitást.
+» Egyszerűbb, olcsóbb és kiszámíthatóbb szabályozást teremtünk az átalakított, veterán és hobbiautók számára. Egységes országos szabályokat alkotunk, olcsóbbá tesszük az eljárásokat. Előre minősített alkatrészekkel, specializált vizsgaállomásokkal, digitalizált ügyintézéssel, átlátható veteránminősítéssel könnyítjük meg az autósok életét.
+» Roncsprémiumot adunk, ha valaki lecseréli régi, környezetszennyező autóját korszerű, elektromos autóra. Támogatjuk a közösségi közlekedési eszközök zöldítését. Építésügy – Problémák Az építőipar 2021 óta lényegében stagnál, 2025 második felében pedig jelentősen vissza is esett.
+» Az építőipar a GDP 5%-át adja, 300 ezer embert foglalkoztat, de az elmúlt 4 évben nem fejlődött semmit.
+» Az építőipari bevételek nagyon egyenlőtlenül oszlanak meg: miközben a politika által előnyben részesített néhány óriáscég gazdagodik, a kivitelezést valóban végző kisebb cégek, hazai kkv-k szenvednek. Az építőipari vállalkozások hó végi szerződésállomány-volumenének alakulása fix bázison (%, 2021. év havi átlaga=100), 2017. január–2025. szeptember (forrás: KSH) 0% 25% 50% 75% 100% 125% 2016. jan. 2018. jan. 2020. jan. 2022. jan. 2024. jan. Épületek Egyéb építmények Építőipar összesen
+
+
+Az építőipar munkaerőhiánytól és alacsony termelékenységtől szenved.
+» Az építőipari cégek 95%-a 10 fő alatti mikrovállalkozás.
+» Az egész szektort munkaerőhiány jellemzi, a cégek 60%-ának a legnagyobb kihívás a megfelelő képzettségű munkaerő megtalálása.
+» A mikroméretű cégek dominanciája és a túlzott átláthatóságtól való félelem miatt az építőipari digitalizáció fejlődése lassú, a hazai cégek mindössze 20%-a rendelkezik BIM-kompetenciával.
+» A hazai innovációk, technológiák és építőanyagok kiaknázatlanok maradnak. Az építőipari beruházások rendszerszintű válsággal küzdenek.
+» Az építőipari projektek árazása átláthatatlan és következetlen. Az állami beruházások rendszerszinten túl vannak árazva, a beruházások megvalósulását nem a valós szükséglet, hanem politikai látványszempontok határozzák meg.
+» A beruházások rendszeresen figyelmen kívül hagyják a helyi közösségek akaratát és az építési szabályokat, a környezetvédelmi és örökségvédelmi előírásokat.
+» Valódi verseny hiányában a hazai építőipari cégek külföldi piacképessége csökken.
+» A szakmai szervezetek súlytalanok, az előkészítési folyamatokban a szakmai szempontok megjelenítése gyenge. A mérnökképzés és a szakirányú oktatás alulfinanszírozott, nem tud lépést tartani a kor elvárásaival.
+» A minőségellenőrzés és a szankciók alkalmazása esetleges, a szankcionálást arra használják, hogy a piacról kiszorítsák a konkurens, nem együttműködő vállalkozásokat. A közbeszerzések rendszere jelenleg átláthatatlan, a korrupció alapvető akadálya a piaci versenynek.
+» A közbeszerzések átláthatatlanok, a kiírások során gyakran olyan méretű „gigafeladatokat” határoznak meg, amelyekre csak speciális, előre kiválasztott cégek tudnak pályázni. Amennyiben mégis akadnak más jelentkezők, őket gyakran mondvacsinált indokokkal zárják ki a versenyből.
+» A valódi munkát végző cégek, alvállalkozók kiszolgáltatottan dolgoznak a nagyvállalatok alatt. Fejlődési és kitörési lehetőségük nincs, miközben a kifizetéseik gyakran akadoznak – esetenként még az állam részéről is. Ismét növekszik a körbetartozás az építőiparban.
+» A közbeszerzések kiírásához már nem előírás a felelős költségvetés-tervezési szakember alkalmazása, így a projektköltségek meghatározása szakmailag gyakran nem megalapozott. A mérnöki munka szerepe csökkent, megbecsültsége romlott.
+
+
+» A „nemzetgazdasági szempontból kiemelt jelentőségű” státusz devalválódott; nem az a beruházás kapja, amely valóban kiemelten fontos az országnak, hanem az, amelynek a megvalósulása politikai vagy oligarcha érdek. Építésügy – Vállalásaink Visszaadjuk a helyi közösségek önrendelkezését, és átalakítjuk a kiemelt beruházások rendszerét.
+» Az építéshatósági feladatokat visszaadjuk önkormányzati hatáskörbe.
+» Megszüntetjük annak lehetőségét, hogy az önkormányzati építési előírásokat felsőbb jogszabályokkal felül lehessen írni.
+» Átdolgozzuk a nemzetgazdasági szempontból kiemelt jelentőségű beruházások szabályozását.
+» Garantáljuk, hogy új nagyberuházás csak a lakosság véleményének figyelembevételével és a helyi körülményekhez igazodva jöhessen létre.
+» Szigorú műszaki-gazdasági tanulmányokhoz kötjük a kiemelt státusz odaítélését. Felszámoljuk a rendszerszintű korrupciót, és megteremtjük a közbeszerzések valódi átláthatóságát.
+» Észszerű méretű közbeszerzési egységeket alakítunk ki a felesleges specifikációk elkerülésével, hogy bővítsük a pályázók körét.
+» Nyilvános vállalkozói, alvállalkozói és megvalósulásiár-adatbázisokat hozunk létre a transzparencia jegyében.
+» Biztosítjuk a társadalmi és szakmai transzparenciát a közbeszerzési kiírásoknál.
+» Korszerűsítjük és igazságosabbá tesszük a közbeszerzési törvényt.
+» Dedikált közbeszerzésimonitoring-csoportot hozunk létre, hogy az esetleges visszaéléseket minél hatékonyabban fel tudjuk tárni. Bevezetjük az egységes piacfigyelést, és helyreállítjuk a mérnöki felelősséget.
+» Bevezetünk egy egységes, kötelezően használandó szakmai árazó rendszert, amely megakadályozza a túlárazást.
+» Mesterségesintelligencia-alapú piacfigyeléssel és kormányzati felügyelettel monitorozzuk az építőipari árakat.
+» Visszaadjuk a felelősségteljes költségvetés-készítés jogát és kötelezettségét a tervező mérnököknek.
+» A jogszabályokban pontosan meghatározzuk a költségvetés készítéséért felelős személyt.
+
+
+Modernizáljuk a hatósági munkát, megújítjuk a szakemberképzést, és támogatjuk az ágazat digitalizációját.
+» Növeljük a mérnöki kamarák szerepvállalását a képzésben és a szakmai kontrollban.
+» Kiemelt hangsúlyt fektetünk a modern mérnökoktatásra és a digitalizáció előnyeinek hatékony kihasználására.
+» Előírásokkal és támogatási programokkal biztosítjuk a digitális megoldások terjedését (BIM, mobilalkalmazások, projektmenedzsment-szoftverek, IoT, drónok).
+» Növeljük a nyilvánosságot és az átláthatóságot az ÉTDR-rendszer alkalmazásával.
+» Egyszerűbbé tesszük és digitalizáljuk az építéshatósági eljárásokat. Biztosítjuk a beruházók, építtetők számára a kiszámítható határidőkre épülő, egykapus ügyintézés lehetőségét. Korszerűsítjük a jogi, hatósági előírásokat, a fölösleges vagy elavult kötelezettségeket megszüntetjük.
+
+
+## 1.6. Wekerle Sándor Bérlakásépítési és Otthonfejlesztési Program
+
+Méltó és megfizethető lakhatás mindenkinek
+» Megduplázzuk a lakásépítések számát.
+» Országos szociális és piaci alapú bérlakásépítési és lakásszövetkezeti programot indítunk, több tízezer új bérlakást építünk.
+» A fiatalok számára legalább 50%-kal növeljük a rendelkezésre álló kollégiumi férőhelyek számát.
+» Szolgálati lakások fejlesztésével támogatjuk a hiányszakmákban dolgozó közalkalmazottak munkahelyhez közeli lakhatását.
+» A nyugdíjasok számára 20 ezer új férőhelyet létesítünk korszerű idősotthonokban.
+» Állami felújítási programot indítunk a komfort nélküli és félkomfortos ingatlanok teljes körű felújítására.
+» Szabályozott és kiszámítható bérlakáspiacot hozunk létre. Bevezető Magyarországon egyre nehezebb otthonhoz jutni. Az elmúlt évek elhibázott lakáspolitikája miatt az albérletárak és a lakásárak elszálltak, 2010 óta háromszorosukra nőttek, miközben a fizetések ezt nem követték. A lakhatási szegénység 3 millió emert érint, és több százezer ember él kifejezetten méltatlan, egészségtelen körülmények között, és rengetegen félnek attól, hogy egyik hónapról a másikra elveszítik az otthonukat. A lakhatás hiánya ma már nemcsak a megélhetést, hanem a tanulást, a munkát és a családalapítást is ellehetetleníti. Hiszünk abban, hogy az otthon nem kiváltság, hanem alapvető jog. A TISZA vállalja, hogy mindenki számára megteremti a méltó lakhatáshoz jutás lehetőségét. Igazságos, emberséges lakhatási rendszert építünk, ahol lesznek megfizethető bérlakások, lesz elegendő kollégium a fiataloknak, szolgálati lakás a dolgozóknak és biztonságos, minőségi és elérhető idősotthonok az időseknek.
+
+
+Lakáspolitika – Problémák Hazánkban mélyül a lakhatási válság: a lakhatási szegénység mintegy 3 millió  magyart érint, és több százezer honfitársunk lakik egészen méltatlan körülmények között.
+» A lakásárak 2010 és 2024 között 230%-kal nőttek Magyarországon, ez volt a legnagyobb drágulás az Unióban. 2025-ben további közel 30%kal emelkedtek az árak a kormány elhibázott lakás- és beruházáspolitikája miatt. Így 2010 óta a lakásárak már a háromszorosukra emelkedtek. Lakásárak és bérleti díjak változása (%), 2010–2024 3. negyedév (forrás: Eurostat) EU Euróövezet Észtország Litvánia Lettország Csehország Ausztria Portugália Bulgária Luxemburg Lengyelorszá Szlovákia Horvátország Málta Hollandia Svédország Írország Németország Szlovénia Dánia Belgium Románia Franciaország Spanyolország Finnország Ciprus Olaszország Görögország Lakásárak változása (%) Bérleti díjak változása (%)
+» A bérleti díjak és a lakásárak növekedése messze meghaladja a bérek emelkedését, a hitelfelvétel a kiszámíthatatlan gazdaságpolitika eredményeként kockázatos.
+» Mintegy 300 ezer ember lakik komfort nélküli ingatlanban, amelyben a pihenés, a tanulás és a háztartási teendők végzése is elviselhetetlenül nehéz.
+» A magyarok egyharmadát fenyegeti a lakhatási szegénység.
+» A magyar lakásállományból kétmillió ingatlan mélyfelújításra szorul. Kevés új lakás, kevés kollégium, kevés megfizethető bérlakás van.
+» Magyarországon épül a legkevesebb új lakás a régióban, 1000 főre vetítve mindössze évente 1. A lakásállomány megújulása európai összehasonlításban sereghajtó, 0,3%. Szlovákiában, Litvániában vagy Ausztriában ez háromszor ennyi.
+
+
+» Az önkormányzati bérlakásállomány szűkös, kollégiumból, idősotthonból és szolgálati lakásból is hiány van. A magánbérleti piaci kínálat a jövedelmekhez képest drága, és a bérleti szerződések rendezetlensége a bérlőket és a bérbeadókat is kiszolgáltatottá teszi.
+» Nincs átfogó állami és önkormányzati bérlakásprogram, elégtelen a legkiszolgáltatottabbakat védő szociális bérlakások kínálata. A középosztály, a fiatalok és a hiányszakmákban dolgozó közalkalmazottak számára hiányzik a megfelelő lakhatás.
+» A jelenlegi kormányzati intézkedések – így az Otthon Start Program is – kizárólag a hitelképes, jobb anyagi helyzetű rétegek támogatására költ.
+» Kiszámíthatatlan és hiteltelen ígéretek tartják távol a magántőkét és az uniós forrásokat a lakásépítési beruházásoktól.
+
+A növekvő árak társadalmi feszültségeket szülnek, és mélyítik az egyenlőtlenségeket.
+» Míg a leggazdagabbak több milliós négyzetméterárakon, akár befektetésként is képesek megvásárolni a legkorszerűbb követelményeknek is megfelelő ingatlanokat, több százezer magyar embernek nincs esélye a lakhatási körülménye javítására.
+» Az iskola, munkahely közelébe történő költözés szempontjából gyakran az ingatlanárak képeznek áthidalhatatlan akadályokat.
+» A magas lakhatási költségek miatt rengeteg fiatalt elveszítünk, akik a magasabb bérek és a könnyebb lakhatás reményében külföldön próbálnak boldogulni.
+» Több százezer család ragadt hitelcsapdába, és sokukat a végrehajtói maffia szipolyozza ki. Lakáspolitika – Vállalásaink Erősítjük a lakáskínálatot: megfékezzük az árakat, és elérhető lakhatást biztosítunk mindenkinek.
+» Felgyorsítjuk a lakásépítéseket Budapesten és a nagyvárosokban. Előírjuk, hogy az ingatlanfejlesztők 100 új építésű lakás után legalább egyet adjanak önkormányzati tulajdonba, illetve bizonyos lakásszám felett vállaljanak részt a szükséges infrastruktúrafejlesztésekben.
+» Országos bérlakásépítési és lakásszövetkezeti programot indítunk, az önkormányzatok szempontjait is érvényesítve, ennek keretében több tízezer új bérlakást építünk.
+» A fiatalok számára legalább 50%-kal növeljük a rendelkezésre álló kollégiumi férőhelyek számát.
+» Szolgálati lakások fejlesztésével támogatjuk a hiányszakmákban dol-
+
+
+gozó közalkalmazottak munkahelyhez közeli lakhatását.
+» A nyugdíjasok számára 20 ezer új férőhelyet létesítünk korszerű nyugdíjasotthonokban, csökkentve ezzel a jelenleg elfogadhatatlanul hos�szú várakozási időket és megfizethető lakhatást biztosítva idős honfitársainknak.
+» Állami felújítási programot indítunk a komfort nélküli és félkomfortos ingatlanok teljes körű felújítására. Célunk, hogy az évtized végére senkinek se legyen az állandó lakhelye komfort nélküli. Célzott támogatási programot és adókedvezményt biztosítunk a leromlott állapotú lakások korszerűsítésére
+» 10 éven belül a hazai lakásállomány 25%-ánál jelentősen javítjuk az energiahatékonyságot, csökkentjük a rezsiköltségeket.
+» Felgyorsítjuk a lakásállomány megújulását, az uniós forrásokat is bevonva hosszú távon kiszámítható keretet biztosítunk otthonfelújításra.
+» Országos panelprogramot indítunk, támogatjuk a lakások energiafogyasztásának csökkentését. Okos támogatást nyújtunk az energiabiztonság érdekében, amely nemcsak pénzt ad, hanem segít a családoknak optimálisan használni otthonukban az energiát. Igazságos és méltányos lakhatási rendszert építünk, amelyben a piaci és a szociális szektor egymást erősíti.
+» Megteremtjük a lakhatási biztonságot, ahol a piaci, a szolgálati és a szociális lakhatás kiegészíti egymást. Élethelyzetekre és adottságokra szabott lakhatási pályát kínálunk az új kollégiumoktól a méltó idősotthonig, hogy mindenki javíthasson az életkörülményein.
+» A kiszámítható környezettel megteremtjük a magántőke bevonásának lehetőségét a megfizethető lakhatást kínáló szociális, illetve piaci bérleti szektorokba. Hosszú távú forrásokat vonzunk be a bankok és befektetők környezeti és társadalmi felelősségvállalására építve. Ösztönözzük a zöld finanszírozási eszközök bevonását a lakásfelújításokba.
+» Hazahozzuk a lakhatásra fordítható közvetett uniós forrásokat, és kihasználjuk az elnyerhető közvetlen forrásokat.
+» A szegregátumokban élők számára komplex segítséget nyújtunk hátrányaik leküzdéséhez.
+» Az építőipari szereplők számára kiszámítható környezetet teremtünk, ami a szakembereknek és a vállalkozásoknak stabil pályát, a felújítóknak és az építkezőknek versenyképes árú, minőségi kivitelezést eredményez.
+
+
+Szabályozott és kiszámítható piaci bérlakáspiacot hozunk létre.
+» Kiszámítható, transzparens, biztonságos magán- és közösségi bérlakáspiacot teremtünk, ahol a kínálati és keresleti oldalon is stabil feltételek és előre kalkulálható hozamok biztosítják a fenntarthatóságot.
+» A hosszú és rövid távú lakáskiadásra is új törvényi és szabályozási rendszert alakítunk ki a spekuláció visszaszorítása érdekében.
+» Kifehérítjük a hosszú távú lakásbérleti piacot és megfizethetőbbé tesszük a bérlakásokat: az új, hosszú távú bérbeadók számára adókedvezményekkel ösztönözzük az üresen álló lakóingatlanok hasznosítását, ezzel is növelve a kínálatot. Kötelező regisztrációt és egységes formaszerződéseket vezetünk be a magánbérleti piacon, valamint kedvezményes áfakulccsal segítjük a vállalkozói bérlakásszektor megerősödését. Segítünk méltó megoldást találni az adósságcsapdába került áldozatok számára.
+» Települési szinten elérhető adósságkezelési és adósságmegelőzési rendszert építünk ki, és javítjuk a pénzügyi tudatosságot a túlzott eladósodás megakadályozásának céljából. A szociális munka erősítésével segítjük a családi válsághelyzetek megoldását.
+» Felszámoljuk a végrehajtó maffiát, állami kézbe vesszük a végrehajtást.
+
+
+# 2. BÉKÉS ÉS RENDEZETT ORSZÁG – BIZTONSÁG ÉS STABILITÁS
+
+2.
+
+
+## 2.1. Biztonságos Magyarország, erős határok
+
+Hazánk külső biztonsága, honvédelem
+» A béke pártján állunk, elutasítjuk a háborút és az erőszak minden formáját.
+» Magyarország nem küld katonát az orosz–ukrán háborúba, sem más fegyveres konfliktusba.
+» Nem állítjuk vissza a sorkötelezettséget.
+» Helyreállítjuk a bizalmat szövetségeseinkkel.
+» 2035-ig a védelmi kiadásainkat a NATO által elvárt 5%-os szintig növeljük.
+» Jelentősen fejlesztjük a hazai védelmi ipart, felülvizsgáljuk annak privatizációját, továbbfejlesztjük a katonai kibervédelmet, és védjük szuverenitásunkat. Bevezető A világ veszélyes hely lett, háború dúl a szomszédunkban, a biztonság nem magától értetődő többé. A jelenlegi kormány ebben a helyzetben mégis eljátszotta szövetségesei bizalmát. A hadsereget szakemberhiány és morális válság sújtja. A TISZA elutasítja a sorkatonaságot, a háború és az erőszak minden formáját. A béke kormánya leszünk. A béke megőrzéséhez meg kell erősíteni hazánk biztonságát. Ennek érdekében erős, emberközpontú és szövetségi alapú honvédelmet építünk: jól képzett katonákkal, korszerű eszközökkel.
+
+
+Hazánk külső biztonsága, honvédelem – Problémák A magyar kormány külpolitikája miatt minden magyar
+» A világ geopolitikai helyzete megváltozott, a szomszédságunkban évek óta dúl az orosz–ukrán háború, a világpolitikai helyzet egyre feszültebb.
+» A hidegháború utáni évtizedek viszonylagos nyugalma után ismét feszültebbé vált a helyzet, a NATO-tagországok kiadásait a jelenlegi 2%ról a GDP 5%-áig kell emelni 2035-ig. Ez jelentős terhet ró a költségvetésre, ugyanakkor lehetőséget is ad arra, hogy intenzíven fejlesszük a védelemhez szorosan kapcsolódó egészségügyi, közlekedési és ipari ágazatokat.
+» Minden eddiginél nagyobb szükség van az erős szövetségi rendszerekre, az azokban való aktív részvételre. A jelenlegi magyar kormány azonban kiszolgáltatja Magyarországot és partnereit az orosz és más külföldi érdekeknek, ami veszélyezteti minden magyar biztonságát. A Honvédség fejlesztése jelenleg főként az eszközbeszerzésekre koncentrál, humán erőforrásai gyengülnek.
+» A humán erőforrás utánpótlása és megtartása komoly kihívás, a valós életpálya hiányában. Az egykor hivatástudattal rendelkező állomány mára egyenruhás munkavállalóvá degradálódott.
+» A Honvédségnél végrehajtott politikai tisztogatás eredményeként óriási ember- és szakemberhiány lépett fel, az állomány morálja pedig történelmi mélységekbe került az átgondolatlan jogszabály-módosítások miatt.
+» Az illetményrendszerben jelentős a bérfeszültség.
+» Az infrastruktúra minősége és rendelkezésre állása nagyon rossz. A védelmi ipar privatizálása nemzetbiztonsági kockázatokat teremtett.
+» A korábban állami kézben lévő védelmi ipar meghatározó cégeit átjátszották kormányközeli üzleti köröknek, az üzleti érdekeket a nemzet-
+» A kibervédelem területén éllovasból sereghajtók lettünk, betörtek a Külgazdasági és Külügyminisztérium és a Védelmi Beszerzési Ügynökség rendszerébe is.
+
+
+Hazánk külső biztonsága, honvédelem – Vállalásaink A béke kormánya leszünk: nem küldünk magyar katonákat háborúba, és nem állítjuk vissza a sorkötelezettséget.
+» Nem küldünk magyar katonát az orosz–ukrán háborúba, sem más fegyveres konfliktusba.
+» Nem állítjuk vissza a sorkötelezettséget.
+» Helyreállítjuk a bizalmat szövetségeseinkkel.
+» Azonnal felfüggesztjük a hazánk érdekeit nem szolgáló külföldi katonai missziókat, például a csádi műveleteket, miközben továbbra is aktívan részt veszünk a magyar érdekeket szolgáló nemzetközi missziókban. Felgyorsítjuk a haderőfejlesztést, és az emberekre építjük a honvédelmet.
+» Megerősítjük katonai védelmi képességeinket. Növeljük védelmi kiadásainkat a NATO által elvárt 5%-os szintig, amit 2035-ig fogunk teljesíteni, olyan ütemben, amelyet a magyar gazdaság ereje megenged.
+» Az új eszközök beszerzésénél és üzemeltetésénél, valamint a kötelező fejlesztéseknél sokkal nagyobb hangsúlyt kap a kettős felhasználásban rejlő lehetőségek kiaknázása. A fejlesztések a magyar képességekre és cégekre építenek, ezzel is növelve szuverenitásunkat.
+» Az embereket állítjuk a középpontba: korszerű, biztonságos, kényelmes felszerelést, tisztességes megélhetést, karriert és működő életpályát biztosítunk számukra.
+» Meghatározott életkor és tényleges szolgálati idő megléte esetén megteremtjük a lehetőséget az életpálya méltó lezárására.
+» Megszüntetjük azt a gyakorlatot, amely a szolgálati járandóságot szja-kötelessé tette, illetve munkavállalás esetén korlátozza vagy szünetelteti, és amely önkéntes tartalékos szolgálathoz köti az ellátást.
+» Új lendületet adunk az infrastruktúrák felújításának, további korszerű objektumokat hozunk létre az egyenlő eloszlás, a lokális motiváció, a munkaerő rendelkezésre állásának figyelembevételével, összehangolva az energetika, az oktatás és a mezőgazdaság fejlesztési igényeivel. Jelentősen fejlesztjük a védelmi ipart.
+» Felülvizsgáljuk a védelmi iparág privatizációját, és megszüntetjük az ezzel kapcsolatos nemzetbiztonsági kockázatokat.
+» Áttekintjük a meglévő szerződéseket, és a közbeszerzéseket felülvizsgálva felszámoljuk a korrupció okozta károkat.
+
+
+Továbbfejlesztjük a katonai kibervédelmet, és védjük szuverenitásunkat.
+» Teljes körűen átvilágítjuk a Külgazdasági és Külügyminisztérium, valamint a Védelmi Beszerzési Ügynökség informatikai rendszereit, kivizsgáljuk az orosz kötődésű kiberbiztonsági incidenseket, és biztosítjuk, hogy a rendszerek zártak legyenek, idegen hatalmak ne járkálhassanak ki-be kedvük szerint.
+» Továbbfejlesztjük kibervédelmi képességeinket, nem engedjük, hogy bárki a katonai létesítmények és berendezések, kritikus infrastruktúrák, állami intézmények támadásával, adatlopással vagy dezinformációs kampányokkal veszélyeztesse hazánk szuverenitását.
+
+
+## 2.2. Rend és közbiztonság
+
+Belbiztonság, rendvédelem
+» Helyreállítjuk a rendvédelem becsületét és tekintélyét, megújítjuk a bérrendszert, és vonzó életpályát kínálunk.
+» Helyreállítjuk a közrendet: 150 ezer alá csökkentjük a regisztrált bűncselekmények számát.
+» Működő, szigorú, de emberközpontú drogpolitikával kezeljük az egyre súlyosbodó droghelyzetet. Bevezető
+» 2021 óta ismét jelentősen romlott a közbiztonság. Az egyenruhások túlterheltek, alulfizetettek, a regisztrált bűncselekmények száma évek óta rohamosan nő, a droghelyzet egyre komolyabb problémát jelent az országban.
+» A TISZA helyreállítja a rendvédelem becsületét. Lesz elég rendőr minden településen, tisztességes bért és modern felszerelést biztosítunk számukra. A rendőr és a tűzoltó újra azt érezheti: az állam mögötte áll, a közösség megbecsüli.
+» A hivatásosok mellett a rend önkormányzati és civil őreit is megbecsüljük: a polgárőrök és a mezőőrök felbecsülhetetlen értékű munkáját jobb anyagi juttatásokkal és korszerűbb eszközök biztosításával ismerjük el.
+
+
+Belbiztonság, rendvédelem – Problémák Az emberek bizalma megrendült, nem bíznak abban, hogy az állam képes őket megvédeni.
+» 2021 óta ismét növekszik a bűncselekmények száma. 154 ezerről 233 ezerre nőtt a regisztrált bűnesetek száma.
+» Sok településen egyszerűen nincs elég rendőr, rohamosan romlik az emberek biztonságérzete. 100 ezer lakosra 380 rendőr jut, ami csökkenés a korábbi évekhez képest. A regisztrált bűncselekmények számának alakulása összesen (db), 2021–2024 (forrás: KSH) 50 000 100 000 150 000 200 000 250 000 2021 2022 2023 2024 Magyarországon egyre nő a drogfogyasztás. A drogpolitika nem működik: büntet, de nem előz meg, nem kezel és nem véd.
+» Magyarországon nő a droghasználat, a dizájnerdrogok különösen aggasztó mértékben terjednek: a magyar diákok uniós viszonylatban is kiemelkedően gyakran próbálják ki ezeket a szereket.
+» A nemzeti drogstratégia kiüresedett, nincs valódi és eredményes együttműködés az egészségügy, a szociális ellátás, az oktatás és a rendészet között.
+» A döntéshozatal ideológiai és rendészeti logikát követ, nem bizonyítékokon, adatokon és szakmai tapasztalatokon alapul, így a politika nem képes hatékony választ adni a valós problémákra.
+» Az iskolai és közösségi prevenció gyenge vagy hiányos, miközben a kábítószerpiac már egyre fiatalabb korosztályokat céloz meg, beleértve az általános iskolásokat is.
+» Az addiktológiai ellátórendszer kapacitáshiányos, így sok érintett nem jut időben kezeléshez, rehabilitációhoz vagy utógondozáshoz.
+
+
+» Az ártalomcsökkentő szolgáltatások szűkössége miatt nő a rejtett szerhasználat és a túladagolás kockázata, mivel nincs működő, elérhető támogatási hálózat a leginkább veszélyeztetett csoportok számára.
+» A fogyasztók kriminalizálása elriasztja az érintetteket a segítségkéréstől, miközben ezek a szankciók nem csökkentik a droghasználatot, és nem szolgálják a társadalmi célokat. A rendőrség állományhiánnyal és a megbecsültség hiányával is küzd.
+» A magyar rendvédelem és belbiztonság területén számos súlyos kihívás mutatkozik. A rendőrség állományhiánnyal küzd: a Belügyminisztérium adatai szerint az elmúlt években több ezer fővel csökkent a hivatásos rendőrök száma, miközben a közbiztonsági feladatok és a határvédelem terhei növekedtek.
+» A pálya nem vonzó a fiatalok számára: a kezdő fizetés alacsony, a túlóraterhelés magas, a megbecsültség gyenge. A tűzoltók túlterheltek, átlagéletkoruk emelkedik, az utánpótlás nehézkes.
+» A Katasztrófavédelemhez érkező riasztások száma évről évre nő, 2023ban több mint 60 ezer tűzesetet és 30 ezer műszaki mentést regisztráltak.
+» A hivatásos tűzoltók átlagéletkora emelkedik, utánpótlásuk nehézkes.
+» Az eszközpark elöregedett: a hivatásos állomány szerint több helyen 20-25 éves járművekkel kell dolgozniuk, amelyek fenntartása költséges. Alacsony bérek, rossz körülmények rontják a pálya vonzerejét.
+» A bérezés és a nyugdíjrendszer rendezetlensége, a szolgálati lakhatás hiánya, valamint az infrastruktúra leromlott állapota mind hozzájárulnak ahhoz, hogy az állomány egy része elhagyja a pályát.
+» A személyi és technikai hiányosságok hosszú távon a szolgáltatások minőségének romlását okozhatják.
+» A mezőőrök bérezése messze elmarad a szükségestől, a polgárőrök munkafeltételei jelentősen javítandók.
+
+
+Belbiztonság, rendvédelem – Vállalásaink Helyreállítjuk a rendvédelem becsületét és tekintélyét, megújítjuk a bérrendszert, és vonzó életpályát kínálunk.
+» Új bérrendszert vezetünk be, amely tisztességes és kiszámítható jövedelmet biztosít minden rendvédelmi dolgozónak.
+» Valódi életpályamodellt teremtünk, amely vonzóvá teszi a pályát a fiatalok számára is. Helyreállítjuk a közrendet: csökkentjük a bűncselekmények számát.
+» Fokozatosan növeljük a rendőrség létszámát, és megerősítjük a rendőri jelenlétet a jelenleg rossz közbiztonságú körzetekben.
+» Fokozatosan 150 ezer alá csökkentjük a regisztrált bűnesetek számát – nem a statisztikák kozmetikázásával, hanem a ténylegesen elkövetett bűncselekmények megelőzésével és érdemi visszaszorításával. Magyarországon olyan működő, szigorú, de emberközpontú drogpolitikát valósítunk meg, amely megelőz, kezel és véd, nem csak büntet, és elhallgat, és amely a droghasználatból fakadó társadalmi és egészségügyi károk valódi csökkentésére épül.
+» Új, korszerű nemzeti drogstratégiát dolgozunk ki és fogadunk el, amely bizonyítékokon, adatokon és nemzetközi jó gyakorlatokon alapul, és világos felelősségi és együttműködési rendet teremt az egészségügy, a szociális ellátás, az oktatás és a rendészet között.
+» Újjáépítjük az iskolai és közösségi prevenció rendszerét, stabil finanszírozással és korszerű, életkornak megfelelő programokkal, hogy a fiatalok minél később és minél kisebb kockázattal találkozzanak pszichoaktív szerekkel.
+» Megerősítjük az addiktológiai ellátórendszert: bővítjük a kezelési és rehabilitációs kapacitásokat, csökkentjük a várólistákat, és országosan elérhetővé tesszük az utógondozást és a társadalmi reintegrációt segítő szolgáltatásokat.
+» Visszaemeljük az ártalomcsökkentést az ellátórendszerbe, mert a túladagolások és fertőzések megelőzése közegészségügyi érdek, nem ideológiai kérdés.
+» Hatékony, gyors reagálású szabályozási válaszokat adunk a dizájner drogok terjedésére, korai jelzőrendszerrel, adatgyűjtéssel és célzott beavatkozásokkal, különös figyelemmel a leszakadó térségekre.
+» A fogyasztók kriminalizálása helyett a kezelést és az érdemi elterelést helyezzük előtérbe, miközben a rendészeti fellépést a terjesztői és szervezett bűnözői hálózatokra fókuszáljuk.
+
+
+Modern, biztonságos szolgálati eszközöket és feltételeket teremtünk.
+» Modern felszerelést és biztonságos körülményeket biztosítunk minden szolgálatban állónak.
+» Megerősítjük a magyar védelmi ipart, a hazai kkv-kat bevonjuk a fejlesztésekbe.
+» Szolgálatilakás-programot indítunk, és javítjuk a szolgálati infrastruktúrát. Megújítjuk a belügyi szervezetek vezetési rendjét.
+» Visszaadjuk a Tűzoltóság nevét.
+» Helyreállítjuk a Rendőrség és a Tűzoltóság politikamentes működését.
+» Visszaadjuk a helyi szintek döntési jogköreit, a kapitányságok, tűzoltóságok autonómiáját. A polgárőrök és a mezőőrök felbecsülhetetlen értékű munkáját jobb anyagi juttatásokkal és korszerűbb eszközök biztosításával ismerjük el.
+» Kiszámítható, inflációkövető finanszírozást biztosítunk a polgárőrök, önkormányzati tűzoltók és mezőőrök számára, megemelve az évek óta változatlan támogatási összegeket.
+» Megerősítjük a külterületi és vidéki biztonságot, különösen a kistelepüléseken.
+» Világos jogi és szakmai kereteket teremtünk a polgárőrök, mezőőrök és a rendőrség együttműködéséhez, növelve a jogbiztonságot és csökkentve a konfliktusokat.
+» Rendszeres, gyakorlatorientált képzéseket és utánpótlásprogramot indítunk, hogy hosszú távon is legyen, aki vigyáz a közösségeinkre és értékeinkre.
+
+
+## 2.3. Zéró tolerancia az illegális bevándorlással szemben
+
+szemben Megvédett határok
+» Fenntartjuk a déli határkerítést, és megerősítjük a határvédelmet.
+» Elutasítjuk az Európai Unió migrációs kvótáit és a migrációs paktumot.
+» Zéró toleranciát alkalmazunk az illegális bevándorlással és az embercsempészettel szemben.
+» 2026. június 1-től megtiltjuk az Európán kívüli vendégmunkások behozatalát, felszámoljuk a bevándorlásra épülő NER-es üzleteket. Bevezető Elég volt abból, hogy az állampárt riogat a migrációval, miközben üzletet csinál belőle: embercsempészeket enged szabadon, vendégmunkásokat telepít be, lenyomja a béreket és felveri a lakásárakat. Mi nem kérünk ebből. Megvédjük Magyarország határait, megtartjuk a déli határkerítést, elutasítjuk az illegális bevándorlást és a letelepedési kvótákat, felszámoljuk a kormányközeli migránsbizniszeket. Véget vetünk a vendégmunkások tömeges betelepítésének, mert a magyar munkahelyeknek és a magyar jövőnek van elsőbbsége.
+
+
+Bevándorlás – Problémák Az illegális bevándorlás Európa egyik komoly kihívása.
+» Az emberek jogos igénye a biztonság és a stabilitás.
+» A magyar társadalom rendre és nyugalomra vágyik. A menekültügyből a kormány politikai és üzleti hasznot húz.
+» A menekültügy a kormány képmutatásának egyik leglátványosabb példája.
+» Miközben bevándorlásellenességét hangsúlyozza, 2200 elítélt embercsempészt engedett szabadon a börtönökből, helyhiányra hivatkozva.
+» A miniszterelnök családtagjai és üzleti partnerei milliárdos üzletet csinálnak a bevándorlásból: letelepedési kötvényeket árulnak, fiktív képzéseket tartanak, és ezáltal jó pénzért szabad európai belépést biztosítanak kétes hátterű bevándorlók ezreinek. A kormány hazugságai ellenére tömegesen telepítik be a vendégmunkásokat.
+» Miközben a kormány azt hazudja, hogy végsőkig „harcol” a migráció ellen, ukrán és kelet-ázsiai munkások tízezreit telepíti be az országba. Mindezt csak azért, hogy megpróbálja kielégíteni a hatalmas állami támogatással épített, környezetromboló gyárak munkaerőigényét.
+» Jelenleg már több mint 120 ezer külföldi, többnyire ázsiai vendégmunkást telepítettek be, és évente 35 ezer Európai Unión kívüli vendégmunkás behozatalára elegendő kvótát hagytak jóvá.
+» Az idetelepülők 25-35%-kal felverik a lakásárakat, lenyomják a béreket, és ezzel a magyar emberek életét nehezítik meg. Bevándorlás – Vállalásaink Fenntartjuk a déli határkerítést, és megerősítjük a határvédelmet.
+» Szigorúan és következetesen lépünk fel az illegális migráció ellen: fenntartjuk a déli határkerítést, megerősítjük a határ védelmét élőerős jelenléttel és a Frontexszel való szoros együttműködéssel.
+» Hazahozzuk a védekezéshez jogosan járó uniós forrásokat, mert Magyarország nem maradhat magára az Unió külső határának védelmében. Mi nemcsak a saját határainkat védjük, hanem az Unió határait is, és az ezért járó forrásokat meg fogjuk szerezni.
+
+
+Elutasítjuk az Európai Unió migrációs kvótáit és a migrációs paktumot.
+» Nem engedjük, hogy hazánk területére Európa más országaiból illegális bevándorlókat telepítsenek át, az erre irányuló elképzeléseknek következetesen ellenállunk.
+» Betartjuk és betartatjuk a jogszabályokat: nem engedünk szabadon elítélt bűnözőket és embercsempészeket, következetesen fellépünk a szervezett bűnözés ellen. A megelőzésre helyezzük a hangsúlyt.
+» A megelőzésre is figyelünk, a migráció okait nemzetközi együttműködésekben is kezeljük.
+» Aktívan részt veszünk a kibocsátó országokkal és az uniós partnerekkel folytatott tárgyalásokban annak érdekében, hogy kezeljük a migráció kiváltó okait (szegénység, klímaváltozás). Felszámoljuk a kormányközeli cégek bevándorlásra épülő üzleteit.
+» Felszámoljuk a bevándorlásra épülő üzleteket, megszüntetjük a letelepedési kötvények mostani, átláthatatlan üzleti hátterű, nemzetbiztonsági szempontból veszélyes rendszerét.
+» Megerősítjük a határvédelem és a bevándorlás pénzügyi és intézményi ellenőrzését. 2026. június 1-től további intézkedésig megtiltjuk, hogy újabb munkavállalási engedélyt adjanak ki külföldi vendégmunkások számára.
+» A tiltás a tömegesen hazánkba érkező, unión kívüli, nem magyar vendégmunkásokra vonatkozik.
+» Nem engedjük, hogy a tömegesen betelepített külföldi vendégmunkások letörjék a béreket, felverjék az ingatlanárakat és társadalmi problémákat okozzanak.
+
+
+## 2.4. Szuverén nemzet
+
+Külpolitika: ellenségek helyett barátok Európában és a világban
+» Hazánk helye Európában van, Magyarország nem lesz többé kompország.
+» Megerősítjük hazánk szuverenitását, következetesen képviseljük a magyar nemzeti érdeket, és szakmailag megerősítjük diplomáciánkat.
+» Megerősítjük elköteleződésünket az Európai Unió és a NATO felé, valamint a nemzetközi jogon alapuló rend mellett.
+» Megújítjuk a regionális szövetségeket és a Visegrádi Négyek együttműködését.
+» A nemzetközi jog keretei között a világ bármely országával készek vagyunk együttműködni, de hazánk érdekei soha nem kerülhetnek oligarchák és egyes személyek üzleti szempontjai mögé.
+» Következetesen fellépünk a külhoni magyarok elleni támadásokkal szemben, és elérjük, hogy minden szomszédos ország biztosítsa a magyar közösségek nyelvi, oktatási és kulturális jogait.
+» Nem támogatunk semmilyen háborús törekvést.
+» Elutasítjuk Ukranja gyorsított uniós csatlakozását.
+
+
+Bevezető A különutas politika elszigeteli és kiszolgáltatottá,  gyengévé teszi az országot. Az Európai Unión belül már alig hallatszik a hangunk, a véleményünk nem számít. A mindent átható korrupció miatt több ezermilliárd forintnyi fejlesztési forrást veszítettünk el – pénzt, ami a magyar embereknek, a vállalkozásoknak és a településeknek járna. Miközben a magyar társadalom döntő többsége Európához akar tartozni, a kormány lépésről lépésre kifelé vezeti az országot az Európai Unióból. A szövetségeseinkkel szembeni kiszámíthatatlan, gyakran árulásként megélt politika elszigetelte Magyarországot valódi szövetségeseitől. A keleti és déli nyitás nem hozott jólétet, nem hozott biztonságot – csak újabb függőségeket és bizonytalanságot. Mi Kelet helyett a Nyugatot választjuk. Vállaljuk, hogy Magyarország külpolitikájának célja újra a béke, a biztonság és a jólét lesz. Visszavisszük Magyarországot Európába – oda, ahová történelme, kultúrája és értékei szerint mindig is tartozott. Hazánk ismét megbecsült, aktív tagja lesz az európai közösségnek: nem akadályoz, hanem kezdeményez; nem rombol, hanem épít. Vállaljuk, hogy hazahozzuk az uniós forrásokat a magyar embereknek, vállalkozásoknak és önkormányzatoknak. Olyan külpolitikát folytatunk, amely visszaadja Magyarország becsületét és tekintélyét a világban. Az Európai Unió és a NATO országaira nem ellenségként, hanem partnerként és barátként tekintünk – mert Magyarország jövője Európában van. Külpolitika – Problémák Ha a jelenlegi kormány marad, kivezeti hazánkat az Európai Unióból.
+» A jelenlegi hatalom folyamatosan akadályozza és belülről rombolja az Unió működését.
+» A regnáló kormány kifelé vezeti hazánkat az Unióból, aminek beláthatatlan következményei lennének, miközben a magyarok döntő többsége az Unióban akar élni! A jogállamiság hiányosságai és a korrupció miatt sok ezermilliárd eurós forrásvesztést szenvedtünk és szenvedünk el folyamatosan.
+» 2025. december 31-én újabb egymilliárd euró forrástól estünk el végérvényesen – a tavalyi, hasonló összeg után immár másodszorra.
+» 2026-ban újabb sok ezermilliárd forint értékű támogatást veszíthetünk el örökre, ha nem sikerül ezekről megállapodni az Európai Unióval. Erre a jelenlegi kormánynak sem esélye, sem szándéka nincs.
+» Összességében 8 ezer milliárd forintnyi uniós támogatást tartanak vissza jelenleg a kormány korrupciója miatt, ami hatalmas gazdasági és társadalmi károkat okoz hazánknak.
+
+
+A globális világrend változóban van.
+» A globális világrend átalakul, többpólusúvá válik, a versengő nagy régiók egyre erősebben feszülnek egymásnak.
+» Mindez alapvetően változtatja meg a világpolitikát, és a magyar érdek egyértelmű, világos szövetségesi stratégiát tesz szükségessé. Nemzetközileg elszigetelődtünk, szövetségeseink bizalma megrendült.
+» Miközben a nyugati szövetségi rendszer az egyetlen reális garancia Magyarország biztonságára, hazánk külpolitikai mozgástere az elmúlt 16 év kormányzása és külpolitikai irányvonala miatt mára erősen beszűkült.
+» A NATO- és EU-tagállamok bizalma megingott, különösen Németországgal, Franciaországgal és Lengyelországgal romlottak meg a kapcsolataink, éppen akkor, amikor legnagyobb szükségünk lenne a szövetségeseinkre.
+» Viszonyunk az Európai Unióval mélypontra került, aminek oka, hogy a kormány az Uniót saját belpolitikai céljaira és idegen érdekek kiszolgálására használja, hazánk érdekeivel szemben. A kormány különutas politikája nem hoz előnyöket, de súlyosan rontja a szövetségesi kapcsolatainkat.
+» Nem igaz, hogy a keleti és déli nyitás a pragmatikus érdekkövetésről szól. A kormány azokat szúrja hátba, akik ma is az ország fő kereskedelmi partnerei, és azokhoz a diktatúrákhoz dörgölőzik politikailag, amelyekkel ma is elhanyagolható a gazdasági kapcsolatunk. Mindez ellentétes a nyugati elköteleződéssel, gyengíti Magyarország nemzetközi pozícióját, és az ígért gazdasági előnyöket sem hozza, sőt növeli az ország kiszolgáltatottságát. A jelenlegi kormány rendszeresen beavatkozik más országok belügyeibe.
+» A kormány magyar adófizetői pénzből gazdasági, politikai és titkos�szolgálati eszközökkel más országok belpolitikájába avatkozik be.
+» Magyarország számos, hazájában bukott politikusnak ad menedéket: a kormány jóvoltából szabadon tartózkodhatnak nálunk a körözött bűnözők. A külképviseleti hálózat nem tartott lépést a kor kihívásaival.
+» A külszolgálaton dolgozók kiválasztásakor a párthűség és a lojalitás fontosabb volt a kormánynak, mint a szakmai tudás.
+» A külképviseleti hálózat nem működik, a magyar diplomácia gyakorlatilag megszűnt létezni.
+
+
+» A regnáló kormány elárulta és magára hagyta a külhoni magyarokat. A jelenlegi miniszterelnök döbbenetes módon a magyargyűlölő elnökjelöltet támogatta a román elnökválasztáson.
+» A kormány magára hagyta a felvidéki magyarokat is, a magyarokat börtönnel fenyegető Beneš-dekrétumok ügyében tanúsított magatartásával, hallgatásával. Külpolitika – Vállalásaink Hazahozzuk és fejlesztésekre fordítjuk az uniós forrásokat.
+» Brüsszelből hazahozzuk a hazánknak járó, befagyasztott uniós ezermilliárdokat, és azokat a magyar emberekre, településekre és vállalkozásokra fordítjuk.
+» Jelenlegi formájában nem támogatjuk az Európai Bizottság javaslatát a következő uniós pénzügyi ciklusra.
+» Az új uniós költségvetés tárgyalása során elérjük, hogy Magyarország a lehető legtöbb forráshoz jusson, a számunkra legkedvezőbb feltételekkel, és azt maradéktalanul országunk fejlesztésére használjuk fel. Megerősítjük elköteleződésünket Magyarország európai uniós és NATO-tagsága, valamint a nemzetközi jogon alapuló rend mellett.
+» Helyreállítjuk a bizalmat szövetségeseinkkel, és egyértelműen megerősítjük elköteleződésünket Magyarország európai uniós és NATO-tagsága mellett.
+» Következetesen, határozottan és együttműködő szövetségesi szellemben képviseljük a magyar érdekeket az Európai Unióban, és nem fogadunk el olyan döntéseket, amelyek hátrányosan érinthetik hazánkat vagy a külhoni magyarságot.
+» Magyarország helyét megerősítjük Európában – ott, ahová történelmünk, kultúránk és értékeink alapján mindig is tartoztunk.
+» Megállítjuk a Nemzetközi Büntetőbíróságból való kilépés folyamatát, és teljes jogú tagjai maradunk a szervezetnek.
+» Az USA-val kétoldalú stratégiai partnerséget építünk, amely valódi energiadiverzifikációra, biztonságunk megerősítésére, kölcsönösen előnyös és átlátható gazdasági együttműködésre épül.
+» Nem avatkozunk bele más országok belügyeibe.
+» Minden, az Európai Unióhoz csatlakozni kívánó országnak azonos feltételeknek kell megfelelnie, ezeknek Ukrajna jelenleg nem felel meg. Nem támogatjuk Ukrajna gyorsított felvételét az Európai Unióba. Amennyiben hosszú évek múlva minden csatlakozási fejezet lezárásra kerül, Magyarország ügydöntő, jogi kötőerővel bíró népszavazást tart a kérdésről.
+
+
+Megújítjuk a regionális szövetségeket és a Visegrádi Négyek együttműködését.
+» Új alapokra helyezzük a regionális együttműködést: nem a politikai elvbarátság határozza meg politikánkat, hanem a szomszéd népekkel való hagyományos sorsközösség.
+» Helyreállítjuk a hagyományos magyar–lengyel barátságot, rendezzük a szomszédos országokkal való kapcsolatokat.
+» Erős közép-európai regionális politikai és gazdasági együttműködéseket építünk, és újrapozicionáljuk a Visegrádi Négyeket Közép-Európa
+» A külhoni magyar közösségek érdekeit szem előtt tartva együttműködésre törekszünk minden szomszédos országgal. Következetesen fellépünk a külhoni magyarok elleni támadásokkal szemben, és elérjük, hogy minden szomszédos ország biztosítsa a magyar közösségek nyelvi, oktatási és kulturális jogait. Globálisan nyitunk, a szövetségi rendszerrel összhangban.
+» A nemzetközi jog keretei között a világ bármely országával készek vagyunk együttműködni, de hazánk érdekei soha nem kerülhetnek oligarchák és egyes személyek üzleti szempontjai mögé.
+» Átalakítjuk keleti és globális kapcsolatainkat, a gazdasági előnyök megtalálása mellett elkerüljük a nyugati szövetségi rendszerben feszültséget okozó, a magyar érdekeknek ártó lépéseket.
+» Kidolgozzuk és megvalósítjuk a Közel-Keletre, a globális Délre, valamint Ázsia vezető gazdaságaira szabott stratégiát, amely egyszerre szolgálja az ország biztonsági, gazdasági és szövetségi érdekeit. Következetesen képviseljük a magyar nemzeti érdeket, és szakmailag megerősítjük diplomáciánkat.
+» Saját hazánk érdekeit szolgáló magyar külpolitikát folytatunk idegen érdekek szolgálata helyett.
+» Helyreállítjuk a szakmai alapokon működő hivatásos diplomáciai karriert.
+» Újraalkotjuk hazánk diplomáciai hálózatát és érdekérvényesítő képességét.
+» Megerősítjük a magyar nemzetbiztonságot, hogy ne fordulhasson elő, hogy más országok titkosszolgái érzékeny nemzetbiztonsági adatokhoz jutnak.
+» Jelentést készítünk a nem szövetségesi külföldi befolyás mértékéről nemzetbiztonsági és nemzetgazdasági tekintetben.
+
+
+## 2.5. Demográfiai fordulat, összetartó nemzet, hazatérő magyarok
+
+Hiteles nemzetpolitika
+» 2035-ig megállítjuk a népességfogyást, és célul tűzzük ki, hogy 2050-től ismét tízmillió fölé nőjön Magyarország lélekszáma.
+» Meghirdetjük a Vár a hazád! programot, és a visszailleszkedést megkönnyítő programokkal 8 éven belül hazahozunk 200 ezer főt a külföldön élő magyar honfitársaink közül.
+» Nemzeti minimumnak tekintjük a külhoni magyarok támogatását. Bevezető Ma minden eddiginél nagyobb szükség lenne az összetartásra, egy egységes, egymásért felelősséget vállaló nemzetre. Mégis azt látjuk, hogy a magyar nemzet fogy és szétszakad. Több százezer honfitársunk kényszerült külföldre, mert itthon nem talált biztonságot, jövőt, megbecsülést. Közben a kormány nyíltan magyarellenes politikusokat támogat a térségben – cserbenhagyva ezzel a külhoni magyar közösségeket. Mi hiszünk abban, hogy a nemzet nem üres szólam, hanem sorsközösség. Vállaljuk, hogy megállítjuk a népességfogyást, valódi jövőt teremtünk itthon, és hazahívjuk azokat, akiket az elmúlt években elüldöztek. Vállaljuk, hogy újraegyesítjük a nemzetet, határokon innen és túl. A célunk világos: egy olyan Magyarország, amelyhez tartozni újra erőt ad, és amely 2050-re ismét egy 10 milliós, élő, összetartó nemzet otthona lesz.
+
+
+Nemzetpolitika – Problémák A magyarság létszáma egyre fogy, és a születések száma is történelmi mélypontra süllyedt.
+» Magyarországon már nem 10, hanem kevesebb mint 9,5 millió ember él.
+» A születések száma soha nem volt ilyen alacsony: 2025 novemberében nem érte el a 6 ezret. Élve születések száma (fő), 2021–2025 (forrás: KSH) 5 000 6 000 7 000 8 000 9 000 2021 2022 2023 2024 2025
+» A teljes termékenységi arányszám az ideális 2,1 vagy afeletti érték helyett csak 1,3: átlagosan ennyi gyermeket hoz egy magyar nő világra. Ha ez a tendencia folytatódik, 2050-re 7 millió fő alá csökken az ország népessége.
+
+
+Teljes termékenységi arányszám (gyermek/nő), 2021–2025 (forrás: KSH) 1,00 1,25 1,50 1,75 2,00 2021 2022 2023 2024 2025
+» 2010 óta a becslések szerint 740 ezer magyar él tartósan külföldön. A kivándorlás fő okai az alacsony bérek, a bizonytalan jövő, a gyenge oktatási és egészségügyi rendszer, a megélhetési és lakhatási válság, valamint az átláthatatlan, korrupt politikai viszonyok.
+» Minden második 20 év alatti fiatal külföldön képzeli el a jövőjét.
+» A kormány hazacsábítási programjai eddig kudarcot vallottak: a külföldön élők közül hazatérni vágyók aránya 15-20% de, nem adottak a hazatérés feltételei.
+» 2010 óta az elégtelen egészségügyi ellátás miatt több mint félmillió honfitársunk halt meg megelőzhető vagy kezelhető betegségben.
+» Az elmúlt 15 év demográfiai katasztrófa.
+
+A kormány elárulta a külhoni magyarságot.
+» A több milliós, határon túl élő magyar közösségek, valamit a sok százezres magyar diaszpóra jogi és társadalmi helyzete messze elmarad a kívánatostól.
+» A kormány támogatásai átláthatatlanok és szinte csak a saját klientúrát támogatják, a jogvédelem és jogbővítés terén nincs érdemi előrelépés.
+» A háború kitörése óta a magyar miniszterelnök nem látogatott el Kárpátaljára, és nem emelt szót Munkács támadása ellen sem.
+» A 2025 májusi tihanyi beszédében a miniszterelnök az erdélyi magyarságot is elárulta, amikor a szélsőjobboldali, magyarellenes elnökjelölt mellett tette le a voksát.
+» A kormány magatartása, a Beneš-dekrétumokkal kapcsolatos, a magyarokat börtönnel fenyegető szlovák büntetőtörvénykönyv-módosításnál tapasztalt kormányzati hallgatás színtiszta nemzetárulás.
+» A vajdasági magyarokat szintén hátba szúrja a kormány azzal, hogy inkább az ottani nacionalista szerb pártokkal ápol szoros kapcsolatot, miközben a helyi magyar közösség mindennapi gondjait félresöpri.
+
+
+Nemzetpolitika – Vállalásaink 2035-ig megállítjuk a népességfogyást, és célul tűzzük ki, hogy 2050-től ismét tízmillió fölé nőjön Magyarország lélekszáma.
+» A népességfogyás megállítására és megfordítására komplex programmal készülünk, amely hazacsábítja a külföldön dolgozó és élő magyarokat, javítja honfitársaink egészségi állapotát és növeli a várható élettartamukat, illetve ösztönzi a gyermekvállalást.
+» A népesedési fordulatot megalapozó részletes program főbb összetevői: – 200 ezer külföldi honfitársunk hazatérésének elősegítése a Vár a hazád! programmal; – a születéskor várható élettartam 80 évre történő emelése; – a születések számának jelentős emelése a családtámogatások kibővítésével, az egészségügyi és oktatási rendszer fejlesztésével és a meddőségi kezelésekhez való jobb hozzáférés biztosításával.
+» A programelemek részletei a gazdaságfejlesztési, az egészségügyi, családpolitikai és női esélyegyenlőségi szakpolitikákban kerülnek kifejtésre. Meghirdetjük a „Vár a hazád” programot, és 8 éven belül hazahozunk 200 ezer főt a külföldön élő magyar honfitársaink közül.
+» Komplex hazaváró programot kínálunk fiataloknak és családoknak ösztöndíjjal, lakhatási támogatással, adókedvezményekkel, bürokráciacsökkentéssel, amelyet a helyi önkormányzatokkal közösen dolgozzuk ki.
+» Támogatást adunk a hazai vállalkozásoknak a hazatérők munkába állításához és bérkiegészítéséhez.
+» Mentorprogramot indítunk, közösségi eseményeket szervezünk, segítjük a kapcsolatteremtést és a beilleszkedést a hazatérők számára.
+» Fejlesztjük a digitális ügyintézést és a konzuli szolgáltatásokat, egyablakos ügyintézést biztosítunk.
+» Egyszerűsítjük a külföldi végzettségek hazai elismerését.
+» Komplex oktatási program megvalósításával segítjük, hogy a külföldön élő családok gyermekei jobban megismerjék a magyar nyelvet és kultúrát. Kiemelten támogatjuk a kint élők gyermekeinek magyar nyelvű oktatását.
+
+
+Nemzeti minimumnak tekintjük és megerősítjük az együttműködést a külhoni magyar nemzeti közösségekkel.
+» Megtartjuk és átláthatóvá tesszük a külhoni támogatásokat. Felülvizsgáljuk és átalakítjuk a Bethlen Gábor Alap működését.
+» A nemzetpolitikai célú támogatásokat megőrizzük, de nem Budapestről és nem politikai alapon döntünk a felhasználásukról.
+» A külhoni magyar közösségekkel kialakított egyeztetések, kerekasztal-tárgyalások alapján biztosítjuk az anyaországi támogatások hasznosítását.
+» A Magyar Állandó Értekezlet (MÁÉRT) helyét és szerepét megtartva arra törekszünk, hogy a fórum kifejezze a világ magyarságának sokszínűségét és kreativitását.
+» Rendezzük a szomszédos országokkal a nyitott és vitás kérdéseket: Beneš-dekrétumok ügye, nyelvtörvény, kárpátaljai magyarok nyelvi és kulturális jogainak ügye. Határozottan kiállunk a külhoni magyarok mellett az összes területen. Könnyebbé tesszük az állampolgári jogok gyakorlását a külhoni magyaroknak és a diaszpórákban élőknek.
+» Megtartjuk a kettős állampolgárság intézményét.
+» Egységesítjük a külhoni magyarok és a diaszpórában élő magyar honfitársaink szavazati jogát és módját. Bővítjük a külföldön elérhető szavazóhelységek számát. Megvizsgáljuk az online szavazati lehetőséget.
+
+
+## 2.6. Tisztességes Magyarország
+
+Zéró tolerancia a korrupcióval szemben
+» Zéró toleranciát alkalmazunk a korrupcióval szemben.
+» Csatlakozunk az Európai Ügyészséghez.
+» Létrehozzuk a Nemzeti Vagyonvisszaszerzési és Védelmi Hivatalt, kivizsgáljuk az elmúlt évek korrupciós botrányait és nyilvánvaló jogsértéseit, és a visszaszerzett vagyont közcélokra fordítjuk.
+» 20 évre visszamenőleg vagyonosodási vizsgálatot vezetünk be az országgyűlési képviselők, politikai vezetők és közeli családtagjaik vonatkozásában.
+» Megszüntetjük a magántőkealapok mögötti tényleges tulajdonosok anonimitását, a bizalmi vagyonkezelők rendszerét felülvizsgáljuk. Bevezető Magyarországot az elmúlt években az Európai Unió legkorruptabb országává tették. A korrupció nem csak a jelenlegi kormány működésének kísérőjelensége: a korrupció ma mindent átsző, a korrupció maga a rendszer. Százmilliárdok tűnnek el következmények nélkül, miközben egyesek látványosan gazdagodnak: kastélyok, luxusautók és jachtok váltak a hatalom jelképeivé. Eközben a legtöbb magyar ember napról napra küzd azért, hogy kijöjjön a fizetéséből és nyugdíjából, a mindennapi megélhetés millióknak jelent komoly gondot. 2010 óta az állam nem a közérdeket szolgálja, hanem egy szűk hatalmi kör foglyává vált. Zéró toleranciát hirdetünk a korrupcióval szemben, gondoskodunk az ellopott nemzeti vagyon visszaszerzéséről és közcélokra történő felhasználásáról.
+
+
+Zéró tolerancia a korrupcióval szemben – Problémák Magyarország az Európai Unió legkorruptabb országa.
+» A magyarok  8000 milliárd forint uniós támogatástól esnek el a kormányzati korrupció és a demokrácia leépítése miatt.
+» 2010 óta a kormány szisztematikusan kiüresítette a felügyeleti és ellenőrző szervek funkcióját, az állam foglyul ejtésével a közjavakat a saját politikai és üzleti körei gazdagítására fordította.
+» Az állampolgárok, vállalkozások is érzékelik, hogy a hatalmas korrupció az élet minden területére rátelepszik, megnehezíti és drágábbá teszi az életüket. Egy szűk réteg gazdagodik, miközben a társadalom jelentős része elszegényedik, az állam pedig nem működik.
+» Az állami költések és közbeszerzések manipulálása révén egy szűk réteg extrém módon meggazdagodott. Cégcsoportjaik vagyona a magyar gazdaság történetében példátlan sebességű, piaci körülmények között megmagyarázhatatlan növekedést produkál.
+» A korrupció miatt az állami szolgáltatások nem működnek megfelelően, az állami szervekbe vetett közbizalom súlyosan megrendült, a piaci verseny beszűkült. Az előrelépés és érvényesülés alapja nem az érdem, a szorgalom vagy a hatékonyság, hanem a hűség és a hatalmi elit feltétlen kiszolgálása. Nagyon sok tehetséges és szorgalmas magyar előtt ezért nem áll nyitva itthon a képességüknek megfelelő lehetőség. Sokan ezért választják az emigrációt. A korrupció elleni küzdelem jelenlegi eszközei nem hatásosak.
+» A magyar társadalomban hatalmas igény él az elmúlt évek felháborodást keltő korrupciós ügyeinek kivizsgálására és az érintettek felelősségre vonására.
+» A mindent átszövő korrupciót csak átfogó, széles körű intézkedésekkel lehet visszaszorítani.
+» Jelenleg nincs megfelelően működő korrupcióellenes intézményrendszer.
+
+
+Zéró tolerancia a korrupcióval szemben – Vállalásaink Zéró toleranciát hirdetünk a korrupcióval szemben.
+» A működő állam tiszta állam lesz, mert a korrupciómentes Magyarország a közbizalom, a versenyképesség és az esélyegyenlőség alapja.
+» Megszüntetjük a magántőkealapok és egyéb eszközkezelők mögötti tényleges tulajdonosok anonimitását, hogy ne lehessen titokban kijátszani a közpénzt ezeken keresztül.
+» Átalakítjuk és állami felügyelet alá vonjuk a bizalmi vagyonkezelők rendszerét.
+» Az állami és meghatározott értékhatár feletti magántulajdon-átruházási és opciós szerződéseket online elérhetővé tesszük a Nemzeti Szerződéstárban.
+» Nagy értékű adásvétel esetén kötelező lesz igazolni a források eredetét az adóhatóság felé. Mindent megteszünk az ellopott közvagyon visszaszerzéséért.
+» Csatlakozunk az Európai Ügyészséghez.
+» Létrehozzuk a Nemzeti Vagyonvisszaszerzési és Védelmi Hivatalt, amely más állami szervekkel együttműködve, az igazságszolgáltatás útján visszaszerzi a jogtalanul elidegenített közvagyont.
+» Kivizsgáljuk az elmúlt évek korrupciós botrányait és nyilvánvaló jogsértéseit (pl. évtizedes koncessziók, a kormányzati propaganda költései, MNB-alapítványok, magántőkealapok, PAKS II. és Budapest–Belgrád vasút beszállítói, minisztériumi épületek elárverezése és irodaház-vásárlások, lélegeztetőgép-beszerzések, az MCC ügyletei, álcivil szervezetek támogatása, Hatvanpuszta, kastélyok és földügyletek).
+» A visszaszerzett vagyont közfeladatokra fogjuk fordítani: oktatásra, egészségügyre, vidékfejlesztésre és A működő és emberséges Magyarország alapjai többi céljának a megvalósítására.
+» 20 évre visszamenőleg vagyonosodási vizsgálatot vezetünk be az országgyűlési képviselők, politikai vezetők (köztük a volt kormánytagok) és közeli családtagjaik vonatkozásában.
+
+
+Korrupciómegelőzési intézményrendszert alakítunk ki, és ösztönözzük a visszaélések bejelentését.
+» A korrupció megelőzésére állami intézményrendszert alakítunk ki élén a Kormánytól független Korrupciómegelőzési Felügyelettel.
+» Minden állami szervben erős belső kontrollrendszereket működtetünk, a vezetőket és a munkatársakat pedig rendszeresen képezzük, hogy felismerjék a korrupciógyanús helyzeteket, és meg tudják előzni azokat.
+» Kiterjesztjük a korrupciós cselekmények elleni szankciókat.
+» Jogi védelmet biztosítunk azoknak, akik elősegítik a korrupciós cselekmények feltárását. Engedékenységi szabályokkal és nyomravezetői díjjal fogjuk ösztönözni a bejelentéseket.
+» Kultúraváltást indítunk el az államigazgatásban, ahol a szakmai alkalmasság és az integritás lesz a kinevezések, illetve az előléptetések alapja.
+» A gazdasági életben elősegítjük és támogatjuk a tisztességes piaci versenyt és a felelős vállalatirányítást.
+» Megerősítjük és a politikától teljesen függetlenné tesszük a Gazdasági Versenyhivatal működését, hogy hatékonyan feltárhassa a gazdasági visszaéléseket, és garantálja a verseny tisztaságát.
+» Szigorú összeférhetetlenségi szabályokat állapítunk meg az állami vezetők és képviselők vonatkozásában.
+
+
+## 2.7. Bibó István Program
+
+A jogállam helyreállítása és az igazságszolgáltatás átalakítása
+» Helyreállítjuk a jogállamot, megerősítjük a demokráciát és a hatalmi fékeket.
+» Széles körű társadalmi egyeztetésben a nemzetet újraegyesítő alkotmánytervezetet dolgozunk ki.
+» Megszüntetjük a rendeleti kormányzást.
+» Két ciklusra korlátozzuk a miniszterelnöki mandátumot.
+» Megerősítjük az igazságszolgáltatás függetlenségét.
+» A bíróságok alá rendeljük a végrehajtást és a felszámolást.
+» Visszaállítjuk a közmédia függetlenségét és pártpolitikai semlegességét, új médiatörvényt alkotunk. Bevezető 2010 óta az állam nem a közérdeket szolgálja, hanem egy szűk hatalmi kör foglyává vált. A jogállam lassan eltűnt a mindennapokból: a törvények helyét politikai akarat vette át, a fékek és ellensúlyok kiüresedtek, az igazságosság érzete megrendült. Amit sokan igazságtalannak, sőt megalázónak élnek meg, az mára rendszerszintűvé vált. A TISZA vállalja, hogy visszaállítja a tiszta, demokratikus jogállamot. Felszámoljuk a félelemre épülő politikát és a propagandát. A törvények újra mindenkire egyformán fognak vonatkozni, a hatalom pedig nem kiváltság, hanem felelősség lesz. Vállaljuk, hogy helyreállítjuk a hatalmi ágak egyensúlyát, megerősítjük az igazságszolgáltatás függetlenségét, és átlátható, elszámoltatható döntéshozatalt teremtünk. Működő és emberséges Magyarországot építünk, ahol az emberek újra elhiszik, hogy az igazság nem a kiváltságosoké, hanem mindenkié.
+
+
+Igazságügy, jogállamiság – Problémák A demokratikus jogállamiság leépítése rendszerszintűvé vált.
+» Az elmúlt másfél évtizedben a magyar közjogi és intézményi rendszer tudatos leépítésével kellett szembesülnünk.
+» A jogalkotás átláthatatlanná vált, a rendeleti kormányzás állandósult, a fékek és ellensúlyok rendszere kiüresedett.
+» Az állami intézmények jelentős része elvesztette valódi önállóságát, és díszletként, a politikai hatalomhoz kötötten működik, az állam vezetői visszaélnek hatalmukkal.
+» A jelenlegi rendszer célja, hogy kiszolgálja és konzerválja az uralkodó állampárt hatalmát, és egy új többség győzelme esetén is ellehetetlenítse a demokrácia működését, megakadályozva a valódi rendszerváltást.
+» Szinte minden egy személytől, a miniszterelnöktől és néhány ezer kiszolgálójától függ, akik nem az ország érdekeit figyelembe véve kormányoznak és működtetik a rájuk bízott intézményeket, hanem saját, önös vagyoni érdekeiket követik.
+» A kormány az igazságszolgáltatás függetlenségét is rendre megkérdőjelezi, most már a számára kedvezőtlen, jogerős bírósági döntésekkel is nyíltan szembemegy.
+» A regnáló kormány évek óta nem talál valós megoldást a devizahitel-válságra. Honfitársaink tömegei veszítették el otthonukat, kényszerültek elhagyni hazájukat vagy követtek el öngyilkosságot. Családok tízezrei estek szét. A devizahiteles válság nemcsak gazdasági, jogi és pénzügyi kérdés, hanem a társadalom egy jelentős részét érintő trauma. Igazságügy, jogállamiság – Vállalásaink Helyreállítjuk a demokratikus jogállamot, erősítjük a demokráciát és a hatalmi fékeket: az állam nem uralkodni, hanem szolgálni fog.
+» Megszüntetjük a rendeleti kormányzást.
+» Ismét az Országgyűlés kezébe adjuk a valódi irányítást. Heti ülésezési renddel biztosítjuk az ütemes, kiszámítható törvényalkotási munkát. Kötelezővé tesszük a parlamenti bizottságok előtti megjelenést.
+» Felülvizsgáljuk a titkosított 2000-es és 3000-es kormányhatározatokat, nyilvánosságra hozzuk azok listáját, és feloldjuk a titkosítást minden olyan kormányhatározatnál, amelynél az nemzetbiztonsági kockázatok nélkül megtehető.
+» Nemzetbiztonsági átvilágítást követően nyilvánosságra hozzuk a 2010 és 2026 közötti kormányülések összefoglalóját.
+» Kivizsgáljuk és a nyilvánosság elé tárjuk a Pegazus szoftverhez kapcsolódó lehallgatási botrány minden részletét. Nemzetbiztonsági ellenőr-
+
+
+zés után nyilvánosságra hozzuk a 2010 óta elrendelt, politikailag motivált titkos megfigyeléseket.
+» Két ciklusra korlátozzuk a miniszterelnöki mandátumot. A többi közjogi tisztségnél is kizárjuk, hogy valaki évtizedekre kisajátítson egy pozíciót.
+» A fékek és ellensúlyok kiüresített rendszerét helyreállítjuk, biztosítjuk a független ellenőrző intézmények, hatóságok szakmaiságát, azok működését politikamentessé tesszük, különös tekintettel a következőkre: Gazdasági Versenyhivatal, Nemzeti Adatvédelmi és Információszabadság Hatóság, Állami Számvevőszék, Nemzeti Média- és Hírközlési Hatóság, Integritás Hatóság. Megerősítjük ezen szervek parlamenti kontrollját és egyedi ügyekben való interpellálhatóságát.
+» Igazságosabbá tesszük a pártfinanszírozást, hogy azok a pártok kapjanak állami támogatást, amelyek tényleges társadalmi bázissal rendelkeznek.
+» Megtiltjuk és szigorúan büntetjük, hogy a szabályozott pártfinanszírozáson túl közpénzt kampánycélokra használjanak.
+» Módosítjuk a választási jog rendszerét. A jelenleginél jóval átláthatóbb, tisztességesebb és arányosabb választási rendszert alkotunk, és egységesítjük a külföldön szavazás szabályait a visszaélések megelőzése érdekében. A folyamatot széles körű társadalmi, szakmai és politikai egyeztetés fogja végigkísérni.
+» Hatékony, önálló ombudsmani rendszert hozunk létre, bevezetjük a Gyermekvédelmi Ombudsman és a Betegjogi Ombudsman intézményét.
+» Magyarország a Nemzetközi Büntetőbíróság tagja marad.
+» Megszüntetjük a Szuverenitásvédelmi Hivatalt.
+» Megerősítjük az ügyészség feletti parlamenti kontrollt.
+» Felülvizsgáljuk a Országgyűlés házszabályát, jogorvoslatot biztosítunk a házelnök döntéseivel szemben.
+» Felülvizsgáljuk a sarkalatos törvények rendszerét, és széles körű társadalmi párbeszéd alapján a nemzetet újraegyesítő alkotmánytervezetet dolgozunk ki. Átlátható, az állampolgárok által kontrollálható kormányzást valósítunk meg.
+» Átláthatóvá tesszük a jogalkotást: előmozdítjuk a valódi társadalmi részvételt, és létrehozunk egy egységes online felületet, ahol bárki nyomon követheti a jogszabálytervezeteket és a hatásvizsgálatokat. Érdemi felkészülési időt adunk az érintetteknek, szakítunk a máról holnapra történő jogalkotással.
+» Megszüntetjük a jogszabályok folyamatos, kiszámíthatatlan változtatásának a gyakorlatát.
+
+
+Megerősítjük az igazságszolgáltatás függetlenségét, egyszerűsítjük és gyorsítjuk az eljárásokat, jelentősen átalakítjuk a végrehajtás és a felszámolás szabályozását, valamint a közjegyzői határköröket.
+» Biztosítjuk az Alkotmánybíróság, a bíróságok és a Legfőbb Ügyészség függetlenségét, hatékonyabbá tesszük a működésüket.
+» Rendezzük az igazságszolgáltatásban dolgozók – bírák, ügyészek és igazságügyi alkalmazottak – bérezését és munkakörülményeit.
+» Állami kézbe vesszük és non-profittá tesszük a végrehajtást, megszüntetjük a végrehajtói kamarát, és átvilágítjuk a végrehajtók korábbi működésének jogszerűségét. A végrehajtási szabályokat úgy alakítjuk át, hogy növeljük a védett jövedelemrészt, csökkentjük a levonási arányokat az együttműködő dolgozóknál, és korlátozzuk a kamatokat és költségeket.
+» Állami kézbe vesszük és non-profittá tesszük a felszámolást, jelentősen olcsóbbá, gyorsabbá és kiszámíthatóbbá téve a folyamatot.
+» Jelentősen leszűkítjük a kötelezően igénybe veendő közjegyzői szolgáltatások körét, és felső korlátot vezetünk be a közjegyzői tevékenység díjazására, így sokkal olcsóbbá válik az ügyintézés. Egyes közjegyzői hatásköröket a bíróságokhoz, más tevékenységeket a kormányhivatalokhoz telepítünk. Megszüntetjük a közjegyzőségek számának korlátozását, kialakítva így a versenyt.
+» Szigorúbb szabályokat alkotunk a családon belüli erőszak visszaszorítására, és kikényszerítjük azok végrehajtását és betartatását.
+» A büntető igazságszolgáltatásban erősítjük a mediáció, a közösségi munka és a jóvátételi programok, továbbá a kártérítési elemek szerepét – az igazságszolgáltatás jelentsen jóvátételt is az áldozatnak!
+» Bővítjük és szigorúbbá tesszük a gyermekek büntetőjogi védelmét.
+» Felülvizsgáljuk a teljes büntetőjog-anyagot és szükség esetén szigorítjuk a szabályozást.
+» A gyermekeket érintő eljárásokban nagyon rövid határidőket vezetünk be.
+» Jelentősen felgyorsítjuk a bírósági eljárások menetét. Minden ehhez szükséges költségvetési forrást biztosítunk a független igazságszolgáltatás számára, a bíróságokat bevonjuk a szükséges jogszabály-módosítások előkészítésébe.
+
+
+Segítséget nyújtunk a lakhatási válsághelyzetbe került devizahitel-károsultaknak.
+» Elkötelezettek vagyunk a hazai és uniós jogszabályok és bírósági döntések betartása mellett, és elismerjük a közösségi jog primátusát. Elvárható, hogy mind a Kúria, mind az alsóbb fokú bíróságok a hatályos jog és uniós bírósági döntések alapján hozzák meg a határozataikat.
+» Haladéktalanul egyeztetetést kezdeményezünk a bíróságok szakmai vezetőinek, a Bankszövetség tagjainak és a devizahitel-károsultak szervezeteinek a bevonásával, a jogszerű és emberséges jogi, valamint politikai megoldás kidolgozása érdekében.
+» Vállaljuk, hogy a tisztességes elszámolás rendjét az uniós joggal és az uniós bírósági ítéletekkel összhangban lévő törvényben rögzítjük, ennek keretében megvizsgáljuk a hatályos devizahitel-törvények hiányosságait, és az új jogszabály hatályba lépésépéig a még folyamatban lévő, devizaalapú kölcsönből eredő végrehajtások és kilakoltatások hivatalból felfüggesztésre kerülnek.
+» Megszüntetjük a profitorientált végrehajtás intézményét és a végrehajtást állami tevékenységként a bíróságok alá rendeljük, csökkentve ezzel a visszaélések lehetőségét és a végrehajtás költségeit. Ennek keretében haladéktalanul felülvizsgáljuk a devizaalapú kölcsönből eredő végrehajtásokat is.
+» A fogyasztói jogok érvényesítése érdekében indított perekre illetékmentességet biztosítunk. Közmédia – Problémák A jelenlegi közmédia politikailag nem független, eredeti küldetését már régóta nem teljesíti.
+» A közmédia nem pártatlan: éjjel–nappal közpénzen fizetett propagandát folytat, hazudik, és lejáratja a kormánnyal szemben kritikus szereplőket és sokszor civileket is.
+» A hírekben a kormányoldal folyamatosan pozitív fényben feltüntetve szerepel, míg a kormányt bíráló szervezetekről és egyénekről szóló tudósítások torzak, hazugok.
+» Az ellenzék és a kormánypárt képviselőinek egyenrangú megjelenítése nem biztosított. A médiafelügyelet nem független, politikai megszállás alatt áll.
+» A Nemzeti Média- és Hírközlési Hatóság és a Médiatanács tagjait 9 évre választja az Országgyűlés. A jelenlegi vezetők mindannyian az állampártok kinevezettjei. Így ezek a testületek nem nevezhetők függetlennek, és nem töltik be valódi szerepüket.
+» A közmédia feletti társadalmi kontrollt a Közszolgálati Testület hivatott ellátni, de ennek szerepe formális és kiüresedett.
+
+
+A közmédia közpénz százmilliárdokból folytat hazug propagandát.
+» A közmédia és a médiafelügyelet 2025-ben összesen mintegy 220 milliárd forint közpénzből működött (MTVA: 165+ mrd; NMHH: 59+ mrd). Eközben a teljes kereskedelmi rádiós, TV-s és streamingpiac éves bevételei csak kevéssel haladják meg a 200 milliárd forintot.
+» A Nemzeti Kommunikációs Hivatal 2021 és 2023 között évi mintegy 250 milliárd forintot költött kormányzati kommunikációra, vagyis káros és uszító propagandára.
+» A kormányzat ezenfelül számos csatornán, például a közösségi médián további százmilliárdokat költ káros, uszító, gyermekeinket is félelemben tartó propagandára. Az erre fordított kiadások elérhetik a 650 milliárd forintot évente. Közmédia – Vállalásaink Visszaállítjuk a közmédia függetlenségét és pártpolitikai semlegességét, társadalmi és politikai egyeztetést követően új médiatörvényt alkotunk.
+» Azonnali hatállyal megszüntetjük a propagandát a közmédiában és új médiatörvényt alkotunk.
+» A kormányváltást követően azonnal felfüggesztjük a közmédia hírszolgáltatását, és csak akkor indítjuk újra, amikor megteremtettük az objektív, pártatlan hírszolgáltatás feltételeit.
+» Független vezetést nevezünk ki, garantáljuk, hogy propaganda helyett a közmédia valódi híreket, tudósításokat sugározzon.
+» Új szabályokkal és nyilvános vezetőkiválasztási eljárással erősítjük a közmédia pártatlanságát; a „hírszolgáltatás” és a „politikai kommunikáció” jogi és tartalmi határát egyértelművé tesszük.
+» A Közszolgálati Testület szerepét és eszközeit bővítjük, hogy valódi társadalmi kontrollt gyakorolhasson.
+» Biztosítjuk, hogy a Médiatanács és az NMHH vezetése ne egypólusú legyen, hanem megjelenítse a különböző politikai és kulturális nézeteket.
+» Hirdetési moratóriumot vezetünk be a kormányváltást követően azonnal az állami szféra vonatkozásában, és a közmédia újraindítását követően külön testület felügyeli majd a kormányzati, politikai hirdetések arányos elosztását a médiapiacon.
+» Az állami vállalatok, intézmények által közzétett, végső soron tehát közpénzből finanszírozott társadalmi célú hirdetések tekintetében előzetes kontrollt vezetünk be, hogy azok valóban társadalmi célt szolgálnak-e vagy pártpolitikai tartalmúak.
+
+
+Pazarlás helyett átlátható, takarékos működést és közpénzfelhasználást biztosítunk.
+» Azonnal felülvizsgáljuk az NMHH, az MTVA és a Duna Média Szolgáltató Zrt. gazdálkodását, az indokolatlan pazarlást leállítjuk.
+» A korábban a propagandára fordított pénzmozgásokat nyilvánossá tesszük, külön figyelemmel a politikailag kitüntetett beszállítói körökre és az álcivil szervezetekre.
+» Az összes szabálytalanságot kivizsgáljuk, és szükség esetén megtes�szük a megfelelő jogi lépéseket a jogtalanul kifizetett összegek visszaszerzésére, a károk mérséklése érdekében. Helyreállítjuk a közmédia közszolgálati küldetését.
+» A közmédia nem lehet pártszócső: valódi szerkesztői függetlenséget, kiegyensúlyozott tájékoztatást, átlátható tartalmi sztenderdeket írunk elő, civil kontrollal.
+» Újraépítjük a közmédia vidéki szerkesztőségi hálózatát.
+» Hiteles, kiegyensúlyozott, pártatlan hírszolgáltatás és tájékoztatás, gazdasági, társadalmi, tudományos ismeretterjesztés, igényes kultúraközvetítés és szórakoztatás: ezek lesznek a közmédia feladatai.
+» Független testületet hozunk létre, amely testület előzetesen véleményezi és jóváhagyja a mindenkori kormányzat társadalmi hirdetéseit annak érdekében, hogy a kormány ne tudjon pártpropagandát, politikai reklámot közpénzen közzétenni. Megtisztítjuk és piaci alapokra helyezzük a frekvenciagazdálkodást.
+» Átlátható, szakmai alapú frekvenciapályáztatást és felügyeletet működtetünk; a politikai befolyásolás lehetőségét kizárjuk.
+
+
+## 2.8. Működő állam, erős önkormányzatok
+
+Politikamentes, szolgáltató közigazgatás
+» Felszabadítjuk a közigazgatást a pártpolitikai irányítás alól, megszüntetjük a vármegye elnevezést és a főispáni pozíciót.
+» Gyors, digitális és olcsó ügyintézést biztosítunk mindenkinek – magánszemélyeknek és a cégeknek egyaránt.
+» Eltöröljük az állami vagy önkormányzati szolgáltatások kényelmi díját.
+» Leváltjuk a szakmailag alkalmatlan politikai kinevezetteket, és szakmai alkalmassághoz kötjük a vezetői pozíciók betöltését.
+» Biztosítjuk a szakigazgatási szervek önállóságát, a kormányhivatalok alá szervezett feladatokat észszerűen szétválasztjuk.
+» Visszaadjuk a korábban elvont feladatokat, hatásköröket és intézményeket, valamint a szükséges forrásokat az önkormányzatoknak.
+» Budapest-törvényt alkotunk, amelyben szabályozzuk a mindenkori kormány és a főváros pozitív, partneri együttműködésének kereteit. Bevezető Ma az állam nem szolgál, hanem uralkodik. Nem segít, hanem büntet. Ugyanazokat az adatokat kéri újra és újra, miközben minden hibáért azonnal szankcionál. Ha valaki elakad aa bürökrácia szándékosan bonyolított útvesztőjében, nem segítséget kap, hanem bírságot. Ha kérdez, egyik irodából küldik a másikba. Az ügyintézés lassú, személytelen, sokszor megalázó. Az ember joggal érzi úgy: ha egy magánszolgáltató így bánna az ügyfeleivel, már rég bezárhatott volna. Közben a helyi közösségeket is megfosztották a döntéseiktől. Az önkormányzatok az elmúlt években elveszítették mozgásterük nagy részét, a valódi döntések elkerültek a településekről. A központi hatalom beleszól a legapróbb helyi ügyekbe is, mintha nem bízna sem a választott vezetőkben, sem az ott élő emberekben. A TISZA vállalja, hogy az államot visszaállítja a köz szolgálatába. Egyszerűbb, érthetőbb ügyintézést alakítunk ki, amely segít és nem büntet, és ahol a jogorvoslat mindenki számára elérhető lehetőség. Vállaljuk, hogy a köztisztviselő nem a hatalom arca lesz, hanem az emberek segítője, akit a társadalom megbecsül, tisztességes a fizetése, és akinek van tervezhető szakmai jövője. Vállaljuk azt is, hogy visszaadjuk az önkormányzatok szabadságát, hatásköreit és forrásait. Hiszünk abban, hogy a demokrácia ott kezdődik, ahol az emberek élnek. A döntéseknek helyben kell megszületniük, nem távoli irodákban. Olyan országot építünk, ahol az állam és az önkormányzatok nem vetélkednek, hanem együtt dolgoznak – az emberekért.
+
+
+Központi közigazgatás – Problémák Az állam jelenleg nem szolgáltat, hanem uralkodik.
+» Hiányzik a szolgáltató szemlélet az államból, az ügyfélfogadási idők nem igazodnak a mindennapi élethez és a dolgozó emberek igényeihez.
+» Ha az adminisztrációban valaki elakad vagy hibát követ el, akkor az állam gyakran nem segíti, hanem bünteti az egyént vagy a cégeket.
+» Közigazgatási ügyekben, jogvita esetén nehéz jogorvoslatot kérni, mert az ügyintézés túl bonyolult, drága és lassú.
+» Az online ügyintézés helyett sok ügycsoportban még mindig személyes, papíralapú ügyintézéssel találkoznak a magyarok. A túlzott központosítás és a feltétel nélküli politikai lojalitás gátolja a szakmai munkát.
+» Az elmúlt években az állampárti időket megszégyenítő központosítás zajlott le szinte minden területen.
+» A politikai szempontok gyakran a hosszú távú és a napi döntésekben is felülírják a szakmai érveket. Ez lassítja a végrehajtást és rontja a szolgáltatások minőségét.
+» A csúcsminisztériumi rendszer a társadalom számára kiemelten fontos területeket (pl. oktatás, egészségügy) kezel méltatlanul alacsony szinten, a szakmaiság mellőzésével.
+» A kormányhivatalok feladat- és hatáskörei túltelítettek; sok, korábban önálló szakigazgatási szerv elveszítette a szakmai mozgásterét, döntéseiket napi szinten befolyásolja a politika.
+» A vezetőkiválasztásban a politikai lojalitás a legfontosabb szempont, ami a működőképességet veszélyezteti.
+» A közigazgatásban használt feudalisztikus elnevezések, a vármegyék, az alispánok tökéletesen kifejezik a jelenlegi kormány gondolkodását: a közigazgatásban jelenleg az uralkodóhoz tökéletesen lojális politikai kinevezettek dolgoznak, nem pedig a társadalom érdekében munkálkodó, szakmailag felkészült közszolgák. Alacsonyak a bérek, a vonzó életpálya, és a megbecsültség hiánya elvándorlást okoz.
+» A köztisztviselői illetményalap 2008 óta változatlan; a bértáblán belüli különbségek sokszor indokolatlanul nagyok. Ez tartósan rombolja a pálya vonzerejét.
+» A szakmai szabadság és a kompetenciák fejlesztése nem következetes; hiányzik a kiszámítható, hiteles életpályamodell.
+» A köz szolgálatában dolgozók jogviszonyait leíró különböző jogszabályok sokszor nincsenek összehangolva egymással.
+
+
+Központi közigazgatás – Vállalásaink Gyors, digitális és olcsó ügyintézést biztosítunk mindenkinek – magánszemélyeknek és a cégeknek egyaránt.
+» A teljes közigazgatásban lehetőséget biztosítunk az akadálymentes és elektronikus ügyintézésre és segítjük annak igénybevételét, ezzel egyszerűbbé, kényelmesebbé tesszük az ügyintézést: valódi digitális államot építünk.
+» Fejlesztjük a kormányhivatalokat és kormányablakokat, biztosítjuk az egyszerű és könnyen hozzáférhető jogorvoslati lehetőséget a közigazgatási ügyekben.
+» Eltöröljük az állami vagy önkormányzati online szolgáltatások kényelmi díját.
+» Olcsóbbá és gyorsabbá tesszük az állami szolgáltatásokat. Szakmai alapokra helyezzük a közigazgatás működését.
+» Felszabadítjuk a közigazgatást a pártpolitikai irányítás alól, megszüntetjük a vármegye elnevezést és a főispáni pozíciót.
+» Politikai befolyástól mentes, szakmailag felelős döntéshozatalt vezetünk be; a szakigazgatási szervek önállóságát visszaállítjuk, a kormányhivatalok alá szervezett feladatokat észszerűen szétválasztjuk.
+» Leváltjuk a szakmailag alkalmatlan politikai kinevezetteket, és szakmai alkalmassághoz kötjük a vezetői pozíciók betöltését.
+» Valódi szakmai teljesítményértékelést vezetünk be, amely nem felesleges adminisztratív terhet jelent, hanem hasznos eszköz a szakmai munka teljesítményének elismeréséhez és fejlesztéséhez.
+» Megszüntetünk minden, a közigazgatás csatornáin megvalósuló propagandatevékenységet.
+» A Nemzeti Közszolgálati Egyetemet kivonjuk a pártpolitikai irányítás alól, biztosítjuk a közigazgatás számára a magas színvonalú képzési és továbbképzési rendszert. Tisztességes bérezést és vonzó életpályát biztosítunk a közszolgáknak.
+» Megemeljük és a piacihoz közelítjük a közigazgatásban dolgozók bérét, igazságosabb bértáblát vezetünk be. 2030-ig nullára csökkentjük a közigazgatási és a piaci bérek közötti különbséget.
+» Olyan tisztviselői kart építünk, amelynek tagjai büszkék a hivatásukra, és nem a mindenkori politikai vezetés iránt lojálisak.
+
+
+Észszerű szerkezeti átalakításokkal közelebb visszük az államot az emberekhez.
+» A csúcsminisztériumnak nevezett, kaotikus mamutminisztériumok helyett áttekinthető szaktárcákat alakítunk ki: minden kiemelten fontos területnek önálló minisztériuma vagy államtitkársága lesz.
+» A 2011 óta központosított szakhatósági feladatok jelentős részét a szubszidiaritás elvének megfelelően visszavisszük a megfelelő szakmai szervezetekhez (pl. állat- és növényegészségügy, környezetvédelem) vagy az önkormányzatokhoz (pl. építésügy). Önkormányzatok – Problémák Az önkormányzatok az elmúlt másfél évtizedben fokozatosan elveszítették önállóságukat.
+» 2010 óta fokozatosan egyre több feladatot, hatáskört és forrást vontak el az önkormányzatoktól.
+» A központosítás miatt a helyi közösségek mozgástere beszűkült, a döntések egy része már nem helyben születik meg, hanem központi irányítás alatt áll.
+» Az önkormányzati autonómia alkotmányos garanciái hiányosak, és a központi kormányzat egyre inkább rátelepszik a helyi ügyekre.
+» A törvényességi felügyelet eszközei a szükségesen túlterjeszkednek, a kormányzati beavatkozás lehetősége széles. A jelenlegi források nem elegendőek a működésre, a kormány zsarolja az önkormányzatokat.
+» A települések pénzügyi helyzete kiszámíthatatlanná vált, a források elosztása sokszor politikai mérlegelés alapján történik.
+» A szolidaritási hozzájárulás és más elvonások az önkormányzatok jogszabályi kötelezettségeinek ellátását, a működőképességet veszélyeztetik; nincs forrrás a helyiek számára fontos közszolgáltatások színvonalas ellátására és a szükséges fejlesztések megvalósítására.
+» A finanszírozás nem a tényleges feladatellátási költségekhez kapcsolódik, sok az egyedi döntés és mérlegelési lehetőség.
+» A nem kormánypárthoz húzó polgármesterek és települések nem kapnak fejlesztési forrásokat, a kormány folyamatosan zsarolja ezen településeket.
+
+
+Az ügyintézés sok esetben papíralapú, és sok benne a párhuzamosság.
+» Az önkormányzati informatikai rendszerek nincsenek összekötve a központi közigazgatással, az állampolgárok adatait gyakran többször kérik be feleslegesen. Önkormányzatok – Vállalásaink Az önkormányzatiságot a demokratikus állam alapintézményének tekintjük.
+» Biztosítjuk a helyi közösségek önrendelkezését. Ez nem csupán igazgatási kérdés, hanem a szabadság gyakorlati formája: annak a biztosítéka, hogy a döntések ott szülessenek, ahol az emberek hétköznapi élete zajlik.
+» Vállaljuk, hogy az állam az önkormányzatok stabil, átlátható és szakmai alapokon működő partnere lesz. A korábban elvont feladatokat, hatásköröket, intézményeket és ezzel párhuzamosan a szükséges forrásokat visszaadjuk az önkormányzatoknak.
+» A korábban elvett hatásköröket, forrásokat és feladatokat visszaadjuk a településeknek vagy azok társulásainak, velük egyeztetett módon, az állam indokolt és elvárható szerepvállalásának megtartása mellett (pl. szociális hatósági ügyek, gyámügy, építéshatósági feladatok, védőnői szolgálat, közoktatás).
+» Az önkormányzatok megkapják a jogot arra, hogy a településképükről maguk dönthessenek, beleértve a köztéri hirdetésekre vonatkozó szabályozást.
+» Autonómiát és jogi garanciákat adunk az önkormányzatoknak.
+» Az Alaptörvény és a helyi önkormányzati törvény módosításával egyértelmű alkotmányos garanciát adunk az önkormányzati autonómiára, a Helyi Önkormányzatok Európai Chartájának megfelelően.
+
+
+Kiszámítható, igazságos finanszírozást és működést vezetünk be.
+» Feladatfinanszírozásra és normatívákra állunk át; az egyedi mérlegelésen alapuló döntések körét szűkítjük és átláthatóvá tesszük.
+» A szolidaritási hozzájárulást átalakítjuk, csökkentjük annak mértékét, átláthatóbb és méltányosabb lesz, a befizetési kötelezettségeket a valós helyi adottságokhoz igazítjuk.
+» Átlátható módon bemutatjuk, hogy mely települések támogatására fordítjuk a befolyt összeget.
+» Felülvizsgáljuk a helyi adók és az átengedett központi adók körét.
+» Nyilvános, szabályozott támogatási rendszert alakítunk ki; a döntési szempontok előre rögzítettek és visszakereshetők lesznek. A gyors, átlátható ügyintézés, észszerű szerkezeti átalakítások.
+» Az önkormányzati informatikai szakrendszereket kiterjesztjük és kompatibilissé tesszük; megszüntetjük a párhuzamos iktatást és a többszörös adatbevitelt.
+» Valódi társadalmi egyeztetést vezetünk be a településeket érintő nagyobb döntéseknél; évente legalább egyszer összehívjuk az Önkormányzati Érdekegyeztető Tanácsot.
+» Felülvizsgáljuk a járási hivatalok feladatkörét; a helyben hatékonyan megoldható ügyeket visszavisszük a településekhez vagy társulásaikhoz.
+» Felszámoljuk az állami és önkormányzati tulajdonviszonyokban uralkodó káoszt. Budapest-törvényt alkotunk, amelyben szabályozzuk a mindenkori kormány és a főváros pozitív, partneri együttműködésének kereteit.
+» Konstruktív együttműködést alakítunk ki Budapesttel, hogy élhető, működő fővárosa lehessen az országnak.
+» Budapestet nem politikai csatatérként, hanem az ország gazdasági, kulturális és közlekedési központjaként kezeljük. A kormány és a Fővárosi Önkormányzat között kiszámítható, intézményesített partnerséget alakítunk ki.
+» Rendezett és igazságos finanszírozást biztosítunk Budapest számára, figyelembe véve a főváros országos szerepét, a budapestieket és a Budapesten tanulókat, dolgozókat vagy ide látogatókat is kiszolgáló közfeladatait. Felülvizsgáljuk a fővárost aránytalanul terhelő elvonásokat, és kiszámítható, feladatalapú finanszírozást vezetünk be.
+» Budapest fejlesztéseit átlátható, előre tervezhető módon támogatjuk, különös tekintettel a közlekedési, környezeti és lakhatási beruházásokra. A fővárosi projektek nem eseti döntések lesznek, hanem nyilvános szakmai prioritások mentén valósulnak meg.
+
+
+» A nagy állami beruházásokról nem Budapest feje felett döntünk, hanem a fővárossal és az érintett kerületekkel kötelező egyeztetést folytatunk.
+» Világosan elválasztjuk a fővárosi és a kerületi hatásköröket, és megszüntetjük azokat az átfedéseket és bizonytalanságokat, amelyek ma lassítják a döntéseket és rontják a szolgáltatások minőségét.
+» A fővárosi közösségi közlekedés működését stabil alapokra helyezzük, hosszú távú, többéves megállapodással a kormány és Budapest között. A budapesti közlekedés nem politikai alku tárgya, hanem közszolgáltatás, amelynek kiszámítható finanszírozásra és fejlesztésre van szüksége.
+» Kiemelt fontosságúként kezeljük a HÉV és a villamoshálózat fejlesztését, a 4-es metró meghosszabbítását, a 3-as metró klimatizálását, az 1-es metró felújítását és fejlesztését, valamint a közutak, járdák Budapesthez méltó rendbetételét.
+» A budapesti lakhatási és környezeti kihívások kezelését közös felelősségnek tekintjük, és támogatjuk azokat a programokat, amelyek csökkentik a lakhatási nehézségeket, javítják a levegőminőséget, és növelik a zöldfelületek arányát a városban.
+» Támogatjuk az évszázad egyik legfontosabb városrészfejlesztését Rákosrendezőn, hogy megfizethető lakhatást, élhető környezetet és színvonalas közszolgáltatásokat biztosíthassunk a város több tízezer családja számára.
+» Kiemelten támogatjuk az akadálymentesítés és esélyegyenlőség megteremtését, a külső kerületek, a történelmi épületek, fürdők fejlesztését, a rendezett, tiszta és biztonságos közterek fenntartását, a fővároshoz méltó utcaképet, zöldövezeteket és a környezetvédelmet célzó fejlesztéseket.
+
+
+## 2.9. Erős közösségek
+
+Egyházi és civil élet
+» Biztosítjuk az állam és az egyház kiegyensúlyozott, kölcsönös tiszteletre épülő viszonyát.
+» Az intézményfenntartás és a hitélet szabadsága garantált lesz, a vallási közösségek döntéseibe pedig nem szól bele a politika.
+» Átlátható, előre tervezhető, politikától független finanszírozást biztosítunk a civil szervezeteknek.
+» A közpénz útját mindenhol követhetővé tesszük, az álcivil szervezetek finanszírozását azonnal leállítjuk. Bevezető Erős ország csak ott születhet, ahol erős, szabad közösségek élnek. Az elmúlt években azonban sok valódi közösséget tudatosan meggyengítettek vagy szétziláltak, miközben álcivil szervezeteket pénzzel tömtek ki, hogy hatalmi érdekeket szolgáljanak. Az egyházak és a civil világ független hangját együttműködés helyett kiszolgáltatottság váltotta fel. Ez néhányaknak kényelmes volt, de a közösségeknek és az egész társadalomnak súlyos veszteséget jelentett. Mi hiszünk abban, hogy a demokrácia szíve a közösségekben dobog. Vállaljuk, hogy az egyházak és a civil szervezetek nem alárendeltjei, hanem egyenrangú partnerei lesznek az államnak. Vállaljuk az igazságos, politikától mentes támogatást, a tiszteletet és a szabadságot, mert csak olyan ország lehet erős, ahol a közösségek nem félnek, nincsenek függőségben tartva, hanem felelősen és szabadon, együtt építik a közjót.
+
+
+Egyházpolitika – Problémák Az állam és az egyház ma szorosan összefonódnak.
+» Az állam és az egyházak, vallási felekezetek partneri együttműködését az elmúlt években a politikai, gazdasági összefonódás váltotta fel.
+» Ennek alapját az egyházak, vallásfelekezetek jogállásáról szóló törvény átfogó és több szempontból kedvezőtlen átalakítása teremtette meg.
+» A „bevett egyházi” státusz odaítélése, valamint az egyházak finanszírozásának jelentős része ma sokszor az adott közösségnek a kormányzat felé tanúsított lojalitásától függ. Az így létrejött, kiegyensúlyozatlan finanszírozási rendszer igazságtalan és átláthatatlan.
+» Nem ritkák azok az esetek, amikor a kormány politikai okokból egyegy szakmai feladatban teljes vagy túlzó teret ad a felekezeti fenntartású intézményeknek, esetenként az érintettek érdemi beleegyezése nélkül. Egyházpolitika – Vállalásaink Valláspolitikánk alapja az egyház és az állam szétválasztása, valamint a lelkiismereti szabadság biztosítása.
+» A vallási közösségek szabadsága a demokratikus jogállam egyik legfontosabb biztosítéka. Tartjuk magunkat ahhoz, hogy az állam feladata nem az irányítás, hanem az együttműködés.
+» Olyan környezetet teremtünk, amelyben az állam és az egyházak kölcsönösen tisztelik egymás határait, és együttműködésük a közösség javát szolgálja.
+» Az intézményfenntartás és a hitélet szabadsága garantált lesz, a vallási közösségek döntéseibe pedig nem szól bele a politika.
+» A lelkiismereti szabadság és a társadalmi igazságosság jegyében biztosítjuk az egyházak és vallási közösségek hitéleti és belső működési szabadságát, hogy azok képesek legyenek a növekedésre és szolgálatuk kiteljesítésére. Biztosítjuk az állam és az egyház kiegyensúlyozott, kölcsönös tiszteletre épülő viszonyát.
+» Partnerként és a társadalom érdekében együttműködő szervezetként tekintünk a vallási közösségekre, és rendezett, folyamatos kapcsolattartásra fogunk törekedni velük.
+» Tiszteletben tartjuk és magunkra nézve kötelezőnek ismerjük el a Vatikáni Szerződést, illetve a más felekezetekkel kötött hatályos megállapodásokat, egyezményeket.
+» Átalakítjuk és átlátható jogi alapokra helyezzük a vallási szervezetek besorolási rendszerét, a jelenlegi bevett egyházak státuszának módosítása nélkül.
+
+
+Átlátható és igazságos finanszírozást valósítunk meg.
+» A hatályos megállapodások alapján fenntartjuk a hittanoktatásban dolgozók és a kistelepülésen szolgálatot tevők anyagi juttatásait, és fenntartjuk az egyházi ingatlanjáradék kialakított rendszerét.
+» Fenntartjuk az átvállalt közszolgáltatásokat végző, egyházi fenntartásban működő intézmények normatív támogatását.
+» Egyeztetést kezdeményezünk az intézményfenntartó felekezetekkel az intézmények státuszáról, és igényeik, lehetőségeik alapján készek vagyunk a vonatkozó megállapodások kölcsönösen előnyös módosítására.
+» A személyi jövedelemadó 1%-a továbbra is felajánlható lesz egyházak részére.
+» Az egyházak és vallási közösségek többlettámogatását, munkájukkal, különösen közhasznú tevékenységükkel összefüggésben átlátható alapokra helyezzük, és pályázati rendszerben valósítjuk meg. Civil szervezetek – Problémák A civil szervezetek jelentős részét ellehetetlenítette a jelenlegi kormány.
+» A civil szervezetek mozgástere az elmúlt években beszűkült: a kormányzati kommunikáció és szabályozás gyakran politikai lojalitás alapján tesz különbséget az egyes szervezetek között.
+» A valódi társadalmi egyeztetés leépült, a valóban hasznos civil szervezetek gyakran nem tudják megfelelően ellátni a feladataikat. A támogatási rendszer bonyolult és kizárólag a kormánypártiaknak kedvez.
+» A támogatási rendszer széttöredezett és kiszámíthatatlan. A pályázati döntések indoklása sokszor hiányzik, és nincs átfogó, nyilvános adatbázis a megítélt támogatásokról. Ez gyengíti a civil szektor hitelességét és a tervezhetőséget.
+» A Nemzeti Együttműködési Alap éves kerete 2025-re mintegy 13 milliárd Ft volt; ez a teljes civil ökoszisztéma igényeihez mérten kevés.
+» Rengeteg álcivil szervezet kap milliárdokat, amelyeket aztán kifejezetten káros célra, például politikai propagandára fordítanak.
+» A költségvetési intézmények és állami cégek közvetlen civil támogatásai nehezen áttekinthetők és gyakran politikailag motiváltak.
+
+
+Civil szervezetek – Vállalásaink A civil társadalmat a működő demokrácia egyik legfontosabb pillérének tekintjük.
+» A civil szervezeteket nem ellenfélnek, hanem partnernek tekintjük a közjó megvalósításában.
+» Az egyenlő bánásmód és a politikától független támogatás garantálni fogja a civil működés biztonságát és méltóságát. Tisztességes, pártatlan kereteket teremtünk a civil szervezeteknek.
+» A kommunikációban és a finanszírozásban is azonos bánásmódot biztosítunk minden valódi civil szervezetnek, politikai beállítottságuktól függetlenül.
+» Megszüntetjük a civileket érintő, a vegzálásukra alkalmas jogszabályokat; a civil működést nem politikai lojalitás, hanem a jogkövetés és a közhasznúság szerint ítéljük meg. Átlátható, előre tervezhető finanszírozást biztosítunk a civil szervezeteknek.
+» A Nemzeti Együttműködési Alap, a minisztériumi és egyéb állami források szabályait egységesítjük; minden pályázat esetében előre rögzített, nyilvános bírálati kritériumrendszernek és részletes döntési indoklásnak kell készülnie.
+» Nyilvános, kereshető online adatbázist hozunk létre a megítélt és elutasított támogatásokról, indoklással együtt.
+» Jogorvoslati lehetőséget biztosítunk az elutasításokkal szemben.
+» A kiírásokat a tárgyévet megelőző évben tesszük közzé és bíráljuk el, hogy a szervezetek valós költségvetéssel tervezhessenek; vis maior alapot is létrehozunk. A közpénz útját mindenhol követhetővé tesszük.
+» Megtiltjuk, hogy költségvetési intézmények és állami cégek rejtett vagy politikailag motivált csatornákon civileket finanszírozzanak; támogatás csak nyílt pályázaton, egységes adatbázisban követhetően történhet.
+» Az álcivil szervezetek finanszírozását azonnal leállítjuk; a tényleges tevékenységet (rendezvények, kiadványok, tagság, közhasznúság) igazolni kell.
+» A civil szervezetek számára is kötelező lesz nyilvánosságra hozni, hogy kik a végső kedvezményezettjei a támogatásoknak, azaz, hogy a civil szervezetek kinek adták tovább támogatásként, vállalkozói díjként a hozzájuk eljutott forrásokat.
+
+
+Valódi partnerséget biztosítunk a jogalkotásban.
+» A releváns civil szövetségeket kötelezően bevonjuk az adott törvények és rendeletek előkészítésébe; a konzultáció érdemi, dokumentált és visszacsatolt lesz.
+» A „nemzeti konzultáció” típusú, pártpolitikailag motivált és ellenőrizhetetlen eszközök helyett érdemi társadalmi vitákat szervezünk.
+» Jelentősen emeljük 2027-től a civil szervezetek támogatására fordítható források összegét.
+
+
+# 3. SZABAD ÉS BOLDOG ORSZÁG – TÁRSADALMI JÓLÉT ÉS JÓLLÉT
+
+3.
+
+
+## 3.1. Hugonnai Vilma Egészségügyi Program
+
+Korszerű gyógyítás és modern kórházak egy egészséges nemzetért
+» Önálló Egészségügyi Minisztériumot hozunk létre, évente legalább 500 milliárd forint többletforrást biztosítunk az állami egészségügy számára.
+» Minden régióban fejlesztünk egy szuperkórházat, a klinikai központokra alapozva.
+» Mindenkinek elérhetővé tesszük az ingyenes, jó minőségű állami egészségügyet.
+» A várólistákat 2027 végére a fekvőbeteg-ellátásban legfeljebb 6, a járóbeteg-ellátásban 2 hónapra fogjuk csökkenteni.
+» Újjászervezzük a népegészségügyet és a szűrőprogramokat, hogy a ciklus végére a részvételi arányok elérjék az uniós átlagot, és a daganatos megbetegedések száma legalább 10%-kal csökkenjen.
+» Elérjük, hogy 2035-ig legalább 80 évre emelkedjen a születéskor várható élettartam.
+» Csökkentjük az orvos- és szakdolgozóhiányt, a hiányszakmákban ösztöndíjprogramokat valósítunk meg.
+» A nővér–orvos arányt 1,6-ról 2,5-re emeljük.
+» Bérrendezést hajtunk végre a nem orvosi munkakörökben.
+» Nyilvánossá tesszük az intézményi minőségi és betegelégedettségi mutatókat.
+» 2027 végére minden régióban biztosítjuk, hogy a mentő 15 percen belül a helyszínre érkezzen.
+» Minden vidéki kórházat megtartunk.
+» Kiemelt figyelmet fordítunk a népegészségügyre és az alapellátásra.
+
+
+Bevezető A magyar egészségügy beteg. Az emberek nem érzik, hogy az állam megfelelően gondoskodna róluk, amikor betegek, és sokan már nem is hisznek abban, hogy időben segítséget kapnak, ha baj van. A gyógyítás helyett túlélés zajlik: az egészség magányos küzdelem lett. Aki megteheti, fizet a gyorsabb és jobb ellátásért – aki nem, az vár, szenved vagy lemond a gyógyulás reményéről. Nem az jut előbb ellátáshoz, akinek nagyobb szüksége van rá, hanem akinek több a pénze. A mentők nem érnek ki időben a betegekhez, a kórházak omladoznak, az orvosok elmennek, az ápolók végletekig túlterheltek, a betegek türelme elfogyott. Ez így nem mehet tovább. A TISZA vállalja, hogy rendbe teszi a magyar egészségügyet. Vállaljuk, hogy véget vetünk annak, hogy a beteg teher legyen, az orvos ellenség, az ápoló pedig feláldozható kellék. A legkiválóbb nemzetközi gyakorlatokat meghonosítva olyan rendszert építünk, amely az emberekért dolgozik, nem ellenük. Magyarország újra olyan ország lesz, ahol az egészség nem kiváltság, hanem alapvető jog. A megelőzést, az életminőséget és az emberi méltóságot helyezzük középpontba, mert az egészség nem felesleges költség, hanem az egyik legjobb befektetés az ország jövőjébe. Egészségügy – Problémák A rossz egészségügyi rendszer miatt a magyarok egészségi állapota tragikus: rövid ideig élünk, sokat betegeskedünk.
+» A magyarok születéskor várható élettartama 5 évvel elmarad az Európai Unió átlagától és 4 évvel az OECD átlagtól: mindössze 76,5 év.
+» Az egészségben eltöltött évek száma is jóval elmarad az Európai Unió átlagától.
+» A lakosság negyede rendszeresen dohányzik, harmada nem mozog eleget.
+» Ha jól működne hazánkban a népegészségügy, évente 24 ezer magyar életét lehetne megmenteni. Évente további 13,5 ezer honfitársunk hal meg a rossz egészségügyi ellátás miatt. Magyarországon az egyik legmagasabb a daganatos megbetegedések aránya és a legmagasabb a daganatos halálozás az Európai Unióban, de számos más betegség tekintetében is rendkívül rossz a helyzet.
+» Évente 336 új daganatos eset jut 100 ezer lakosra, miközben az uniós átlag 280, a halálozás pedig 310/100 ezer fő, ami a legmagasabb az Európai Unióban.
+» A halálozás fő oka nem az elkerülhetetlen betegség, hanem a késői di-
+
+
+agnózis, az alacsony szűrési részvétel és a szétesett, lassú ellátórendszer, amelyben a betegek gyakran hónapokig bolyonganak a kezelés megkezdéséig.
+» A szűréseken való részvétel kirívóan alacsony (vastagbélrák: 8–16%, méhnyakrák: 26%, emlőrák: 30%), és a kiszűrt betegek is gyakran hónapokat várnak a diagnózisra és a kezelés megkezdésére.
+» A daganatos betegségek mellett számos más betegségtípusban szintén nagyon rosszak a magyarok mutatói, az okok pedig nagyon hasonlóak: egészségtelen életmód, a megelőzés hiánya, alacsony részvétel a szűrővizsgálatokon. Ilyen betegségek például a következők: szív- és érrendszeri megbetegedések, magas vérnyomás, COPD (krónikus obstruktív tüdőbetegség), asztma és allergiás betegségek, cukorbetegség, mentális betegségek, függőségek, mozgásszervi betegségek. A sor elkeserítően hosszú. Egészségügyi állapot és kockázati tényezők, 2025 (forrás: OECD) OECD Legrosszabb Legjobb Megelözhetö halálozások Százezer före jutó halálozás száma Kezelhető halálozások Százezer före jutó halálozás száma Öngyilkosság aránya Százezer före jutó halálozás száma Rossz egészségi állapot (önbevallás) 15 évesnél idösebb népesség körében (%) Napi szinten dohányzók 15 évesnél idösebb népesség körében (%) Alkoholfogyasztás Liter/fö (15 évesnél idösebb népesség) Nem megfelelö ﬁzikai aktivitás 18 év feletti népesség körében (%) Elhízottak aránya 15 évesnél idösebb népesség körében (%) Légszennyezés Mikrogramm/köbméter Születéskor várható élettartam Év Az egészségügy évek óta elhanyagolt, tartósan alulfinanszírozott.
+» Keveset költünk egészségügyre: alig több mint a GDP 6%-át a köz- és magánkiadásokkal együtt. Ez meg is látszik! A közkiadások aránya kb. a GDP 4,1%-a, ami az Európai Unióban kirívóan alacsony, még a visegrádi országok átlagának kétharmadát sem éri el.
+» A fejlett uniós tagországok másfél-kétszer annyit költenek egészségügyre, mint Magyarország.
+
+
+» A lakosság zsebből kénytelen kifizetni az egészségügyi ellátások költségeinek közel harmadát, a GDP több mint 2%-ának megfelelő összeget, ami rontja a hozzáférést és növeli az egyenlőtlenségeket. A fejlett országokban ez az arány ennek a fele. Egészségügyi kiadások (vásárlóerő-paritáson mért EUR/fő), 2023 (forrás: OECD) 2 000 4 000 6 000 Németország Ausztria Hollandia Svédország Luxemburg Belgium Írország Franciaország Dánia Finnország EU-átlag Málta Spanyolország Szlovénia Olaszország Portugália Csehország Ciprus Litvánia Lengyelország Görögország Észtország Szlovákia Bulgária Horvátország Lettország Románia Önkéntes/Zsebből ﬁzetett Kormányzati/Kötelező kiadások 0,0% 2,5% 5,0% 7,5% 10,0% Uniós átlag Egészségügyi kiadások a GDP arányában Magyarország egészségügyi kiadásai részletes bontásban (vásárlóerő-paritáson mért EUR/fő), 2023 (forrás: OECD) 1 000 2 000 3 000 4 000 Összes költés Fekvőbeteg-ellátás Járóbeteg-ellátás Gyógyszerek és orvosi eszközök Tartós ápolásgondozás Megelőzés Adminisztráció és egyebek Uniós átlag 34,60% 30,00% 25,60% Fekvőbeteg-ellátás Járóbeteg-ellátás Gyógyszerek és orvosi eszközök Tartós ápolás-gondozás Megelőzés Adminisztráció és egyebek Egészségügyi kiadások magyarországi megoszlás (%)
+
+
+A kórházak romokban, az egész egészségügy szerkezete elavult.
+» A jelenlegi kormány 2010 óta 10 ezer kórházi ágyat szüntetett meg és 225 osztály zárt be.
+» A háziorvosok hiánya, a hosszú várakozás és az elérhetetlenség miatt sokszor már csak a kórház marad – amikor már késő.
+» A kórházi infrastruktúra lepusztult, sok helyen nincs megfelelő tisztaság, hűtés vagy fűtés.
+» Sok egészségügyi intézményben az alapvető higiéniai- és fertőtlenítőszerek is hiányoznak.
+» A kórházi ételek sokszor egészségtelenek és ehetetlenek.
+» A rendszer a fekvőbeteg-ellátásra koncentrál; a sokkal költséghatékonyabb megelőzés, alap- és járóbeteg-ellátás háttérben marad.
+» A várólisták és a járóbeteg-várakozás sok helyen elfogadhatatlanul hosszú, ezért a betegek sokszor céltalanul bolyonganak a rendszerben problémáikkal.
+» Mintegy ezer háziorvosi praxis tartósan betöltetlen; sok helyen évek óta nincs háziorvos, 900 ezer magyarnak nincs saját háziorvosa. Az aktuálisan betöltetlen háziorvosi praxisok számának alakulása Magyarországon (db), 2004. febr.–2025. jan. (forrás: NEAK) 1000 2005 2010 2015 2020 2025 Egy éve betöltetlen Több mint egy éve betöltetlen
+
+
+Súlyos humánerőforrás-válság van az egészségügyben.
+» Orvosokból és ápolókból is kevés van Magyarországon. Praktizáló orvosok és nővérek aránya, 2023 (forrás: OECD) Sok orvos Kevés növér Sok orvos Sok növér Kevés orvos Sok növér EU-átlag: 4,3 EU-átlag: 8,5 Kevés orvos Kevés növér
+» Az orvosok 42%-a 55 évnél idősebb; a nővér–orvos arány 1,6 (OECD: 2,5), ami a mindennapi működést is veszélyezteti.
+» A nem orvosi munkakörök béremelése elmaradt; a kiégés és pályaelhagyás miatt nincs elég ápoló és szakszemélyzet.
+» Feudális, hierarchikus egészségügyi rendszer nehezíti a hatékony ellátást, a jelenlegi kormány rendőri szemlélete, a rugalmatlan szolgálati jogviszonyról szóló törvény sokakat eltávolít a szakmától. A segítség nem jut el mindig időben a betegekhez, az Országos Mentőszolgálat működése az elmúlt években leépült.
+» A kormány elmulasztotta a szükséges fejlesztéseket, ennek következtében a mentők technológiai és infrastrukturális lemaradással küzdenek, a jármű- és eszközpark jelentős része elhasználódott. Ma is sok olyan mentőautó van forgalomban, amely 10 évnél idősebb vagy 300 ezer kilométernél többet futott.
+» A sürgősségi ellátás feltételei számos térségben nem adottak. A 15 perces kiérkezési idő gyakran csak ígéret, nem valóság.
+» A légimentés jelenleg széttagolt, nem része egy egységes mentési rendszernek.
+
+
+» A rosszul megszervezett sürgősségi alapellátási ügyelet miatt a kevéssé sürgős esetek tömegesen kerülnek a sürgősségi osztályokra (SBO). Ez túlterheli az SBO-kat, növeli a várakozási időt, és közvetlenül veszélyezteti a valóban sürgős ellátásra szoruló betegek biztonságát. Digitális egészségügy: az alapok elkészültek, de nem használjuk ki megfelelően.
+» Hiányoznak a betegoldali önkiszolgáló felületek, egyénre szabható egészségügyi megoldások, a következetes adatkormányzás és az innováció.
+» Az egészségügy alap informatikai rendszere, az EESZT főként archivál, nem támogatja a döntéseket, előrejelzéseket és valós idejű betegút-irányítást; az orvosok az informatikai rendszer ellenére, sőt, sokszor amiatt rengeteget kénytelenek adminisztrálni – kézzel. A jelenlegi informatikai fejlesztések sokszor nem segítik, hanem nehezítik az adminisztrációt. Ma már korszerű digitális módszerekkel, mesterséges intelligenciával ezt a töredékére lehetne csökkenteni. Egészségügy – Vállalások Jelentősen növeljük az egészségügyre fordított kiadásokat.
+» Az állami egészségügyre fordított kiadásokat 2030-ra felvisszük a GDP 7%-ára, minden évben a megelőző évhez képest legalább 500 milliárd forint többletforrást biztosítunk, ameddig ezt a szintet el nem érjük.
+» Minden régióban fejlesztünk egy szuperkórházat.
+» Fejlesztjük a vidéki, kisebb kórházakat.
+» Garantáljuk, hogy az egészségügy állami finanszírozása fedezze az ellátás valós önköltségét és értékét, ezzel megelőzzük a kórházak eladósodását.
+» Minden nagy kormányzati döntést egészséghatás-értékelés fog megelőzni. Az ingyenes állami egészségügyet mindenki számára elérhetővé tesszük, és lerövidítjük a várólistákat.
+» Mindenkinek hozzáférést biztosítunk az ingyenes, jó minőségű állami egészségügyi ellátáshoz.
+» Felülvizsgáljuk a teljesítményvolumen-korlátot, és prioritásként kezeljük a szakorvos- és ápolóhiány azonnali csökkentését.
+» Célzott kapacitásbővítést és intelligens betegirányítást vezetünk be.
+» A várólistákat 2027 végére a fekvőbeteg-ellátásban legfeljebb 6, a járóbeteg-ellátásban 2 hónapra fogjuk csökkenteni.
+
+
+A hangsúlyt a megelőzésre és az egészségben eltöltött évek növelésére fektetjük.
+» Elérjük, hogy 2035-ig legalább 80 évre emelkedjen a születéskor várható élettartam.
+» Országos programokat indítunk a dohányzás és az alkoholfogyasztás visszaszorítása érdekében, minden eszközzel támogatjuk az egészséges táplálkozást és életmódot.
+» Betiltjuk az egészségtelen élelmiszerek gyermekeket célzó marketingjét. Figyelmeztető címkéket helyezünk az egészségtelen élelmiszerekre.
+» Szigorúan büntetjük az egészségtelen alapanyagok és élelmiszerek felhasználását a közétkeztetésben, illetve az ilyen termékek árusítását az iskolákban.
+» A népegészségügyre, a megelőzésre, az egészséges életmód népszerűsítésére kiemelt figyelmet fordítunk, az ehhez szükséges tudást és eszközöket elérhetővé tesszük.
+» Korosztályokra szabott egészségfejlesztő programokat indítunk a 3., a 7., és a 10. osztályban.
+» Több szakmát összefogó, prevenciós és egészségfejlesztő csoportpraxisokat hozunk létre.
+» Ötévente általános egészségügyi állapotfelmérést biztosítunk a 35 és 64 év közötti korosztályba tartozóknak. Digitális egészségnaptárral, egészségügyi applikációt használók jutalmazásával és mobil szűrőbuszokkal ösztönözzük a szűrővizsgálatokon való magasabb részvételt.
+» Felnőtteket segítő védőnőket, közösségi egészségőröket biztosítunk a hátrányos helyzetű településeken.
+» Négy év alatt 10%-kal csökkentjük a daganatos megbetegedések számát.
+» Újjászervezzük a népegészségügyet és a szűrőprogramokat, hogy a ciklus végére a részvételi arányok elérjék az uniós átlagot.
+» Újraépítjük a betegutakat: a betegek legfeljebb 30 napon belül jussanak el a pontos diagnózishoz és az érdemi kezelés megkezdéséhez.
+» Az egészséges életmód feltételeinek javításával – többek között az egészséges élelmiszerek áfájának 5%-ra csökkentésével és mozgásbarát településekkel – tartósan mérsékeljük a daganatos halálozást és a kelet–nyugati egészségügyi különbségeket. Az ellátórendszer súlypontját az alap- és járóbetegellátásra helyezzük.
+» Integrált alapellátási központokat létesítünk, és terjesztjük a telemedicinát; célzott ösztönzőkkel és eszközfejlesztéssel vonzóvá tesszük a háziorvosi és szakdolgozói munkát.
+» Bővítjük az egynapos sebészetet és járóbeteg-ellátást a betegutak hatékony megszervezésével, a finanszírozás rendbe tételével, minimál invazív technológiák alkalmazásával és az indikációs listák korszerűsítésével.
+
+
+Igazságos bérekkel, méltó munkakörülményekkel és folyamatos képzéssel segítjük az egészségügyi dolgozókat.
+» Andrássy Ilonáról és Hugonnai Vilmáról elnevezett ösztöndíjprogramokat hirdetünk az egészségügyi hiányszakmákban tanuló szakdolgozóknak és kezdő orvosoknak évente 30 milliárd forint értékben, hogy enyhítsük a szakemberhiányt és kifejezzük megbecsülésünket a szakma iránt.
+» A nővér/orvos arányt OECD-szintre emeljük; célzott pótlékokkal, lakhatási és mobilitási támogatással csökkentjük a területi egyenlőtlenségeket.
+» Bérrendezést hajtunk végre a nem orvosi munkakörökben, biztosítjuk a bérek értékállóságát, transzparens karrierutakat építünk. Garantáljuk az orvosok bérének értékállóságát.
+» A képzést gyakorlatközpontúvá tesszük: bővítjük az önálló kompetenciákat a nem orvosi szakmáknál, és modernizáljuk a továbbképzést. A betegközpontúságot és a nyilvánosságot komolyan vesszük.
+» Függetlenítjük a betegjogi rendszert: egységes, gyors panaszeljárást és kötelező udvariassági, empátia- és környezeti minimumokat írunk elő.
+» Nyilvánossá tesszük az intézményi minőségi és betegelégedettségi mutatókat: visszacsatoljuk ezeket a finanszírozásba és a vezetői értékelésbe. Az Országos Mentőszolgálatot új pályára állítjuk.
+» Elfogadjuk és végrehajtjuk az OMSZ 2030 átfogó megújítási programot: visszaintegráljuk a légimentést az OMSZ irányítása alá, korszerűsítjük az infrastruktúrát és a szolgáltatásokat, felgyorsítjuk a digitalizációt, és elindítjuk az elmaradt beruházásokat.
+» 2027 végére minden régióban biztosítjuk, hogy a mentő 15 percen belül a helyszínre érkezzen a betegekhez.
+» Lecseréljük a 10 évnél idősebb vagy 300 ezer kilométernél többet futott mentőautókat.
+» Megújítjuk a mentőhelikopter-flottát.
+» Rendbe tesszük a sürgősségi alapellátási ügyeletet, és érdemben csökkentjük a sürgősségi betegellátási osztályok túlterheltségét.
+
+
+Fejlesztjük a digitális egészségügyet, használható, személyre szabott megoldásokat adunk.
+» Az egészségügy informatikai rendszerét, az EESZT-t olyan képességekkel bővítjük, amelyek támogatják az orvosokat és a betegeket egyaránt. Az orvos felhasználók számára döntéstámogató rendszereket fejlesztünk, javítjuk a betegségek előrejelzését és a betegútmenedzsmentet. A betegek számára önkiszolgáló felületeket és egységes, működő időpontfoglalást biztosítunk.
+» Létrehozzuk a Digitális Egészségügyi Hatóságot, és gondoskodunk arról, hogy az értékes egészségügyi adatok biztonságosan, a jogszabályoknak megfelelően legyenek kezelve és felhasználva. Létrehozzuk az önálló Egészségügy Minisztériumot, és a legjobb gyakorlatokat honosítjuk meg az egészségügy irányításában.
+» Létrehozzuk az önálló Egészségügyi Minisztériumot, és ezzel együtt megszüntetjük az egészségügyben a parancsuralmi, rendőri irányítást, az intézményi autonómiát erősítjük.
+» Az egészségügyi miniszternek vétójoga lesz a kományzati döntéshozatalban.
+» Létrehozzuk a Magyar Klinikai Kiválósági Intézetet, amely biztosítja, hogy az egészégügyi ellátás egységes protokollok mentén, magas minőségben működhessen az egész országban.
+» Létrehozzuk a független Egészségügyi Minőségellenőrzési Hatóságot és az integrált betegjogvédelmi szolgálatot.
+» A Magyar Orvosi Kamara jogosítványait visszaállítjuk, megerősítjük.
+» A szakmai kamarák és az egészségügyi érdekvédelmi szervezetek javaslatait meghallgatva, őket partnerként kezelve fejlesztjük az egészségügyet.
+
+
+## 3.2. Nyugdíjemelés+
+
+Megbecsült időskor, növekvő juttatások, javuló ellátás
+» Megtartjuk a 13. és 14. havi nyugdíjat.
+» Bevezetjük a nyugdíjas SZÉP-kártyát évi maximum 200 ezer forint támogatás értékig.
+» Garantáljuk, hogy havonta 120 ezer forintos öregségi és rokkantsági nyugdíjnál senki nem kaphat kevesebbet, jelentősen megemeljük a 120 és 140 ezer forint közötti nyugdíjakat. A 140 ezer forint feletti nyugdíjakat differenciáltan emeljük.
+» Duplájára emeljük az időskorúak járadékát.
+» 50%-kal megemeljük az otthonápolási díjakat.
+» A nyugdíjasok számára 20 ezer új férőhelyet létesítünk korszerű idősotthonokban. Bevezető Ma Magyarországon rengeteg nyugdíjas érzi úgy, hogy magára maradt. A jelenlegi kormány cserben hagyta az időseket. Ellopta a magánnyugdíjpénztári befizetéseket, elértéktelenítette a nyugdíjakat. Ha nem lett volna a kormány idősellenes politikája, ma minden nyugdíjas 70%-kal kapna több nyugdíjat. Míg korábban az átlagnyugdíj még lépést tartott a bérekkel, ma végképp leszakadt. Nyolcszázezer idős ember él a létminimum alatt, sokaknak egy egész élet munkája után sem jár neki a méltó időskor. Európában hátul kullogunk a nyugdíjakra fordított kiadásokban, és közben óriási különbségek alakultak ki: sokan alig tudnak megélni, míg kevesen kiugróan magas ellátást kapnak. Ez nem igazságos, de nem is véletlen, hanem a kormány tudatos döntéseinek a következménye. Az idősekre felesleges költségként tekint a jelenlegi hatalom. Pedig ők építették fel ezt az országot. A TISZA vállalja, hogy a nyugdíjemelés és a tisztes időskor kormánya lesz. Olyan országot építünk, ahol a nyugdíj nem félelmet, hanem biztonságot jelent. Ahol az évtizedek munkája megbecsülést hoz, nem elszegényedést. Vállaljuk, hogy a nyugdíjak újra követni fogják a bérek alakulását. A legalacsonyabb nyugdíjakat jelentősen emeljük, mert senkinek sem szabad létminimum alatt élnie. Jelentősen emeljük az időskorúak járadékát és az otthonápolási díjat is, mert az időskor nem lehet büntetés. A működő és emberséges Magyarországon az időskor nem kiszolgáltatottságot fog jelenteni, hanem megbecsülést.
+
+
+Nyugdíj – Problémák A nyugdíjakból egyre nehezebb megélni.
+» A jelenlegi kormány cserben hagyta a nyugdíjasokat. 2010-ben az átlagnyugdíj még elérte az átlagbér 75%-át, ma már csak az 53%-a.
+» 800 ezer nyugdíjas él a létminimum alatt.
+» A nyugdíjak között óriási egyenlőtlenségek vannak: miközben mintegy félmillió honfitársunk kap 140 ezer forintnál kevesebb nyugdíjat, közel 70 ezren 800 ezer forintnál is többet kapnak.
+» Európában Magyarország azon országok közé tartozik, amelyek a legkevesebbet költik a nyugdíjakra: az egy főre jutó állami nyugdíjkiadások tekintetében a harmadik legrosszabb érték a miénk az uniós országok sorában.
+» A nyugdíjrendszer nem akadályozza meg a lecsúszást, elszegényedést. Különösen a nők és az egyedülállók érintettek ebben.
+» Az egyszeri juttatások nem helyettesítik a kiszámíthatóan magas nyugdíjakat. Egy főre jutó állami nyugdíjkiadások (EUR/fő), 2022 (forrás: Eurostat) 1000 2000 3000 4000 5000 Ausztria Franciaország Luxemburg Hollandia Finnország Németország Svédország Belgium Dánia Olaszország Portugália Görögország Spanyolország Szlovénia Lengyelország Csehország Írország Románia Ciprus Litvánia Lettország Bulgária Málta Szlovákia Horvátország Észtország A nyugdíjrendszer bonyolult és nehezen átlátható, nem kiszámítható.
+» Túl sok a kivétel és a különszabály, nem átlátható, hogy időskorában ki mekkora nyugdíjra számíthat.
+» Noha a magánnyugdíjak államosításakor a jelenlegi kormány megígérte, máig nincs személyes, „egyéni számla”, így a megszerzett jogok sem látszanak tisztán.
+
+
+Nyugdíj – Vállalásaink Azonnali, célzott jövedelemnövelő és méltányossági intézkedéseket vezetünk be a nyugdíjasoknak.
+» Megtartjuk a 13. és 14. havi nyugdíjat.
+» Bevezetjük a nyugdíjas SZÉP-kártyát: ez évi 200 ezer forint támogatást jelent, amelyre mindenki jogosult lesz, akinek a nyugdíja alacsonyabb havi 250 ezer forintnál. Évente 100 ezer forint támogatást adunk azoknak, akiknek a havi nyugdíja 250 ezer és 500 ezer forint között van. Így a nyugdíjasok 97%-a megkapja a nyugdíjas SZÉP-kártyát.
+» A SZÉP-kártya élelmiszerre, gyógyszerre, egészségmegőrzésre és pihenésre lesz fordítható.
+» Garantáljuk, hogy havonta 120 ezer forintos öregségi és rokkantsági nyugdíjnál senki nem kaphat kevesebbet. Ezzel több mint 280 ezer nyugdíjasnak növeljük jelentősen a nyugdíját.
+» Jelentősen megemeljük a 120 és 140 ezer forint közötti nyugdíjakat is: ezzel havonta plusz 6–12 ezer forint jár majd 140 ezer nyugdíjasnak.  A 140 ezer forint feletti nyugdíjakat differenciáltan emeljük.
+» Duplájára emeljük az időskorúak járadékát, a legelesettebb honfitársainknak biztosítva ezzel a könnyebb megélhetést.
+» 50%-kal megemeljük az otthonápolási díjakat, segítve azt a majd 60 ezer családot, amelyekben idős szeretteikről és beteg gyerekekről gondoskodnak. Széles körű intézkedésekkel tesszük könnyebbé nyugdíjas honfitársaink életét.
+» Állami és uniós támogatásokkal fejlesztjük a házi segítségnyújtás rendszerét.
+» Jelentősen növeljük a házi gondozásban dolgozók számát, mintegy 50 ezer nyugdíjas mindennapi életét megkönnyítve ezzel.
+» Képzést nyújtunk a közfoglakoztatottaknak, és velük segítő szolgáltatásokat biztosítunk az idős honfitársainknak.
+» A nyugdíjasok számára 20 ezer új férőhelyet létesítünk korszerű nyugdíjasotthonokban, csökkentve ezzel a jelenleg elfogadhatatlanul hos�szú várakozási időket és megfizethető lakhatást biztosítva idős honfitársainknak.
+» Célunk, hogy a hosszú éveken át dolgozó férfiak számára is megteremtsük a mainál rugalmasabb  nyugdíjba vonulás lehetőségét. A Férfiak 40 program bevezetését a Nők 40 tapasztalatai alapján, fokozatosan és a nyugdíjrendszer fenntarthatóságának biztosítása mellett valósítjuk meg.
+
+
+## 3.3. Brunszvik Teréz Gyermekvédelmi Program
+
+» Feltárjuk az elmúlt évtizedekben a gyermekvédelemben elkövetett bűncselekményeket.
+» Teljes körű anyagi és erkölcsi kártérítést biztosítunk a gyermekvédelemben bántalmazást elszenvedett áldozatok számára.
+» A szakemberekkel szoros együttműködésben megerősítjük a jelző rendszert: gyors, akadálytalan információáramlást teremtünk a védőnők, pedagógusok, háziorvosok és a rendőrség között.
+» Megerősítjük a gyermekvédelmi ellátórendszert, 20%-kal növeljük az ágazat működési költségvetését, növeljük a dolgozói létszámot.
+» Megteremtjük a gyors, minőségi gyermekvédelmi hatósági munka feltételeit.
+» 25%-kal azonnal megemeljük az ágazatban dolgozók bérét, és inflációkövetővé tesszük azt.
+» 2030-ra a felújítjuk a gyermekotthonokat.
+» Megerősítjük a nevelőszülői hálózatot és növeljük a lakásotthonok számát.
+» A gyermekvédelem költségvetése felülről nyitott lesz.
+
+
+Bevezető A kegyelmi botrány óta világossá vált: a kormány még a legvédtelenebb gyermekeket is kész feláldozni politikai érdekeiért. A gyermekvédelmi rendszer mély válságban van. A gyermekjóléti alapellátás sok helyen nem működik, vidéken a rászoruló családok gyakran nem jutnak hozzá alapvető szolgáltatásokhoz: egészségügyi ellátáshoz, fejlesztéshez, megfelelő oktatáshoz. A gyermekotthonok állapota tragikus, sok gyermek nem kap elegendő és egészséges élelmiszert, nincs elég tisztálkodószer. Kirívóan súlyos jogsértések, visszaélések történnek, nem ritka a fizikai és szexuális erőszak, és az áldozatok újra és újra a legvédtelenebb gyermekek. A gyámhivatali rendszer működésképtelen, papíron létezik, de nem tudja megvédeni azokat, akiknek a legnagyobb szükségük lenne rá. Bicske és a kormány eltitkolt 2021-es jelentése megmutatta a kormány mélységes romlottságát. Több ezer gyermeket bántalmaztak a hatalom tudtával fizikailag, lelkileg és szexuálisan. Ezt nem lehet tovább tűrni. Vállaljuk, hogy azonnal kivizsgáljuk az elmúlt évtizedek gyermekbántalmazási és gyermekvédelmi botrányait. Nem söpörjük szőnyeg alá az igazságot, és nem engedjük, hogy a bűnösök megússzák a felelősségre vonást. Vállaljuk, hogy azonnal megerősítjük a gyermekvédelmi rendszert. A gyermekek érdekeit mindenek elé helyezzük, mert nincs fontosabb annál, mint megvédeni a legkiszolgáltatottabbakat: a család nélkül felnövő gyermekeket. Gyermekvédelem, gyermekjólét és gyermekjogok – Problémák A kormány teljes mértékben elhanyagolta a gyermekek ügyét, a gyermekek rendszerszintű bántalmazását éveken át eltűrte, az elkövetőket támogatta.
+» A kegyelmi botrány óta, amikor a köztársasági elnök kegyelmet adott egy, a gyermekeket szexuálisan is bántalmazó bűnöző segítőjének, mindenkinek világos, hogy a magát családbarátnak hazudó kormány csak látszólag szolgálja a családokat és a gyermekeket.
+» Valójában kihasználja őket, és a legrászorultabbaknak, legvédtelenebbeknek nem ad megfelelő támaszt, sőt visszaél a bizalmukkal.
+» A botrány nem elszigetelt hiba volt, hanem annak a rendszernek a tükre, amelyben a díszlet fontosabb lett a gyereknél, a propaganda hangosabb az igazságnál, és a felelősség mindig mást terhel, nem a valódi elkövetőket.
+
+
+A gyermekvédelem ellátórendszere súlyos válságban van, és ebben a kegyelmi válság óta sem történt semmiféle változás.
+» A 2021-es, ombudsmani jelentéseket vizsgáló eltitkolt kormányzati dokumentum arról számolt be, hogy több ezer, állami gondozásban érintett gyermeket ért szexuális vagy fizikai abúzus az elmúlt 10 évben, és az esetek döntő többségében vagy nem indult eljárás az elkövetők ellen, vagy az eljárások elhaltak, következmények nélkül maradtak.
+» Hazánkban a gyermekjóléti alapellátás évek óta nem tudja ellátni az alapvető feladatait.
+» Nagyobb városaink kivételével a rászorulók nem vagy nagyon nehezen és hiányosan tudnak hozzájutni a szükséges, gyermekekkel kapcsolatos szolgáltatásokhoz (egészségügy, oktatás, fejlesztés stb.).
+» A gyámhivatali rendszer ma Magyarországon a jelenlegi szervezeti felépítésben – a járási hivatalok önállótlan szervezeti egységeként – lényegében működésképtelen. Az ellátórendszer első szintje, a gyermekvédelmi alapellátás nem tudja betölteni alapvető funkcióit.
+» A gyermekvédelmi alapellátás nem képes ellátni sem megelőző jellegű, sem kríziskezelő feladatait az egészségügy, az oktatás és a szociális ellátórendszer diszfunkciói miatt.
+» Nagy a munkaerőhiány, nincs elegendő gyermekpszichiáter, gyermekpszichológus, fejlesztőpedagógusok, szociális szakemberek. A meglévő szakemberek túlterheltek. Egy családokkal foglalkozó szakembernek a jogszabályi előírások szerint 25 családdal szabadna maximum egyszerre foglalkoznia, ehelyett sokan átlagosan 50-60 esettel kénytelenek dolgozni.
+» A jelzőrendszer nem működik egységesen, a családtámogatási rendszer hiányossága növeli az egyenlőtlenségeket, a leginkább rászoruló családok nem jutnak érdemi segítséghez.
+» A gyermekjóléti szolgáltatások eszköztelenek, elvesztették szakmai autonómiájukat, és sokak számára elérhetetlenné váltak. A szakellátás területe szintén rendszerszintű hiányosságokat mutat.
+» A szakellátásban súlyos a férőhelyhiány, több ezer gyermek vár megfelelő elhelyezésre.
+» Jellemző a túlzsúfoltság és a szakemberhiány az intézményekben.
+» A gyermekek jogai sérülnek: nem kapják meg a szükségleteiknek megfelelő ellátást, gyakran életkoruknak nem megfelelő intézményekbe kerülnek, elszakadnak családjuktól és testvéreiktől.
+» Előfordul, hogy állami gondoskodásba vett csecsemők hosszú időre kórházakban rekednek elhelyezés hiányában.
+» A nevelőszülői hálózat súlyosan alulfinanszírozott és létszámhiányos;
+
+
+a díjazás késedelmes és nem elégséges emelése nem jelent rendszerszintű megoldást.
+» A nevelőszülőknél elhelyezett gyermek esetében is előfordul, hogy a gyermek a nevelőszülőnél rosszabb lakás- és szociális körülmények közé kerül, mint amilyen körülményekből a kiemelésére volt szükség.
+» A gyermekotthonokban gyakran előfordulnak jogsértések és visszaélések, ahol az elszenvedők a legvédtelenebb gyermekek.
+» A gyermekotthoni ellátás évtizedek óta nem képes eleget tenni a gyermekvédelmi jogszabályokban megfogalmazott feladatainak.
+» Mind az infrastrukturális körülmények, mind a humán erőforrás tekintetében oly mértékű hiányosságok vannak, amelyek a működőképességet hosszú ideje veszélyeztetik.
+» A gyermekek nem a szükségletüknek megfelelő gondozási helyen élnek, aminek következtében a személyiségállapotuk folyamatosan és súlyosan romlik, ami negatívan hat társaik fejlődésére is. A minőségi gyermekvédelmi hatósági munka feltételei nem adottak.
+» A jogszabályok gyakran diszkriminatívak és büntető jellegűek, nem a gyermekek valódi szükségleteire reagálnak.
+» A gyámhivatalok önállósága megszűnt, működésüket túlterheltség, jogbizonytalanság, bonyolult eljárásrend és munkaerőhiány jellemzi.
+» Nincs egységes jogalkalmazás, szakmai támogatás és megfelelő alkalmassági szűrés.
+» A folyamatos jogszabályváltozások és az indokolatlan – inkább személyes, mintsem szakmai – ellenőrzések tovább rontják a szakma megtartóerejét.
+» A gyermekvédelmi rendszer alapvető hiányosságai miatt a hatóság nem tudja végrehajtani a szükséges intézkedéseket, hiába rendeli el például egy gyermek nevelésbe vételét, ha a gyermeket nincs hová elhelyezni. A kormány a gyermekekre a hangzatos szavak ellenére 2010 óta egyre kevesebbet költ.
+» A gyermekekre szánt kiadások a GDP arányában 2010 óta jelentősen csökkentek.
+» A gyermekekkel és családokkal kapcsolatos szociális kiadások nem érik el a GDP 2%-át, jelentősen elmaradva az Unió átlagától.
+
+
+A gyermekekre és a családokra szánt kiadások a GDP arányában (%), 2011–2020 (forrás: Eurostat) A gyermekek védelme a digitális térben nincs megoldva.
+» Magyarországon a gyermekek egyre fiatalabb korban, egyre intenzívebben vannak jelen az online térben, miközben az állam nem alakított ki egységes, korszerű digitális gyermekvédelmi rendszert. A felelősség jellemzően a családokra hárul, a platformok pedig érdemi felügyelet nélkül működnek.
+» Nincs egységes digitális gyermekvédelmi keretrendszer: a szabályozás széttagolt (büntetőjog, médiatörvény, adatvédelem), nem kezeli együtt az online zaklatást, manipulációt, függőséget, groomingot és a káros tartalmakat.
+» A kockázatokat ma főként a gyerekek és a szülők viselik, nem a nagy technológiai szolgáltatók.
+» A gyermekvédelem gyakran politikai eszközzé válik, amely tiltásokra és tartalomszabadság-korlátozásra fókuszál, miközben kevés valós védelmet nyújt az online bántalmazás, zaklatás és pszichés károkozás ellen.
+» Hiányzik az életkorhoz igazított, alapértelmezetten biztonságos digitális környezet, a jelentési és segítségkérési mechanizmusok pedig sokszor átláthatatlanok, lassúak vagy hatástalanok.
+» A digitális kompetenciák fejlesztése és a szülők támogatása nem megfelelő, így a családok gyakran eszköztelenül maradnak a gyorsan változó technológiai környezetben, nem tudják, hogyan kellene megvédeni gyermekeiket a veszélyektől.
+
+
+Gyermekvédelem, gyermekjólét és gyermekjogok - Vállalások Olyan gyermekvédelmet működtetünk, amely valóban védi a gyermekeket.
+» Feltárjuk az elmúlt évtizedek gyermekvédelemmel kapcsolatos bűncselekményeit: független, parlamenti felhatalmazású vizsgálóbizottságot és speciális ügyészi, illetve nyomozói egységet hozunk létre a gyermekek sérelmére elkövetett bűncselekmények feltárására. Teljes körű anyagi és erkölcsi kártérítést biztosítunk a gyermekvédelemben bántalmazást elszenvedett áldozatok számára.
+» Megerősítjük a gyermekvédelmi ellátórendszert, 20%-kal növeljük az ágazat működési költségvetését.
+» 25%-kal azonnal megemeljük az ágazatban dolgozók bérét, és inflációkövetővé tesszük azt. A későbbiekben hosszú távú ágazati bérmegállapodással biztosítjuk a minőségi munka feltételeit.
+» A gyermekvédelem költségvetése felülről nyitott lesz. Fejlesztjük a gyermekvédelmi alapellátást.
+» A szakemberekkel szoros együttműködésben megerősítjük a jelző rendszert: gyors, akadálytalan információáramlást teremtünk a védőnők, pedagógusok, háziorvosok és a rendőrség között.
+» Megerősítjük a gyermekorvosi és védőnői alapellátást: ösztönözzük a praxisbetöltést; védőnői kapacitás- és eszközfejlesztést hajtunk végre; integrált kora gyermekkori támogató hálózatot működtetünk (orvos, védőnő, fejlesztő szakember, pszichológus, gyermekjólét) rendszeres esetmegbeszélésekkel.
+» Bővítjük a korai fejlesztést, a szükségletekhez igazodó számú szakembert, fejlesztőpedagógust, iskolapszichológust és szociális munkást biztosítunk minden iskolában.
+» Bővítjük a gyermekpszichiátriai férőhelyeket és a szakemberállományt; regionális krízisközpontokat fejlesztünk.
+» Lelki elsősegélyt és krízisellátást nyújtunk minden rászorulónak: telefonos és chatvonalakat biztosítunk; fejlesztjük a sürgősségi krízisosztályokat; szülői tréningeket szervezünk a korai jelek felismeréséhez. Kiemelt figyelmet fordítunk a mentális egészség javítására és fejlesztésére. Fejlesztjük a gyermekvédelmi szakellátást.
+» 2030-ra felújítjuk a gyermekotthonokat.
+» Növeljük a szakellátásban dolgozók létszámát.
+» Vállaljuk, hogy egy éven belül jelentősen csökkentjük a férőhelyre váró gyermekek számát.
+» A tömegintézmények helyett családias, a társadalomba jobban integrált lakásotthonokban helyezzük el a rászoruló gyermekeket.
+
+
+» Megerősítjük a szakmai feladatellátás minőségi kontrollját, amely állami feladat, minden intézményfenntartó tekintetében. Megteremtjük a gyors, minőségi gyermekvédelmi hatósági munka feltételeit.
+» Átdolgozzuk a gyermekvédelemre vonatkozó jogszabályokat, a gyermekek mindenek felett álló érdekeit helyezzük a középpontba.
+» Bővítjük a gyámügyi ügyintézők létszámát, és fejlesztjük a szakmai kompetenciáikat.
+» Eltöröljük az egyedülállók örökbefogadásának korlátozását.
+» Lehetővé tesszük, hogy a nevelőszülők adminisztratív akadályok nélkül fogadhassanak örökbe; célunk, hogy lehetőleg minden gyermek családban nőjön fel. Megerősítjük a gyermekjogok védelmét.
+» Visszaszorítjuk a családon belüli erőszakot: bővítjük a krízis- és átmeneti otthonok kapacitását (anyák és családok átmeneti otthona, regionális apaotthonok); rendőrségi és gyámhatósági továbbképzéseket valósítunk meg.
+» Gyermekbaráttá tesszük az igazságszolgáltatást: bővítjük a gyermekbarát szobákat, ahol barátságos, nyugodt környezetben lehet az áldozatokat és tanúkat meghallgatni; a gyámhivatali gyakorlatban a gyermek érdekeinek elsődlegességét érvényesítjük; rendszerszinten alkalmazzuk a válási mediációt.
+» Megerősítjük a gyermekek jogainak védelmét és az ombudsmani rendszert: az Alapvető Jogok Biztosának gyermekjogi helyetteséből önálló, a Parlamentnek beszámoló Gyermekjogi Ombudsman intézményét hozzuk létre. Valódi digitális védelmet biztosítunk a gyermekeknek.
+» Olyan rendszert hozunk létre, amely valós védelmet nyújt a digitális térben, miközben tiszteletben tartja az alapjogokat.
+» Egységes digitális gyermekvédelmi keretrendszert hozunk létre Magyarországon, az uniós szabályozással összhangban, amely világosan meghatározza az állam, a platformok, az iskolák és a családok felelősségét.
+» A platformokat tesszük elsődlegesen felelőssé a gyermekeket érintő online kockázatok csökkentéséért, kötelező kockázatelemzéssel, átlátható algoritmikus működéssel és hatékony, gyors bejelentési–eltávolítási mechanizmusokkal.
+» Életkorhoz igazított, alapértelmezetten biztonságos digitális környezetet írunk elő a kiskorúak számára, különös tekintettel az ajánlórendszerekre, reklámokra és a függőséget erősítő szolgáltatásokra.
+» Átfogó digitális nevelési és szülőtámogató programot indítunk, hogy a gyermekek védelme ne kizárólag tiltásra, hanem tudásra, felkészítésre és együttműködésre épüljön.
+
+
+## 3.4. 100% Család Program
+
+Kibővített támogatások, igazságosabb jövő minden generációnak
+» Duplájára emeljük a családi pótlékot és az anyasági támogatást.
+» Minden kisbaba megszületésekor „Gyermekem született!” kelengyét biztosítunk 50 ezer forint értékben.
+» Duplájára emeljük a GYES-t és a GYET-et.
+» Minden évben iskolakezdési támogatást adunk a rászorulóknak 100 ezer forint értékben.
+» 50%-kal megemeljük az otthonápolási díjakat.
+» Garantáljuk, hogy válás esetén ne kelljen visszafizetni a CSOK-ot és a CSOK Pluszt.
+» A családi adókedvezmények esetében növeljük az alacsonyabb jövedelmű családoknak nyújtható kedvezmények mértékét.
+» Növeljük az egygyermekes családok, az egyszülős és a fogyatékos gyermeket nevelő családok támogatását.
+» Megerősítjük az apák szerepét a családban, az apaszabadság időtartamát 3 hétre emeljük.
+» Általános, 25%-os béremelést hajtunk végre a szociális szektorban.
+» Elindítjuk a gondoskodó munkahely programot, a gyermekvédelemből kikerülő fiatalok és a megváltozott munkaképességűek elhelyezkedésének segítésére.
+
+
+Bevezető Mi abban hiszünk, hogy egy ország akkor erős, ha a családok biztonságban érzik magukat. Ha a szülők tudják, hogy a megélhetés miatt nem kell aggódniuk, hogy lesz orvos, lesz óvoda, lesz tanár, és lesz segítség akkor is, amikor baj van. Ha egy gyermek születése nem félelemmel, hanem örömmel jár, és a jövő nem szorongást jelent, hanem lehetőséget. Ha a válás nem a család végét jelenti, mert az egyszülős család is éppen olyan értékes, mint a többi. Megtartjuk mindazt, ami jó a családtámogatások rendszerében. De esélyt és támogatást adunk azoknak is, akiket a rendszer eddig elhanyagolt. Olyan Magyarországot építünk, ahol a családtámogatás nem kiváltság. Ahol az állam nem csak ígér, hanem a mindennapokban is jelen van. Ahol a család nem küzd, hanem építkezik, és ahol a biztonság mindenkié, nem csak a kiváltságosoké. Szociális rendszer, családtámogatás – Problémák Hazánk az Európai Unió legszegényebb országa.
+» Hazánk a legtöbb gazdasági mutatóban az Európai Unió legszegényebb országai közé tartozik.
+» Magyarország vásárlóerő-paritáson mért egy főre jutó GDP-je az uniós átlag 77 százalékának felel meg. A régióból jóval előttünk jár Szlovénia (91%), Csehország (91%) és Litvánia (88%), de előz minket a rangsorban Észtország (79%), Lengyelország (79%) és Románia (78%) is.
+» Az egy főre jutó fogyasztásban az utolsó helyen állunk. Egy főre jutó tényleges fogyasztás vásárlóerő-paritáson (%, EU=100), 2024 (forrás: Eurostat) Luxemburg Hollandia Németország Belgium Ausztria Dánia Franciaország Svédország Finnország Írország Olaszország Ciprus Spanyolország Málta Litvánia Románia Portugália Szlovénia Lengyelország Csehország Görögország Horvátország Szlovákia Lettország Bulgária Észtország ( o ás: u ostat)
+
+
+» 3 millió honfitársunk él szegénységben.
+» A felnőtt magyarok fele havi 300 ezer forintnál kevesebből él.
+» 1 millió embernek gondot okoz, hogy télen befűtsön és ne fázzon.
+» 400 ezer gyermek él súlyos szegénységben.
+» A hajléktalanság problémájára az elmúlt 16 év érdemi megoldást nem nyújtott. Az állam nem segíti, hanem bünteti az érintetteket.
+» A függőségek a társadalom széles körét érintik, ennek ellenére a kapcsolódó állami feladatokat ellátó intézményeket leépítették. A szociális juttatások alacsony mértékűek, szétaprózottak.
+» Közel 100 különböző típusú juttatás van, ami átláthatatlan és túlbürokratizált.
+» Szinte mindegyik juttatás olyan alacsony, hogy nem segíti a problémamegoldást. A juttatások éppen azokhoz nem érkeznek el, akiknek szüksége lenne rájuk. A családtámogatások jelenlegi rendszere nem segít a magyarok többségének.
+» A családi pótlék, a GYES és a főállású anyáknak járó GYET 2008 óta változatlan, összege szinte semmire nem elég.
+» A családtámogatások jelenlegi rendszere alkalmatlan arra, hogy ellensúlyozza a gyermekvállalással járó költségeket, így nem ösztönöz a gyermekvállalásra.
+» A családtámogatás jelenlegi rendszere a tehetősebb társadalmi csoportokat támogatja a leginkább, míg az igazán rászorulók alig kapnak segítséget.
+» A családtámogatási rendszer alkalmatlansága mellett az ország állapota, valamint az általános kilátástalanság miatt soha ilyen kevés gyermek nem született az országban, mint az elmúlt években.
+» Soha ilyen sok fiatal nem tervezte azt, hogy kivándorol a kilátástalan jövő miatt. Az időskorúak ellátása nem biztosítja a méltó időskor feltételeit.
+» A segítségre szoruló idősek nem tudnak otthonukban maradni és méltó életet élni, mert hiányzik az a szociális háló, ami az önálló életvitel fenntartását minél tovább biztosítani tudná.
+» Nincs elegendő házi segítségnyújtó, a családok nem kapnak elég támogatást ahhoz, hogy idős hozzátartozóikról megfelelően gondoskodhassanak, az otthonápolási díjak alacsonyak.
+» Nagyon sokan vannak várólistán, az otthonokba való bekerülés nehéz, a megfizethetőbb otthonokba többéves várólista van, a drágábbakat a legtöbben nem tudják megfizetni.
+
+
+» Az idősotthonokban jellemző a szakemberhiány.
+» Az időskorúak ellátórendszerét az állam nem szektorsemlegesen finanszírozza, jelentősek a minőségi eltérések. A szociális ellátórendszerben elvesznek a rászorultak problémái.
+» A kormány családbarát retorikájával szöges ellentétben a szociális ellátórendszer számos elemét leépítették, például a családsegítő központokat, a gyermekjóléttel kapcsolatos intézményeket, a nevelési tanácsadókat.
+» Az ellátórendszer képtelen hatékonyan szolgálni a rászorultak és a családok érdekeit, mert nincs elég szakember és az eljárások sokszor olyan bonyolultak, hogy a rászorultak nem igazodnak el bennük.
+» Átláthatatlan, túlbürokratizált, párhuzamos szolgáltatásokkal találkozunk a szociális ellátórendszerben, melynek feladatai között a családok védelme, segítése is megtalálható ugyan, de egyáltalán nem kellő mértékben. A szociális ágazatban dolgozók méltatlanul alulfizetettek.
+» A szociális és gyermekvédelmi ágazatban dolgozók bére alacsony, folyamatos a munkaerő-kiáramlás az ágazatokból.
+» A szociális szakmákat túlszabályozza az állam: a törvényi szabályozás túl részletes, korlátozza a szakmai autonómiát. Az ellenőrzés nagyrészt jogi és adminisztratív jellegű, demotiváló és nem hatékony.
+» Az állami, önkormányzati és civil szektor között csak szórványos az együttműködés. Szociális rendszer, családtámogatás – Vállalások A szegénység újratermelődésének ördögi körét összehangolt társadalompolitikával szakítjuk meg.
+» Összehangoljuk az egészségügyi, oktatási és szociális rendszerek működését.
+» A közszolgáltatásokhoz való egyenlő hozzáférést komplex intézkedésekkel biztosítjuk, hogy a nagyvárosoktól a legkisebb településekig mindenki igénybe tudja azokat venni.
+» Mobil szociális szolgálati egységeket hozunk létre, amelyek rendszeresen jelen vannak a kistelepüléseken és leszakadó térségekben, és helyben biztosítanak ügyintézést, tanácsadást és alapellátást.
+» Megerősítjük a kistérségi szociális központokat, ahol több szolgáltatás egy helyen érhető el, csökkentve az utazási és adminisztratív terheket.
+
+
+» Bevezetjük az egyablakos szociális ügyintézést, személyes és digitális formában is, hogy az ellátásokhoz való hozzáférés ne az egyéni ügyintézési képességeken múljon.
+» Állami jogosultság-érvényesítést biztosítunk, amelyben a szociális szakemberek aktívan segítenek az ellátások igénybevételében.
+» Digitális hozzáférési pontokat alakítunk ki helyi intézményekben, személyes segítséggel azok számára, akik önállóan nem tudják intézni ügyeiket.
+» Célzott finanszírozást biztosítunk a legrosszabb helyzetű térségeknek, hogy a szolgáltatások színvonala és elérhetősége ne a település anyagi helyzetétől függjön. Jelentősen megnöveljük a szociális juttatásokat, és egyszerűsítjük a hozzáférést.
+» Duplájára emeljük a családi pótlékot.
+» Duplájára emeljük az anyasági támogatást.
+» Duplájára emeljük az időskorúak járadékát.
+» Duplájára emeljük a GYES-t és a GYET-et.
+» 50%-kal megemeljük az otthonápolási díjakat.
+» Minden kisbaba megszületésekor „Gyermekem született!” kelengyét (babaápolási kezdőcsomagot) biztosítunk 50 ezer forint értékben.
+» Növeljük a gyermekvédelmi gondoskodásból kikerült fiatalok életkezdésének támogatását, az otthonteremtési támogatás összegét regionális (KSH) lakáspiaci adatokhoz kötjük.
+» Elindítjuk a gondoskodó munkahely programot, a gyermekvédelemből kikerülő fiatalok és a megváltozott munkaképességűek elhelyezkedésének segítésére.
+» Megkezdjük a Rendszeres Gyermekvédelmi Kedvezmény (RGyK) közelítését az uniós átlaghoz.
+» Radikálisan egyszerűsítjük a szociális juttatások rendszerét. Átláthatóvá, tervezhetővé és fenntarthatóvá tesszük, hogy az minden eddiginél hatékonyabban csökkentse a szegénységet Magyarországon.
+» A segítségnyújtást a rászorulók számára a lehető legkisebb bürokratikus teherrel és a leggyorsabb módon oldjuk meg. Megtartjuk és igazságosabbá tesszük a családi adókedvezmények rendszerét.
+» A családi adókedvezmények esetében növeljük az alacsonyabb jövedelmű családoknak nyújtható kedvezmények mértékét.
+» Növeljük az egygyermekes családok, az egyszülős és a fogyatékos gyermeket nevelő családok támogatását.
+» Összehangoljuk a családi pótlék és a családi adókedvezmény eszközeit, hogy azok együttesen igazságosabb támogatási rendszert alkossanak.
+» Biztosítjuk, hogy válás esetén ne kelljen visszafizetni a CSOK-ot vagy a CSOK Plusz-t.
+
+
+Fejlesztjük az időskorúak ellátását.
+» Az egészségügyi és szociális szolgáltatások összehangolásával erősebb szociális hálót biztosítunk az időseknek.
+» Bővítjük a házi segítségnyújtás kapacitásait az alapellátáson belül.
+» 20 ezer új férőhelyet hozunk létre modern, méltó körülményeket biztosító nyugdíjasházakban és szociális otthonokban. Növeljük az otthonokban dolgozók létszámát. Ezzel a helyi gazdaságot erősítjük és a vidék megtartó erejét is növeljük, valamint több mint 13 ezer új munkahelyet teremtünk. Általános, 25%-os béremelést hajtunk végre a szociális szektorban, és megerősítjük a szociális rendszer egészét.
+» Általános, 25%-os béremelést hajtunk végre a szociális szektorban.
+» Fejlesztjük az alapellátást és a szakellátás intézményrendszerét.
+» Visszaállítjuk az Egyenlő Bánásmód Hatóság önállóságát.
+» Szükségletalapú, rugalmas finanszírozású, hosszú távú helyi fejlesztési programokat indítunk külső szakmai támogatással és monitoringgal.
+» Csökkentjük a túlzott, sokszor felesleges adminisztrációt és bürokráciát, fejlesztjük az ágazat informatikai rendszereit. Megerősítjük az apák szerepét a családban, és valódi, fizetett apaszabadságot biztosítunk.
+» Olyan apaszabadsági rendszert vezetünk be, amely valódi részvételt tesz lehetővé az apák számára, nem csak formális jelenlétet.
+» Az apaszabadság időtartamát 3 hétre emeljük, meghaladva a jelenlegi minimumkövetelményt, mert az első hetek döntőek a szülő–gyermek kapcsolat kialakulásában.
+» Az apaszabadság idejére járó juttatást nem a munkáltatóval fizettetjük meg, hanem az állam közvetlenül folyósítja az apáknak, lebontva minden adminisztratív és anyagi akadályt.
+» Biztosítjuk, hogy az apák a teljes időszakra tisztességes jövedelempótlást kapjanak.
+» Az apaszabadságot összehangoljuk a CSED-del és a szülői szabadsággal, hogy a családok rugalmasan dönthessenek arról, mikor melyik szülő van otthon a gyermekkel.
+
+
+## 3.5. Okos nemzet, világszínvonalú tudás
+
+Közoktatás, szakképzés és felnőttképzés, felsőoktatás, tudomány
+» A működő és emberséges közoktatást a gyermekek igényeihez igazítva alkotjuk meg, mert minden pedagógia alapja a hazaszeretet és a gyermekek szeretete.
+» Elérjük, hogy minden gyermek megtanuljon értő módon olvasni és írni az általános iskola alsó tagozatának végére.
+» 18 évre emeljük a tankötelezettséget.
+» Az oktatást nemzetstratégiai ágazattá tesszük, önálló Oktatási Minisztériumot hozunk létre.
+» 25%-os béremelést hajtunk végre a nevelést és oktatást segítő dolgozók körében.
+» Megbecsüljük a pedagógusokat, nagyobb módszertani szabadságot biztosítunk a számukra, csökkentjük a pedagógusok adminisztrációs terheit.
+» A pedagógusokkal egyetértésben módosítjuk a Nemzeti Alaptantervet, megszüntetjük az állami tankönyv-monopóliumot.
+» Biztosítjuk az intézmények szervezeti, szakmai és gazdálkodási autonómiáját, az intézményvezetők érdemi gazdasági és munkáltatói jogköröket kapnak.
+» A közoktatás fejlesztésével elérjük, hogy minél szélesebb rétegnek legyen elérhető az egyetemekre való bekerülés, a felsőoktatásban való részvétel, a diplomások aránya elérje az uniós átlagot.
+» Visszaállítjuk az egyetemek autonómiáját, megszüntetjük a KEKVA-modellt.
+» 2035-ig a világ élmezőnyébe, a globális TOP200-ba juttatunk legalább egy magyar egyetemet.
+» Bérrendezést hajtunk végre a felsőoktatási oktatók és kutatók körében, valamint a PhD-képzésben.
+» Biztosítjuk, hogy a magyar egyetemisták újra részt tudjanak venni az Erasmus programokban.
+» Kiszámítható pályára állítjuk a tudomány finanszírozását, és a teljes hazai K+F-ráfordítást a GDP 2%-a fölé visszük középtávon; a hosszú távú cél az Európai Unió 3%-os értékéhez való felzárkózás.
+» Újra lehetővé tesszük, hogy a magyar egyetemek, kutatóintézetek és kutatók részt vehessenek az Erasmus és Horizon programokban.
+
+
+Bevezető A magyar oktatás ma kizárólag kiváló pedagógusainknak és a tehetséges magyar diákjainknak és szüleiknek köszönhetően ér el megsüvegelendő eredményeket. A jelenlegi oktatási stratégia tévúton jár. Arra kényszeríti a pedagógusokat, hogy 19. századi módszerekkel, 20. századi ismereteket oktassanak 21. századi gyerekeknek. A jelenlegi oktatási rendszer ezért túl sok helyen nem felemel, hanem szétválaszt: túl sok múlik azon, ki hova születik, és túl kevés a tehetségen és a szorgalmon. A gyerekek túlterheltek, a tanárok adminisztrációs kötelezettsége a nevelés rovására megy, az iskolák pedig sokszor központi politikai utasításokat hajtanak végre. A tudás helyét a hivatalos elvárás szerint a lojalitás vette át. Minden pedagógia alapja a hazaszeretet és a gyermek szeretete.  Az iskola a kíváncsiság, az együttműködés és az esélyteremtés terepe – nem a szorongásé és a kudarckerülésé. A társadalom felemelkedésének az alapja a jó közoktatás, ezért az oktatás nemzetstratégiai jelentőségű. Az oktatás célja, hogy kiegyensúlyozott, együttműködni képes, boldog embereket neveljen. A működő és emberséges közoktatást a gyermekek igényei felől kell felépítenünk. Hiszen az oktatás van a gyermekekért és nem fordítva. Az az eredményes oktatási rendszer, amely a diákoknak a tanulás és az együttműködés szeretetét tanítja meg. Az oktatásirányításnak partnerként kell tekintenie a pedagógusokra. Helyre kell állítani a pedagógusok megbecsültségét. A szakképzés és a felnőttképzés ma nem a jövőre készít fel, hanem a múlt hibáit ismétli. A rendszer központosított, rugalmatlan, a hibázóknak nem ad második esélyt, és nem a piacon valóban hasznos dolgokra tanít. Sok fiatal túl korán kényszerül végleges döntésekre, a tanműhelyek elavultak, a képzések gyakran csak papírt adnak tudás helyett. A TISZA olyan szakképzést épít, amely valódi tudást, átjárhatóságot és esélyt ad, ahol tanulni rang, fejlődni lehetőség, és újrakezdeni nem kudarc. A felsőoktatásba az ország bizonyos régióiban csak a kiváltságosok jutnak be, hiszen sok gyereknek meg sem adatik, hogy eljusson a gimnáziumi oktatásig. A sikeres felvételihez szükséges különórák díja, a lakhatási költségek sokak számára elérhetetlenné teszik a diplomát. Olyan felsőoktatást fogunk építeni, ahol a diploma nem csak a tehetőseknek jár, hanem mindenki számára elérhető; ahol az egyetem szabad, nyitott, és ahol a tudás újra érték. A tudomány szabadsága is meggyengült, a regnáló kormány ellenséget, és nem szövetségest lát benne. A kutatás alulfinanszírozott, kiszámíthatatlan, a fiatal kutatók jövőkép nélkül hagyják el az országot. A TISZA a tudományt nemzeti jövőnk egyik alapjának tekinti, ahol autonóm intézmények működnek, kiszámítható finanszírozással, szabadon gondolkodva. Mert ahol tanulni, gondolkodni és alkotni lehet, ott van jövő. És Magyarországnak jövőre van szüksége.
+
+
+Közoktatás – Problémák A jelenlegi oktatási rendszerünk alkalmatlan a 21. század kihívásainak kezelésére.
+» Minden negyedik gyermek funkcionális analfabétaként hagyja el az iskolát. A gyermekek túlterheltek, sokan közülük lelki problémákkal küzdenek, amihez nem kapnak megfelelő segítséget.
+» A rendszer nem segíti a társadalmi mobilitást, sőt ellenkezőleg: a korai társadalmi szelekciót és a társadalmi különbségek növekedését támogatja.
+» Az oktatási rendszerben egyszerre van jelen az alulfinanszírozottság és a pazarlás, az állami fenntartású iskolák jelentős részében az infrastruktúra elavult.
+» A Nemzeti Alaptanterv megújításra szorul, a kerettantervek merevek, tartalmilag túlterheltek, módszertanuk elavult.
+» Az állami tankönyv-monopólium és a beszűkült taneszközválasztás visszaveti a minőséget és az innovációt.
+» A felesleges lexikális tudáselemek oktatása mellett elsikkad a készségek és kompetenciák fejlesztése, a nyelvtanulás, a digitális készségek fejlesztése.
+» A matematikai, szövegértési és természettudományos kompetenciákat mérő PISA-teszteken 2010 óta minden területen romlott a magyar tanulók teljesítménye. PISA-eredmények alakulása Magyarországon, 2006–2022 (forrás: OECD) 2006 2008 2010 2012 2014 2016 2018 2020 2022 Szövegértés Matematika Természettudomány
+
+
+Az irányítás széttöredezett, a szakmai szempontok háttérbe szorultak.
+» Nincs egységes, szakmai alapokon nyugvó oktatásirányítás: az egyes alrendszerek az óvodától a felsőoktatásig több minisztérium alá tartoznak.
+» A központi döntések a politikai kontrollt és a kézi vezérlést szolgálják; a szakmai szempontok és a szereplők érdemi bevonása háttérbe szorult.
+» A szakmai háttérintézmények feladatai szétszórtak, azok nem szolgálják a rendszer folyamatos monitorozását, mérését és a visszacsatolások alapján történő fejlesztését. A fenntartói és intézményi autonómia leépült, az oktatás átpolitizálttá vált.
+» A Klebelsberg Központ és a tankerületi működés erősen központosított; az iskolák nem partnerként, hanem utasítási rendben működnek. A fenntartói és működtetői rendszer ketté van választva.
+» A tanári és intézményi szakmai, személyzeti és gazdálkodási autonómia közel nullára csökkent.  Az igazgatók elvesztették munkáltatói jogkörüket, és önálló gazdálkodási joguk is megszűnt.
+» A teljes rendszer átpolitizálttá vált, a pedagógusok megfélemlítésben élnek, sokakat megbélyegeznek, elbocsátanak a véleményük miatt.
+» Az intézmények finanszírozása nem átlátható, nem egységes, a forrásellátottság sok esetben a fenntartói státusztól függ. Egyre nő a pedagógushiány, a pedagógusok társadalmi megbecsültsége alacsony, nagyon jelentős a túlterheltség.
+» A pedagógusok az óraszám-emelkedés miatt nem tudják energiáikat a gyermekek nevelésére fordítani. A pedagógusok béremelése üdvözlendő és folytatandó, a nevelést és oktatást segítő dolgozók bérrendezése azonban nem történt meg.
+» A fiatal pedagógusok hiánya nagy probléma, és az elöregedés kritikus; minden második pedagógus 50 év feletti, a túlterheltség és a kiégés gyorsítja a pályaelhagyást.
+» A pedagógusok jogállásának jelenlegi szabályozását a pedagógusok nagy része korlátozásnak éli meg. A teljesítménymérés, a minőségmenedzsment és a visszacsatolás hiányos.
+» A jelenlegi teljesítményértékelési rendszer és a minősítési eljárások adminisztratívak, célellenesek; nem támogatják a valós szakmai fejlődést.
+
+
+» Nem létezik egységes, fejlesztést támogató adat-ökoszisztéma; a KRÉTA/KIR/Neptun és a vizsgarendszerek adatai nem állnak össze használható rendszerré.
+» Átlátható minőségbiztosítás és nyilvános intézményi visszajelzés nélkül nincs valódi tanulási és rendszerszintű javulás. Közoktatás – Vállalásaink Következetesen megvalósítjuk oktatáspolitikai alapelveinket, amelyekre építve átfogó oktatásfejlesztési programot indítunk.
+» Az oktatás első számú nemzeti érdek, az oktatás a társadalompolitika középpontjában áll. Az oktatási rendszert hosszú távú stratégia alapján, tégláról téglára újjáépítjük, és folyamatosan, lépésről lépésre fejlesztjük.
+» Az oktatási rendszer befektetés a jövőbe: a tanulók tehetségének kibontakoztatásán keresztül hosszú távon, fokozatos megtérülés mellett erősítjük a nemzet gazdasági teljesítőképességét.
+» Az oktatás megújítását széles körű társadalmi összefogás keretében valósítjuk meg, amihez a közös akarat és a fejlődés iránti nyitottság megléte az oktatás szereplői és az egész társadalom részéről is fontos elem.
+» A diákok egyéni tanulási szükségleteihez igazodó, magas minőségű oktatást fejlesztünk. Minden gyermek számára biztosítjuk, hogy a saját képességeihez igazodva haladhasson az oktatásban, a 21. század kihívásainak megfelelő tudást és készségeket elsajátítva, melyet a folyamatosan fejlődő, a tanulói sokféleségre reagálni képes pedagógusok valósítanak meg.
+» Együttműködő pedagógia révén biztosítjuk a magas minőségű oktatást, hogy a pedagógus munkáját összehangoltan tudja végezni az iskolában szükség szerint foglalkoztatott egyéb szakemberekkel együtt, az iskola pedig együttműködjön a gyermekkel foglalkozó intézményekkel és szakemberekkel.
+» A magas minőségű oktatás a család, a közösségek és a pedagógusok közös feladata. Az iskolát akadálymentes közösségi térré tesszük, amely a családokat bevonva, összehangoltan segíti a gyermekek harmonikus fejlődését.
+» A tehetséggondozás, -fejlesztés és -nevelés a minőségi oktatás szerves része, amely a differenciált pedagógiai gyakorlaton keresztül minden gyermek számára lehetővé teszi képességeinek felfedezését és kibontakoztatását. Kidolgozzuk a kiterjesztett tehetséggondozás rendszerét.
+
+
+Fordulatot hajtunk végre az oktatásban, és mindenkinek esélyt adunk a minőségi oktatáshoz való hozzáférésre.
+» Elérjük, hogy minden gyermek megtanuljon értő módon olvasni és írni az általános iskola alsó tagozatának végére.
+» Kötelező esélyteremtő minimumokat határozunk meg (SNI/BTMN-ellátás, fejlesztő órák, szakszolgálati kapacitás, iskolapszichológus/ gyógypedagógus arány), és biztosítjuk az ehhez szükséges finanszírozást.
+» A tankötelezettségi korhatárt 18 évre emeljük.
+» Rendszeresen mérjük és publikáljuk az iskolák esélyteremtési rangsorát. Önálló Oktatási Minisztériumot hozunk létre, visszaadjuk az iskolák és a tanárok szabadságát.
+» Az oktatást önálló minisztérium fogja irányítani. A tárcavezető vétójogot kap a kormányzati döntéshozatalban. A központi feladatokat a minisztériumi irányítási feladatokon túl tiszta profilú háttérintézményekre osztjuk.
+» Radikálisan átalakítjuk a Klebelsberg Központ működését és hatáskörét, az oktatásfinanszírozást átláthatóvá  tesszük, és garantáljuk a biztonságos működést. Az egyházi intézményfenntartóknak továbbra is biztosítjuk az eddigi működés feltételeit.
+» Visszaadjuk az intézmények szervezeti, szakmai és gazdálkodási autonómiáját; az igazgatók érdemi munkáltatói és gazdálkodói jogosítványokat kapnak.
+» Az iskoláknak és a pedagógusoknak visszaadjuk szakmai önállóságukat, a tankerületeket megszabadítjuk a politikai befolyástól.
+» A minisztérium érdemi együttműködést alakít ki a szakmai és érdekképviseleti szervezetekkel, bevonja azokat a döntés-előkészítési és döntéshozatali folyamatokba. Korszerűsítjük a tanterveket és a módszertanokat, erősítjük az oktatás esélyteremtő szerepét.
+» Mindent megteszünk, hogy oktatási intézményeink megfeleljenek a 21. század módszertani, technikai és etikai kihívásainak.
+» Partnernek tekintjük a pedagógusok szakmai és érdekvédelmi szervezeteit, és velük egyetértésben módosítjuk a Nemzeti Alaptantervet (NAT), amelyről a szakmával folyamatosan egyeztetünk. A gyermekek igényeihez és fejlettségéhez igazodó választható tanterveket és pedagógiai programokat biztosítunk.
+» A módosított nemzeti alaptanterv szerinti követelményrendszer alapja a nyelvi–természettudományos és digitális kompetencia- és készségfejlesztés lesz.
+
+
+» Kiterjesztjük az iskolák és pedagógusok módszertani szabadságát.
+» Korszerű szemléletben oktatjuk a gyermekeinket pénzügyi, környezetés egészségtudatosságra, kiemelt figyelmet fordítunk az idegen nyelvek oktatására és a digitális kompetenciák fejlesztésére.
+» Megszüntetjük az állami tankönyv-monopóliumot; erős minőségbiztosítással megtámogatott, sokszereplős taneszközpiacot építünk ki.
+» Egységes, kompetenciaalapú követelményeket vezetünk be, amelyeket az általános iskola végére mindenkinek el kell érnie.
+» Bővítjük a korai fejlesztés kapacitását; rugalmas bölcsőde–óvoda–iskola átmenetet alakítunk ki.
+» Korszerűsítjük a pedagógusképzés rendszerét, tartalmát és struktúráját, átalakítjuk annak intézményrendszerét. Növeljük az oktatásban dolgozók megbecsülését és bérét, és csökkentjük a felesleges adminisztrációt. Jelentősen növeljük a pedagóguspálya vonzerejét és megtartóképességét.
+» A szakmai szervezetekkel együttműködve többéves, kiszámítható bérfelzárkóztatást hajtunk végre.
+» 25%-kal növeljük a nevelést és oktatást segítő dolgozók bérét.
+» Visszacsábítjuk a pályaelhagyókat és a pályán tartjuk a nyugdíjasokat a pedagógushiány mérséklésére.
+» Csökkentjük az adminisztratív terheket és a kötelező óraszámot. Átfogó pedagógusjóllét-programot dolgozunk ki.
+» Szemléletformáló kampányt indítunk az oktatás, az oktatásban dolgozók és a pedagógusok jobb megbecsülése érdekében.
+» Országos programot indítunk az iskolapszichológusok, gyógypedagógusok, fejlesztőpedagógusok és pedagógiai asszisztensek számának növelésére; a finanszírozást a valós szükségletekhez igazítjuk.
+» Felülvizsgáljuk a pedagógusok jogállását.
+» Biztosítjuk, hogy az óvodában töltött teljes idő alatt felsőfokú végzettségű pedagógus foglalkozzon a gyermekekkel. Nyílt adatokra épülő, mérésre és visszacsatolásra támaszkodó, rugalmasan fejleszthető oktatási rendszert építünk ki.
+» Nyilvános, fejlesztést támogató adat-ökoszisztémát hozunk létre (iskolai, mérési, vizsga- és beiskolázási adatok összekapcsolása), külön inklúziós mutatókkal (szegregáció, SNI/BTMN ellátottság, lemorzsolódás).
+» A külső értékelések eredményei megjelennek az iskolafejlesztési tervekben, amelyek megvalósításához szakértői támogatást adunk az intézmények számára.
+
+
+Szakképzés, felnőttképzés – Problémák A magyar szakképzés és felnőttképzés ma nem a jövőt szolgálja, hanem a múlt hibáit ismétli.
+» A rendszer széttöredezett, és nem azoknak az ismereteknek és készségeknek a megszerzését támogatja, amelyekre a gazdaságnak, a munkavállalóknak és az országnak valóban szüksége van.
+» A szakképzés intézményrendszere elveszítette az önállóságát: a központosított struktúra nem az iskolák, nem a diákok és nem a munkaerőpiac igényeire reagál, hanem a bürokrácia logikájára. Sokszor nem olyan szakembereket képzünk, akikre valóban szükség van.
+» A 21. század drámai társadalmi és munkaerőpiaci változásokat fog hozni. Ezekre a jelenlegi szakképzési rendszer nem készít fel.
+» A fiatalok túl korán kényszerülnek végleges döntésekre. Aki egyszer rossz irányba indul, ritkán kap új esélyt. Az átjárhatóság szűk, a továbbtanulás lehetősége korlátozott, az egész életpálya zárt rendszerbe szorul.
+» Hiányzik az élő „szakmatérkép”, amely gyorsan reagálna a gazdasági és munkaerőpiaci változásokra. A szakképzés és felnőttképzés irányítása kaotikus.
+» A szakképzés és a felnőttképzés több minisztérium és háttérintézmény alá szóródik, nincs egységes szakmai felelősség.
+» A szakképzési centrumok a központosított működés miatt pénzügyileg nem érdekeltek a legkorszerűbb, versenyképes szakmák bevezetésében.
+» A Magyar Kereskedelmi és Iparkamara és az Ágazati Készségtanácsok tényleges hozzáadott értéke vitatott. A szabályozási környezet ellentmondásos és nehezen követhető.
+» A szakképzési és felnőttképzési joganyag szétszabdalt, egymásnak is ellentmond; a köznevelési hivatkozások erodálják az önálló szakképzési státuszt.
+» A vizsgaközpontok által szervezett vizsgák színvonala ágazaton belül is eltér; nincs egységes érvényesítés és ellenőrzés.
+
+
+A tanulási környezet és eszközpark elavult, a felnőttképzés vegyes minőségű.
+» A centrumok nem fordítanak elég forrást az intézményekre; sok helyen elavultak az épületek és a tantermek, hiányoznak a modern gyakorlati eszközök.
+» A rendszer nem strukturált; szakmák jönnek-mennek, a programkövetelmények kidolgozása sokszor aggályos, a szereplők státusza és az ellenőrzés rendezetlen. Szakképzés, felnőttképzés – Vállalásaink Olyan szakképzési rendszert fogunk létrehozni, amely valóban a tudásra és a gazdaság igényeire épül.
+» A szakképzést ismét a közoktatás részévé tesszük, annak irányítása az oktatásért felelős minisztérium alá kerül.
+» A képzés célja nem pusztán a szakmatanulás lesz, hanem a folyamatos tanulásra, alkalmazkodásra és felelős munkavégzésre való felkészítés.
+» A szakképzés rangját és minőségét vissza fogjuk állítani: újratervezzük a szakképzés rendszerét, az iskolák korszerű eszközökkel, a tanárok megfelelő tudással és megbecsüléssel, a diákok pedig valós lehetőségekkel rendelkeznek majd.
+» Megalkotjuk az egységes szakképzési törvényt, amely a jogállást, a tanügyigazgatást és a szakmai tartalmat ellentmondás nélkül rendezi. Mindent megteszünk az élethosszig tartó tanulás és a felnőttképzés fejlesztéséért.
+» A felnőttképzést az élethosszig tartó tanulás rendszerévé tesszük, amely minden ember számára elérhető.
+» Tiszta engedélyezési és ellenőrzési rendet vezetünk be; a programkövetelmények nyilvánosak és szakmailag auditáltak lesznek.
+» Nyilvános pályakövetési és vizsgaeredmény-adatbázist működtetünk; a finanszírozást részben a kimenetekhez kötjük. Munkaerőpiacra hangolt képzést, vizsgákat és tanulási környezetet biztosítunk.
+» Országos, ágazatonként működő szakmai grémiumokkal évente frissülő szakmatérképet készítünk.
+» Újragondoljuk a szakképzés intézményrendszerét, a technikumi érettségit és a pályaválasztás időzítését, hogy nyitva maradjanak a továbbtanulási utak.
+
+
+» Szakmánként egységes vizsgakövetelményeket és központi vizsgaellenőrzést vezetünk be; a színvonal minden vizsgaközpontban azonos lesz.
+» Célzott beruházási programmal korszerűsítjük az iskolai műhelyeket és laborokat; duális partnerekkel közös gyakorlóhelyeket hozunk létre. Felsőoktatás – Problémák Hazánkban az egyik legalacsonyabb a diplomások aránya.
+» A 25–34 évesek körében a diplomások aránya 29,4%, ami az Európa Unió egyik legalacsonyabb értéke (EU: 43,1%, 2030-as cél: 45%); ráadásul 2013 óta ez a mutató csökken Magyarországon.
+» A hallgatói létszám a 2025/2026-ös tanévben 320 ezer felett van, de a korosztályhoz viszonyított részvétel továbbra is gyenge, ami rontja a munkaerő-utánpótlást és a versenyképességet. Felsőfokú végzettségűek aránya a 25–34 éves korosztályban (%), 2023 (forrás: Eurostat) 0,0% 20,0% 40,0% 60,0% Írország Ciprus Luxemburg Litvánia Norvégia Hollandia Svédország Svájc Spanyolország Franciaország Belgium Dánia Málta Lengyelország Lettország Görögország Euróövezet Észtország Ausztria Izland Európai Unió Portugália Szlovénia Szlovákia Finnország Horvátország Németország Bulgária Csehország Olaszország Románia Az állam nem költ eleget a felsőoktatásra – sokaknak anyagi okok miatt elérhetetlen a diploma.
+» A felsőoktatásra fordított források GDP-arányosan alacsonyak és in gadozók.
+» Az oktatói bérek és ösztöndíjak nem versenyképesek.
+» A felvételire való felkészülés, a tanulmányok finanszírozása hatalmas anyagi teher, a társadalom nagy része nem tudja ezt kifizetni.
+
+
+Az átpolitizált, átláthatatlan alapítványi irányítási modell a nemzetközi együttműködési programok és az uniós források hazahozatalának egyik fontos akadálya.
+» Az alapítványi fenntartás jelenlegi modellje rossz: élethosszig kinevezett politikai vezetők tartják markukban az egyetemeket.
+» A vezetőválasztás és a felügyelet nem elég átlátható; az akadémiai autonómia és a PhD-hallgatói helyzet jogi keretei tisztázásra szorulnak.
+» Mivel az egyetemeket megszállta a kormánypárt, a magyar diákok és oktatók nem vehetnek részt nemzetközi programokban (Erasmus/Horizon). Okosak vagyunk, remek ötleteink vannak – de üzletet nem tudunk belőlük csinálni.
+» Az egyetem–ipar–innováció kapcsolata gyenge.
+» Kevés a jól finanszírozott, közös ipari–akadémiai program és a profes�szionális pályázati kapacitás; több helyen hiányzik a nemzetközi központ.
+» Az innovációk piacra vitele nehézkes. A pedagógusképzés rendszerét teljesen meg kell újítani.
+» A tanárképzésben az elméleti képzés túlsúlya jellemző, nem gyakorlatorientált, nem kapnak megfelelő hangsúlyt a pedagógusi kompetenciák.
+» A tanárképzésbe alacsony a belépési küszöb, nagy a lemorzsolódás, romlik a minőség.
+» A mentorálás és a gyakorlatorientáltság gyenge. Felsőoktatás – Vállalásaink Elérhetőbbé tesszük a felsőoktatást, növeljük a diplomások számát.
+» A közoktatás fejlesztésével elérjük, hogy minél szélesebb rétegnek legyen elérhető az egyetemekre való bekerülés, a felsőoktatásban való részvétel, a diplomások aránya elérje az uniós átlagot.
+» Megszüntetjük a felsőoktatási továbbtanulás finanszírozási akadályait, az első alapdiploma megszerzését a társadalom lehető legszélesebb körének tandíjmentessé tesszük.
+» Magasabb szociális ösztöndíjat biztosítunk a rászorulóknak.
+» Belépési és felzárkóztató programokat indítunk (nulladik félév, készségpótlás), hogy több fiatal jusson be a felsőoktatásba és a diplomáját is megszerezze.
+
+
+Megszüntetjük a KEKVA-modellt, visszaállítjuk az egyetemek autonómiáját.
+» Nyitott és átlátható egyetemi rendszert építünk, jogi garanciákkal biztosítjuk az intézményi autonómiát és a közpénzek feletti kontrollt.
+» Átlátható vezetőválasztást és érdemi egyetemi részvételt biztosítunk (szenátus, HÖK, dolgozói képviselet); a státusz- és PhD-szabályokat törvényben rendezzük.
+» Megtisztítjuk az egyetemeket és felsőoktatási intézményeket a politikai kinevezettektől, és visszaállítjuk az akadémiai autonómiát. Az oktatási és kutatási vezetői pozíciók betöltése szakmai teljesítményhez, nem politikai elkötelezettséghez kötődik majd. Visszaszerezzük az MCC részére juttatott állami vagyont, és megszüntetjük azt a gyakorlatot, hogy közpénzből politikai hálózatépítés történjen.
+» Visszaszerezzük a Matthias Corvinus Collegium (MCC) részére juttatott állami vagyont, és megszüntetjük az MCC-re jellemző, káros gyakorlatot, amely tehetséggondozásnak álcázva az állampártok politikai és ideológiai bázisát építi, közpénzből. Az adófizetők pénzét kizárólag oktatásra, kutatásra és valódi, érdemalapú tehetséggondozásra lehet fordítani.
+» Világos határt húzunk oktatás és propaganda között: az állam nem tarthat fenn és nem finanszírozhat olyan intézményt, amelynek működését pártpolitikai célok, lojalitási elvárások vagy ideológiai kiválasztás határozza meg. A közpénzből működő tehetséggondozásnak nyitottnak, pluralistának és szakmailag számonkérhetőnek kell lennie. 2035-ig a világ élmezőnyébe, a globális TOP200-ba juttatunk legalább egy magyar egyetemet.
+» Kiválósági Megállapodást kötünk a magyar zászlóshajó egyetemekkel, és a finanszírozást teljesítményhez kötött, de kiszámítható pályára állítjuk.
+» Nemzetközi vezető kutatókat és nagy számú posztdoktori hallgatót invitálunk célzott programokkal, miközben a kutatói adminisztrációt professzionális ösztöndíj- és innovációs irodákkal könnyítjük meg.
+» 2035-ig 3–5 kiemelt területen az európai élmezőnybe kerülünk, és le galább egy magyar egyetem bekerül a globális TOP200-ba.
+» Minden évben nyilvánosan elszámolunk a rangsor-, kutatási-, szabadalmi-, spin-off- és ipari bevételi eredményekkel.
+
+
+Egységes minőséget és hiteles akkreditációt biztosítunk.
+» Országos, független akkreditációs rendszert alakítunk ki egységes BSc–MSc–PhD sztenderdekkel, és célzott felülvizsgálatot az érintett intézményeknél (pl. tanárképzés, NKE).
+» Nyilvános minőségi mutatókat alkalmazunk, amelyek a finanszírozásra is hatással vannak. Stabil finanszírozást és vonzó életpályát adunk.
+» Többéves finanszírozási pályát alakítunk ki; a GDP-arányos támogatást lépcsőzetesen az uniós/OECD-átlag közelébe visszük, a fejkvótát minőség- és teljesítményérzékeny elemekkel egészítjük ki.
+» Bérrendezést hajtunk végre az oktatói–kutatói állományban és PhD-képzésben; elvégezzük az ösztöndíj- és szociális rendszer megújítását a tehetség megtartásért. Erősítjük a nemzetközi és tudásgazdasági kapcsolatokat, újra elérhetővé tesszük az Erasmus programot.
+» Biztosítjuk, hogy a magyar egyetemisták újra részt tudjanak venni az Erasmus programokban.
+» Ipari–akadémiai programokat és közös laborokat támogatunk; célzott programokkal ösztönözzük az együttműködést, az innovációk piacra vitelét. Megújítjuk a tanárképzést, hogy a gyerekeinket a való életre képezni képes, megbecsült tanárok oktassák az iskolákban.
+» Pályaalkalmassági elemmel és erős gyakorlattal újratervezzük a tanárképzést; országos mentorrendszerrel segítjük a pályakezdőket.
+» Átfogó – tartalmi és strukturális – modernizációs programot készítünk a pedagógusképzésre, pedagógus-továbbképzésre, mely tükrözi a 21. századi igényeket. A pedagógusképzésben kiemelt szerepet kap a digitális kompetenciák fejlesztése.
+
+
+Tudomány – Problémák A kormányzat politikai–ideológiai befolyásának hatására a tudomány autonómiája meggyengült, a politika megfojtja a szabad gondolkodást.
+» Az elmúlt években az Akadémia és az állami kutatóhálózat önállósága szűkült; a kutatóintézetek sorsa és vagyona vitatott, a központosítási akciók folytatódnak.
+» A HUN-REN (korábban ELKH) 2019 óta működik; 2023-ban névváltás történt, 2025-ben pedig újabb átszervezések és intézetáthelyezések történtek (pl. humán tudományos központok ELTE-hez telepítése). Nem költünk eleget a tudományra, a pénz kevés és kiszámíthatatlan.
+» A hazai K+F-kiadás 2024-ben kb. 1,32% volt a GDP arányában, miközben az uniós átlag 2,22%. A különbség tartós versenyhátrányt okoz.
+» A finanszírozásban nagy a hullámzás; az alapfinanszírozás és a pályázati pénzek aránya nem ad stabil tervezhetőséget.
+» A kutatók fizetése rendkívül alacsony nemzetközi összehasonlításban, ami növeli a pályaelhagyás veszélyét. A tudományos pálya elhagyását fontolgatók arányának korcsoportos megoszlása (%), 2025 (forrás: MTA) 21–25 éves (N=55) 26–30 éves (N=425) 31–35 éves (N=723) 36–40 éves (N=692) 41–45 éves (N=573) 46–50 éves (N=637) 51–55 éves (N=476) 56–60 éves (N=356) 61–65 éves (N=252) 66–70 éves (N=221) 71–75 éves (N=204) 76–80 éves (N=152) 81–85 éves (N=106) 86 éves vagy idősebb 0% 25% 50% 75% 100% Nem merült fel a pályaelhagyás lehetősége Felmerült a pályaelhagyás lehetősége
+
+
+A tudományos és kutatási intézmények irányítása zavaros, átpolitizált.
+» A tudomány irányításába belépett a politika.
+» A kormányzati befolyásolás és ideológiai nyomás hatására jelentősen csorbult az MTA önállósága, a kikényszerített adminisztratív intézkedések pedig kényszerpályára lökték az intézmény fenntartását.
+» Az MTA, az egyetemek és a HUN-REN között a feladatok és felelősségek nem mindig tiszták; a minőségbiztosítás és -értékelés nem egységes. Gyenge a kapcsolódás a nemzetközi kutatásokhoz és a gazdasághoz.
+» A nemzetközi programokban (pl. Horizon) való részvétel szintje adminisztratív és intézményi okokból is alacsonyabb a lehetőségeknél.
+» A vállalati együttműködések száma kevés, a közös laborkapacitások szűkösek; a tudás gazdasági hasznosulása nem elég gyors. Tudomány – Vállalásaink Visszaadjuk a tudomány autonómiáját.
+» Új, átlátható törvényt készítünk, amely visszaállítja az MTA és az állami kutatóintézetek szakmai önállóságát, és rendezi az akadémiai vagyon helyzetét. Több pénzt költünk a tudományra, a kutatásfejlesztésre.
+» Elismerjük az alapkutatás fontosságát, az erre szánt forrásokat növeljük, és biztosítjuk, hogy a tudományos szakma saját maga dönthessen a források legcélszerűbb felhasználásáról. A források elosztásánál megszüntetjük a politikai beavatkozást.
+» Stabil alapfinanszírozást biztosítunk az intézeteknek, mellette egyszerűbb, gyorsabb pályázati rendszert működtetünk (rövid elbírálás, kiszámítható kiírások).
+» Többéves távlatban kiszámítható pályára állítjuk a közkiadásokat, és a teljes hazai K+F-ráfordítást a GDP 2%-a fölé visszük középtávon; a hosszú távú cél az Európai Unió 3%-os értékéhez való felzárkózás. Egységes minőséget és vonzó kutatói életpályát kínálunk.
+» Országos, egységes értékelési és minőségbiztosítási keretet vezetünk be (transzparens publikációs impact és társadalmi hasznossági mutatókkal).
+» Kezdő kutatói ösztöndíjak, mobilitási és visszatérési programok indulnak; a fiataloknak kiszámítható bérpálya és lakhatási támogatás jár.
+
+
+Célunk a nemzetközi nyitás és az ipari kapcsolatok erősítése.
+» Újra lehetővé tesszük, hogy a magyar egyetemek, kutatóintézetek és kutatók részt vehessenek az Erasmus és Horizon programokban.
+» A nemzetközi projektekben való részvételt támogató irodát, profes�szionális projektmenedzsmentet és pályázati segítséget biztosítunk minden nagy kutatóhelyen.
+» Biztosítjuk az ipari–akadémiai közös laborok és konzorciumok célzott támogatását. A szellemi tulajdon megosztását tiszta, gyors szabályok teszik majd egyszerűvé. Átlátható stratégia és közös irányítás mentén fejlesztjük a tudományt.
+» Létrehozzuk a Tudománypolitikai Koordinációs Tanácsot (TPKT), amely összehangolja a nemzeti célokat, a forrásokat és a nemzetközi részvételt.
+» Országosan segítjük a jó gyakorlatok terjedését.
+
+
+## 3.6. Akadálymentes Magyarország
+
+Egyenlő esélyek akadályok nélkül
+» Országos fizikai és online akadálymentesítési programot valósítunk meg.
+» Célzott támogatásokkal és szolgáltatásokkal ösztönözzük a munkaadókat egészségprevenciós programok indítására, fogyatékossággal élő álláskeresők alkalmazására, a fogyatékos munkavállalók számára mentorálást biztosítunk.
+» Elindítjuk a gondoskodó munkahely programot.
+» Biztosítjuk a fogyatékosság és rokkantság jogán járó pénzbeli ellátások vásárlóerejének megőrzését, a rokkantsági nyugdíjakat legalább 120 ezer forintra emeljük.
+» 50%-kal emeljük az otthonápolási díjakat.
+» Otthoni ápolást, gondozást biztosító szolgáltatásokkal segítjük, hogy a gondozási feladatokat végző szülők megtarthassák munkájukat.
+» Támogatjuk olyan bentlakásos intézmények építését, amelyek fogyatékkal élő felnőttek számára biztosítanak méltó, igényeiknek megfelelő lakhatási megoldást.
+» A gyógyászati és önálló életvitelt segítő eszközök támogatási rendszerének kibővítésével segítjük a fogyatékos emberek önrendelkezését és önállóságát.
+
+
+Bevezető Magyarországnak igazságosabb és emberségesebb társadalomra van szüksége. Olyan országra, ahol senkit nem ér hátrány azért, mert fogyatékossággal él. Hiszünk abban, hogy az esélyegyenlőség nem ígéret, hanem működő intézmények, egyenlő hozzáférés és közösségi részvétel kérdése. Ma a fogyatékossággal élők akadályokba ütköznek a közlekedésben, a közszolgáltatásokban és a munka világában. A TISZA ezen változtat. Akadálymentes országot építünk – a fizikai és az online térben egyaránt. Megvédjük a munkavállalókat, segítjük a munkaerőpiacra való visszatérést, és olyan ellátásokat biztosítunk, amelyek nem szegénységben tartanak, hanem az önálló életet segítik. Mindezt egy átfogó Magyar Társadalompolitikai Stratégiára építjük, amely minden szakpolitikán átívelően az egyenlőséget, a befogadást és a részvételt erősíti. Nem segélyezéssel, hanem méltányos hozzáféréssel, igazságos elosztással és átlátható, számonkérhető intézményekkel teremtünk valódi esélyt mindenkinek. Fogyatékossággal élők – Problémák Hazánkban mintegy 650 ezer ember él fogyatékossággal, kirekesztettségben.
+» A fogyatékossággal élő, egészségkárosodott, megváltozott munkaképességű, rokkant személyek csoportját és családtagjaikat, baráti körüket egybe véve hozzávetőlegesen másfél millió embert érint ilyen élethelyzet.
+» A kormány álságos, atyáskodó gondoskodáspolitika köntösében elhanyagolja a fogyatékos embereket, nem vesz tudomást sem jogfosztottságukról, sem napi küzdelmeikről.
+» Az akadálymentesítés hiánya miatt a közszolgáltatásokhoz való hozzáférés joga a fogyatékos embereknek szinte minden ágazatban sérül. Az akadálymentesítés hiánya nemcsak a fizikai térben (pl. közlekedés, közintézmények megközelítése), de a virtuális térben is szembetűnő, a közszolgáltatások honlapjai és online szolgáltatásai ezen a téren nem járnak élen. Munkaerőpiaci diszkrimináció és elavult szabályozás korlátozza a fogyatékossággal élőket a mindennapokban.
+» Ha bárki aktív munkavállalóként lesz egészségkárosodott, az állam nem védi meg az elbocsátástól, nem segíti a munkába való visszatérését.
+» A munkaerőpiacon elterjedt előítéletek és diszkriminációs gyakorlatok megfékezésének, a sértettek jogorvoslatának nincs meg a megfelelő hatékonyságú jogi vagy intézményes eszközrendszere.
+
+
+Az alacsony pénzbeli és természetbeni ellátások nem adnak kellő segítséget.
+» A fogyatékosság vagy rokkantság okán nyújtott pénzbeli ellátások nem alkalmasak bérpótlásra, az infláció miatt folyamatosan veszítik vásárlóértéküket, emelésükről a kormány nem gondoskodik.
+» Az ápolási díj alacsony összege nem alkalmas a súlyos fokban sérült gyermek vagy felnőtt rokon ápolása miatt munkáját feladó családtag jövedelmének pótlására, és ez a családok elszegényedését felgyorsítja.
+» Elavult a gyógyászati és életvitelt támogató segédeszközök igénylési rendszere és kínálata is, így nem támogatja a fogyatékos emberek önellátóvá válását. Fogyatékossággal élők – Vállalásaink Országos fizikai és online akadálymentesítési programot valósítunk meg.
+» Akadálymentesítési programot indítunk a közterületek, a közlekedés, a közösség számára bejárható terek és szolgáltatások egyenlő esélyű hozzáférhetősége érdekében. Az akadálymentesítést biztosítjuk az online elérhető szolgáltatások esetén is.
+» A szolgáltatások fejlesztésével biztosítjuk, hogy mindenki a lehető leggyorsabban kapja meg a fogyatékosság diagnózisához, a korai fejlesztéshez vagy felnőttkori rehabilitációhoz szükséges információkat és ellátásokat, úgy, ahogy az ő vagy gyermeke állapotának a leginkább megfelelő.
+» Bővítjük a fogyatékos gyermekek és felnőttek számára elérhető oktatási, egészségügyi, szociális alap- és szakellátások kapacitását, a szakemberek és a hozzátartozók képzésével javítjuk a szolgáltatások minőségét. Elősegítjük a fogyatékossággal élők munkavállalását és az igazságos bérezését.
+» Újraszabályozzuk és megerősítjük az elbocsátási védelmet.
+» Célzott támogatásokkal és szolgáltatásokkal ösztönözzük a munkaadókat egészségprevenciós programok indítására, fogyatékos álláskeresők alkalmazására, a fogyatékos munkavállalók számára mentorálást biztosítunk.
+» Elindítjuk a gondoskodó munkahely programot.
+» Támogatjuk a társadalmi vállalkozások és a szociális szövetkezetek szerepvállalását a szociális és foglalkozási rehabilitációs szolgáltatói szektorban.
+
+
+Hozzáférhető, minőségi szolgáltatásokat biztosítunk.
+» Visszaadjuk az elveszett biztonságot: egyszerűsítjük a bonyolult pénzbeli ellátási rendszert, a mediánjövedelemhez és fogyasztói kosárhoz viszonyított indexálási rendszer bevezetésével biztosítjuk a fogyatékosság és rokkantság jogán járó pénzbeli ellátások vásárlóerejének megőrzését.
+» Otthoni ápolást, gondozást biztosító szolgáltatásokkal segítjük a szülőket megtartani a munkájukat – akár fogyatékos kiskorúról, akár folyamatos ápolást igénylő családtagról legyen szó.
+» Támogatjuk olyan bentlakásos intézmények építését, amelyek fogyatékkal élő felnőttek számára biztosítanak méltó, igényeiknek megfelelő lakhatási megoldást.
+» A gyógyászati és önálló életvitelt segítő eszközök támogatási rendszerének kibővítésével segítjük a fogyatékos emberek önrendelkezését és önállóságát.
+
+
+## 3.7. Egyenlő esély a nőknek a munkában és a magánéletben
+
+Női esélyegyenlőség
+» Következetesen betartatjuk az egyenlő munkáért egyenlő bér elvét.
+» Rugalmas foglalkoztatási formák támogatásával és családbarát munkahelyek létrehozásával segítjük a munka és a család egyensúlyának megteremtését.
+» Létrehozzuk az Egyenlő Bánásmódért Felelős Ombudsman intézményét, hogy valódi védelmet nyújthassunk a diszkrimináció ellen.
+» Elsőbbséget biztosítunk az egyszülős családoknak a bérlakás-programokban és a lakhatási támogatások rendszerében.
+» Emberséges szülészeti ellátásokat és hatékony meddőségi (IVF) kezeléseket biztosítunk.
+» Felszámoljuk a menstruációs szegénységet, és minden érintettnek biztosítjuk az alapvető menstruációs higiénéhez való hozzáférést.
+
+
+Bevezető Magyarországnak igazságosabb és emberségesebb társadalomra van szüksége. Olyan országra, ahol senkit nem ér hátrány azért, mert nő. Hiszünk abban, hogy az esélyegyenlőség nem ígéret, hanem működő intézmények, egyenlő hozzáférés és közösségi részvétel kérdése. Ma a nők többet dolgoznak, kevesebbet keresnek, és kevesebb beleszólásuk van a döntésekbe, mint a férfiaknak. A TISZA ezen változtat. Betartatjuk az egyenlő munkáért egyenlő bér elvét, támogatjuk a rugalmas munkavégzést, valódi védelmet adunk a diszkrimináció ellen, támogatjuk a nők megfelelő társadalmi és politikai szerepvállalását, és emberséges szülészeti ellátást, valamint hatékony meddőségi kezeléseket biztosítunk számukra. A nők életéről nem lehet dönteni a nők nélkül. Női esélyegyenlőség – Problémák A nők hátrányos helyzetben vannak a munkaerőpiacon.
+» A munkaerőpiacon sérül az egyenlő munkáért egyenlő bér elve. A nők és férfiak közötti bérszakadék 2020 óta ismét növekszik, 2023-ban 17,8% volt, amellyel a 25. helyen áll Magyarország az európai összehasonlításban. A nők alulreprezentáltak a jobban fizetett ágazatokban. A nemek közötti bérszakadék (%), 2023 (forrás: Eurostat) Európai Unió Luxemburg Belgium Olaszország Románia Málta Szlovénia Horvátország Lengyelország Írország Portugália Spanyolország Svédország Litvánia Franciaország Ciprus Hollandia Bulgária Görögország Dánia Szlovákia Finnország Észtország Németország Csehország Ausztria Lettország
+» Hiányoznak a rugalmas munkavégzés feltételei. Bár a Munka Törvénykönyve lehetővé teszi a részmunkaidőt vagy a távmunkát, ezek Magyarországon nem elterjedtek. Míg az Unióban a munkavállalók 30,8%-a, addig Magyarországon mindössze 6,2%-a dolgozik részmunkaidőben.
+» Gyakori a diszkrimináció. A nők idősödésével egyre élesebbé válik az életkoron alapuló megkülönböztetés. Különösen sérülékeny helyzetben vannak a fogyatékossággal élő nők, akik gyakran kiszolgáltatottak
+
+
+az egészségügyi és munkaerőpiaci rendszerben, valamint a roma nők, akiket kiemelten érint a munkaerőpiaci diszkrimináció. A gondozási feladatok aránytalanul terhelik a nőket, nehéz a munka és a család összehangolása.
+» A magyar családmodellben jellemzően a nők végzik a fizetetlen gondozási munkát (gyermekek, beteg hozzátartozók, idősek ellátása), sokszor erőn felül pótolva a nem megfelelően működő szociális ellátórendszer hiányosságait.
+» Az egyedülálló anyák, a karrierjüket megszakító anyák és az idős, egyedül élő nők, a beteg/fogyatékossággal élő gyermeket nevelők, időseket gondozók a társadalmi kirekesztettség és elszegényedés veszélyének fokozottan kitettek. A nők aránya továbbra is alacsony a politikai és vezetői pozíciókban, jelentős az üvegplafon-jelenség.
+» A nők aránya a vezetők körében az elmúlt évtizedben csökkent, 2021ben 36,6%-ot tett ki.
+» A magyar parlamentnek jelenleg 28 női tagja van (14%). A miniszterek között egyetlen nő sincs. Embertelen szülészeti ellátások, nehezen elérhető meddőségi kezelések nehezítik a nők gyermekvállalását.
+» A szülészeti ellátásban megszűnt a szabad orvosválasztás és bábaválasztás gyakorlati lehetősége, ami tovább rontotta a nők emberséges és háborítatlan szülési élményének lehetőségét, ráadásul kiugróan magas – a szakmai ajánlások többszörösét kitevő – a császármetszési arány és a gátmetszések száma.
+» A meddőségi (IVF) kezelések piacát lényegében államosították, a kezelések rendkívül nehezen hozzáférhetők, és eredményességük mes�sze elmarad a nemzetközi legjobb gyakorlatoktól. Míg Magyarországon 100 kezelésből átlagosan 15 eredményes, addig az Unióban 30, az USA-ban 50 feletti ez a szám. Gyermekre vágyó magyar családok és nők ezrei utaznak külföldi magánklinikákra, mert ott meg tudják kapni azt az ellátást – méghozzá magyar nyelven, jó körülmények között –, amit itthon az állam képtelen biztosítani. A kezelések rendkívül magas költsége miatt rengeteg család elesik ettől a lehetőségtől. A menstruációs szegénység tömegeket érint, mégis láthatatlan Magyarországon.
+» Civil és nemzetközi becslések szerint több százezer nő és lány érintett a menstruációs szegénység valamely formájában.
+» A menstruáló lányok 20–30%-a már tapasztalta, hogy anyagi okokból nem jutott megfelelő higiéniai termékhez.
+
+
+» A probléma nem jelenik meg rendszeresen az állami statisztikákban, nincs átfogó mérés és nyilvános adat.
+» A menstruációt övező társadalmi tabuk akadályozzák a nyílt beszédet és az intézményi beavatkozást.
+» A menstruációs szegénység rontja az esélyegyenlőséget és az egészséget.
+» Anyagi okok miatt sok lány hiányzik az iskolából menstruáció idején, ami tanulási lemaradáshoz vezethet.
+» A nem megfelelő higiénia egészségügyi kockázatokat és pszichés terhelést okoz.
+» A menstruációs termékek költsége aránytalanul terheli az alacsony jövedelmű háztartásokat, különösen az egyedülálló anyákat.
+» A probléma halmozottan sújtja a gyermekvédelemben élőket, hajléktalan nőket és a mélyszegénységben élő közösségeket. Női esélyegyenlőség – Vállalások Következetesen betartatjuk az egyenlő munkáért egyenlő bér elvét, megteremtjük az egyenlő lehetőségeket a nők számára, és segítjük a munka és a család egyensúlyát.
+» Létrehozzuk az Egyenlő Bánásmódért Felelős Ombudsman intézményét, hogy valódi védelmet nyújthassunk a diszkrimináció ellen.
+» Következetesen betartatjuk az egyenlő munkáért egyenlő bér elvét. A munkavállalás területén bevezetjük és következetesen alkalmazzuk a bértranszparenciára vonatkozó törvényeket. Törvényben rögzítjük az egyenlő bérezést. Rendszeres ellenőrzésekkel és szankciók alkalmazásával lépünk fel a nemek közötti bérkülönbségekkel szemben.
+» Törvényi szabályozásban segítjük elő a részmunkaidős és rugalmas pozíciók biztosításának lehetőségét.
+» Állami eszközökkel támogatjuk a családbarát munkahelyek kialakítását.
+» Törekszünk arra, hogy minden állami testületnek legyenek női tagjai, akik megfelelően tudják képviselni a nők társadalmi súlyát az adott szervezetben. Célzottan segítjük a gyermeküket egyedül nevelő anyákat.
+» Az egyszülős háztartásoknak bevezetjük a célzott adó- és támogatási korrekciót, amely figyelembe veszi az egy keresőre jutó többletterhet. Ez a meglévő kedvezmények finomhangolását jelenti az egyszülős helyzethez.
+» Kiemelten támogatjuk a rugalmas és részmunkaidős foglalkoztatást a gyermeküket egyedül nevelők számára, munkáltatói ösztönzőkkel és közszférában való példamutatással.
+
+
+» Elsőbbséget biztosítunk az egyszülős családoknak a bérlakás-programokban és a lakhatási támogatások rendszerében.
+» Megkönnyítjük a gyermekfelügyelethez való hozzáférést, különösen bölcsődei és iskolán kívüli ellátások esetén, az egyszülős családokat előnyben részesítő szabályozással. Ez közvetlenül növeli a munkavállalási lehetőségeket.
+» Elismerjük és beszámítjuk a gondozási időszakokat a társadalombiztosítási és nyugdíjjogosultságokba, hogy az egyedül nevelő szülők ne szenvedjenek élethosszig tartó hátrányt azért, mert ellátták a társadalom számára is nélkülözhetetlen gondoskodási feladatokat. Célzottan segítjük a hátrányos helyzetű nőket.
+» Egyedi programokat dolgozunk ki a fogyatékkal élő, hajléktalan, illetve az emberkereskedelem áldozatává vált nők számára.
+» Felülvizsgáljuk a biztonságos menedékhelyeket, krízisotthonokat, javítjuk működési feltételeiket.
+» Államilag támogatott átképzésekkel, foglalkoztatási ösztönzőkkel és lakhatási támogatásokkal segítjük a munka világába való visszatérést. Emberséges szülészeti ellátásokat és hatékony meddőségi (IVF) kezeléseket biztosítunk.
+» Az állami kórházakban is emberséges szülészeti ellátást biztosítunk minden kismama számára.
+» Megnyitjuk és elérhető áron hozzáférhetővé tesszük a meddőségi kezelések piacát, és hatékonyabbá, eredményesebbé tesszük a kezeléseket a legjobb nemzetközi gyakorlatok elterjesztésével. A menstruációs szegénységet esélyegyenlőségi és közegészségügyi kérdésként kezeljük, és minden érintettnek biztosítjuk az alapvető menstruációs higiénéhez való hozzáférést.
+» Elismerjük, hogy a menstruációs szegénység nem magánügy, hanem közpolitikai felelősség.
+» Rendszeres, anonim adatgyűjtést indítunk a probléma mértékének és társadalmi hatásainak feltárására. A menstruációval kapcsolatos tabukat nyílt, hiteles társadalmi kommunikációval bontjuk le.
+» A menstruációs szegénység kezelését beépítjük az esélyegyenlőségi, oktatási és egészségpolitikai stratégiákba.
+» Ingyenes menstruációs termékeket biztosítunk az állami iskolákban, gyermekvédelmi intézményekben, hajléktalanellátásban és szociális intézményekben.
+» Támogatjuk az önkormányzatokat és civil szervezeteket a helyi ellátási programok megvalósításában.
+» Oktatással és prevencióval csökkentjük az iskolai hiányzásokat és a hosszú távú egészségügyi kockázatokat, életkorhoz illesztett egészségnevelési programokkal.
+
+
+## 3.8. Roma esélyegyenlőség
+
+Munka, tudás, jövő
+» A roma gyermekek számára is egyenlő hozzáférést biztosítunk a jó minőségű oktatáshoz.
+» Új ösztöndíjrendszert vezetünk be, új iskolabuszokat indítunk, hogy a nehéz körülmények közé született fiatalok is eljuthassanak az iskolába.
+» Megteremtjük a gazdasági kitörés feltételeit a romák számára tartós, jól fizető munkahelyek biztosításával.
+» Átalakítjuk a közmunkát, valódi átjárást biztosítunk a munkaerőpiacra.
+» Közművesítési és energetikai korszerűsítési programokat indítunk, különös figyelemmel a települési szegregátumokra.
+» Minden szakpolitikánknál, különösen az adócsökkentési, nyugdíjemelési, gazdaságfejlesztési, közlekedési, építésügyi, szociális, oktatási és egészségügyi rendszereink fejlesztésénél figyelembe vesszük roma honfitársaink szempontjait.
+» A roma kultúra a nemzeti kultúránk szerves része, támogatjuk a roma kultúra megőrzését, fejlődését. Bevezető Magyarországnak igazságosabb és emberségesebb társadalomra van szüksége. Olyan országra, ahol senkit nem ér hátrány azért, mert romának születik. Hiszünk abban, hogy az esélyegyenlőség nem ígéret, hanem működő intézmények, egyenlő hozzáférés és közösségi részvétel kérdése. A roma közösségeket az elmúlt évek politikája nem felemelte, hanem kiszolgáltatott helyzetben tartotta. A jelenlegi kormányzat legmagasabb szintű képviselői számos alkalommal bebizonyították, hogy lenézik a roma honfitársainkat, nem hisznek bennük. A TISZA másként gondolkodik. Hiszünk abban, hogy együtt, összefogva képesek vagyunk közösen felépíteni a működő és emberséges Magyarországot. A roma közösségek felemelkedésének útja a munka, az oktatás és a méltó lakhatás. Átalakítjuk a közmunkát, támogatjuk a kisvállalkozásokat, és javítjuk az egészségügyi, valamint oktatási szolgáltatásokhoz való egyenlő hozzáférést.
+
+
+A kormány társadalompolitikai intézkedései kiemelten sújtották a romákat.
+» Az elmúlt 16 év társadalompolitikájának középpontjában a szavak szintjén a család állt. A kormány ugyanakkor a roma családokat teljesen magukra hagyta. A gyermekvédelmi szakellátásban a roma gyermekek száma meghatározó, örökbefogadási esélyeik alacsonyabbak az átlagosnál.
+» A romastratégia megvalósítása az évek múlásával marginalizálódott, míg végül teljesen feledésbe merült.
+» A kezdeti nagyívű és valóban értékes oktatási elképzeléseket feladták, és a szegregált oktatás csendes támogatása, egyebek mellett az egyházi fenntartású intézményeknek engedélyezett speciális jogok által, tovább mélyítették a társadalmi kirekesztettséget.
+» A kormány a szakképzésbe való bekapcsolódás lehetőségeinek és egyáltalán a munkaerőpiacra lépés útjainak korlátozásával, megnehezítésével sokat rontott az alacsonyabb iskolai végzettségű roma emberek munkához jutási feltételein. Romló mindennapi életkörülmények és lakhatási válság nehezítik a romák életét.
+» Az ország általános gazdasági és társadalmi lerontása fokozottan érintette az egyébként is hátrányos helyzetű roma családokat. A roma közösség anyagi kitettsége az elmúlt másfél évtizedben tovább romlott.
+» A roma háztartások a jövedelmük jóval nagyobb részét költik alapvető élelmiszerekre és fűtésre, mint a többségi társadalom. Az infláció számukra nem kényelmetlenséget, hanem egyre égetőbb fizikai nélkülözést jelent.
+» Nem csökkent, sőt nőtt a roma családok társadalmi kirekesztettsége, a szegregáció.
+» A kormánypártokhoz kötődő roma politikusok és programok korrupciója a rendelkezésre álló források pazarlását és a helyzet folyamatos romlását, a politikának való kiszolgáltatottságot erősítette. Az oktatási rendszer marginalizálja a roma fiatalokat, korlátozza felnőttkori lehetőségeiket.
+» Magyarországon az oktatási rendszer nem csökkenti, hanem konzerválja, sőt sok esetben növeli a társadalmi egyenlőtlenségeket.
+» A roma gyermekek jelentős része szegregált oktatásban részesül, a szegregált iskolákban és osztályokban az oktatás minősége elmarad az átlagtól.
+» A romák továbbtanulási esélyei korlátozottak.
+» Az oktatási rendszer nem teremti meg a romák társadalmi mobilitását. Megfelelő, piacképes tudás és végzettség nélkül a roma fiatalok nem tudnak kitörni a mélyszegénységből, így a hátrányos helyzet generáci-
+
+
+óról generációra öröklődik.
+» A roma történelem, művészet és kultúra korlátozottan jelenik meg a közoktatásban és a nemzeti tudatban. A romák nehezen tudnak tisztességesen megfizetett munkához jutni.
+» A hazai munkaerőhiány ellenére a roma munkavállalók sokszor még mindig hátránnyal indulnak a kiválasztásnál, vagy csak a legbizonytalanabb, alacsony fizetésű munkákat kapják meg.
+» A közmunka sokak számára nem ugródeszka, hanem zsákutca.
+» Kevés valódi lehetőség van piacképes szaktudás vagy vállalkozási támogatás megszerzésére.
+» A romák foglalkoztatottsága alig éri el az 50%-ot, míg a teljes lakosságé közel 80%. A roma és nem roma népesség foglalkoztatási rátája közfoglalkoztatottakkal és anélkül, a 15–64 évesek körében (%), 2023 (forrás: KSH) 20% 40% 60 % 80 % Foglalkoztatási ráta a nem roma népesség körében Foglalkoztatási ráta a nem roma népesség körében (közfoglalkoztatott) Foglalkoztatási ráta a roma népesség körében Foglalkoztatási ráta a roma népesség körében (közfoglalkoztatott) A romák nem férnek hozzá a megfelelő egészségügyi ellátáshoz.
+» A szegénységben élők – köztük sok roma – az átlagnál 12 évvel korábban halnak meg.
+» Magasabb a krónikus betegségek előfordulása, az ellátáshoz való hozzáférés korlátozott. A politika kiszolgáltatott helyzetben tartja és kihasználja a romákat.
+» A valódi érdekérvényesítés helyett megvásárolt vezetők tartják fenn a függőségi rendszert, megakadályozva a valódi társadalmi párbeszédet és a kulturális megbecsülést.
+
+
+Megteremtjük a gazdasági kitörés feltételeit, mert a romák felemelkedésének és tömeges polgárosodásának leghatékonyabb eszköze az, ha tartós, jól fizető munkahelyekhez juttatjuk őket.
+» Átalakítjuk a közmunkaprogramot, képzéssel és alapvető gazdálkodási ismeretekkel egészítjük ki, hogy az abban résztvevők számára ez az út ne zsákutca, hanem valódi átmenet legyen a nyílt munkaerőpiacra. Felszámoljuk és a hatályos jogszabályok alapján üldözni fogjuk a közmunkaprogram rendszeréhez kapcsolódó visszaéléseket, uzsorát.
+» Támogatjuk a kisvállalkozásokat, mikrovállalkozásokat és családi cégeket, célzott képzéssel, mentorálással és piacra jutási segítséggel. Külön figyelmet fordítunk a hagyományos roma tevékenységek megőrzésére és az ehhez kapcsolódó üzleti elképzelések megvalósítására.
+» Bevonjuk a romák között tevékenykedő civil és vallási szervezeteket, hogy széles összefogásban, az érintettekkel együttműködve segítsük a közösség tagjainak saját lábra állását.
+» Új munkahelyeket teremtünk a szociális, egészségügyi és más szektorokban, amelyek sok ezer munkavállaló számára adnak elhelyezkedési lehetőséget.
+» 2026. június 1-től további intézkedésig nem adunk engedélyt további külföldi vendégmunkások behozatalára, hogy ne vegyék el a munkalehetőséget honfitársaink elől. Minden roma gyermek számára minőségi oktatást biztosítunk.
+» 21. századi oktatási rendszert építünk, amelyhez a romák számára is egyenlő hozzáférést biztosítunk. A tankötelezettséget 18 éves korra emeljük, és biztosítjuk, hogy az iskolarendszerből kikerülő roma fiatalok az életben is jól használható tudással rendelkezzenek.
+» Megkezdjük a szegregált oktatás felszámolását, és az oktatási rendszer szabadságának visszaállításával lehetővé tesszük az egyre inkább egyénre és közösségre szabott oktatási formák alkalmazását.
+» Ösztöndíjrendszert vezetünk be, iskolabuszokat indítunk, és utazási támogatást adunk a rászorulóknak, hogy a nehéz körülmények közé született fiatalok is eljuthassanak az iskolába, és továbbtanulhassanak.
+» Ösztönözzük a piacképes szaktudás megszerzését a felnőttképzésben és a szakképzésben, amivel reális esély nyílik az elhelyezkedésre.
+» 700 ezer nehéz sorsú gyermek számára évi 100 ezer forintos iskolakezdési támogatást nyújtunk.
+
+
+Felszámoljuk az embertelen lakhatási körülményeket.
+» Az újonnan készülő, társadalmi egyeztetésen alapuló vidék- és városfejlesztési stratégiák eredményeképpen közművesítési és energetikai korszerűsítési programokat indítunk, különös figyelemmel a települési szegregátumokra.
+» A társadalmi mobilitás megteremtése érdekében megfizethető bérlakásokat és munkásszállókat építünk. Támogatjuk a roma családokat és javítjuk a romák egészségügyi állapotát.
+» 15 százalékról 9 százalékra csökkentjük a minimálbér adóját, igazságosabb adórendszert vezetünk be.
+» 5%-ra csökkentjük az egészséges élelmiszerek és a tűzifa áfáját, segítve ezzel több százezer család életét.
+» Áfamentessé tesszük a vényköteles gyógyszereket, és javítjuk az egészségügyi ellátáshoz való hozzáférést a szegénységben élőknek.
+» Speciális addiktológiai ellátást biztosítunk, és a büntetés mellett a megelőzésre és a gyógyításra helyezzük a hangsúlyt a romákat különösen sújtó kábítószer-probléma kezelésében. Elismerjük, hogy a roma kultúra a nemzeti kultúránk szerves része, és támogatjuk a roma kultúra megőrzését, fejlődését.
+» Fokozottan támogatni fogjuk a roma kulturális intézményeket.
+» Támogatjuk a magyarországi romák valós helyzetét feltáró kutatásokat, műhelyeket. Ennek köszönhetően intézkedéseink a valódi problémákra fognak válaszolni.
+» Az elmúlt évtizedekben tapasztalt szégyenteljes és alkalmatlan romapolitikát és -képviseletet az érintettekkel együttműködve új irányokba segítjük. A korábbi tapasztalatokra építve létrehozzuk a roma közösség részvételének, bekapcsolódásának hatékony és átlátható kereteit.
+
+
+## 3.9. Hajós Alfréd Program
+
+Egészséges, sportos nemzet
+» A sport finanszírozását átláthatóvá tesszük. A jelenleg társasági adón (tao) keresztül érkező finanszírozási összegeket nem csökkentjük, azokat teljes egészében a sportra fordítjuk.
+» A túlárazott stadionépítések és presztízsberuházások helyett a forrásokat a tömeg- és szabadidősport-programokra, valamint az iskolai, utánpótlás- és egyetemi sportrendezvényekre fordítjuk.
+» Az ország minden pontján elérhető, fenntartható és bárki számára hozzáférhető sportinfrastruktúrát hozunk létre.
+» A hátrányos helyzetűek sportolását kiemelten támogatjuk. Bevezető Az elmúlt másfél évtizedben a magyar sport soha nem látott mennyiségű közpénzt kapott, mégsem lettünk egészségesebb nemzet. Stadionok nőttek ki a földből, miközben elcsendesedtek a grundok, eltűntek az utcai edzőpályák, elsorvadt az iskolai és a helyi sportélet. Egyre kevesebbet mozgunk, egyre többet betegeskedünk, és átlagosan öt évvel rövidebb ideig élünk, mint az európai polgárok. A sport irányítása elszakadt az emberektől. A döntéseket nem a gyerekek, a családok és az amatőr sportolók érdekei vezetik, sokszor nem szakértők hozzák, hanem jellemzően politikai kinevezettek. A pénz pazarló, túlárazott presztízsberuházásokra folyik el, miközben egyre kevesebben mozognak minden nap, hogy megőrizzék egészségüket. A TISZA visszaadja a sportot az embereknek. Lezárjuk a kirakatberuházások korszakát, és a mindennapi mozgást, az iskolai sportot, a szabadidő- és tömegsportot helyezzük újra a középpontba. Mert a sport nem a kiváltságosok hobbija, hanem mindenki számára az egészség, az összetartozás és egy élhetőbb élet alapja.
+
+
+Sportpolitika – Problémák Sok pénz, kevés előrelépés.
+» A magyar sportpolitika az elmúlt másfél évtizedben példátlan men�nyiségű közpénzt kapott, de a forrásbőség nem járt együtt strukturális megújulással.
+» 2010 óta a környező országoknál jelentősen többet költöttünk sport-, kulturális és vallási célokra. A magas kiadások elsősorban annak köszönhetők, hogy túl sokat költünk túlárazott presztízsberuházásokra és propagandára. Az élsport mindent visz, a tömegsport háttérbe van szorítva.
+» Az élsportot kiszolgáló látványberuházások dominálnak (pl. stadionépítések), miközben a tömegsport, az iskolai és az amatőr sport háttérbe szorult.
+» A versenysport és a tömegsport támogatásának aránytalansága hazánkban teljesen nyilvánvaló.
+» A sport társadalmi, egészségmegőrző funkciója gyenge. A tömeg- és szabadidősport marginalizálódott, népegészségügyi, preventív jellege gyenge. Mindez hozzájárul ahhoz, hogy az ország egészségügyi adatai uniós viszonylatban lehangolóak. A politika és a korrupció rátelepedett a sportra.
+» A helyi és országos politika egyértelműen rátelepedett a sportra, a viszonyokat áthatja a korrupció és a nepotizmus, és ez kihat a versenysport eredményességére is.
+» A szektorban a források elosztása korrupcióval terhelt, átláthatatlan és egyenlőtlen, miközben elszámoltatás nem működik. Drága, kihasználatlan a sportinfrastruktúra, rossz a tervezés.
+» A sportinfrastruktúra fejlesztése koncepciótlanul zajlik, túlárazott stadionok, sportcsarnokok épülnek, amelyek aztán gyenge kihasználtsággal működnek, az üzemeltetési problémák fenntarthatatlan irányba mutatnak. Sportpolitika – Vállalásaink A sportot visszaadjuk az embereknek.
+» A túlárazott stadionépítések és presztízsberuházások korszaka lezárul: a sport újra a mindennapi egészség, a közösségépítés és a méltányos teljesítmény tere lesz.
+
+
+» Az ország minden pontján elérhető, fenntartható és közösségi sportinfrastruktúra jön létre, ahol gyerekek, családok, idősek és amatőr sportolók egyaránt helyet kapnak. Az iskolai sport újra a nevelés és a megelőzés része lesz, a települések pedig önállóan fejleszthetik helyi sportéletüket.
+» Olyan sportpolitikát valósítunk meg, amely nem a kiváltságosokat, hanem a közösséget szolgálja. A sport nem politikai díszlet, hanem a működő, egészséges és összetartó társadalom egyik alappillére lesz. Szakmai, politikamentes sportirányítást vezetünk be.
+» Független, önálló és szakmai sportirányítást vezetünk be.
+» A politikus sportvezetőket a sportban járatos szakemberek váltják majd. A tömeg- és iskolai sportot kiemelten finanszírozzuk.
+» Kiemelten biztosítunk forrásokat a tömeg- és szabadidősport-programokra, valamint az utánpótlás- és egyetemi sportrendezvényekre.
+» A hátrányos helyzetűek sportolását is kiemelten támogatjuk. Fenntartható és mindenki számára nyitott sportlétesítményeket működtetünk.
+» Nem megalomán stadionokat építünk, amelyek aztán kihasználatlanul állnak, hanem mindenki által használható, többfunkciós sportpályákat, szabadtéri edzőparkokat, uszodákat, futópályákat, kerékpárutakat. Megvizsgáljuk a már meglévő létesítmények jobb közcélú hasznosítási lehetőségeit, ezáltal könnyű hozzáférést és ingyenes használatot biztosítva mindenkinek.
+» Fejlesztjük az iskolai sporttermeket és eszközparkokat.
+» Sportinfrastruktúra-fejlesztés kizárólag a fenntarthatósági és kihasználtsági elvek mentén valósulhat meg. Átlátható finanszírozási rendszert alakítunk ki.
+» A sport finanszírozását átláthatóvá tesszük.
+» A jelenleg társasági adón (tao) keresztül érkező finanszírozási összegeket nem csökkentjük, azokat teljes egészében a sportra fordítjuk, de költségvetési tényezővé tesszük, és biztosítjuk a hatékony felhasználást.
+» Az önkormányzatok számára kidolgozunk egy ösztönzőrendszert annak érdekében, hogy támogassák a helyi utánpótlás-nevelést és a tömegsportot.
+
+
+## 3.10. Szabad kultúra, támogatott művészet
+
+Alkotás határok nélkül
+» Politikamentessé és átláthatóvá tesszük a kultúra irányítását, biztosítjuk a Nemzeti Kulturális Alap és a Nemzeti Filmintézet önállóságát, a kuratóriumokat szakmai alapon szervezzük újjá.
+» A közgyűjtemények szakmai önállóságát helyreállítjuk, és leállítjuk a politikailag motivált költöztetéseket.
+» Ágazati bérrendezést, 25%-os általános béremelést és többéves, kiszámítható bérpályát vezetünk be, valamint lakhatási programot indítunk a kulturális dolgozóknak.
+» Felújítjuk és korszerűsítjük a művelődési házakat, újraindítjuk a helyi közösségi életet, és mindenki számára elérhetővé tesszük a kultúrát.
+» Biztosítjuk a magyar filmipar kiszámíthatóságát és nemzetközi versenyképességét, fenntartjuk az adókedvezmények jól kialakult rendszerét.
+» Véget vetünk a politikai alapon történő kinevezéseknek a színházi vezetők körében.
+» Visszaadjuk a műemlékvédelem méltóságát és szakmai rangját, megóvjuk a közös múltat.
+» A nyomtatott és digitális sajtó támogatására pártsemleges Nemzeti Sajtóalapot hozunk létre. Bevezető Ma a magyar kultúra nem lélegzik szabadon. A művészet értékét politikai hűség alapján, és nem tehetség szerint mérik. Aki nem áll be a sorba, azt elhallgattatják vagy éhezésre ítélik. Színházak, gyűjtemények, alkotóműhelyek veszítik el önállóságukat, vidéken kihunynak a kulturális fények, a művészek pedig egyre gyakrabban érzik: nem mondhatják ki, amit éreznek. Pedig a művészet lényege a szabadság. Közben pusztul az örökségünk is. Kastélyaink, történelmi épületeink állapota romlik menthetetlenül, a valódi értékmegőrzést felváltják az üres, túlárazott látványprojektek. Mi hiszünk abban, hogy a kultúra nem luxus, hanem a lélek megnyilvánulása. Visszaadjuk a művészetek szabadságát. Olyan kulturális rendszert teremtünk, ahol az alkotónak nem kell félnie, ahol a támogatás szakmai alapon jár, és ahol a vidéki kultúra újra él és teremt. A magyar kultúra újra párbeszéd lesz – önmagunkkal és a világgal. A műemlékeket nem kirakatnak, hanem élő emlékezetnek tekintjük. Visszaadjuk a műemlékvédelem méltóságát és szakmai rangját, megóvjuk a közös múltat. Visszavesszük az elherdált műemlékeket, hogy legyen mire a jövőt építeni.
+
+
+Kultúra és művészetek – Problémák Politikai kontroll és a politikai kedvezményezetteknek osztogatott pénzek bénítják meg a kulturális szektort.
+» A kultúrát áthatja a politikai beavatkozás és az ideológiai megfelelés kényszere, a gyakori irányváltások miatt nincs átgondolt jövőkép, és alig születnek állami forrásból maradandó művek.
+» Az állami támogatások politikailag kijelölt intézményekhez kerülnek, miközben a szakminisztérium befolyása gyenge, a Nemzeti Kulturális Alap működése pedig kiszolgáltatott és politikai szempontok szerint alakított. A közgyűjtemények és a színház, a könyv- és sajtópiac, valamint a zeneművészet leépülőben vannak.
+» Számos országos múzeum évek óta zárva tart vagy vegetál, így az Iparművészeti Múzeum vagy a Közlekedési Múzeum, miközben új, politikai célú intézmények aránytalanul sok forráshoz jutnak.
+» A színházaknál a normatív finanszírozási logikát a politikai szempontok váltották fel.
+» A nagy terjesztők monopolhelyzetbe kerültek, a kiadói és terjesztői szerepek összefonódtak, és politikai beavatkozások (pl. a terjesztők állami irányítása) torzítják a piacot.
+» Az olvasási mutatók romlanak, a folyóiratszféra a megszűnés közelébe került.
+» A zeneoktatás visszaesett, a zenekari hálózat aszimmetrikusan működik, a szektor alulfinanszírozott, az operajátszás színvonala csökkent, vidéken gyakorlatilag megszűnt. A független alkotók és a kulturális dolgozók válságos helyzetben vannak, a kulturális diplomácia és a vidéki infrastruktúra is gyengélkedik.
+» Az alacsony bérek és a pályaelhagyás jellemző a szakmára, miközben a projektfinanszírozás és a pályázati rendszer kiszámíthatatlan.
+» A Liszt Intézetek és a lektori hálózat széttagolt irányítás alatt működnek, ami forráspazarlást okoz, az állami kitüntetések pedig gyakran a szervilizmust jutalmazzák, erodálva a hitelességet.
+» A vidéki művelődési házak személyzet nélkül vegetálnak, a könyvtárak és a múzeumok támogatását megvonták, ami visszavetette a helyi közösségi életet.
+
+
+A hazai filmipar bizonytalanságba került, pedig Magyarország egyik legsikeresebb kulturális és gazdasági ágazatáról van szó.
+» A magyar filmipar az elmúlt évtizedben nemzetközileg versenyképes, exportképes iparággá vált. A filmfinanszírozás felfüggesztése és a kiszámíthatatlan döntéshozatal azonban megingatta a befektetői bizalmat, és komolyan veszélyezteti ezt a pozíciót.
+» A magyar filmipar több tízezer embernek ad munkát, közvetlenül és közvetve. A produkciós cégek, stábtagok, technikai szakemberek, díszletesek, jelmeztervezők, utómunkastúdiók, bérstúdiók és szolgáltatók együtt 20-30 ezer főt foglalkoztatnak, döntően magasan képzett, exportképes munkaerővel.
+» Az ágazat éves bevétele eléri vagy meghaladja a 250-300 milliárd forintot, amelynek jelentős része külföldi produkciókból és devizabevételből származik. Ez az egyik legsikeresebb kulturális exportágazat Magyarországon, most mégis veszélybe került.
+» A filmfinanszírozás felfüggesztése és a döntések elhúzódása súlyos bizonytalanságot okoz. A produkciók hosszú előkészítési ciklusokkal dolgoznak; ha a támogatási rendszer kiszámíthatatlan, a projektek egyszerűen más országba mennek.
+» Egy elvesztett nagy nemzetközi produkciót rendkívül nehéz visszahozni. A filmipar bizalomra és referenciákra épül: ha egy stúdió vagy streamingplatform egyszer csalódik egy ország kiszámíthatóságában, évekre más helyszínt választ.
+» A szakmai szempontokat egyre gyakrabban írják felül politikai megfontolások, ami rontja a magyar filmipar nemzetközi hitelességét. Kultúra és művészetek – Vállalásaink Politikamentessé és átláthatóvá tesszük a kultúra irányítását.
+» Visszaadjuk a Nemzeti Kulturális Alap önállóságát, a kuratóriumokat szakmai alapon szervezzük újjá.
+» A 2010 után létrejött alapítványokat és ügynökségeket átvilágítjuk, a politikai hűbérintézményeket megszüntetjük vagy átalakítjuk, szakmai kritériumokat követve.
+» Az önkormányzati kulturális intézmények vezetőiről az önkormányzatok fognak dönteni, a minisztérium nem avatkozik be.
+» Megújítjuk az államilag finanszírozott kulturális intézmények irányítását és finanszírozását: bevezetjük a duális vezetést a művészeti és a gazdasági–szervezeti irányítás szétválasztásával; műfajonként és támogatási tématerületenként egycsatornás, átlátható kultúrafinanszírozási rendszert hozunk létre, valamint ösztönözzük kulturális hubok, együttműködési hálózatok és konzorciumok kialakulását.
+
+
+» Bővítjük a kulturális finanszírozás társadalmi és piaci bázisát: adókedvezményekkel ösztönözzük a művészetek magántámogatását, az állam évente kulturális börzét szervez a mecénások és a kulturális szereplők összekapcsolására. Megújítjuk a közgyűjteményeket és a műemlékvédelem irányítását.
+» Az intézmények szakmai önállóságát helyreállítjuk, és leállítjuk a politikailag motivált költöztetéseket.
+» Önálló, országos hatáskörű műemlékvédelmi szervet hozunk létre, és több forrást biztosítunk kiállításokra, gyarapításra és digitalizálásra. Teljesítmény- és értékalapú támogatást vezetünk be a színházak számára, a filmiparban és a zeneművészetek terén.
+» A színházakat nézőszám és kulturális érték alapján finanszírozzuk, a filmfinanszírozást műfajonként szétválasztjuk, és visszaállítjuk a pártatlan szakmai döntéshozatalt.
+» A zenekari hálózatot országosan kiegyensúlyozzuk, a zeneoktatást modern alapokra helyezzük, az operajátszást szakmai minőségre építve szervezzük újra.
+» Folytatjuk a kezdő könnyűzenei formációk támogatását, a nagy piaci produkcióknál viszont észszerű korlátokat alkalmazunk. Megtisztítjuk és megerősítjük a könyv- és sajtópiacot.
+» Szétválasztjuk a kiadói és a terjesztői szerepeket, megszüntetjük az állami érdekütközéseket.
+» A Márai-programot kiterjesztjük a kisebb kiadókra, és fenntartjuk a határon túli könyvtárak részvételét.
+» A nyomtatott és digitális sajtó támogatására pártsemleges Nemzeti Sajtóalapot hozunk létre. Biztosítjuk a kulturális dolgozók megélhetését és a vidéki közösségi életet.
+» Erősítjük a kulturális életpályát és a művészek gazdasági önállóságát: differenciált életpályamodelleket alakítunk ki az egyes művészeti területek sajátosságaihoz igazítva; a művészeti felsőoktatásban kötelezővé tesszük az alapvető üzleti és menedzsmentismereteket, mentorprogramokkal kötjük össze a művészeket tapasztalt szakemberekkel, és a felsőoktatási felvételin pluszponttal ismerjük el a rendszeres művészeti tevékenységet és a közgyűjteményi önkéntes munkát.
+» Ágazati bérrendezést, 25%-os általános béremelést és többéves, kiszámítható bérpályát vezetünk be, valamint lakhatási programot indítunk a kulturális dolgozóknak.
+
+
+» A pályázati rendszert átlátható, előre tervezhető éves menetrendre állítjuk át.
+» Felújítjuk és korszerűsítjük a művelődési házakat, regionális szakszolgálatokkal biztosítjuk a minőségi programokat, és újraindítjuk a helyi közösségi életet. Egységesítjük és megerősítjük a kulturális diplomáciát.
+» A Liszt Intézetek és a lektori, vendégprofesszori hálózat teljes szakmai felügyeletét a kultúráért felelős tárca alá vonjuk. Megszüntetjük a párhuzamosságokat, és célzott forrásbővítéssel növeljük a nemzetközi jelenlét hatékonyságát.
+» Tudatos, hosszú távú magyar kulturális exportstratégiát valósítunk meg. Célzottan szólítjuk meg a külföldi kultúrafogyasztókat; a Liszt Intézetek hálózatának lefedettségét növeljük, a kiemelt intézmények számára elvárássá tesszük a nemzetközi jelenlétet, és célzott állami mecénatúrával támogatjuk a magyar film és más művészeti ágak nemzetközi sikereit. Visszaadjuk a magyar filmipar kiszámíthatóságát és nemzetközi versenyképességét.
+» Helyreállítjuk a filmfinanszírozás folyamatosságát és kiszámíthatóságát, világos menetrenddel, előre tervezhető döntési ciklusokkal és átlátható pályázati szabályokkal. A filmgyártás nem működhet ad hoc politikai döntések mellett.
+» A támogatási rendszert szakmai és piaci szempontokra építjük, biztosítva, hogy a közpénzből támogatott filmek valódi kulturális, fesztivál- vagy piaci értéket képviseljenek. A döntéshozatalban a szakmai autonómia elsőbbséget élvez.
+» Megőrizzük és erősítjük Magyarország vonzerejét a nemzetközi produkciók számára, stabil adókedvezményekkel, gyors és kiszámítható adminisztrációval, valamint megbízható állami partneri működéssel.
+» Megvédjük a hazai filmes ökoszisztémát és a benne dolgozók megélhetését, mert egy leépülő szakembergárdát nem lehet egyik évről a másikra újra felépíteni.
+» Biztosítjuk a filmipari intézmények szakmai függetlenségét, különös tekintettel a Nemzeti Filmintézet működésére.
+
+
+Műemlékvédelem – Problémák Magyarországon jelenleg nincs műemléki csúcsszerv, mivel azt a 2010 óta hatalmon lévő kormány módszeresen felszámolta.
+» 2012-től több lépésben megszüntették az addigi műemlékvédelmi intézményi struktúrát, méghozzá annak érdekében, hogy a közpénzpazarló építőipari beruházások elől minden akadályt elhárítsanak.
+» A hatósági tevékenységet szándékosan elszakították a műemlékes szakma megmaradt részétől, majd a kormányhivatalokba beolvasztva közvetlen politikai irányítás alá helyezték azt.
+» Az egyes műemléki beavatkozások engedélyezése során a szakmai kívánalmak ritkán jelennek meg, a döntések így alapvetően politikai szempontokat tükröznek.
+» A kormány gazdasági holdudvara és egyéb kedvezményezettjei minden lehetséges pénzügyi forrást megkapnak, de semmilyen műemléki kötelezettséget nem lehet számonkérni rajtuk. A műemléki jogcímen vagy inkább ürüggyel elköltött tíz- és százmilliárdokat többnyire túlárazott beruházásokra fecsérlik el.
+» A kormány által nyújtott pénzügyi keretek valójában az építőipar baráti szereplőinek feltőkésítését szolgálják.
+» Mindeközben a minimális összegek is hiányoznak ahhoz, hogy az alapvetően rossz állapotú védett állomány valós problémáit kezelni lehessen.
+» Az állami tulajdonú műemlékek többsége éppúgy leromlott állapotú, ahogy az önkormányzati és magánkézben lévők.
+» A valódi problémák nincsenek kezelve. Már nem létező épületek vasbetonból kiöntött utánzataira, azaz replikagyártásra megy el a közpénzmilliárdok java.
+» Az ily módon felújított épületek gyakran magánkézbe vagy ismeretlen hátterű tulajdonosi csoportokhoz kerülnek, sokszor üresen állnak, a közösségi hasznosítási lehetőségük megszűnik. Az indokolatlan túlköltekezés a felbecsülhetetlen értékű állami műemlékvagyon elherdálásával és a klientúrának történő átjátszásával párosul.
+» A magyar kastélyállomány legjavát kitevő, állami tulajdonú főúri lakokat ingyen osztogatják baráti cégeknek.
+» A legfontosabb, minisztériumi rendeltetésű és egyéb közfunkciót betöltő műemlékeket vagy eladták, vagy el akarják adni, így a közvagyon nemcsak értékes reprezentatív helyszínekkel lesz szegényebb, de egyúttal azok fizikai megmaradása sem garantált.
+» Se szeri, se száma azoknak a visszaéléseknek, amelyek által műemlékek részbeni vagy teljes megsemmisítését segítették elő, hol a védettség jogellenes megszüntetésével, hol politikai nyomásgyakorlás útján.
+
+
+Műemlékvédelem – Vállalásaink A műemlékeket nem múltidéző díszleteknek, hanem a nemzeti önazonosság és az európai kulturális közösség élő részeinek tekintjük.
+» A valódi értékek megőrzését és a történelmi örökség méltó hasznosítását fogjuk szolgálni, mert a műemlékvédelem léte egy európai országban civilizációs minimum.
+» Ezeréves államiságunkat végigkísérik a műemlékek, így kötelességünk a ránk származott kulturális hagyatékot tovább örökíteni, hazafiként és kultúremberként egyaránt. Biztosítani fogjuk a műemlékvédelem szakmai önállóságát és a műemlékeink védelmét.
+» A műemlékvédelem visszanyeri szakmai önállóságát, intézményi rangját és erkölcsi súlyát.
+» Újjászervezzük a műemlékvédelem intézményrendszerét, önálló, más ágazatoktól független csúcsszervet és jogi szabályozást biztosítva számára, amely éppúgy felöleli a hatósági struktúrát, mint a tudományos apparátust és gyűjteményeket, valamint az állami tulajdonú kiemelt műemlékek kezelését.
+» Visszavesszük az időközben elbocsátott, de még aktív korú és dolgozni vágyó személyi állományt, és az utánpótlás kinevelését is megkezdjük.
+» Ismét szakmai és minőségi szempontok fogják vezérelni a felújításokat, hogy ne a politikai motiváció vagy a klientúraépítés határozza meg a támogatandó célokat.
+» Leállítjuk a gazdaságtalan, szakmaiatlan, felesleges vagy olykor egyenesen értékromboló beruházásokat, továbbá intézkedünk a kiárusított műemlékek visszaszerzéséről.
+» Felújítási terveket készítünk az állami tulajdonú műemlékek állapotának ütemezett és „rászorultsági” elven alapuló konszolidálására, illetve a történelmi belvárosok rehabilitációjára.
+» Biztosítjuk a műemlék-tulajdonosok számára a szakmai segítséget, illetve a megfelelő anyagi ösztönzőrendszert, hogy a folyamatos karbantartás révén elkerülhető legyen az értékek ma tapasztalható leromlása, s így folytonos állagvédelem válthassa fel az 50 évenkénti kampányszerű beavatkozásokat, valamint a szakszerűtlen alkalmi toldozgatást. Visszaszerezzük az elherdált műemlékeket.
+» Felülvizsgáljuk a kastélyprogramot és az összes olyan ügyletet, amelynek során értékes műemléképületek ingyenesen vagy más módon átadásra kerültek piaci szereplőknek vagy magánszemélyeknek.
+» Minden olyan esetben, ahol az ügylet nem volt jogszerű, az államot kár érte, megtesszük a szükséges jogi lépéseket a műemlékek visszaszerzése és/vagy az állam kártalanítása érdekében.
+
+
+# 4. TISZTA ÉS HALADÓ ORSZÁG – FENNTARTHATÓSÁG ÉS JÖVŐÁLLÓSÁG
+
+4.
+
+
+## 4.1. Zöld Magyarország
+
+Tiszta víz, jó levegő, egészséges környezet
+» Szigorúan ellenőrizzük a környezetvédelmi előírások betartását, a szennyezőket gyorsan és hatékonyan szankcionáljuk.
+» Magyarországot újra vízmegtartó országgá tesszük.
+» Megvédjük a folyóvizeinket, a tavainkat, és egyben mindenki számára hozzáférhetővé tesszük azokat.
+» Összehangolt szakpolitikai intézkedésekkel 2030-ra minden településen csökkentjük a levegőszennyezést és célul tűzzük ki, hogy az év 95 százalékában az egészségügyi határérték alá szorítjuk.
+» Felülvizsgáljuk a MOHU Zrt. 35 évre szóló hulladékkoncessziós szerződését, és olcsóbb, igazságos, átlátható rendszert vezetünk be, ezáltal csökkentjük a hazai vállalkozások költségeit.
+» A regionális és természeti adottságok figyelembe vételével visszaépítjük az önálló természetvédelmi, környezetvédelmi és vízvédelmi hatósági rendszert, biztosítjuk annak szakmai függetlenségét.
+» Felülvizsgáljuk az elmúlt 16 év széndioxidkvóta kereskedelmével kapcsolatos döntéseket.
+» Önálló szervet hozunk létre a súlyosan szennyező iparágak és tevékenységek, kiemelten az akkumulátoripari beruházások folyamatos vizsgálatára.
+
+
+Bevezető Magyarország gyönyörű ország. Erdők, folyók, tavak, termékeny földek, élhető települések – ez a mi otthonunk. Mégis azt érezzük egyre többen, hogy valami elromlott körülöttünk. A nyarak perzselnek, a föld kiszárad, a vizeink apadnak, a levegő sok helyen szennyezett, az utak mentén szemét hever. A környezet- és természetvédelem nem valami nagyvárosi, zöld hóbort, hanem mindannyiunk életminőségének, társadalmi, gazdasági jóllétünknek az alapja. Arról szól, hogy lesz-e tiszta ivóvíz a csapban és a kutakban, árnyék a nyári hőségben, termés a földeken, és egészségesek lesznek-e a gyermekeink. Mára már nem csak a gyermekeinkért és az unokáinkért, hanem saját életünkért is cselekednünk kell, a lehető legrövidebb időn belül. A közhiedelemmel ellentétben Magyarország vízben szegény ország, egy olyan kád, amiből kihúzták a dugót. Az évtizedek óta elhibázott és elavult vízgazdálkodási szemlélet, az állandó vízelvezetésre kialakított csatorna- és árokrendszerek miatt az esővizet és a folyóink vizét gyorsan elvezetjük a földekről, ahelyett, hogy megtartanánk a szárazabb időszakokra. A csapadékkal a termőföld nagy része is lemosódik, majd a maradékot az aszály miatt a szél elviszi, pedig megfelelő talajvédelemmel és -gazdálkodással a terméssel együtt megóvhatnánk azt is. A hulladékgazdálkodásban káosz uralkodik értékteremtés helyett. A rendszer drága, az újrahasznosítás aránya európai viszonylatban alacsony, és ellenőrizetlenül terjednek az illegális lerakók, a hulladék útja követhetetlen. A felhagyott bányagödröket sok helyen hulladékkal töltik fel, ami további egészségügyi és környezeti kockázatot jelent a lakosságra és az élővilágra egyaránt. Elég volt! A környezet védelmét, a természetvédelmet és a vízgazdálkodást nemzeti üggyé tesszük. Célul tűzzük ki a fenntarthatóságot. A természeti erőforrásokkal úgy gazdálkodunk, hogy megőrizzük azokat a jövő nemzedékek számára. Vigyázni fogunk a felszíni és a felszín alatti vizeink tisztaságára, helyrehozzuk az elrontott vízgazdálkodást. A vizet megtartjuk a magyar tájban, hogy a mi mezőgazdaságunkat szolgálja, ahelyett, hogy értékteremtés nélkül elhagyja az országot. Rendbe tesszük a hulladékgazdálkodást, felszámoljuk az illegális hulladéklerakást, és megtisztítjuk a környezetünket. Visszaadjuk a környezetvédelem szakmai erejét és becsületét, mert a jövőnket nem lehet szemétre dobni. Vigyázzunk arra, ami pótolhatatlan, és ami nélkül nincs élet: a földre, a vízre, a levegőre és az élővilágra!
+
+
+Környezet- és természetvédelem – Problémák Magyarország csodálatos ország, Európán belül is kiemelten sok természeti kinccsel rendelkezik. Ezt az ékszerdobozt a jelenlegi rendszer támogatásával most csak kirabolják, ezért mindez súlyos veszélyben van.
+» Környezetünk, a körülöttünk lévő természet, a levegőnk és a vizeink nincsenek jó állapotban.
+» A jelenlegi kormány számára a környezet- és természetvédelem egyáltalán nem fontos, leépítették annak intézményrendszerét, és ezzel lehetővé tették a természeti kincseink mértéktelen kihasználását. Három súlyos környezeti válság fenyegeti Magyarországot.
+» A három válságtényező az éghajlatváltozás, a biológiai sokféleség csökkenése és a környezeti elemek (víz, levegő, talaj) állapotromlása.
+» A változások drámaiak. Ha a helyzet a jelenlegi tempóban folytatódik, gyermekeink, unokáink élhetetlen országot kapnak örökségbe.
+» Magyarországon évi 13 ezer ember halálát okozza a légszennyezettség, ami duplája az uniós átlagnak.
+» A termőtalaj állapota katasztrofális, a benne lévő biomassza mennyisége rohamosan csökken.
+» Hazánk vízgazdálkodása teljesen elhanyagolt, ezermilliárdok hiányoznak a rendszerből.
+» A megváltozott klímához való alkalmazkodás helyett pénzelvonások, sokéves tétlenség, és néhány látványos, de szakmailag kérdéses akció jellemzi a kormány tevékenységét.
+» Miközben vizeink 97%-a külföldről érkezik, vízmegtartó képességünk gyenge, teljes országrészeket fenyeget az elsivatagosodás (pl. Homokhátság), amihez szakmai és társadalmi egyeztetésen alapuló megoldásra van szükség, nem újabb átgondolatlan óriásberuházásokra, amik csak a korrupciós kockázatokat erősítik.
+» A környezetszennyezés és a klímaváltozás hatásai mindig a legszegényebb rétegeket terhelik a legjobban. A környezet- és természetvédelem intézményrendszere meggyengült.
+» A környezet- és természetvédelem szabályozási és intézményi rendszere leépült, alig néhány szakember maradt a közigazgatásban.
+» A hatóság eszközállománya nem megfelelő, az ellenőrzések nem hatékonyak.
+» A hatósági munka leértékelődött, a közszolgálati bérek alacsonyak.
+» A nemzeti parkok forráshiánnyal küzdenek, a témával foglalkozó civil törekvéseket korlátozzák.
+
+
+A gazdasági érdekek felülírják a környezetvédelmet, a környezettudatosság alacsony szintű.
+» A gazdasági lobbi és a „kiemelt” beruházási érdekek felülírják a környezetvédelmi szempontokat.
+» A hatóságok nem függetlenek, a döntéshozatal során a szakmai szempontokat felülírják a szűk érdekcsoportokat előtérbe helyező politikai utasítások, így a környezetet károsító vagy annak erőforrásait túlzottan igénybe vevő fejlesztések, például az egyes akkumulátoripari beruházások.
+» Az indokolatlanul kiemelt beruházások száma a sokszorosára nőtt, kikerülendő a környezetvédelemi előírásokat
+» Az oktatás és a média különböző szintjein alig jelenik meg a környezeti szemléletformálás.
+» Környezettudatosságunk jelentősen fejlesztésre szorul.
+» Az erdő-, hal- és vadgazdálkodást nem fenntartható környezetvédelmi szempontok mentén irányítják. Környezet- és természetvédelem – Vállalásaink Helyreállítjuk és megerősítjük a környezetvédelem intézményeit, hogy azok valóban az élő környezetünket, és ne a szennyezőket védjék.
+» Létrehozzuk az élő környezetünket óvó, a természeti erőforrások (víz, talaj, biodiverzitás, táj) és a környezetvédelem alrendszereit integráló, önálló minisztériumot a fenntartható természetierőforrás-gazdálkodás garanciájaként. Helyreállítjuk a környezet-, a természet- és a vízvédelem jogszabályi és intézményi rendszerét.
+» A regionális és természeti adottságok figyelembe vételével visszaépítjük az önálló természetvédelmi, környezetvédelmi és vízvédelmi hatósági rendszert, biztosítjuk annak szakmai függetlenségét.
+» Önálló szervet hozunk létre a súlyosan szennyező iparágak és tevékenységek, kiemelten az akkumulátoripari beruházások folyamatos vizsgálatára.
+» Országosan megerősítjük a Természetvédelmi Őrszolgálatot. Megduplázzuk a természetvédelmi kezelés és ellenőrzés erejét: több terepi jelenlétet, jobb eszközöket és kiszámítható finanszírozást adunk a Nemzeti Park Igazgatóságoknak és a Természetvédelmi Őrszolgálatnak, mert nincs védelem végrehajtás nélkül.
+» A Vízügyi Igazgatóságok által kezelt természetes vizeink minőségi és mennyiségi felügyeletét kiterjesztett monitoring- és laboratóriumi hálózattal erősítjük meg.
+» A környezeti adatokhoz mindenki által hozzáférhető, nyilvános, valós idejű elektronikus adatbázist hozunk létre, teljes körű környezetvédelmi tájékoztató rendszert alakítunk ki.
+» A környezetvédelmi, természetvédelmi és vízügyi hatósági dolgozók
+
+
+megbecsülése, a korrupció megelőzése és a szakmaiság erősítése érdekében versenyképessé tesszük a fizetéseket, biztosítva ezzel, hogy a munkájuk valódi értéket kapjon. Szigorúan ellenőrizzük a környezetvédelmi előírások betartását.
+» Szigorú és rendszeres ellenőrzéseket vezetünk be a környezet megóvása érdekében. A környezetre kiemelt veszélyt jelentő beruházások esetében online, folyamatos monitoringrendszereket alkalmazását írjuk elő, hogy ne lehessen az ellenőrzéseket megkerülni, azonnal lehessen reagálni a változásokra a mihamarabbi kárelhárítás érdekében.
+» Felülvizsgáljuk a kiemelt környezetterheléssel járó beruházásokra kiadott az engedélyeket.
+» Szigorítjuk a környezetvédelmi tervezés rendszerét, a környezeti dokumentációkért a szakmai és a jogi felelősségvállalást is kötelezővé tesszük.
+» Szakmai minősítő rendszert dolgozunk ki a tervezők számára, hogy a jövőben az elérhető legjobb technikának és tudásnak, valamint a jogszabályoknak megfelelő dokumentumok készüljenek.
+» Megerősítjük a hatósági laboratóriumi rendszert, emellett támogatjuk a független laboratóriumok létrejöttét is.
+» A szennyező fizet elvének érvényesítése érdekében a környezetkárosító cégek bírságát közvetlenül a környezet helyreállítására fordítjuk.
+» Felülvizsgáljuk az akkumulátorgyárak működését, és biztosítjuk, hogy ne veszélyeztessék a környezetet. Megvédjük és fejlesztjük a nemzeti parkokat és a Natura 2000 területeket.
+» Zéró toleranciát vezetünk be a védett és a Natura 2000 területen belüli jogsértő beépítésekre: országos, nyilvános ingatlan- és engedély-felülvizsgálatot rendelünk el.
+» Ideiglenes „zöld stop-ot” vezetünk be a legérzékenyebb védett és Natura 2000 zónákban: amíg a felülvizsgálat le nem zárul, a kiemelt kockázatú, nagy területfoglalású turisztikai és ingatlanfejlesztéseket felfüggesztjük, hogy ne utólag kelljen kármentesíteni.
+» Átláthatóvá és szigorúbbá tesszük a Natura 2000 engedélyezést: minden jelentős kockázatú beruházásnál kötelezővé és nyilvánossá tes�szük a Natura 2000 hatásbecslést.
+» Megvédjük Magyarország természeti örökségét: a nemzeti parkok és a Natura 2000 területek védelmét bővülő finanszírozással, erősebb jogérvényesítéssel és nyilvánosan átláthatóbb engedélyezéssel tes�szük valódi, működő rendszerré.
+» A helyi lakosok természeti környezetének megóvása és az országos jelentőségű értékeink érdekében 16 év után ismét lesz lehetőség új, védett területek kijelölésére széles körű szakmai és lakossági egyeztetéssel.
+» A Natura 2000-t nem papíron védjük, hanem a földön: mivel a hálózat
+
+
+kb. 1,95 millió hektárt, az ország ~21%-át érinti, célzott programot indítunk élőhely-helyreállításra, vizes élőhelyekre és a fenntartási tervek végrehajtására, valamint ezeken a területeken természetkímélő gazdálkodás támogatására, összehangolva az uniós agrárpolitikai támogatásokkal.
+» A vadgazdálkodást a természet eltartó képességéhez igazítjuk, a gazdálkodókkal és a helyi lakossággal történő együttműködést erősítjük, hogy megteremtsük az összhangot. Forrást, tudást és eszközt adunk a környezet megőrzéséhez.
+» Rendezzük a nemzeti parkok forráshiányát, és megerősítjük a hatásköreiket.
+» Megerősítjük a kutatás-fejlesztést, az ismeretátadást és a szemléletformálást a szektorban.
+» Újraindítjuk részvételünket az európai és más nemzetközi környezetvédelmi együttműködésekben.
+» Hangsúlyossá tesszük az oktatási rendszer minden szintjén a környezeti tudatosságra nevelést.
+» Bővítjük a szakmai szervezetek és érdekképviseletek bevonását a törvényhozásba és a jelentősebb szakmai döntésekbe. Az energiapolitikával összehangoltan csökkentjük a szén-dioxid kibocsátást.
+» Évente 1 millió tonnával növeljük a szén-dioxid-nyelő kapacitást.
+» Vissza nem térítendő forrásokkal és kedvezményes hitelekkel támogatjuk az alacsony kibocsátású technológiák terjedését. 2030-ra minden településen csökkentjük a levegőszennyezést és célul tűzzük ki, hogy az év 95 százalékában az egészségügyi határérték alá szorítsuk.
+» Támogatjuk a közösségi közlekedésben az elektromos buszok használatát.
+» Támogatjuk a tiszta energiát használó beruházásokat, mert ez biztosítja, hogy az emberek tisztább, egészségesebb környezetben éljenek.
+» Fejlesztjük a vasúti közlekedést az áru- és a személyszállításban egyaránt, ezzel csökkentjük a környezetterhelést.
+» Szociális alapú légszennyezés-csökkentési programokat indítunk (tüzelőberendezés-csere, házszigetelés és távfűtési hálózat bővítése).
+» Mindemellett megtartjuk és kibővítjük a szociális tüzifa programokat, hogy ezzel is csökkentsük a szociális kényszerből fakadó szemétégetés okozta levegőszennyezési problémát.
+» Felülvizsgáljuk a környezetszennyező nagyberuházások engedélyeit.
+
+
+Vízügy – Problémák Magyarország vízben szegény ország, vízháztartása tartósan kedvezőtlen.
+» A hazai felszíni vizek több mint 97%-a a határainkon túlról származik, Magyarország vízfüggősége a legmagasabb az Unióban, a belső megújuló vízkészletünk pedig a legalacsonyabb. Egy főre eső belső és külső megújuló vízkészlet (m³/fő), valamint a függőségi ráta (%) az Európai Unió tagországaiban, 2020 (forrás: FAO) 10 000 20 000 30 000 Hollandia Románia Szlovákia Luxemburg Horvátország Lettország Portugália Szlovénia Litvánia Belgium Németország EU-átlag Ausztria V3 átlag Görögország Lengyelország Írország Franciaország Olaszország Finnország Svédország Bulgária Észtország Spanyolország Ciprus Csehország Dánia Málta Függőségi ráta (%) Külső készlet (m³/fő) Belső készlet (m³/fő)
+» A klímaváltozás következtében nemcsak a vízkészletek mennyisége, hanem azok időbeli és térbeli eloszlása is szélsőségessé vált: egyre gyakoribbak az elhúzódó aszályos időszakok, miközben rövid idő alatt lehulló, intenzív csapadékok jelentkeznek, amelyek a jelenlegi rendszerben nem hasznosulnak, hanem gyorsan elfolynak az országból.
+» Magyarország vízháztartási egyenlege negatív: több víz távozik, mint amennyi érkezik, sok helyen csökken a felszíni és a felszín alatti víz szintje, helyenként akár 3-5 méterrel is.
+» A vízgyűjtőterületek természetes működését az elmúlt másfél évszázad folyószabályozásai, lecsapolásai és belvízelvezetései súlyosan károsították: a folyók ártereinek több mint 90%-a eltűnt, a táj vízvisszatartó képessége összeomlott.
+» Hiányzik a folyókkal és vízfolyásokkal foglalkozó, fenntartható politikai irányítás.
+
+
+A vizek állapota aggasztó, a jó vízminőség ritka.
+» A hazai vízfolyások mindössze 11%-a van kiváló vagy jó ökológiai állapotban; 89% gyengébb a jónál, a legtöbb vizünk mérsékelt minőségű.
+» A felszín alatti vizek minősége is aggodalomra ad okot, folyamatosan romlik az ellenőrizetlen szennyezések miatt.
+» A mezőgazdasági vegyszerek, a nem megfelelően kezelt kommunális és ipari szennyvizek, valamint az újonnan megjelenő szennyezőanyagok (gyógyszermaradványok, hormonok, mikroműanyagok) érdemi kontroll nélkül kerülnek vissza a vizekbe, hosszú távon veszélyeztetve az ivóvízbázisokat és az élővilágot. A vízgazdálkodás forráshiányos, szemlélete elavult, ami gyorsítja a kiszáradást.
+» A jelenlegi kormány teljesen elhanyagolta a vízgazdálkodás infrastruktúráját, a csatornákat, szivattyúkat, zsilipeket. A terület súlyosan forráshiányos.
+» A „minél több vizet minél gyorsabban levezetni” szemlélet uralja a vízügyi gondolkodást; a vízmegtartás csak kevés helyen jelenik meg.
+» A tájakból elvezetik a vizet a helyben tartás helyett, így a klímaváltozás mellett mi magunk is gyorsítjuk a kiszáradást, a talajvíz szintjének sül�lyedését, és súlyosbítjuk az aszályt.
+» A vízproblémák jelentős része nem kizárólag vízügyi kérdés: az agrárium, az erdészet, a településfejlesztés és az ipar jelenlegi gyakorlatai is hozzájárulnak a táj kiszárításához. A megoldás ezért nem lehet pusztán műszaki, ágazatközi együttműködés nélkül. A víziközművek állapota katasztrofális, az ivóvízhálózat elöregedett.
+» A vízkivételek és a szennyező anyagok nyomon követése elégtelen; az országos laborhálózatot leválasztották a környezetvédelmi hatóságról, és az nem működik megfelelően.
+» Az ivóvízhálózat leromlott és korszerűtlen; a hálózati veszteség hatalmas (15–60%!), 14 év alatt közel 2,3 milliárd m³országosan.
+» A víziközművek korszerűsítésére 2–3 ezer milliárd forint lenne szükséges. A nagy tavak és a geotermikus erőforrásaink kezelése nem megfelelő.
+» A Balaton és más nagy tavak vízszintje és minősége fejlesztésre szorul.
+» A termálvizek turisztikai hasznosítása adott, de más gazdasági lehetőségei nincsenek kellően kihasználva.
+» A Hévízi-tó vízutánpótlását és a budapesti hőforrásokat kormányközeli cégekhez tartozó szállodaberuházások veszélyeztetik.
+
+
+» A nagy tavak partjain a túlzott beépítés, a nádasirtás és a természetes partszakaszok felszámolása közvetlenül rontja a vízminőséget és a vízszintstabilitást, miközben csökkenti a lakosság szabad hozzáférését a vizekhez. Vízügy – Vállalásaink Magyarországot újra vízmegtartó országgá tesszük.
+» A vízre nem problémaként, hanem megoldásként tekintünk: célunk Magyarország „újrahidratálása”, a táj vízvisszatartó képességének helyreállítása.
+» Visszaállítjuk a nagy szakmai önállósággal működő, egyben erős és gyors helyi cselekvési kompetenciákkal bíró, vízgyűjtőalapú, integrált szakigazgatási intézményrendszert.
+» Az intézményrendszert politikamentessé tesszük, a politikai kinevezetteket szakmai alapon kiválasztott vezetők váltják.
+» Megerősítjük a környezetvédelmi, vízvédelmi és természetvédelmi hatóságok függetlenségét, helyreállítjuk az országos monitoring- és laborhálózatot.
+» Komplex, több ágazatot érintő, térségi vízmegtartó beruházásokat indítunk.
+» Javítjuk a Homokhátság vízmegtartását.
+» Rendezzük a Tisza és a Duna medrét, a lakossággal és a gazdákkal egyeztetve plusz beruházásokat biztosítunk, új vizes élőhelyeket hozunk létre.
+» A kisvízgyűjtők, patakok, mellékágak és holtágak revitalizációját országos programmá tesszük.
+» Korszerűsítjük az öntözést, növeljük a talaj vízmegtartó képességét, támogatjuk a csapadékvíz visszatartását.
+» Támogatjuk a precíziós gazdálkodást, a vízvisszatartást, a kettős hasznosítású csatornákat, valamint a regionális vízmegőrző társulatok létrehozását a talajvíz stabilizálása érdekében.
+» Komplex tájhasználati és vízgazdálkodási programot indítunk: feltérképezzük a vízvisszatartásra és fásításra alkalmas térségeket, regionális erdősítést és mezővédő erdősávokat hozunk létre, összehangolva a mezőgazdasági termelést, a klímaalkalmazkodást és a természetvédelmet. A talajt mint a legnagyobb természetes víztározót kezeljük: támogatjuk a talajkímélő, vízmegtartó mezőgazdasági gyakorlatokat és az erózió csökkentését.
+» Bevezetjük a „szivacsváros” szemléletet az építésben és városüzemeltetésben: kötelezővé tesszük a vízmegtartási szempontok figyelembevételét minden városfejlesztési beruházásnál, ösztönözzük a kék- és zöldtetők, esőkertek, szikkasztóárkok, esővízgyűjtők és záportározók létesítését, és folytatjuk a szennyvíztől elválasztott csapadékvíz-elvezető rendszerek kiépítését a csatornahálózat tehermentesítésére.
+
+
+A vízhasználatot a táj teherbírásához igazítjuk, és javítjuk a vízminőséget.
+» A vízfelhasználási igényeket a tájak fenntartható vízmérlegéhez igazítjuk.
+» 2030-ig javítjuk vizeink minőségét, és ezekhez – mint közjavakhoz – egyenlő hozzáférést biztosítunk minden magyar számára.
+» A nagy vízfelhasználók vízkivételeit mérhetővé és ellenőrizhetővé tes�szük, az ivóvízbázisokat kiemelt alkotmányos védelemben részesítjük.
+» A szennyvízkezelés és más szennyező források fejlesztése mellett vízminőség-javító intézkedéseket vezetünk be.
+» A geotermikus megújuló energiák felhasználását mind az ipari, mind a lakossági fűtési, valamint kertészeti célokra támogatjuk a környezeti fenntarthatóság mértékéig.
+» A termálvízhasználatot visszasajtolási kötelezettséggel tesszük fenntarthatóvá, megőrizve a jövő generációk vízkészleteit. Célzott programokkal és a lakosság bevonásával védjük a nagy tavakat, és egyben hozzáférhetővé tesszük azokat a nagyközönség számára.
+» Mérsékeljük a Velencei-tó vízügyi gondjait.
+» Programot indítunk a Balaton megmentéséért.
+» Fellépünk a nádasirtások, a vízpartok túlzott beépítése ellen.
+» Megállítjuk a természetes partszakaszok további felszámolását, és felülvizsgáljuk a vízparti beruházásokat.
+» Biztosítjuk vizeink hozzáférhetőségét, megőrizzük a szabadstrandokat, és bővítjük azok számát, hogy minél többen tudjanak ingyenesen, a természetben kikapcsolódni. Hosszú távon korszerűsítjük az ivóvízhálózatot.
+» Hosszú távú ivóvízhálózat-korszerűsítési programot indítunk, évenkénti, érdemi finanszírozás mellett.
+» Érdemben csökkentjük a hálózati vízveszteséget a költséghatékonyan elérhető és még elfogadható 15-20%-os szintig.
+» Támogatjuk a települési vízvisszatartást, ennek beillesztését az építési szabályozásba és a települési rendezési tervekbe. Az önkormányzatokon keresztül forrást biztosítunk az esővízgyűjtők támogatására a lakosság részére.
+
+
+Hulladékgazdálkodás – Problémák Az utcák sok helyen szemetesek, az építési–bontási hulladék kezelése rendezetlen, az illegális lerakás terjed.
+» Az utcák sok helyen szemetesek, nincs rend és tisztaság.
+» Az építési–bontási hulladékok elhelyezése rendezetlen, az illegális lerakások száma nő, a hulladék útja követhetetlen.
+» A hatósági rendszer nem működik hatékonyan, az önkormányzati jogkörök kiüresítése tovább rontja a hulladékgazdálkodás szakmai és társadalmi elfogadottságát. A hulladékgazdálkodás központosított kiszervezése komoly problémákat okozott és jelentős költségnövekedést jelent a hazai cégeknek.
+» A kormány 35 évre koncesszióba adta a MOL-csoporthoz tartozó MOHU Zrt.-nek a hulladékgazdálkodást.
+» A MOHU Zrt. a rendszer induláskor sem a szükséges technológiai, sem a működési feltételekkel nem rendelkezett, ezért káosz alakult ki, csökkent a hulladékhasznosítás aránya.
+» A hazai vállalatok által fizetendő EPR-díjak (kiterjesztett gyártói felelősségvállalás) uniós összevetésben kiemelkedően magasak, miközben a begyűjtés és az ártalmatlanítás minősége rossz. Ez növeli az árakat, a cégek költségeit, és rontja a cégek versenyképességét.
+» A MOHU Zrt. adatszolgáltatása késleltetett és átláthatatlan. A szerződésben vállalt kötelezettségeit nem teljesíti. A vállalkozások által a csomagolások után fizetendő hulladékkezelési díjak (mrd Ft), 2020 (forrás: Packaging Recovery Organisation Europe, G7 számítás) Magyarország - MOL-rendszer Csehország Svédország Észtország Luxemburg Szlovénia Magyarország - termékdíj Horvátország Ausztria Egyesült Királyság Bulgária Románia Írország Görögország Észak-Macedónia Bosznia-Hercegovina Műanyag Papír és karton Fém Fa
+
+
+A körforgásos gazdaság nem épült ki, a hulladék nem vált értékké.
+» Nem jött létre valódi körforgásos rendszer: a hulladék kezelése kiváltságos cégek monopóliuma maradt, ahelyett, hogy közösségi értéket teremtene.
+» A szerves hulladék biomassza-alapú hasznosítása gyerekcipőben jár, pedig ez jelentős, kiaknázatlan lehetőség az ország számára.
+» A kormány jogszabályi lehetőséget teremtett a felhagyott bányagödrök hulladékkal való feltöltésére, ami jelentős környezeti problémákat okoz. A szemléletformálás és az ösztönzők hiánya fékezi az előrelépést.
+» A környezettudatos magatartást segítő programok és a digitális ösztönző rendszerek bevezetése késik, ami súlyosan hátráltatja a fenntartható hulladékgazdálkodást. Hulladékgazdálkodás – Vállalásaink Átlátható, versenyképes és fenntartható hulladékgazdálkodást építünk.
+» Felülvizsgáljuk a MOHU Zrt. 35 évre szóló hulladékkoncessziós szerződését, és igazságos, átlátható rendszert vezetünk be.
+» Csökkentjük az EPR-díjakat, ezáltal a hazai vállalkozások költségeit, és a hazai cégek versenyképességének védelmében új, fenntartható díjstruktúrát alakítunk ki.
+» 2030-ra legalább 55%-ra növeljük az újrahasznosítási arányt a települési hulladék kezelésében. Megállítjuk a szemetelést, az illegális lerakást, és országos nagytakarítást végzünk.
+» Szigorúbban fellépünk a szemetelés ellen, megemeljük a bírságtételeket.
+» Szigorú, igazságos szabályozással, gyors beavatkozási lehetőségekkel, erős társadalmi tájékoztatással és oktatással – az önkormányzatok, civilek és megújuló vidéki ellenőrző hálózatok bevonásával – megállítjuk az illegális hulladéklerakás növekedését, és célzott program keretében 3 év alatt kitakarítjuk az országot.
+
+
+Rendet teszünk az építési-bontási és a zöldhulladék kezelésében.
+» Elérhető, egyszerűsített és ellenőrzött elhelyezési, újrahasznosítási rendszert biztosítunk az építési–bontási hulladékok és zöldhulladékok körében.
+» Támogatási programot indítunk a szabályozott újrahasználatra minden járásban, a helyi adottságok felmérése alapján.
+» A települési komposztálási lehetőségeket bővítjük, házi komposztálókat biztosítunk az önkormányzatokon keresztül.
+» Egyszerűsítjük a komposztálási engedélyezéseket.
+» Felülvizsgáljuk a rekultivációs célú hulladékhasznosítást, szigorú ellenőrzéseket, adatszolgáltatásokat és monitorozást vezetünk be.
+» Felülvizsgáljuk a környezeti állapot romlását lehetővé tevő engedélyeket.
+
+
+## 4.2. Erős hazai agrár- és élelmiszeripar
+
+Egészséges, megfizethető, magyar élelmiszer
+» 5%-ra csökkentjük az egészséges élelmiszerek áfáját, hogy a termelők versenyképesebbek legyenek a piacon, és a magyarok kön�nyebben hozzájuthassanak az egészséges hazai termékekhez.
+» A magyar agrárium erőforrás, amelyet akkor használunk felelősen, ha a lehető legtöbb honfitársunk számára biztosít tisztességes megélhetést.
+» Kiemelten támogatjuk a családi gazdálkodókat, fiatal gazdákat és a kis- és középvállalatokat.
+» Széles körben támogatjuk a rövid ellátási láncok kialakítását, a magas hozzáadott értékű termékek előállítását, a hatékony termelési technológiák elterjedését.
+» Visszaállítjuk a növény-, állat- és élelmiszer-egészségügyi szakhatóságok függetlenségét, garantáljuk a magyar hatóságok szemléletváltását, a gazdálkodókat segíteni és szolgálni fogjuk.
+» Megvédjük a magyar agrár- és élelmiszeripart az Unión kívüli harmadik országokból beáramló ellenőrizetlen, rossz minőségű terményektől és termékektől.
+» Kiállunk a közös uniós agrárpolitika vívmányai mellett, és nem engedjük, hogy 2028-tól kezdődő uniós költségvetési ciklusban csökkenjenek a magyar gazdáknak járó támogatások.
+» Felülvizsgáljuk a Földtörvényt, és az állami földek hasznosításakor előnyben részesítjük a tényleges gazdálkodást folytató fiatalokat és családokat.
+
+
+Bevezető Magyarország földje, vizei és éghajlata pótolhatatlan kincsek, amelyekre erős, biztonságot adó országot lehetne építeni. Mégis azt látjuk, hogy a magyar vidék lemarad, nincs munkalehetőség, a megélhetés bizonytalan, a fiatalok nem látnak jövőt maguk előtt. A jó adottságokat nem használjuk ki, a gazdálkodásból eredő haszon nem a helyi közösségeknél, hanem néhány kiváltságosnál landol. A mai agrárpolitika nem a gazdákat védi, hanem az oligarchákat. Nem a szorgalmat jutalmazza, hanem a kapcsolatokat. A kormány néhány száz oligarcha kedvéért feláldozta a magyar vidék jövőjét, és ezzel elvette a reményt azoktól, akik dolgozni és építkezni szeretnének. Számunkra az agrárium nem a múlt, hanem a jövő. Olyan Magyarországot építünk, ahol a föld nem politikai zsákmány, hanem közös nemzeti értékünk; ahol a gazdálkodásból tisztességesen meg lehet élni; ahol a tudás, a fenntarthatóság és a munka számít. Ahol az egészséges élelmiszer nem luxus, és ahol a vidék újra az ország erejének forrása lesz. Agrárpolitika és élelmiszeripar – Problémák Magyarország termőföldjei, éghajlata és vizei olyan adottságokat kínálnak, amelyekre egy teljes ország jövője épülhetne, de ezt nem használjuk ki.
+» Hazánkban még mindig kiváló agrártermelési természeti feltételek vannak, sokkal jobbak, mint számos nyugat-európai országban.
+» A jó adottságok kihasználatlanok, az ágazat termelékenysége messze elmarad a fejlettebb országokétól, pedig több a napsütéses óra, jobb a termőtalaj.
+» Az alapvetően jó agrárkörnyezeti adottságok romlanak, többek között a klímaváltozás és a nem megfelelő emberi beavatkozások miatt.
+» A természeti bőség és a hagyományosan erős agrárkultúra mára nem vált valódi versenyelőnnyé: a mezőgazdaság szerkezete elavult, a termelékenység gyenge, a helyi gazdaság pedig alig részesül a létrehozott értékből.
+» A gazdatársadalom elöregedett, a fiatalok nehezen jutnak földhöz és tőkéhez, hitelgaranciához, a tudás és az innováció háttérbe szorult.
+» A magyar agrárpolitika ma nem a vidéken élni és gazdálkodni kívánó családokat, hanem azt a néhány száz oligarchát támogatja, akik rátelepednek a vidékre, elszívják a forrásokat és a felemelkedési lehetőséget mások elől. A rezsim néhány száz kormányközeli család kedvéért feláldozta a magyar vidék jövőjét. A gazdatársadalom idősödik, és sokan nem rendelkeznek korszerű tudással.
+» Elöregedő gazdatársadalom jellemzi a magyar mezőgazdaságot; sok gazdának korszerű (pl. digitális, fenntarthatósági) ismeretekre lenne szüksége a hatékony gazdálkodáshoz és az előrelépéshez.
+
+
+» Gyakran korszerűtlen és környezetileg hosszú távon fenntarthatatlan gazdálkodás folyik a szektorban.
+» Jelentős számú kis- és családi gazdaság vesz részt a termelésben, amelyek korszerűsítésre és megerősítésre szorulnak. A birtokszerkezet torz, és ezt a támogatáspolitika tovább rontja.
+» Az uniós támogatáspolitika néhány száz kiválasztott oligarchát részesít előnyben, ami hatalmas birtokkoncentrációhoz vezetett.
+» A Közös Agrárpolitika (KAP) nem járul hozzá eléggé az agrárium fejlődéséhez, és ez alapvetően a kormány hibás szakpolitikájának a következménye. A támogatások rosszul célzottak, ezért nem hatékonyak.
+» A kormány 2025. december végén egy rejtett jogszabály-módosítással pénzügyi befektetők számára is megnyitotta a földpiacot, ezzel egy csapásra elárulta a korábban másfél évtizedig hangsúlyozott elvét, miszerint „a föld azé, aki megműveli”. Ez a lépés a földárak emelkedéséhez fog vezetni. Az agrárexportban az alacsony feldolgozottságú termékek dominálnak.
+» A magyar export 9%-át adja az agrárium, ami magas értéknek mondható. De ennek 75%-a feldolgozatlan vagy csak elsődleges feldolgozású termék, ami azt jelenti, hogy alacsony a magyar hozzáadott érték. A kiviteli cikkek között dominálnak a gabonafélék és az olajos magvak, míg a feldolgozott húskészítmények aránya alig 3%. Az agrár-külkereskedelem egyenlege (mrd EUR), 2014–2024, (forrás: Eurostat) 0,0 0,5 1,0 1,5 2,0 2,5 3,0 3,5 4,0 4,5 2014 2016 2018 2020 2022 2024 Másodlagos feldolgozottságú Elsődleges feldolgozottságú Feldolgozatlan termék
+
+
+» A feldolgozóipar fejletlen és alacsony kapacitással dolgozik; inkább nyersáru-előállítás zajlik, különösen az ökológiai termelésben (biogazdálkodásban).
+» A magasabb hozzáadott érték gyakran külföldön keletkezik, és jelentős élelmiszerimport áramlik vissza az országba.
+» A termelők többsége gyenge pozícióval rendelkezik az értékesítési láncban, az együttműködési hajlandóság alacsony. Agrárpolitika és élelmiszeripar – Vállalásaink Elérhetőbbé tesszük mindenki számára az egészséges élelmiszereket.
+» 5%-ra csökkentjük az egészséges élelmiszerek áfáját, hogy a termelők versenyképesebbek legyenek a piacon, és a magyarok könnyebben hozzájuthassanak az egészséges hazai termékekhez. A magyar agráriumot újra a nemzetgazdaság és a vidéki élet alapjává tesszük, ahol minden gazdálkodni vágyó fiatal, család megtalálhatja a számítását, ahol jó dolgozni, és tisztességesen meg lehet élni.
+» A jövő agrárpolitikája az önálló, fenntartható és tudásalapú gazdálkodásról szól, ahol a földre, a vízre és más természeti erőforrásokra nem politikai zsákmányként, hanem közös nemzeti értékként tekintünk.
+» A minőségre, fenntarthatóságra és tudásra épülő agrárgazdaságban látjuk Magyarország jövőjét, ahol a föld nem kizsákmányolás tárgya, hanem a megújuló élet alapja, és ahol az egészséges élelmiszerhez való hozzájutás nem luxus, hanem alapjog. Kiemelten támogatjuk a családi gazdálkodókat, fiatal gazdákat és a kis- és középvállalatokat.
+» Visszaállítjuk a növény-, állat- és élelmiszer-egészségügyi szakhatóságok függetlenségét.
+» Garantáljuk a magyar hatóságok szemléletváltását, a gazdálkodókat nem büntetni, zaklatni fogják, hanem segíteni és szolgálni.
+» Magyarország élelmiszerbiztonsága és a termelők érdekében támogatjuk a mérethatékonyságot.
+
+
+Támogatjuk a magasabb hozzáadott értékű termelést és a rövid, helyi ellátási láncokat.
+» Támogatjuk a környezetkímélő állattartást és a ráépülő élelmiszeripart.
+» Életet lehelünk a zöldség-gyümölcs termesztésbe és a kertészeti ágazatba.
+» Folyamatosan növeljük a biotermékek arányát a hazai termékmixben.
+» Támogatjuk a rövid, helyi ellátási láncok kialakulását: egyszerűsítjük a házi feldolgozás engedélyezését, a termékek ellenőrzését biztosítjuk, de csökkentjük a gazdálkodókra nehezedő adminisztratív terheket. Célzott, átlátható támogatásokkal erősítjük a termelőket és a termelés hatékonyságát.
+» Felerősítjük a birtok- és gazdaságátadási támogatások szerepét, helyzetbe hozva az új, fiatal belépőket az ágazatra jellemző korfa javítása és a modern szemléletek elterjesztése érdekében.
+» Uniós és nemzeti forrásból támogatjuk a szövetkezést ösztönző programokat, a TÉSZ-ek (termelői értékesítő szervezetek) alakítását és működését.
+» Széles körben támogatjuk a rövid ellátási láncok kialakítását, a magas hozzáadott értékű termékek előállítását, a hatékony termelési technológiák elterjedését.
+» A magas (egészséges) minőséget jutalmazó és a kisgazdaságokat előnyben részesítő támogatási rendszereket indítunk. Erősítjük a tudást és a finanszírozást a mezőgazdaságban.
+» Szakmailag megerősítjük a felelős szaktanácsadási rendszert.
+» Fokozzuk az állami hitelgarancia-rendszerek mellett a nem állami hitelezés szerepét a szektorban.
+» Támogatási konstrukciókat dolgozunk ki annak érdekében, hogy az ágazatban a gazdák egyre szélesebb körben tudjanak kedvezményes feltételekkel biztosítást kötni természeti károkra és járványhelyzetekre.
+
+
+## 4.3. Xantus János Állatvédelmi Program
+
+Megerősített állatvédelem
+» Megteremtjük a modern, európai szintű állatvédelem alapjait, szigorúan büntetjük az állatkínzást.
+» Országos hatáskörű állatjóléti hatóságot hozunk létre, amely ellenőrzési és elkobzási jogkörrel rendelkezik, és állatjóléti őröket foglalkoztat.
+» Minden megyeszékhelyen minősített állatmenhelyet hozunk létre.
+» Országos állativartalanítási programot indítunk.
+» Egységes, országos állatnyilvántartási adatbázist hozunk létre.
+» Az állatjólétet kiemelt szemponttá tesszük az agrárágazatban is.
+» Országos állatkertfejlesztési programot indítunk uniós forrásokból.
+» Állatvédelmi alapot hozunk létre a civil szervezetek kiemelt támogatására.
+
+
+Bevezető Hazánkban becslések szerint 50 millió állat él. Jelentős részük gazdasági haszonállat, és nagy csoportot alkotnak a házi kedvencek. Az állatok nyilvántartása és állományellenőrzése nem elégséges. Ma Magyarországon túl sok állat szenved feleslegesen. Sok gazda nem tudja hogyan kell vagy nem akar felelősen állatot tartani, a kóbor állatok száma nő, a menhelyek nem kapnak megfelelő állami segítséget. A TISZA célja, hogy Magyarország állatjóléti szempontból Európa élvonalába kerüljön, és a magyarországi minta jó példaként épülhessen be más európai országok hasonló rendszereibe. Állatvédelem – Problémák Az állatvédelem rendszerszintű válságban van, intézményi tehetetlenség jellemzi.
+» A feladatok túl sok intézmény között oszlanak meg, nincs egységes igazgatási rendszer, nincs egyetlen felelős szerv, amely az ellenőrzést, a végrehajtást és a koordinációt ellátná.
+» A hatóságok (jegyző, rendőrség, járási hivatal) nem rendelkeznek a szükséges jogszabályi és szakmai ismeretekkel, gyakran hárítják az ügyeket.
+» A gyepmesteri telepek és ebrendészeti szolgáltatók felügyelete sokszor formális, a visszaélések (állatkínzás, rossz tartási körülmények) gyakoriak.
+» A szabályozórendszer nagy része rendeleti szintű, nehezen követhető és gyakran ellentmondásos, ami akadályozza a betartatást. A felelős állattartás ismeretei nem terjedtek el.
+» Mindenkinek joga van állatot tartani, sokan élnek is ezzel a jogukkal, de a felelős állattartáshoz szükséges ismereteket sokan már nem sajátítják el.
+» A felelőtlen tartási gyakorlat széles körben elterjedt. A kutyákat sok helyen még mindig „eszközként” tartják: láncon, ingerszegény környezetben, oltások nélkül.
+» Hiányos a tudás a kutyák viselkedéséről, szükségleteiről, ami támadások, elhanyagolás és rossz szocializáció formájában jelenik meg.
+» A többi hobbiállatnál (pl. macskák, halak, hüllők, rovarok, madarak, apró emlősök) szintén gyakori a felelőtlen, az állatok jólétét veszélyeztető állattartás.
+» Az oktatás és a társadalmi érzékenyítés hiányos. Az állatvédelem alig jelenik meg a NAT-ban, nincsenek rendszeres iskolai programok. A lakosság jelentős része nincs tisztában az állattartás jogi előírásaival.
+
+
+Az állatok nyilvántartása hiányos, az állattartás így nem ellenőrizhető.
+» A kötelező chipbeültetések regisztrációja és kivezetése sokszor elmarad, aminek nincs jogi következménye. Egyes állatorvosok tömegesen vásárolnak chipeket ellenőrzés nélkül, ami az illegális állatkereskedelem egyik forrása.
+» Az ebösszeírások rendszertelenek, az önbevallásos rendszer miatt a valós adatok nem ismertek, az önkormányzatoknak nincs kapacitásuk az ellenőrzésre.
+» A menhelyi és gyepmesteri adatok átláthatatlanok. Hiányzik az egységes digitális nyilvántartás.
+» A kóbor állatok száma nagy, de pontosan nem ismert, a szaporulatuk kontrollálatlan, az ivartalanításra nincs pénz és szándék, a vírusfertőzések folyamatosan jelen vannak.
+» A kóbor állatok száma évente növekszik, közegészségügyi kockázatot okozva. A menhelyek és állatvédelemmel foglalkozó civil szervezetek válságban vannak.
+» A menhelyek túlterheltek és anyagi nehézségekkel küzdenek. A menhelyek többsége adományokból tartja fenn magát, miközben közfeladatot lát el.
+» Megjelentek a „megélhetési állatvédők”. Az adománygyűjtésben gyakoriak a visszaélések, a szervezetek működése átláthatatlan.
+» A lefoglalt állatok tartási költségei rendezetlenek. A menhelyek nem kapják vissza időben az állam által ígért térítéseket, ami működési válsághoz vezethet. Állatvédelmi problémák vannak a haszonállat-jóléti rendszerben is.
+» Magyarországon a tojások jelentős része ketreces tartásból származik.
+» Az állatcsapdák veszélyes eszközök súlyos következményekkel. A ragasztós és hattyúnyakcsapdák használata tömegesen pusztít védett fajokat is. A vadásztársaságok ellenőrzése sok esetben csak papíron történik meg.
+
+
+Állatvédelem – Vállalásaink Megteremtjük a modern, európai szintű állatvédelem alapjait.
+» Szigorítjuk a jogszabályokat, és következetes végrehajtást alakítunk ki.
+» Egységes igazgatási rendszert építünk fel, elvégezzük a jogharmonizációt.
+» Országos hatáskörű állatjóléti hatóságot hozunk létre, amely ellenőrzési és elkobzási jogkörrel rendelkezik, és állatjóléti őröket foglalkoztat. A hatóság országos hatáskörrel rendelkezik a gyeptelepek, menhelyek, jegyzők és állatorvosok felett.
+» Sértetti jogokat biztosítunk az állatvédő szervezeteknek, növelve a felderítés arányát, csökkentve az állatkínzás következmények nélkül maradását.
+» Pozitív listával szabályozzuk az otthon házi kedvencként tartható fajokat és a megfelelő tartási körülményeket.
+» Állatvédelmi Kamarát állítunk fel, minősítési, ellenőrzési és etikai felügyeleti jogkörrel.
+» Felülvizsgáljuk a tenyésztői, szaporítói szabályrendszert az állatjóléti szemponti szempontokat szem előtt tartva. Országos ivartalanítási programot indítunk.
+» Alacsony jövedelmű háztartások által is igénybe vehető, támogatott ivartalanítási programot indítunk.
+» Országos ivartalanítási akciókat biztosítunk a menhelyekkel együttműködve.
+» Kötelezővé tesszük a nem tenyésztett kutyák és macskák kötelező ivartalanítását, mely alól kivételt csak állatorvosi indok vagy engedélyezett tenyésztés jelenthet. Az ivartalanításhoz rászorultsági alapon állami támogatást nyújtunk, hogy ne a gazdák anyagi helyzetén múljon az ivartalanítás elvégzése. Megújítjuk a nyilvántartási és ellenőrzési rendszert.
+» Egységes, országos állatnyilvántartási adatbázist hozunk létre.
+» Egységes menhelyi adatportált hozunk létre, országos térképpel a befogadott állatokról, férőhelyekről, altatásokról, örökbefogadásokról.
+» Növeljük az ellenőrzési kapacitást a gyepmesteri telepek működésének független felügyeletének létrehozásával, valamint a civil szervezetek bevonásával a terepi ellenőrzésekbe. Támogatjuk a menhelyeket és a civil szervezeteket.
+» Minden megyeszékhelyen létrehozunk egy minősített állatmenhelyet. Szükség esetén önkormányzatok bevonásával hozunk létre új menhelyeket.
+
+
+» Állatvédelmi alapot hozunk létre a civil szervezetek kiemelt támogatására.
+» Pályázható támogatásokat nyújtunk minősített menhelyek számára ivartalanításra és felújításra. A minősítési rendszer alapja az uniós jogszabályokban rögzített tartási körülményeknek való maradéktalan megfelelés.
+» Megteremtjük az átlátható adomány- és minősítési rendszert. Az Állatvédelmi Kamara által felügyelt működési minimumokat vezetünk be, nyilvánosan elérhető értékelési és ellenőrzési jelentésekkel.
+» A lefoglalt állatok tartási költségeinek rendezésére egyszerűsített eljárást biztosítunk a menhelyek mielőbbi kompenzálására.
+» Felülvizsgáljuka gyepmesteri telepeket, és egységes protokoll szerint azonos színvonalra fejlesztjük őket. Az állatjólétet kiemelt szemponttá tesszük az agrárágazatban.
+» Gyakorlattá tesszük és támogatjuk a stresszcsökkentő tartásmódokat a gazdasági haszonállattartásban.
+» A gazdák számára az átálláshoz beruházási támogatást nyújtunk.
+» Fokozzuk az ellenőrzést az élőállatok szállítására és vágására vonatkozóan.
+» Megvédjük a vadon élő állatokat, szigorúan fellépünk az illegális vadászattal és természetkárosítással szemben. Oktatási és társadalmi szemléletformálási programokat indítunk.
+» Országos állatkertfejlesztési programot indítunk uniós forrásokból.
+» Integráljuk az állatvédelmi ismereteket az oktatásba.
+» Állatvédelmi ismeretterjesztési műsorokat indítunk a közmédiában, melynek fő témái a felelős állattartás, állatorvosi tanácsok, jogok és kötelezettségek.
+» Szigorítjuk a cirkuszi állattartásra vonatkozó szabályokat.
+
+
+## 4.4. Szent István Vidékfejlesztési Program
+
+Virágzó vidék, fejlődő kistelepülések
+» Tíz falunként évente egymilliárd forint közösségi fejlesztési keretet adunk, a Magyar Falu Program forrásain felül. Az összeg felhasználásáról a helyi közösségek dönthetnek szabadon, saját szükségleteiknek megfelelően.
+» Felszabadítjuk a vidéket a helyi oligarchák és politikusok uralma alól.
+» A közszolgáltatások vidéki elérhetőségét jelentősen javítjuk. Újraindítjuk a háziorvosi, közlekedési, közművelődési és egyéb alapvető szolgáltatásokat.
+» Kiegyensúlyozott város–vidék fejlesztést és tisztességes, politikamentes uniós forráselosztást biztosítunk.
+» Kiemelt figyelmet fordítunk a vidéki településeken az infrastruktúra fejlesztésére és a közvilágítás biztosítására.
+» Helyi adottságokra építő gazdaságfejlesztő programokkal ösztönözzük a minőségi munkahelyek és megfizethető szolgáltatások létrehozását.
+» Hazatelepülési programot indítunk a vidék számára, hogy a hazatérők könnyebben jussanak földhöz, hitelhez, és be tudjanak kapcsolódni a helyi gazdaságba.
+
+
+Bevezető A magyar vidék sorsa Magyarország sorsa. Falvaink és kisvárosaink ma kiürülnek, elöregszenek, miközben éppen ők őrzik mindazt, ami ezt az országot otthonná teszi: a közösségeket, a tájat, a hagyományt, a munkát. De ma nincs elég munkahely, az alapvető szolgáltatások elérhetetlenek vagy drágák, a fiatalok elmennek, a helyben maradók pedig egyre kiszolgáltatottabbak. A föld és a támogatások néhány nagybirtokos kezében összpontosulnak, miközben a családi gazdaságok és helyi vállalkozások a túlélésért küzdenek. A forrásokról politikai alapon döntenek, azok nem oda jutnak el, ahol valóban szükség lenne rájuk. Számunkra a vidék nem teher, hanem érték. Olyan Magyarországot építünk, ahol a vidéki élet nem a lemaradás, hanem az élhető, fenntartható jövő jelképe. Ahol van iskola, munka, kultúra; ahol a közösségek újra megerősödnek; ahol a táj és az ember egymással összhangban él. Terület- és vidékfejlesztés – Problémák A területi különbségek Magyarországon tartósan és látványosan növekedtek az elmúlt években.
+» Magyarország fejlettsége az elmúlt évtizedekben nem közelített érdemben az európai átlaghoz.
+» Egyre nagyobbra nőttek a különbségek az ország délnyugati és északkeleti részei, valamint a fejlettebb régiók között, a nagyobb és kisebb települések között, de még egy-egy régión belül is.
+» A legrosszabb helyzetben a kisvárosok, valamint a fejlettebb központoktól távol eső, aprófalvas és tanyás térségek vannak: ezek nemhogy fejlődnének, hanem egyre gyorsabban szakadnak le. Budapest gazdasági túlsúlya változatlan, a nagyvárosok nem húzzák a térségüket, a kisvárosok lemaradása nő.
+» Budapest túlsúlya változatlan, a főváros fejlettségben messze megelőzi a többi térséget, és egyre jobban távolodik is azoktól.
+» A megyei jogú városok nem tudtak valódi regionális húzóerővé válni.
+
+
+Az egy főre jutó GDP alakulása regionális szinten (%, országos átlag=100), 2017 (forrás: KSH) 45,2 –   59,5 59,6 –   71,9 72,0 – 100,0 100,1 – 13,0 207,2 Egy főre jutó GDP, % (országos átlag=100,0) A magyar vidék állapota meghatározza Magyarország jövőjét: a falvak és kisvárosok döntő része tartós lemaradásban van, miközben éppen ezek őrzik mindazt, ami Magyarországot földrajzilag, kulturálisan és közösségileg meghatározza.
+» A vidék fejlettsége elmarad az európai átlagtól.
+» Sem a közszolgáltatások, sem a szolgáltatások nem megfelelő színvonalúak, sok esetben nem is elérhetőek. A kisboltok drágák, a közlekedés sok helyen nehézkes és költséges, sok helyen nincs gyógyszertár, posta, iskola vagy éppen háziorvosi ellátás.
+» A települések mintegy 30%-a aprófalu: kevés a munka, vagy egyáltalán nincs munkalehetőség. A helyi közösségek gyengülnek, a különbségek nőnek.
+» Az egykor fő megélhetést adó mezőgazdaság eltávolodott a helyi emberektől, oligarchák kezében összpontosul, 4-500 család uralja a mezőgazdaságot.
+» Fogy a népesség, öregszik a lakosság, szétesnek a közösségek.
+» A vidék nem tölti be azt a szerepet, hogy helyi erőforrásokra épülő gazdaságot és a klímaváltozáshoz való alkalmazkodást (pl. víz visszatartása, élőhelyek védelme) biztosítani tudja.
+
+
+A pénzek nem a kisebb településekhez jutnak, a helyi gazdaság gyenge.
+» A helyi közösségeknek nincs valódi beleszólásuk abba, hogy milyen fejlesztések valósuljanak meg náluk.
+» A fejlesztési források alig érnek el a 10 ezer fő alatti településekre.
+» A fiatalok és az induló vállalkozások kevés segítséget kapnak: nehéz elindulni, kevés a pénzügyi és jogi támogatás. A fejlesztéspolitikát korrupció és gyakran felesleges, túlárazott beruházások jellemzik.
+» A térség- és vidékfejlesztést ma átszövi a politika és a korrupció.
+» A fejlesztési forrásokból a nem kormánypárti önkormányzatok és a helyi vállalkozók ki vannak zárva, mert a kormányközeli politikusok vis�szaélnek a hatalmukkal.
+» Sok beruházás nem a valós igényekre épül, gyakoriak a túlárazott presztízsprojektek, amelyek nem hoznak hasznot, csak újabb fenntartási terheket. Terület- és vidékfejlesztés – Vállalásaink Tíz falunként évente egymilliárd forint közösségi fejlesztési keretet adunk a Szent István program keretében.
+» Az összeg felhasználásáról a helyi közösségek dönthetnek szabadon, saját szükségleteiknek megfelelően: az épülhet belőle, ami a helyieknek fontos: út, játszótér, közösségi ház.
+» Az állam dolga, hogy a helyi fejlesztésekben partner legyen: az adminisztrációt egyszerűsítse, a pénzt időben utalja, a döntést pedig helyben hagyja. Önálló Vidékfejlesztési Minisztériumot hozunk létre.
+» A vidék fejlesztését önálló minisztérium fogja irányítani, a regionális gondolkodásnak a kormány teljes működésében fontos szerepe lesz.
+» A helyi szinthez legjobban illeszkedő területfejlesztési politikát fogunk végrehajtani, amely az érintettek bevonására támaszkodik.
+» Szakmailag kompetens regionális és járási szintű fejlesztési intézményrendszert működtetünk.
+
+
+Kiegyensúlyozott város–vidék fejlesztést és tisztességes uniós forráselosztást biztosítunk.
+» A funkcionális városi és vidéki terek koncepcióit alkalmazva új alapokra helyezzük a város és a vidék kiegyensúlyozott fejlesztését, és ehhez az uniós fejlesztési források átlátható és tisztességes elosztását kapcsoljuk.
+» A szabályozási kereteket olyan módon alakítjuk át, hogy nagyobb léptékben is lehetővé váljon az autonóm, közösségi irányítású helyi fejlesztés tervezése, és így összetett projektek is megvalósulhassanak, akár régiós szinten.
+» Kiemelt figyelmet fordítunk a vidéki településeken az infrastruktúra fejlesztésére és a közvilágítás biztosítására. A vidéket a helyi közösségek erejére építve fejlesztjük.
+» Minden új jogszabály esetében kötelező lesz a vidékre gyakorolt hatások vizsgálata.
+» Jelentősen javítjuk a közszolgáltatások vidéki elérhetőségét.
+» Újraindítjuk a közoktatási, háziorvosi, közlekedési és egyéb alapvető szolgáltatásokat annak érdekében, hogy vonzó környezetet biztosítsunk a vidéken élni vágyóknak. A helyi gazdaságot és a munkahelyteremtést célzott programokkal erősítjük.
+» Helyi adottságokra építő gazdaságfejlesztő programokkal ösztönözzük a minőségi munkahelyek létrehozását.
+» Hazatelepülési programot indítunk a vidék számára, hogy a hazatérők könnyebben jussanak földhöz, hitelhez, és be tudjanak kapcsolódni a helyi gazdaságba.
+
+
+## 4.5. Felkészülés a jövőre
+
+Digitális állam, mesterséges intelligencia, kiberbiztonság
+» Kiemelten támogatjuk a hazai kkv-k digitalizációját.
+» Minden ágazatban segítjük a digitalizáció terjedését — külön programok lesznek az egészségügyben, az oktatásban, a közlekedésben, a rendvédelemben, az igazságszolgáltatásban, a közigazgatásban, a szociális ellátásban és a mezőgazdaságban.
+» Kötelező minimum lesz az e-közigazgatási szoftvereknél, weboldalaknál a jó felhasználói élmény és az akadálymentesség; papírmentes, mobilbarát ügyintézést vezetünk be.
+» Minden magyar állampolgár számára személyes mesterséges intelligencia-asszisztenst fejlesztünk az egészségügy, az oktatás és az e-ügyintézés támogatására.
+» Felelősen kezeljük, átláthatóvá és hasznossá tesszük az állami adatvagyont, minden magyar állampolgár számára átláthatóvá és elérhetővé tesszük az állam által tárolt személyes adatait.
+» Elérhetővé tesszük azokat az adatokat, amelyek a társadalom érdeklődésére számot tartanak (például valós idejű tömegközlekedési információk, közegészségügyi és környezetvédelmi adatok).
+» Kialakítjuk azt a komplex, teljes körű magyar nyelvi modellt, amelyre építve igényes, magyarul tökéletesen kommunikáló mesterségesintelligencia-alapú alkalmazásokat lehet fejleszteni.
+» Átfogó kiberbiztonsági auditot hajtunk végre minden állami intézménynél, alkalmazásnál és kritikus infrastruktúránál.
+
+
+Bevezető A digitális világ már körülvesz minket, mégis sokszor úgy érezzük, mintha az állam egy másik korszakban ragadt volna. Sorban állás, újra és újra kitöltött űrlapok, lefagyó rendszerek, használhatatlan mobilos felületek bosszantanak minket nap mint nap, miközben mindenki tudja, hogy ennek nem így kellene lennie. Az állam ma nem könnyít a hétköznapokon, hanem lassítja azokat. Az emberek joggal érzik, hogy a technológia nem értük, hanem ellenük dolgozik. Mi olyan digitális államot akarunk, amely nem idegesít, hanem segít. Ahol az állam nem akadályoz, hanem a háttérben, csendben, megbízhatóan teszi a dolgát. A mesterséges intelligencia már most is beleszól az életünkbe – a munkánkba, a tanulásba, a gyermekeink jövőjébe. Lehet tőle félni, idegenkedni, de lehet okosan is használni azt. A TISZA olyan országot épít, ahol a mesterséges intelligencia segíti a pedagógust az osztályteremben, az orvost a rendelőben, a vállalkozót a tervezésben. Nem elveszi az emberek munkáját, hanem értelmet ad neki. Olyan jövőt építünk, ahol a technológia nem uralkodik rajtunk, hanem a kezünkben van és szolgál bennünket. Rendet és biztonságot teremtünk a digitális világban: felkészítjük az államot, támogatjuk a vállalkozásokat, és megtanítjuk az embereket arra, hogyan vigyázzanak magukra. Olyan országot építünk, ahol nem kell félni a jövőtől, hanem lehet bízni benne. Digitális állam, mesterséges intelligencia, kiberbiztonság – Problémák Az állami informatikai rendszerek többsége elavult, nem felhasználóbarát.
+» Állami informatikai rendszereket használni gyakran ütközik problémákba: a szolgáltatás lassú, akadozik, néha nem elérhető. A felhasználói felületek többsége elavult, logikátlan, nem mobilbarát és nem megfelelően akadálymentesített.
+» Közel ezer szakrendszer működik egymástól elszigetelten; az adatok nem kapcsolódnak automatikusan, sok a kézzel elvégzett művelet.
+» Ügyfélként nap mint nap azt tapasztaljuk, hogy adatainkat újra meg újra be kell diktálni, meg kell adni, miközben az állam mindent tud rólunk.
+» A jogszabályban nevesített mintegy 1500 állami nyilvántartásnak érdemben csak a fele működik.
+» Az állam hatalmas adatvagyonon ül, de azt nem használja ki megfelelően a szolgáltatások javítására – ugyanakkor sokakban felmerül a gyanú, hogy visszaél saját állampolgárai adataival.
+» Az önkormányzati adatvagyon nincs felmérve; országos adatleltár és egységes adatkezelés nélkül nem lesz valódi „egyszer kell beadni” élmény.
+
+
+Az informatikai beszerzéseket áthatja a korrupció.
+» Az informatikai beszerzések drágák és sokszor feleslegesek, a kormány nem a fejlődés, hanem a lopás lehetőségét látja bennük.
+» Számtalan példát lehet mondani a sok milliárd forintba kerülő, évekig tartó, végül sikertelen vagy alig használható projektekre. Az informatikai ágazat nincs megfelelő súllyal kezelve a közigazgatásban.
+» A minisztériumokból és kormányhivatalokból eltűntek a saját informatikai csapatok. A központi cégeknél kb. 3500 szakember dolgozik, de ez nem pótolja az ágazati tudást.
+» A főbb rendszerek korábbi uniós pénzből épültek (NTG, Kormányzati Adatközpont, Kormányzati Felhő), de a rendszeres pótlásra, cserére és a szoftverjogok megújítására nincs kiszámítható fedezet.
+» Sok helyen rendezetlen a szoftverleltár és a licenszkezelés, ami évente több milliárdos pazarlást és biztonsági kockázatot okoz. A mesterséges intelligencia a jövő egyik legmeghatár ozóbb technológiája, amely gyökeresen formálja át világunkat, de erre az állam nincs felkészülve.
+» A mesterséges intelligencia olyan mélységű, horderejű és ütemű változások ígéretét és veszélyét hordozza, amire még az elmúlt 30 év technológiai és társadalmi változásai sem készítettek fel minket.
+» Ahhoz, hogy a változások nyertesei közé tartozzunk, tudatos és proaktív tervezésre és cselekvésre van szükség. A kormány elkészítette a Mesterséges Intelligencia Stratégiáját, 2025-ben azt frissítette is, de a gyakorlatban érdemi eredményre nem jutott annak megvalósításában.
+» Hazánkban nincs nemzetközi szinten kellően erős szuperszámítógép, számítási kapacitásban a külföldre vagyunk utalva, ami csökkenti hazánk szuverenitását.
+» A meglévő szuperszámítógépek és felhős erőforrások korlátai gátolják a nagy nyelvi modellek tréningjét és finomhangolását, ami lassítja a magyar nyelvű fejlett szolgáltatások bevezetését.
+» Nem alakult ki sehol stabil, fenntartható, országos, MI-alapú digitális állami szolgáltatás. A közigazgatásban nem terjedt el az MI napi, rutinszerű használata, pedig az nagy hatékonyságnövekedéssel járhatna. A kiberfenyegetések gyorsan növekednek, és Magyarország sem kivétel.
+» Az elmúlt években több súlyos adatlopás, rendszertörés és dezinformációs kampány bizonyította, hogy az állami, önkormányzati és vállalati rendszerek sebezhetők.
+» A Külgazdasági és Külügyminisztérium, a Védelmi Beszerzési Ügynökség és a KRÉTA-rendszer feltörése rámutatott arra, hogy a kibervédelem szervezetlen és alulfinanszírozott.
+
+
+» A NIS2 kiberbiztonsági előírásainak megvalósításában és betartásában a közigazgatás és a kritikus ágazataink többsége komoly lemaradásban van.
+» A lakosság, a közszolgák és a diákok digitális biztonságtudatossága alacsony, a dezinformációs kampányok viszont egyre erősebbek, és akár a 2026-os országgyűlési választásokat is képesek befolyásolni.
+» A Nemzeti Kibervédelmi Intézet vállalatok számára nyújtott szolgáltatásai messze nem elegendőek a cégek hatékony támogatására.
+» A közigazgatásban és közszolgáltatásokban dolgozók kibervédelmi képzettsége alacsony, nem részesülnek rendszeres képzésben, ami fokozza a kiberbiztonsági kockázatokat.
+» Az egészségügyi és oktatási intézmények, általában a közszolgáltatások kiberbiztonsági megoldásai rendkívül éretlenek, alacsony szintűek, az infrastruktúra és a rendszerek sebezhetők. A kkv-k digitális kompetenciái alacsonyak, de magas elvárásoknak kell megfelelniük.
+» A hazai kkv-k digitális érettsége alacsony, ami a gyenge termelékenység egyik oka.
+» A DORA rendelet a pénzintézetek számára, a NIS2 pedig számos más szektor számára állít szigorú kiberbiztonsági követelményeket, amelyek teljesítése sok kkv számára komoly erőfeszítéseket és költségeket jelent.
+» A kiberfelügyeleti díjak a vállalkozások számára igen magasak, a nyilvántartott NIS2-auditorok köre jelenleg korlátozott. Digitális állam, mesterséges intelligencia, kiberbiztonság – Vállalásaink Kiemelten támogatjuk a hazai kkv-k digitalizációját.
+» Képzésekkel, voucher- és adókedvezmény-programmal támogatjuk a kkv-k digitális átállását (kompetenciafejlesztés, adattisztítás, rendszerintegráció, alkalmazásfejlesztés).
+» A kkv-kat sablonokkal, mintákkal, e-learninggel és központi eszközökkel segítjük. Szélesítjük a minősített auditorok körét, megszüntetjük a kormányhoz köthető néhány cég kiváltságos állapotát. A piacot úgy nyitjuk meg, hogy legyen elég, jó minőségű kapacitás és ne nőjenek indokolatlanul a költségek.
+» Oktatási rendszerünkön keresztül biztosítjuk a vállalkozásoknak a digitálisan érett, képzett magyar munkavállalók rendelkezésre állását, kiemelt figyelmet fordítunk a természettudományos képzésre és az informatikai, digitális képességek fejlesztésére. Célzott ösztöndíjprogramokkal növeljük a digitalizációs szakemberek számát.
+» Kiemelten támogatjuk a digitális innovációt. Célunk olyan életképes, magyar digitális innovátor vállalkozások megjelenésének és növekedésének a támogatása, amelyek a világpiacon is megállják a helyüket. Magyarországnak lesz végre egy, de még inkább több unikornisa,
+
+
+ami olyan magántulajdonban lévő, frissen alapított, gyorsan növekvő, jellemzően digitális iparágban működő cég, amelynek a piaci értéke meghaladja az egymilliárd dollárt. Megerősítjük a digitalizáció és a kormányzati informatika irányítását.
+» Minden tárcánál és nagy intézménynél kijelöljük a digitalizációért és mesterséges intelligenciáért felelős vezetőket; rendszeres, számonkérhető kormányzati egyeztetéseken hangoljuk össze a munkájukat.
+» Újraépítjük a minisztériumi és intézményi IT-csapatokat: világos feladatkörökkel, korszerű szakértelemmel és versenyképes bérezéssel. Minden minisztérium a saját ágazata speciális, digitális megoldásainak adatgazdája és szakmai felelőse lesz, munkájukat a digitalizációért felelős terület segít összehangolni, koordinálni.
+» Szakmai alapokra helyezzük a kormányzati informatikai közbeszerzéseket, biztosítjuk a tisztességes piaci verseny feltételeit.
+» Országos szoftverleltárt és egységes licenckezelést vezetünk be a pazarlás és a biztonsági kockázat csökkentése érdekében.
+» Külön, átlátható alapból támogatjuk az önkormányzati digitalizációt. Megújítjuk a digitális állami szolgáltatásokat.
+» Teljes körű biztonsági átvilágítást végzünk az állami digitális szolgáltatásokon.
+» Minden ágazatban segítjük a digitalizáció terjedését — külön programok lesznek az egészségügyben, az oktatásban, a közlekedésben, a rendvédelemben, az igazságszolgáltatásban, a közigazgatásban, a szociális ellátásban és a mezőgazdaságban.
+» Felszámoljuk a káros, versenyt korlátozó, az újítást megfojtó egyed uralmakat; teret adunk a tisztességes versenynek a digitális szolgáltatásoknál.
+» Kötelező minimum lesz a jó felhasználói élmény és az akadálymentesség; papírmentes, mobilbarát ügyintézést vezetünk be.
+» Visszaépítjük az államon belüli fejlesztői, üzemeltetői és adatszakmai csapatokat; valós életpályát és versenyképes béreket kínálunk.
+» Gyors, gyakorlati képzéseket indítunk a döntéshozóknak és a frontvonalban dolgozóknak; mentorálási programmal segítjük az önkormányzatokat. Felelősen kezeljük, átláthatóvá és hasznossá tesszük az állami adatvagyont.
+» Országos adat- és rendszerleltárt készítünk; a Nemzeti Adatvagyon Leltárt és a közadatkatasztert valódi, nyilvános, géppel olvasható metaadat-nyilvántartássá alakítjuk.
+» Aktívan kapcsolódunk a nemzetközi adatterekhez és együttműködésekhez; bekötjük a magyar szereplőket az uniós adatterekbe (egészségügy, mobilitás, ipar), és biztosítjuk az együttműködést.
+» Minden tárca és nagy intézmény köteles lesz rendszeresen publikálni
+
+
+azokat az adatokat, amelyek a társadalom érdeklődésére számot tartanak (például valós idejű tömegközlekedési információk, közegészségügyi és környezetvédelmi adatok).
+» Adatelemző csapatokat építünk minden tárcánál, az adatalapú, transzparens és kiszámítható döntéshozatali folyamatok támogatása érdekében.
+» Minden magyar állampolgár számára átláthatóvá és elérhetővé tes�szük az állam által tárolt személyes adatait. Kihasználjuk a mesterséges intelligencia lehetőségeit.
+» Támogatjuk azokat a piaci alapú fejlesztéseket, amelyek a mesterséges intelligenca alkalmazásával javítják hazánk versenyképességét és hozzájárulnak a GDP növekedéséhez.
+» Bővítjük a hazai szuperszámítógépes és GPU-kapacitást, és hozzáférhetővé tesszük a kkv-knak és a kutatóknak.
+» Kialakítjuk azt a komplex, teljes körű magyar nyelvi modellt, amelyre építve igényes, magyarul tökéletesen kommunikáló mesterségesintelligencia-alapú alkalmazásokat lehet fejleszteni. Kisebb, olcsóbb, speciális modelleket fejlesztünk célfeladatok támogatására.
+» Minden ágazat számára betanítunk egy mesterségesintelligencia-as�szisztenst, amely ismeri a teljes joganyagot, eljárásokat és jó gyakorlatokat, és támogatja az ügyintézőket és döntéshozókat.
+» Minden magyar állampolgár számára személyes mesterséges intelligencia-asszisztenst fejlesztünk az egészségügy, az oktatás és az ügyintézés támogatására.
+» 50 ezer közszolgálati dolgozót képezünk gyakorlati MI-használatra; modernizáljuk a közigazgatás tudáskeresését és tudáskezelését. Megerősítjük a hazai kiberbiztonságot.
+» Átfogó kiberbiztonsági auditot hajtunk végre minden állami intézménynél, alkalmazásnál és kritikus infrstruktúránál.
+» Megerősítjük a Nemzeti CSIRT (Computer Security Incident Response Team – magyarul kibervédelmi incidenskezelő csoport) 24/7 képességét, és ágazati CSIRT-eket építünk köréjük; közös gyakorlatokkal, világos riasztási és együttműködési renddel.
+» Országos sérülékenység- és behatolásteszt-programot működtetünk; a feltárt hibák kijavítását végigvisszük.
+» Közös fenyegetésinformációs platformot hozunk létre, és aktívan kapcsolódunk az uniós és NATO-hálózatokhoz.
+» Támogatjuk az önkormányzatok és intézmények felkészülését és védekezését.
+» Minden közszolgálati dolgozónak rendszeres, gyakorlati kiberbiztonsági képzést biztosítunk.
+» Iskolai és lakossági programokkal növeljük a biztonsági tudatosságot, hogy mindenki képes legyen felismerni a csalásokat és a hamis információkat.
+» Fellépünk a digitálisan manipulált, félrevezetés céljából készített anyagok előállítása és terjesztése, a dezinformáció ellen.
+
+
+Magyarországot csak egy valódi rendszerváltást követően és csak közösen tudjuk felépíteni. Erre hívunk mindenkit, aki magyarul gondolkodik és álmodik, éljen bárhol a nagyvilágban. Minden sikertörténet az első nagy lépéssel kezdődik. Tegyük meg ezt a fontos lépést közösen 2026. április 12-én
+
+
+Impresszum Felelős kiadó: Tisztelet és Szabadság Párt 3300 Eger, Dobó István utca 16.
+
+Felelős szerkesztő: Magyar Péter
+
