@@ -17,7 +17,15 @@
       "Bash(gh repo:*)",
       "Bash(git clone:*)",
       "WebSearch",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(find /c/Users/User -name *ui*ux* -o -name *pro*max*skill*)",
+      "Bash(wc:*)",
+      "Bash(curl -s -X POST https://tisza-program-chat.pages.dev/api/chat -H \"Content-Type: application/json\" -d '{\"\"\"\"query\"\"\"\":\"\"\"\"Mi a terv az egészségüggyel?\"\"\"\"}')",
+      "Bash(curl -s -X POST https://tisza-program-chat.pages.dev/api/chat -H \"Content-Type: application/json\" -d '{\"\"\"\"query\"\"\"\":\"\"\"\"lakhatás\"\"\"\"}')",
+      "Bash(node -e \":*)",
+      "Bash(curl -s -X POST https://tisza-program-chat.pages.dev/api/chat -H \"Content-Type: application/json\" -d '{\"\"\"\"query\"\"\"\":\"\"\"\"Mit tervez a Tisza Párt az egészségügy javítására, kórházak és orvosok helyzetére?\"\"\"\"}')"
     ]
   }
 }

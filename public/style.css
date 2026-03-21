@@ -414,6 +414,7 @@ html, body {
   padding: 16px 22px 14px;
   border-top: 1px solid var(--border-light);
   background: var(--bg-panel);
+  flex-shrink: 0;
 }
 
 .input-wrapper {
@@ -762,6 +763,21 @@ html, body {
   background: rgba(0, 107, 60, 0.12);
 }
 
+.source-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  margin: 2px 0;
+  font-size: 11px;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--green);
+  background: var(--green-pale);
+  border: 1px solid rgba(0, 107, 60, 0.15);
+  border-radius: var(--r-xl);
+  white-space: nowrap;
+  letter-spacing: 0.2px;
+}
+
 /* Chunk highlight */
 .chunk-highlight {
   background: linear-gradient(90deg, #FFF8DC, #FFEEB0) !important;
@@ -773,6 +789,21 @@ html, body {
 .chunk-highlight.fade {
   background: transparent !important;
   box-shadow: none !important;
+}
+
+/* Text highlight (exact quote match in document) */
+mark.text-highlight {
+  background: linear-gradient(135deg, #FFF3B0, #FFE066);
+  color: var(--text-primary);
+  padding: 2px 4px;
+  border-radius: 3px;
+  box-shadow: 0 0 0 2px rgba(210, 170, 30, 0.25);
+  transition: background 0.6s ease, box-shadow 0.6s ease;
+}
+
+mark.text-highlight.fading {
+  background: transparent;
+  box-shadow: none;
 }
 
 /* ══════ FOOTER ══════ */
@@ -821,9 +852,18 @@ html, body {
   .logo-mark { width: 34px; height: 34px; }
   .logo-icon { font-size: 17px; }
 
+  .app-footer { display: none; }
+
   .split-container {
     position: relative;
-    height: calc(100vh - var(--countdown-h) - var(--header-h) - var(--footer-h));
+    height: calc(100dvh - var(--countdown-h) - var(--header-h));
+    height: calc(100vh - var(--countdown-h) - var(--header-h)); /* fallback */
+  }
+
+  @supports (height: 100dvh) {
+    .split-container {
+      height: calc(100dvh - var(--countdown-h) - var(--header-h));
+    }
   }
 
   .divider { display: none; }
@@ -834,6 +874,7 @@ html, body {
     width: 100% !important;
     height: 100%;
     min-width: 0 !important;
+    overflow: hidden;
     transition: opacity var(--dur-normal) ease, visibility var(--dur-normal) ease;
   }
 
@@ -849,16 +890,17 @@ html, body {
   .chat-panel { border-right: none; }
 
   .chat-input-area {
-    position: sticky;
-    bottom: 0;
+    flex-shrink: 0;
     z-index: 10;
   }
 
   .chat-messages { padding: 20px 16px; }
 
   .message-content,
-  #userInput,
   .doc-loading { font-size: 15px; }
+
+  /* 16px prevents iOS auto-zoom on input focus */
+  #userInput { font-size: 16px; }
 
   .quick-grid { grid-template-columns: 1fr; }
 

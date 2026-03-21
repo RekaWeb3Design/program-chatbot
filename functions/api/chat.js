@@ -109,15 +109,21 @@ export async function onRequestPost(context) {
 
     // ── Embed query ───────────────────────────────────────────────────────
     const queryEmbedding = await embedText(env.OPENAI_API_KEY, searchQuery);
+    console.log('[DEBUG] searchQuery:', searchQuery);
+    console.log('[DEBUG] embedding dim:', queryEmbedding.length, 'first3:', queryEmbedding.slice(0,3));
 
     // ── Vector search ─────────────────────────────────────────────────────
     const vectorResults = await env.VECTORIZE.query(queryEmbedding, {
       topK: VECTOR_TOP_K,
       returnMetadata: 'all',
     });
+    console.log('[DEBUG] vectorResults count:', vectorResults.matches?.length);
+    console.log('[DEBUG] vector top5:', vectorResults.matches?.slice(0,5).map(m => `${m.id}(${m.score?.toFixed(3)})`));
 
     // ── BM25 search ───────────────────────────────────────────────────────
     const bm25Results = await bm25Search(env.KV, searchQuery);
+    console.log('[DEBUG] bm25Results count:', bm25Results.length);
+    console.log('[DEBUG] bm25 top5:', bm25Results.slice(0,5).map(r => `${r.id}(${r.score?.toFixed(3)})`));
 
     // ── Reciprocal Rank Fusion ────────────────────────────────────────────
     const mergedIds = reciprocalRankFusion(
@@ -125,6 +131,7 @@ export async function onRequestPost(context) {
       bm25Results.map(r => r.id),
       FINAL_TOP_K
     );
+    console.log('[DEBUG] mergedIds:', mergedIds);
 
     // ── Fetch full chunk texts from KV ────────────────────────────────────
     const chunks = await Promise.all(

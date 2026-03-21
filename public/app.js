@@ -325,19 +325,39 @@ function addStreamingMessage() {
   };
 }
 
+function chunkIdToSection(chunkId) {
+  const meta = CHUNKS_META.find(c => c.id === chunkId);
+  return meta ? meta.section : null;
+}
+
 function formatBotMessage(text) {
   let html = escapeHtml(text);
 
-  // Remove [chunk-XXXX] references from visible text
-  html = html.replace(/\s*\[chunk-\d{3,4}\]/g, '');
+  // Replace (forrás: [chunk-XXXX]) with section name badge
+  html = html.replace(/\s*\(forrás:\s*\[chunk-(\d{3,4})\]\)/g, (_, num) => {
+    const section = chunkIdToSection(`chunk-${num}`);
+    return section ? ` <span class="source-badge">${escapeHtml(section)}</span>` : '';
+  });
+
+  // Replace (section name) [chunk-XXXX] with section name badge
+  html = html.replace(/\s*\([^)]*\)\s*\[chunk-(\d{3,4})\]/g, (_, num) => {
+    const section = chunkIdToSection(`chunk-${num}`);
+    return section ? ` <span class="source-badge">${escapeHtml(section)}</span>` : '';
+  });
+
+  // Replace standalone [chunk-XXXX] with section name badge
+  html = html.replace(/\s*\[chunk-(\d{3,4})\]/g, (_, num) => {
+    const section = chunkIdToSection(`chunk-${num}`);
+    return section ? ` <span class="source-badge">${escapeHtml(section)}</span>` : '';
+  });
 
   // Style quoted text as clickable blockquotes
-  // Match „..." style quotes
-  html = html.replace(/„([^"]+)"/g, (match, quote) => {
+  // Match „..."\u201D and „..." style quotes (GPT uses \u201E open + \u201D close)
+  html = html.replace(/\u201E([^\u201D"]+)[\u201D"]/g, (match, quote) => {
     return `<blockquote class="doc-quote">${quote}</blockquote>`;
   });
 
-  // Also match "..." style quotes (fallback)
+  // Also match &quot;...&quot; style quotes (fallback)
   html = html.replace(/&quot;([^&]+)&quot;/g, (match, quote) => {
     return `<blockquote class="doc-quote">${quote}</blockquote>`;
   });
@@ -354,7 +374,7 @@ function attachChunkRefListeners(msgEl) {
     el.title = 'Kattints a szöveg megkereséséhez a dokumentumban';
     el.addEventListener('click', () => {
       // Search for this text in the document
-      const quoteText = el.textContent.trim().substring(0, 60);
+      const quoteText = el.textContent.trim();
       scrollToTextInDoc(quoteText);
       if (window.innerWidth <= 768) {
         switchTab('doc');
@@ -404,28 +424,84 @@ function scrollToChunk(chunkId) {
   setTimeout(() => el.classList.remove('chunk-highlight', 'fade'), 2100);
 }
 
+function clearDocHighlights() {
+  const docContent = document.getElementById('docContent');
+  if (!docContent) return;
+  docContent.querySelectorAll('mark.text-highlight').forEach(m => {
+    m.replaceWith(m.textContent);
+  });
+  // Normalize to merge adjacent text nodes back together
+  docContent.normalize();
+}
+
 function scrollToTextInDoc(searchText) {
   const docContent = document.getElementById('docContent');
   if (!docContent) return;
 
-  // Normalize search text
+  // Clear previous highlight
+  clearDocHighlights();
+
   const needle = searchText.toLowerCase().trim();
 
   // Search through all text-containing elements
   const elements = docContent.querySelectorAll('p, li');
   for (const el of elements) {
-    if (el.textContent.toLowerCase().includes(needle)) {
-      const containerRect = docContent.getBoundingClientRect();
-      const targetRect = el.getBoundingClientRect();
-      const scrollTop = docContent.scrollTop + (targetRect.top - containerRect.top) - (containerRect.height / 3);
+    if (!el.textContent.toLowerCase().includes(needle)) continue;
 
-      docContent.scrollTo({ top: scrollTop, behavior: 'smooth' });
+    // Wrap matching text with <mark>
+    highlightTextInElement(el, needle);
 
-      el.classList.add('chunk-highlight');
-      setTimeout(() => el.classList.add('fade'), 100);
-      setTimeout(() => el.classList.remove('chunk-highlight', 'fade'), 2500);
-      return;
-    }
+    const mark = el.querySelector('mark.text-highlight');
+    const scrollTarget = mark || el;
+
+    const containerRect = docContent.getBoundingClientRect();
+    const targetRect = scrollTarget.getBoundingClientRect();
+    const scrollTop = docContent.scrollTop + (targetRect.top - containerRect.top) - (containerRect.height / 3);
+
+    docContent.scrollTo({ top: scrollTop, behavior: 'smooth' });
+    return;
+  }
+}
+
+function highlightTextInElement(el, needle) {
+  const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+  const textNodes = [];
+  while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+  // Build full text map from text nodes
+  let fullText = '';
+  const nodeMap = [];
+  for (const node of textNodes) {
+    const start = fullText.length;
+    fullText += node.textContent;
+    nodeMap.push({ node, start, end: fullText.length });
+  }
+
+  const matchStart = fullText.toLowerCase().indexOf(needle);
+  if (matchStart === -1) return;
+  const matchEnd = matchStart + needle.length;
+
+  // Wrap matching text nodes (iterate backwards to preserve indices)
+  for (let i = nodeMap.length - 1; i >= 0; i--) {
+    const { node, start, end } = nodeMap[i];
+    if (end <= matchStart || start >= matchEnd) continue;
+
+    const relStart = Math.max(0, matchStart - start);
+    const relEnd = Math.min(node.textContent.length, matchEnd - start);
+
+    const before = node.textContent.slice(0, relStart);
+    const matched = node.textContent.slice(relStart, relEnd);
+    const after = node.textContent.slice(relEnd);
+
+    const mark = document.createElement('mark');
+    mark.className = 'text-highlight';
+    mark.textContent = matched;
+
+    const parent = node.parentNode;
+    if (after) parent.insertBefore(document.createTextNode(after), node.nextSibling);
+    parent.insertBefore(mark, node.nextSibling);
+    if (before) parent.insertBefore(document.createTextNode(before), mark);
+    parent.removeChild(node);
   }
 }
 

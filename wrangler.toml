@@ -1,4 +1,4 @@
-name = "tisza-chatbot"
+name = "tisza-program-chat"
 compatibility_date = "2024-01-01"
 pages_build_output_dir = "public"
 
