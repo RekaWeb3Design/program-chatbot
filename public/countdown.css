@@ -1,0 +1,136 @@
+/* Shared countdown strip — glassmorphism; theme via .countdown-bar--chat / --landing */
+
+.countdown-bar {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: var(--countdown-h, 48px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.4rem 1rem;
+  z-index: 50;
+}
+
+.countdown-bar__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.65rem 1.25rem;
+  width: 100%;
+  max-width: 960px;
+}
+
+.countdown-bar__units {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: center;
+  gap: 0.5rem 0.75rem;
+}
+
+.countdown-bar__unit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 3rem;
+  padding: 0.2rem 0.45rem;
+  border-radius: 10px;
+}
+
+.countdown-bar__val {
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 1.125rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.2;
+}
+
+.countdown-bar__lab {
+  font-size: 0.65rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.85;
+  margin-top: 0.1rem;
+}
+
+.countdown-bar__inner--expired {
+  justify-content: center;
+  padding: 0.15rem 0;
+}
+
+.countdown-bar__expired {
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.35;
+}
+
+/* —— Chat (light, sits above navy header) —— */
+.countdown-bar--chat {
+  position: relative;
+  background: rgba(255, 255, 255, 0.62);
+  border-bottom: 1px solid var(--border-light, #edece9);
+  box-shadow: var(--shadow-sm, 0 1px 4px rgba(0, 0, 0, 0.06));
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  color: var(--text-primary, #111110);
+}
+
+.countdown-bar--chat .countdown-bar__unit {
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(228, 227, 224, 0.9);
+  box-shadow: var(--shadow-xs, 0 1px 2px rgba(0, 0, 0, 0.04));
+}
+
+.countdown-bar--chat .countdown-bar__lab {
+  color: var(--text-tertiary, #9b9b98);
+}
+
+.countdown-bar--chat .countdown-bar__expired {
+  color: var(--text-primary, #111110);
+}
+
+/* —— Landing (dark glass over imagery) —— */
+.countdown-bar--landing {
+  position: fixed;
+  top: 3px;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  background: rgba(15, 26, 18, 0.52);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  color: #fff;
+}
+
+.countdown-bar--landing .countdown-bar__unit {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.countdown-bar--landing .countdown-bar__lab {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.countdown-bar--landing .countdown-bar__expired {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+@media (max-width: 480px) {
+  .countdown-bar {
+    padding: 0.35rem 0.75rem;
+  }
+
+  .countdown-bar__val {
+    font-size: 1rem;
+  }
+
+  .countdown-bar__unit {
+    min-width: 2.65rem;
+    padding: 0.15rem 0.35rem;
+  }
+}

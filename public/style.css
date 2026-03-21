@@ -57,6 +57,11 @@
   --dur-fast: 0.15s;
   --dur-normal: 0.25s;
   --dur-slow: 0.4s;
+
+  /* Layout stack (countdown + header + footer) */
+  --header-h: 64px;
+  --footer-h: 36px;
+  --countdown-h: 48px;
 }
 
 /* ══════ RESET ══════ */
@@ -197,7 +202,7 @@ html, body {
 /* ══════ LAYOUT ══════ */
 .split-container {
   display: flex;
-  height: calc(100vh - 64px - 36px);
+  height: calc(100vh - var(--countdown-h) - var(--header-h) - var(--footer-h));
 }
 
 .panel {
@@ -739,6 +744,24 @@ html, body {
   text-decoration-color: var(--green-bright);
 }
 
+/* ══════ DOC QUOTES IN CHAT ══════ */
+.doc-quote {
+  display: block;
+  margin: 8px 0;
+  padding: 10px 14px;
+  border-left: 3px solid var(--green, #006B3C);
+  background: rgba(0, 107, 60, 0.06);
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  line-height: 1.6;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.doc-quote:hover {
+  background: rgba(0, 107, 60, 0.12);
+}
+
 /* Chunk highlight */
 .chunk-highlight {
   background: linear-gradient(90deg, #FFF8DC, #FFEEB0) !important;
@@ -784,6 +807,11 @@ html, body {
 
 /* ══════ MOBILE ══════ */
 @media (max-width: 768px) {
+  :root {
+    --header-h: 56px;
+    --countdown-h: 44px;
+  }
+
   .mobile-tabs { display: flex; }
   .header-flag { display: none; }
 
@@ -795,7 +823,7 @@ html, body {
 
   .split-container {
     position: relative;
-    height: calc(100vh - 56px - 36px);
+    height: calc(100vh - var(--countdown-h) - var(--header-h) - var(--footer-h));
   }
 
   .divider { display: none; }

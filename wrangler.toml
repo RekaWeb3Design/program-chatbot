@@ -5,3 +5,13 @@ pages_build_output_dir = "public"
 [vars]
 # OPENAI_API_KEY-t NE IDE írjuk, hanem:
 # wrangler secret put OPENAI_API_KEY
+
+# Vectorize index for semantic search
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "tisza-program-chunks"
+
+# KV namespace for chunks, sessions, rate limiting
+[[kv_namespaces]]
+binding = "KV"
+id = "c8a4eb87311c4e6ab8bf1fc699b2b935"

@@ -9,8 +9,32 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="countdown.css">
 </head>
 <body>
+  <aside class="countdown-bar countdown-bar--chat" data-countdown aria-label="Visszaszámláló">
+    <div class="countdown-bar__inner">
+      <div class="countdown-bar__units" aria-live="polite" aria-atomic="true">
+        <div class="countdown-bar__unit">
+          <span class="countdown-bar__val" data-cd="days">0</span>
+          <span class="countdown-bar__lab">nap</span>
+        </div>
+        <div class="countdown-bar__unit">
+          <span class="countdown-bar__val" data-cd="hours">00</span>
+          <span class="countdown-bar__lab">óra</span>
+        </div>
+        <div class="countdown-bar__unit">
+          <span class="countdown-bar__val" data-cd="minutes">00</span>
+          <span class="countdown-bar__lab">perc</span>
+        </div>
+        <div class="countdown-bar__unit">
+          <span class="countdown-bar__val" data-cd="seconds">00</span>
+          <span class="countdown-bar__lab">mp</span>
+        </div>
+      </div>
+    </div>
+  </aside>
+
   <header class="app-header" role="banner">
     <div class="header-left">
       <div class="logo-mark" aria-hidden="true">
@@ -131,6 +155,7 @@
     <p class="footer-disclaimer">Független állampolgári kezdeményezés · Nem a Tisza Párt készítette és nem finanszírozza · Semmilyen kapcsolatban nem áll a párttal · Forrás: magyartisza.hu/program</p>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="countdown.js" defer></script>
+  <script src="app.js" defer></script>
 </body>
 </html>
