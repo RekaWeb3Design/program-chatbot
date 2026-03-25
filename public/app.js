@@ -1,5 +1,9 @@
 // ========== STATE ==========
 let CHUNKS_META = []; // lightweight: [{id, section}]
+let chunksMetaReady = fetch('/data/chunks-meta.json')
+  .then(r => r.json())
+  .then(data => { CHUNKS_META = data; })
+  .catch(() => { CHUNKS_META = []; });
 let TOC = [];
 let sessionId = sessionStorage.getItem('tisza_session') || null;
 let quickQuestionsVisible = true;
@@ -10,7 +14,7 @@ async function initApp() {
   if (typeof window !== 'undefined' && window.__TISZA_CHATBOT_INIT__) return;
   if (typeof window !== 'undefined') window.__TISZA_CHATBOT_INIT__ = true;
 
-  await loadChunksMeta();
+  await chunksMetaReady;
   await loadDocument();
   initIntersectionObserver();
   await loadToc();
@@ -27,16 +31,6 @@ if (document.readyState === 'loading') {
 }
 
 // ========== DATA LOADING ==========
-async function loadChunksMeta() {
-  try {
-    const res = await fetch('/data/chunks-meta.json');
-    CHUNKS_META = await res.json();
-  } catch (e) {
-    console.warn('chunks-meta.json not found');
-    CHUNKS_META = [];
-  }
-}
-
 async function loadDocument() {
   const el = document.getElementById('docContent');
   if (!el) return;
@@ -176,6 +170,9 @@ async function sendMessage(customQuery) {
   sendBtn.disabled = true;
 
   try {
+    // Ensure chunks meta is loaded before formatting any response
+    await chunksMetaReady;
+
     const response = await fetch('/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },

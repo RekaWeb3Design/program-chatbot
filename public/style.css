@@ -765,6 +765,10 @@ html, body {
   border-radius: 0 6px 6px 0;
   font-style: italic;
   line-height: 1.6;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  word-break: break-word;
   cursor: pointer;
   transition: background 0.2s ease;
 }
