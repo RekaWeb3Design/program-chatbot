@@ -830,6 +830,16 @@ mark.text-highlight.fading {
   font-weight: 500;
 }
 
+.footer-disclaimer a {
+  color: #ffffff;
+  text-decoration: none;
+  opacity: 0.85;
+}
+.footer-disclaimer a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
 /* ══════ FOCUS & A11Y ══════ */
 :focus-visible {
   outline: 2px solid var(--green);
