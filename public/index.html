@@ -267,6 +267,15 @@
     .section--a { background: rgba(15, 26, 18, 0.7); }
     .section--b { background: rgba(17, 29, 20, 0.7); }
 
+    .section--vote {
+      background: var(--red);
+      padding: 4rem 24px;
+    }
+
+    .section--vote .section__title {
+      color: #fff;
+    }
+
     .section + .section {
       border-top: 1px solid rgba(255, 255, 255, 0.06);
     }
@@ -566,12 +575,12 @@
     </div>
   </section>
 
-  <section class="section section--b" aria-labelledby="sec-vote">
-    <div class="section__inner">
-      <h2 id="sec-vote" class="section__title reveal">2026. április 12-én menj el szavazni!</h2>
-      <div class="prose reveal">
-        <p>Minden szavazat számít, minden szavazattal nagyobb esélyünk van arra, hogy változtassunk!</p>
-      </div>
+  <section class="section section--vote" aria-labelledby="sec-vote">
+    <div class="section__inner" style="text-align:center;">
+      <h2 id="sec-vote" class="section__title reveal" style="font-size:clamp(2rem,6vw,3rem);margin-bottom:0.5rem;">2026. április 12.</h2>
+      <p class="reveal" style="font-family:var(--sans);font-size:clamp(1.25rem,3.5vw,1.75rem);font-weight:600;color:#fff;margin-bottom:1.5rem;">Menj el szavazni!</p>
+      <p class="reveal" style="font-size:2.5rem;margin-bottom:1rem;">&#x1F5F3;&#xFE0F;</p>
+      <p class="reveal" style="font-family:var(--sans);font-size:clamp(1rem,2.5vw,1.25rem);font-weight:500;color:rgba(255,255,255,0.92);">Minden szavazat számít, minden szavazattal nagyobb esélyünk van arra, hogy változtassunk!</p>
     </div>
   </section>
 
