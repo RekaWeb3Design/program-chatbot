@@ -267,12 +267,24 @@
     .section--a { background: rgba(15, 26, 18, 0.7); }
     .section--b { background: rgba(17, 29, 20, 0.7); }
 
-    .section--vote {
-      background: var(--red);
-      padding: 4rem 24px;
+    .vote-section {
+      background: transparent;
+      padding: 80px 24px;
     }
 
-    .section--vote .section__title {
+    .vote-card {
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 24px;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 60px 48px;
+      text-align: center;
+    }
+
+    .vote-section .section__title {
       color: #fff;
     }
 
@@ -477,6 +489,8 @@
         padding: max(80px, calc(3px + var(--countdown-h) + 2.5rem)) 20px 64px;
       }
       .section { padding: 2.75rem 20px; }
+      .vote-section { padding: 56px 20px; }
+      .vote-card { padding: 40px 24px; }
       .cta { width: 100%; justify-content: center; }
     }
   </style>
@@ -575,8 +589,8 @@
     </div>
   </section>
 
-  <section class="section section--vote" aria-labelledby="sec-vote">
-    <div class="section__inner" style="text-align:center;">
+  <section class="section section--vote vote-section" aria-labelledby="sec-vote">
+    <div class="vote-card">
       <h2 id="sec-vote" class="section__title reveal" style="font-size:clamp(2rem,6vw,3rem);margin-bottom:0.5rem;">2026. április 12.</h2>
       <p class="reveal" style="font-family:var(--sans);font-size:clamp(1.25rem,3.5vw,1.75rem);font-weight:600;color:#fff;margin-bottom:1.5rem;">Menj el szavazni!</p>
       <p class="reveal" style="font-size:2.5rem;margin-bottom:1rem;">&#x1F5F3;&#xFE0F;</p>
