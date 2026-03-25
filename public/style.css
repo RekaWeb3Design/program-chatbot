@@ -868,7 +868,7 @@ mark.text-highlight.fading {
 
   .app-header { height: 56px; padding: 0 14px; }
   .logo { font-size: 17px; }
-  .logo-text { display: none; }
+  .logo-text { display: none !important; }
   .logo-mark { width: 34px; height: 34px; }
   .logo-icon { font-size: 17px; }
 
