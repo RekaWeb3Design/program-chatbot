@@ -226,6 +226,8 @@ html, body {
 .chat-messages {
   flex: 1;
   overflow-y: auto;
+  overflow-x: hidden;
+  max-width: 100%;
   padding: 28px 22px;
   display: flex;
   flex-direction: column;
@@ -237,6 +239,9 @@ html, body {
   display: flex;
   gap: 12px;
   max-width: 88%;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  word-break: break-word;
   animation: msgIn var(--dur-slow) var(--ease-out) both;
 }
 
@@ -282,6 +287,10 @@ html, body {
   line-height: 1.65;
   font-size: 14.5px;
   font-weight: 400;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .bot-message .message-content {
