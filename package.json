@@ -5,7 +5,7 @@
   "scripts": {
     "process": "node scripts/process_doc.js",
     "dev": "wrangler pages dev public --compatibility-date=2024-01-01",
-    "deploy": "bash -c \"git diff --quiet && git diff --cached --quiet || (git add -A && git commit -m deploy && git push)\" && npx wrangler pages deploy public --project-name=tisza-program-chat"
+    "deploy": "npx wrangler pages deploy public --project-name=tisza-program-chat"
   },
   "devDependencies": {
     "shadcn": "^4.1.0",
